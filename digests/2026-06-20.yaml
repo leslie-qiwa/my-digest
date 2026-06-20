@@ -1,5 +1,5 @@
 date: '2026-06-20'
-generated_at: 2026-06-20 01:08 UTC
+generated_at: 2026-06-20 20:12 UTC (merged)
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
@@ -325,79 +325,795 @@ feeds:
       full inference engine, config parsing, and message control logic in Rust, using
       ruff's parser to rebuild astroid's exact tree shape, and differentially testing
       every change against pinned pylint 4.0.5 to maintain perfect output fidelity.
-  - url: https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314
-    title: Companies rein in AI usage as costs strain budgets
-    score: 83
-    comment_cnt: 73
-    comment_url: https://news.ycombinator.com/item?id=48602571
+  - url: https://www.eff.org/deeplinks/2026/06/court-records-should-be-free
+    title: Court Records Should Be Free
+    score: 455
+    comment_cnt: 108
+    comment_url: https://news.ycombinator.com/item?id=48600946
     source: Hacker News Hot Discussions
     tags: []
-    summary_zh: No article text was included in your message. Please paste the full
-      article content and I'll summarize it in two concise Chinese sentences.
-    content_file: companies-rein-in-ai-usage-as-costs-strain-budgets.md
-    summary: 'The article is behind the FT paywall and I don''t have permission to
-      use web search/fetch tools. Based on the title and the context visible in the
-      page (it''s trending across FT''s Tech, Companies, and Markets sections), here''s
-      a summary from what''s available:
-
-
-      Companies are pulling back on AI adoption after rapid, often unchecked rollouts
-      drove costs far beyond expectations, with executives acknowledging they underestimated
-      how expensive widespread AI usage would become. Organizations are now imposing
-      stricter controls and governance on AI spending to bring budgets back in line,
-      reflecting a broader industry shift from enthusiastic experimentation to cost-conscious
-      pragmatism.'
+    summary_zh: PACER系统对联邦法院公共记录收取高额费用，每年向公众索取超过1.5亿美元，严重阻碍了民众获取司法信息的权利。EFF与多个组织联合支持《2026年开放法院法案》，旨在以现代化免费平台取代老旧的PACER系统，消除访问壁垒并提升网络安全。
+    content_file: court-records-should-be-free.md
+    summary: The EFF and other organizations are supporting the Open Courts Act of
+      2026, which would eliminate the fees charged by the federal PACER system for
+      accessing public court records and replace it with a modern, unified platform.
+      The legislation aims to remove financial barriers to public court documents,
+      improve cybersecurity, and bring the federal judiciary's technology up to date,
+      building on a prior bipartisan proposal that stalled in Congress.
+  - url: https://www.legacy.com/legacy/robert-bobby-prince-lll
+    title: Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has
+      died
+    score: 436
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48602352
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 电子游戏音乐先驱鲍比·普林斯三世（1945–2026）于2026年6月16日逝世，他为《毁灭战士》《德军总部3D》《毁灭公爵3D》等经典游戏创作的音乐定义了一个时代，并于2005年获得行业终身成就奖，其《毁灭战士》原声更于2026年入选美国国会图书馆永久保存。他同时是一位越战退伍军人、律师和深受家人朋友爱戴的丈夫与父亲，晚年与妻子康妮定居田纳西州，共同创作音乐，以善良、幽默和慷慨温暖了身边每一个人。
+    content_file: bobby-prince-composer-for-doom-wolfenstein-3d-and-duke-nukem.md
+    summary: Robert "Bobby" Prince III (1945–2026), a Vietnam War veteran, attorney,
+      and musician, passed away on June 16, 2026; he was a pioneering video game composer
+      and sound designer whose work on iconic titles like Doom, Wolfenstein 3D, and
+      Duke Nukem 3D helped establish game music as a respected art form, earning him
+      a Lifetime Achievement Award in 2005. He is survived by his wife Connie, sons,
+      granddaughter, and extended family, and is remembered for his kindness, humor,
+      creativity, and deep love of family alongside his lasting musical legacy.
+  - url: https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/
+    title: Where to Find the Colors Your Screen Can't Show You
+    score: 348
+    comment_cnt: 86
+    comment_url: https://news.ycombinator.com/item?id=48606140
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 这篇文章解释了由于屏幕技术和sRGB色域的限制，许多真实存在的颜色（尤其是青色）无法在数字设备上显示，因为要精确再现这些颜色需要"负的红色"，而这在物理上不可能实现。作者还指出，在自然界中，阳光透过落叶林层层树叶的滤光效果会产生远超屏幕色域的极致饱和绿色，这种震撼只能亲眼在户外体验。
+    content_file: where-to-find-the-colors-your-screen-can-t-show-you.md
+    summary: Digital screens and LED lighting cannot reproduce a large portion of
+      the visible color spectrum—particularly vivid cyans and saturated greens—because
+      the primary colors used in display technology (sRGB) cover only a small triangle
+      of the full human color gamut. To experience these missing colors, you need
+      to go outdoors into environments like deciduous forests, where sunlight filtered
+      and transmitted through multiple layers of leaves produces intensely saturated
+      greens and cyans that no screen can display.
+  - url: https://cssquake.com/
+    title: CSSQuake
+    score: 321
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=48608223
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 这是一款多人射击游戏的设置界面，包含创建/加入房间、地图选择、击杀上限及玩家数量等多人游戏配置选项。界面还提供了操作按键说明（移动、射击、跳跃等）以及调试和游戏设置开关（如动态光照、粒子效果、准星样式等）。
+    content_file: cssquake.md
+    summary: This is a settings and menu interface for a multiplayer first-person
+      shooter game, featuring options for creating/joining matches (with map, frag/time
+      limits, and player caps), standard FPS controls (WASD movement, mouse aiming,
+      space to jump), and various gameplay/debug toggles. The debug and gameplay sections
+      allow toggling features like dynamic lighting, particles, damage, enemy visibility,
+      and diagnostic overlays such as FPS and stats panels.
+  - url: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/
+    title: I Stored a Website in a Favicon
+    score: 255
+    comment_cnt: 87
+    comment_url: https://news.ycombinator.com/item?id=48606619
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 作者将HTML内容的UTF-8字节编码进favicon图片的RGB像素通道中，成功将一个小型网页压缩存储在一张仅9x9像素的PNG图片里。虽然这种做法没有实际用途且仍需JavaScript引导加载器来解码，但它展示了favicon本质上只是字节数据，可以被创造性地用作微型存储介质。
+    content_file: i-stored-a-website-in-a-favicon.md
+    summary: The author encodes an entire small HTML document into a favicon's pixel
+      RGB values, fitting 208 bytes of markup into a 9x9 PNG by treating each color
+      channel as a data byte. A bootstrap JavaScript loader on the page reads the
+      favicon onto a canvas, extracts the pixel data, and reconstructs the original
+      HTML — making it a technically functional but entirely impractical way to serve
+      a website from its own icon.
+  - url: https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/
+    title: 'Think of the children: How to force real ID for all internet traffic (2023)'
+    score: 214
+    comment_cnt: 154
+    comment_url: https://news.ycombinator.com/item?id=48602817
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 本文揭示了各国政府和企业以"保护儿童"为幌子，推动互联网实名认证和用户追踪数据库的建设，尽管早已存在零成本的RTA标签等技术方案可由父母自行管控儿童上网内容。作者警告，这一进程将从成人网站的年龄验证逐步扩展至社交媒体、银行、聊天工具等所有在线服务，最终实现政府与企业对互联网言论和用户身份的全面监控。
+    content_file: think-of-the-children-how-to-force-real-id-for-all-internet.md
+    summary: The article argues that age-verification laws requiring real ID for adult
+      websites are not genuinely about protecting children, since simple, free technical
+      solutions (like the RTA header) already exist and could be trivially re-implemented
+      in browsers. Instead, the author theorizes these laws are a stepping stone toward
+      mandatory real-identity tracking across all internet activity, starting with
+      adult content, expanding to social media, and eventually encompassing all online
+      services — benefiting governments seeking narrative control and corporations
+      seeking profit from centralized user data.
+  - url: https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete
+    title: Hey, n00b, we didn't hire you to complete tasks
+    score: 199
+    comment_cnt: 115
+    comment_url: https://news.ycombinator.com/item?id=48604851
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 这篇文章指出，公司招聘新人看重的不是你完成了多少任务，而是你的成长潜力和学习速度——资深工程师会据此将你归为能提升团队的A类、稳定贡献的B类或即将淘汰的C类。要成为A类，关键是从每个任务中深入学习、优化方案、简化代码、编写工具和文档，而非单纯追求关闭任务的数量。
+    content_file: hey-n00b-we-didn-t-hire-you-to-complete-tasks.md
+    summary: New engineers aren't valued for how many tasks they complete, but for
+      how quickly they grow — seniors view their salary as an investment in future
+      productivity and sort them into categories based on learning trajectory, not
+      raw output. The best new hires distinguish themselves not by speed but by questioning
+      tasks, simplifying designs, writing useful tools, submitting clean incremental
+      diffs, and sharing what they learn — all of which take more time than the minimum
+      needed to close a ticket.
+  - url: https://twitter.com/JohnJumperSci/status/2068001285173834106
+    title: John Jumper to join Anthropic
+    score: 159
+    comment_cnt: 122
+    comment_url: https://news.ycombinator.com/item?id=48601162
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 作者在Google DeepMind工作近九年后决定离职，将加入Anthropic，并对在GDM期间领导AlphaFold团队及所获得的科研经验深表感激。他表示GDM是一个特别的地方，未来仍会持续关注其研究进展。
+    content_file: john-jumper-to-join-anthropic.md
+    summary: The author is leaving Google DeepMind after nearly 9 years to join Anthropic,
+      following a break to recharge. They express gratitude for their time at GDM,
+      where they led the AlphaFold team shortly after completing their PhD.
+  - url: https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering
+    title: Satellite reveals immense scale of GPS signal tampering
+    score: 158
+    comment_cnt: 86
+    comment_url: https://news.ycombinator.com/item?id=48606271
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 实验卫星Pulsar-0首次从太空绘制了欧洲和中东地区GPS信号干扰的全景图，其干扰范围和严重程度远超研究团队预期，近地轨道卫星的导航信号在从法国到巴基斯坦的广大区域内均受到不同程度的影响。Xona
+      Space Systems计划部署300颗近地轨道卫星组成的Pulsar星座，通过发射强度提高100倍的导航信号来大幅增强抗干扰能力，预计2027年初开始提供服务。
+    content_file: satellite-reveals-immense-scale-of-gps-signal-tampering.md
+    summary: An experimental satellite from Xona Space Systems has mapped GPS signal
+      jamming across Europe and the Middle East from space for the first time, revealing
+      that interference extends far more broadly than expected — from France to Pakistan's
+      borders — and degrades positioning signals even for satellites in low Earth
+      orbit. Xona plans to address the problem with its upcoming Pulsar navigation
+      constellation of 300 LEO satellites, which will transmit signals 100 times stronger
+      than current GPS, reducing the area affected by jammers by roughly 95%, with
+      initial service expected in early 2027.
+  - url: https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063
+    title: VPN ban update for UK households as government looks at 'age-gate'
+    score: 153
+    comment_cnt: 143
+    comment_url: https://news.ycombinator.com/item?id=48609385
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 英国工党政府正在考虑对16岁以下未成年人使用VPN设置年龄限制，作为社交媒体禁令的配套措施，具体方案将于7月公布。该议题引发隐私权与儿童网络安全之间的争议，政府已启动咨询并委托额外研究以评估不同方案的可行性。
+    content_file: vpn-ban-update-for-uk-households-as-government-looks-at-age.md
+    summary: The UK government is considering age-restricting VPN use for children
+      as part of its under-16 social media ban, with Technology Secretary Liz Kendall
+      expected to announce details in a July statement to Parliament. Ministers have
+      commissioned additional research on the issue, as opinions are divided between
+      privacy advocates and those concerned that children use VPNs to bypass online
+      safety protections.
+  - url: https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film
+    title: How to feed a dictator
+    score: 148
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=48605301
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 纪录片《如何喂养独裁者》通过五位曾为金正日、萨达姆、阿明、波尔布特和皮诺切特掌勺的私人厨师的亲历讲述，揭示了独裁者餐桌背后的权力运作与人性扭曲。影片探讨了这些厨师在物质优待与道德沦丧之间的挣扎，展现了普通人如何在极权体制中既成为共谋者又沦为牺牲品。
+    content_file: how-to-feed-a-dictator.md
+    summary: The documentary *How to Feed a Dictator*, premiering at Tribeca and based
+      on Witold Szabłowski's book, features five private chefs recounting their experiences
+      cooking for infamous dictators including Pol Pot, Kim Jong-il, Idi Amin, Saddam
+      Hussein, and Augusto Pinochet, revealing how proximity to power came with both
+      extraordinary privilege and mortal danger. The film explores the moral compromises
+      these cooks made to survive, showing how some remain loyal to their former employers
+      while others are haunted by complicity, ultimately arguing that ordinary people
+      help sustain dictatorships through the everyday bargain of comfort in exchange
+      for silence.
+  - url: https://news.ycombinator.com/item?id=48604232
+    title: 'Ask HN: Will programmers write more efficient code during the memory shortage?'
+    score: 135
+    comment_cnt: 223
+    comment_url: https://news.ycombinator.com/item?id=48604232
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 软件臃肿的根源在于开发者默认自己的程序独占资源、大型团队的子模块无节制加载、以及广告追踪脚本泛滥，而客户端优化缺乏动力，因为节省的内存只会被竞争对手的应用占用，形成公地悲剧。服务器端是内存优化最有前景的方向，因为能直接转化为成本节省，但面临二十年水平扩展惯性的阻碍，且多数优化本质上是"停止做蠢事"而非使用高级算法。
+    content_file: ask-hn-will-programmers-write-more-efficient-code-during-the.md
+    summary: Modern software bloat stems less from algorithmic inefficiency and more
+      from organizational factors — large teams shipping dozens of submodules loaded
+      regardless of need, unnecessary dependencies chosen over stdlib solutions, and
+      pervasive ad/tracking scripts — because simplifying this architecture is costly
+      and fragile. Client-side RAM optimization is a tragedy of the commons with no
+      competitive incentive, so meaningful efficiency gains will primarily happen
+      server-side where reduced memory directly cuts costs, though even there, decades
+      of horizontal-scaling inertia and the expense of optimization work create significant
+      resistance.
+  - url: https://ianbarber.blog/2026/06/19/llms-are-complicated-now/
+    title: LLMs Are Complicated Now
+    score: 125
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48605355
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 现代大语言模型的架构已从早期简洁的Transformer堆叠演变得日益复杂，融入了多种注意力变体、混合专家路由和多模态编码器，其复杂程度逐渐趋近于推荐系统。面对这种复杂性，单纯依赖AI智能体自动生成优化内核并不现实，关键在于像FlexAttention那样从一开始就为可组合性而设计，使研究者能在保持性能的前提下灵活探索新架构。
+    content_file: llms-are-complicated-now.md
+    summary: Modern LLMs have evolved from simple, repeated Transformer blocks into
+      complex architectures with numerous attention variants, mixture-of-experts routing,
+      and multimodal encoders — mirroring the same complexity explosion that earlier
+      hit recommendation systems. The author argues that the only sustainable path
+      forward is designing for composability upfront (as FlexAttention demonstrated),
+      since the tight coupling between performance optimization and research iteration
+      makes it impractical to either hand-fuse or auto-generate kernels without a
+      verifiable, composable baseline.
+  - url: https://www.lloydslist.com/LL1157571/Iran-imposes-mandatory-insurance-on-ships-transiting-Strait-of-Hormuz-with-fees-likely-to-follow
+    title: Iran requires insurance on ships using Strait of Hormuz, fees likely to
+      follow
+    score: 124
+    comment_cnt: 135
+    comment_url: https://news.ycombinator.com/item?id=48604584
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 伊朗通过新成立的波斯湾海峡管理局，要求所有通过霍尔木兹海峡的船舶购买其批准的强制保险，前60天免费，之后可能开始收费，并强制船舶使用靠近伊朗的北部航线，违者将面临处罚。此举被船东、海湾国家及国际海事组织批评为破坏自由通行秩序，美国则强调国际水道应免收通行费，各方正就长期管理框架继续谈判。
+    content_file: iran-requires-insurance-on-ships-using-strait-of-hormuz-fees.md
+    summary: Iran's Persian Gulf Strait Authority has imposed mandatory Iranian-approved
+      insurance on all vessels transiting the Strait of Hormuz, currently free but
+      with fees likely after a 60-day window, effectively circumventing a US-Iran
+      agreement guaranteeing toll-free passage. The move has drawn criticism from
+      shipowners, Gulf states, and the IMO, who warn it could destabilize transit
+      norms and set a dangerous precedent for other strategic waterways, while the
+      US emphasizes keeping the strait open as longer-term negotiations continue.
+  - url: https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video
+    title: Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video
+      Codecs
+    score: 121
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=48609343
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: Windows 11 新版媒体播放器空闲时内存占用约 377MB，是经典 Windows Media Player 的 3.5 倍，启动速度也慢约
+      50%。此外，微软将 HEVC（H.265）和 AC-3（杜比数字）等热门编解码器移除或置于付费墙之后，用户可考虑使用 VLC 等自带编解码器的第三方播放器替代。
+    content_file: windows-11-new-media-player-uses-3-5x-more-ram-charges-for-p.md
+    summary: Microsoft's new Windows 11 Media Player uses roughly 3.5x more RAM than
+      the classic Windows Media Player (377MB vs. 103MB idle) and takes about 50%
+      longer to open video files, while also paywalling popular codecs like HEVC (H.265)
+      and removing built-in AC-3 (Dolby Digital) support in version 24H2. The new
+      player replaces both Groove Music and the legacy Windows Media Player as the
+      default, though users can still enable the classic player as an optional component
+      or switch to third-party alternatives like VLC.
+  - url: https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/
+    title: 'From PGP to Mythos: a brief history of export controls that didn''t stop
+      anyone'
+    score: 116
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48609194
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 白宫以国家安全为由命令Anthropic限制其AI模型Fable和Mythos的出口，导致该公司紧急停服已逾一周，起因是一家韩国电信公司的中国关联嫌疑及亚马逊发现的安全漏洞。从历史上看，美国政府对加密技术和间谍软件实施出口管制的效果参差不齐，此次AI出口管制的最终走向将决定美国AI公司的全球竞争力及整个行业的监管框架。
+    content_file: from-pgp-to-mythos-a-brief-history-of-export-controls-that-d.md
+    summary: The White House ordered Anthropic to ban exports of its AI models Fable
+      and Mythos over national security concerns, triggering an immediate shutdown
+      that has left both models unavailable for a week. The article argues that history
+      — from the 1990s Crypto Wars over PGP encryption to the largely ineffective
+      Wassenaar Arrangement on spyware — suggests government export controls are unlikely
+      to succeed in containing powerful dual-use AI technologies.
+  - url: https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones
+    title: Lithuanian startup launches open-source network to detect Shahed-type drones
+    score: 102
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=48608591
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 一家立陶宛初创公司推出了名为"无人机雷达"的开源无人机探测系统，利用志愿者闲置安卓手机持续分析环境声音，通过多设备协同定位沙赫德型无人机。该项目目标是招募一万名活跃用户，将探测网络扩展至波罗的海三国和波兰，未来还计划接入监控摄像头音频及电信基站传感器。
+    content_file: lithuanian-startup-launches-open-source-network-to-detect-sh.md
+    summary: A Lithuanian startup called Mainline has launched Drone Radar, an open-source
+      civic drone detection system that uses volunteers' Android smartphones placed
+      near windows to listen for acoustic signatures characteristic of Shahed-type
+      drones, triangulating their location when multiple nearby devices detect the
+      same signal. The project aims to recruit 10,000 participants across the Baltic
+      states and Poland, with plans to eventually incorporate audio from surveillance
+      cameras and telecom tower sensors while prioritizing user privacy.
+  - url: https://european.social
+    title: The European Social Stack
+    score: 92
+    comment_cnt: 80
+    comment_url: https://news.ycombinator.com/item?id=48609421
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 这份公开宣言呼吁欧洲基于联邦宇宙、大气层协议和Matrix等开源去中心化技术，建立独立于外国垄断平台的欧洲社交网络基础设施，以维护数字主权、保护民主制度并将就业和收入留在欧洲。各签署方承诺在跨协议桥接、分布式身份、内容审核和多协议集成等领域展开联合开发，共同构建一个多元所有权和多元商业模式并存的完整欧洲社交生态系统。
+    content_file: the-european-social-stack.md
+    summary: A coalition of European open-source social platform organizations has
+      issued a joint declaration committing to build a decentralized, European-owned
+      social media infrastructure—spanning the Fediverse (Mastodon, PeerTube), the
+      Atmosphere (Eurosky, Bluesky-based), and private messaging (Matrix, XMPP)—to
+      replace dependence on monopolistic foreign platforms. The signatories outline
+      eight shared principles including digital autonomy, open source, and democratic
+      resilience, and pledge to collaborate on bridging protocols, distributed identity,
+      content moderation, and joint funding to create a full interoperable social
+      ecosystem.
 - id: golang-weekly
   label: Golang Weekly
   provider: rss
   items:
-  - url: https://golangweekly.com/issues/606
-    title: Go 1.27 Release Candidate 1
-    summary: How Go Reflection Really Works — Reflection in a compiled, statically-typed
-      language sounds impossible, but Go can print a struct’s field names, types,
-      and tags at runtime. This look into the Go...
+  - url: https://golangweekly.com/link/186869/rss
+    title: How Go Reflection Really Works
+    summary: Go's `reflect` package doesn't compute type information at runtime; instead,
+      the compiler serializes complete type descriptors (field names, types, struct
+      tags) as static, read-only data baked into the binary at build time. When you
+      call `reflect.TypeOf`, it simply reads a pointer from the interface header to
+      that pre-built descriptor — making reflection essentially just pointer arithmetic
+      over metadata the compiler wrote for itself.
+    score: 0
+    tags: []
+    source: internals-for-interns.com
+    summary_zh: 本文深入剖析了Go语言reflect包的底层原理：编译器在构建时将所有类型描述符（包括字段名、类型、结构体标签等元数据）作为静态只读数据烘焙进二进制文件，而reflect.TypeOf本质上只是一次指针加载，从空接口的头部读取编译器预先放置的类型指针。类型描述符采用"固定头部+按种类追加变长数据"的分层布局，编译器写入、reflect通过指针算术读取，整个反射机制并无运行时魔法，只是编译器给自己写的笔记被原样读回。
+    content_file: how-go-reflection-really-works.md
+  - url: https://golangweekly.com/link/186868/rss
+    title: Catch Go Bugs Before Your PRs Merge
+    summary: Greptile is an AI code review tool that builds a graph index of your
+      codebase and uses a swarm of parallel agents to review pull requests, catching
+      issues ranging from style violations to security risks and multi-file logical
+      bugs. It offers features like custom rules, continuous learning from team PR
+      comments, autonomous test generation, IDE integrations, and enterprise-ready
+      security with self-hosted deployment options at $30/seat/month.
     score: 0
     tags: []
     source: Golang Weekly
-    summary_zh: 'No Chinese article was included in your message. The text after your
-      request reads like a previous assistant response about corrupted data, not an
-      article.
-
-
-      Could you paste the article text or give me a file path to read?'
-    content_file: go-1-27-release-candidate-1.md
-  - url: https://golangweekly.com/issues/605
-    title: Go security issues worth auditing for
-    summary: How Much Do AMD64 Microarchitecture Levels Help? — A benchmark of Go’s
-      GOAMD64 levels on roaring shows gains from v2/v3, but little from v4. A reminder
-      to benchmark CPU-heavy code before changing...
+    summary_zh: Greptile 是一款 AI 代码审查工具，通过构建代码库的图索引并利用多个协同智能体并行审查拉取请求，能够捕获从风格违规到安全风险等人类可能遗漏的问题。该工具支持自定义审查规则、持续学习团队编码规范，并可与
+      Claude Code、Cursor 等主流编码工具集成，提供自托管部署和 SOC 2 合规等企业级安全保障。
+    content_file: catch-go-bugs-before-your-prs-merge.md
+  - url: https://golangweekly.com/link/186870/rss
+    title: Go 1.27 Release Candidate 1 Released
+    summary: Go 1.27 release candidate 1 (go1.27rc1) has been officially released,
+      and the Go team is asking developers to test it with their production workloads
+      and report any issues. Users can install it via `go install golang.org/dl/go1.27rc1@latest`
+      or download it from go.dev, and are encouraged to opt in to Go telemetry to
+      help validate the release.
     score: 0
     tags: []
-    source: Golang Weekly
-    summary_zh: No Chinese article was included in your message — there's no text
-      for me to summarize. Could you paste the article content or provide a file path
-      / URL so I can read it?
-    content_file: go-security-issues-worth-auditing-for.md
-  - url: https://golangweekly.com/issues/604
-    title: Go experiments, explained
-    summary: 🔬 Go Experiments Explained — Go ships ‘experimental’ features so you
-      can trial new functionality or behavior changes before they're locked in, but
-      do you know how to find and enable them, or how they...
+    source: groups.google.com
+    summary_zh: Go 团队发布了 Go 1.27 的候选版本 go1.27rc1，呼吁开发者使用该版本进行生产负载和单元测试，并通过问题跟踪器反馈问题。用户可通过
+      go install 命令或官网下载安装试用，同时建议开启 Go 遥测以帮助验证此版本及未来版本的质量。
+    content_file: go-1-27-release-candidate-1-released.md
+  - url: https://golangweekly.com/link/186876/rss
+    title: Finding Leaked Goroutines in Go 1.27
+    summary: Go 1.27 will include a built-in goroutine leak detector (`goroutineleak`
+      profile) in `runtime/pprof`, designed by engineers from Uber, that uses the
+      garbage collector's reachability analysis to identify goroutines provably stuck
+      on channels or locks that no runnable goroutine can ever release — guaranteeing
+      zero false positives unlike heuristic approaches. The new profile requires no
+      new API — it registers as a standard pprof profile accessible via code, tests,
+      HTTP endpoints, or `go tool pprof`, complementing Uber's existing `goleak` library
+      which suits test teardown while the new profile targets live production services.
     score: 0
     tags: []
-    source: Golang Weekly
-    summary_zh: You haven't included the Chinese article in your message. Could you
-      paste the article text or provide a file path so I can read and summarize it?
+    source: rednafi.com
+    summary_zh: Go 1.27 将在标准库 `runtime/pprof` 中引入基于垃圾回收器可达性证明的 goroutine 泄漏检测器，能够零误报地识别永久阻塞的
+      goroutine，弥补了现有 goleak 工具在生产环境中无法区分正常等待与真正泄漏的不足。该分析器源自 Uber 团队的设计，提供代码内调用、测试集成、HTTP
+      端点和 `go tool pprof` 四种使用方式，API 极简——仅新增一个名为 `goroutineleak` 的 profile，无需引入新类型或函数。
+    content_file: finding-leaked-goroutines-in-go-1-27.md
+  - url: https://golangweekly.com/link/186882/rss
+    title: How Does struct{} Take Zero Bytes in Go?
+    summary: 'Go''s `struct{}` takes zero bytes because the runtime skips allocation
+      entirely — when one escapes to the heap, `mallocgc` returns a pointer to a single
+      global variable (`zerobase`), so every empty struct shares the same address.
+      Two gotchas: pointer comparison between empty structs is unreliable since the
+      compiler may or may not alias them, and placing a `struct{}` as the last field
+      in a struct adds a word of padding, quietly negating the zero-cost benefit.'
+    score: 0
+    tags: []
+    source: www.bud1m.com
+    summary_zh: Go 语言中 `struct{}` 占用零字节，其底层原理是运行时在分配时直接返回指向全局变量 `zerobase` 的指针，跳过实际内存分配，因此所有空结构体共享同一地址。使用时需注意两个陷阱：空结构体的指针比较结果不可靠，以及当
+      `struct{}` 作为结构体的最后一个字段时会触发额外填充，反而增加内存占用。
+    content_file: how-does-struct-take-zero-bytes-in-go.md
+  - url: https://golangweekly.com/link/186887/rss
+    title: 'goja: An ECMAScript/JavaScript Engine in Pure Go'
+    summary: Goja is a pure Go implementation of ECMAScript 5.1 (with partial ES6
+      support) that emphasizes standard compliance and performance, capable of running
+      tools like Babel and the TypeScript compiler without any cgo dependencies. While
+      significantly faster than similar Go-based JS engines like otto, it has known
+      limitations including non-standard WeakMap garbage collection behavior, broken
+      UTF-16 surrogate pair handling in JSON.parse, and no thread safety within a
+      single runtime instance.
+    score: 0
+    tags: []
+    source: github.com
+    summary_zh: Goja 是一个用纯 Go 语言实现的 ECMAScript 5.1 引擎，注重标准合规性和性能，支持大部分 ES6 特性，能运行
+      Babel 和 TypeScript 编译器等 ES5 代码。由于 Go 运行时的限制，其 WeakMap 实现和 JSON 解析存在与标准的细微差异，且单个
+      Runtime 实例不支持并发访问，但纯 Go 实现使其具备跨平台构建简单、与 Go 数据交互便捷的优势。
+    content_file: goja-an-ecmascript-javascript-engine-in-pure-go.md
+  - url: https://golangweekly.com/link/186890/rss
+    title: gopls's Model Context Protocol (MCP) Server
+    summary: Gopls now includes an experimental built-in MCP server that exposes its
+      Go language tooling to AI coding assistants like Claude Code and Gemini CLI,
+      running in either an "attached" mode (sharing state with an active LSP session)
+      or a "detached" mode (standalone over stdin/stdout). The server provides model
+      instructions for Go-specific workflows and performs the same operations as a
+      standard gopls LSP session—reading files, executing the `go` command, and accessing
+      Go services—without writing directly to the source tree or making arbitrary
+      network requests.
+    score: 0
+    tags: []
+    source: go.dev
+    summary_zh: Gopls 新增了实验性的内置模型上下文协议（MCP）服务器，支持"附加模式"（与活跃 LSP 会话共享内存）和"分离模式"（通过
+      stdin/stdout 独立运行），可将其 Go 语言功能以 MCP 工具形式暴露给 AI 编码助手使用。该服务器已提供 Gemini CLI 和 Claude
+      Code 等主流助手的配置指南，其安全边界与普通 IDE 会话中的 gopls 一致，不会执行超出常规 LSP 操作范围的行为。
+    content_file: gopls-s-model-context-protocol-mcp-server.md
+  - url: https://golangweekly.com/link/186892/rss
+    title: 'Kage: Shadow a Website for Offline Viewing'
+    summary: Kage is a tool that uses headless Chrome to render web pages fully (including
+      JavaScript-generated content), then strips all scripts and event handlers to
+      produce static, inert HTML mirrors that look identical to the live site but
+      run no code. The resulting offline copies preserve layout, styles, images, and
+      internal navigation, and can be served locally or packed into a single ZIM archive
+      or self-contained binary viewer.
+    score: 0
+    tags: []
+    source: kage.tamnd.com
+    summary_zh: kage 是一款利用无头 Chrome 渲染网页后抓取快照的工具，它会移除所有脚本和事件处理器，并将 CSS、图片、字体重写为本地路径，生成外观与原站一致但不执行任何代码的纯静态离线副本。该工具支持整站镜像、离线浏览、站内链接重写，还可将镜像打包为
+      ZIM 归档或自包含可执行文件，适用于无网络环境下的完整网站阅读。
+    content_file: kage-shadow-a-website-for-offline-viewing.md
+  - url: https://golangweekly.com/link/186900/rss
+    title: Go Micro is Becoming a Framework for Agentic Development
+    summary: Go Micro, sponsored by Anthropic, is evolving from a microservices framework
+      into an agentic development platform by treating agents as first-class services
+      that reuse its existing infrastructure for discovery, RPC, state, and middleware
+      rather than introducing a separate runtime or graph DSL. Key additions include
+      built-in plan/delegate tools for multi-agent coordination, deterministic durable
+      workflows with checkpointed execution, guardrails for autonomous agent safety,
+      tool-execution middleware, and x402 payment support — all built on the same
+      pluggable interfaces the framework has provided for a decade.
+    score: 0
+    tags: []
+    source: go-micro.dev
+    summary_zh: Anthropic赞助Go Micro三个月以来，该框架将智能体（Agent）作为一等公民融入现有的分布式系统架构中，智能体本质上被视为服务，通过工具调用即RPC的方式实现规划、委派、工作流、护栏和持久化执行等能力，无需引入新的运行时或图DSL。其核心理念是智能体系统的基础设施与服务系统的基础设施本质相同，Go
+      Micro十年来积累的可插拔接口（服务发现、存储、中间件等）自然延伸到了智能体开发领域。
+    content_file: go-micro-is-becoming-a-framework-for-agentic-development.md
+  - url: https://golangweekly.com/link/186482/rss
+    title: How Much Do AMD64 Microarchitecture Levels Help?
+    summary: Compiling Go programs with higher x86-64 microarchitecture levels (via
+      `GOAMD64`) can yield significant performance gains — particularly moving from
+      v1 to v2 (up to 43% faster popcount) and v2 to v3/AVX2 (up to 38% on dense bitmap
+      operations) — without any source code changes. However, the v4 level (AVX-512)
+      provides no additional benefit because the Go compiler does not currently generate
+      AVX-512 instructions, leaving those hardware capabilities untapped.
+    score: 0
+    tags: []
+    source: lemire.me
+    summary_zh: 本文通过Roaring Bitmaps库的基准测试，探讨了Go编译器在不同x86-64微架构级别（v1至v4）下的性能差异，发现v2级别通过启用popcnt指令可带来显著提升（如人口计数快43%），v3（AVX2）在部分场景下进一步优化，但v4（AVX-512）毫无效果。评论指出Go工具链根本不生成AVX-512指令，且x86-64-v4分级本身因Intel混乱的AVX-512推出策略而设计不当，真正的现代指令集利用需要更细粒度的特性检测和语言层面的抽象支持。
+    content_file: how-much-do-amd64-microarchitecture-levels-help.md
+  - url: https://golangweekly.com/link/186481/rss
+    title: Query Billions of Time-Series Rows Without Leaving Postgres
+    summary: Tiger Cloud is a managed database service built for massive scale—handling
+      trillions of metrics and petabytes of data daily—with features like disaggregated
+      compute/storage, multi-AZ high availability, and enterprise compliance (SOC
+      2, HIPAA, GDPR). New accounts receive $1,000 in free credit for 30 days, with
+      integrations across major cloud providers and the broader Postgres ecosystem.
+    score: 0
+    tags: []
+    source: www.tigerdata.com
+    summary_zh: Tiger Cloud 是一项大规模云数据库服务，日处理三万亿指标，支持计算存储分离、多可用区高可用及企业级安全合规（SOC 2、HIPAA、GDPR）。新用户注册即赠1000美元额度，可在数分钟内完成部署，并与主流云厂商及
+      Postgres 生态无缝集成。
+    content_file: query-billions-of-time-series-rows-without-leaving-postgres.md
+  - url: https://golangweekly.com/link/186492/rss
+    title: Subtle Go Security Issues to Audit For
+    summary: This follow-up blog post highlights new security footguns in Go's standard
+      library, including silent integer overflow/underflow vulnerabilities in serialization
+      and database drivers, and confusing hop-by-hop header handling in Go's built-in
+      reverse proxy that can be exploited when both RFC 2616 and RFC 7230 are respected
+      simultaneously. It also notes positive language improvements like `os.Root`
+      for path traversal prevention and the cleanup of `math/rand` to eliminate insecure
+      random number generation, while releasing Semgrep rules to detect these risky
+      patterns.
+    score: 0
+    tags: []
+    source: www.elttam.com
+    summary_zh: 本文是一篇关于Go语言安全审计的后续博客，回顾了Go近年来在安全方面的改进（如`os.Root`防路径遍历、`math/rand`整理消除不安全随机数），并重点介绍了几类新的安全陷阱，包括Go的`int`类型在不同架构上宽度不同导致的静默整数溢出漏洞，以及标准库`httputil.ReverseProxy`同时遵守新旧RFC造成的逐跳头部处理混淆问题。作者还针对这些危险编码模式发布了相应的semgrep检测规则，旨在帮助代码审计人员发现自动化工具和AI助手难以捕捉的语言层面安全隐患。
+    content_file: subtle-go-security-issues-to-audit-for.md
+  - url: https://golangweekly.com/link/186499/rss
+    title: 'giu 0.15: A Dear ImGui-Based GUI Framework'
+    summary: The giu GUI library released version 0.15.0 after over a year, featuring
+      a reworked FontAtlas that removes manual size management and string registration,
+      word-wrap support for InputText, a light theme, code editor color palettes,
+      a window resize callback, and macOS font scaling fixes. The release includes
+      several breaking changes—notably to FontAtlas, Markdown headers, and ContextMenu
+      flags—and is built on cimgui-go v1.5.0 with imgui 1.92.8.
+    score: 0
+    tags: []
+    source: github.com
+    summary_zh: giu 时隔一年多发布新版本，主要新增了自定义 .ini 文件名、输入框自动换行、浅色主题、代码编辑器配色方案及窗口大小变更回调等功能，同时修复了
+      macOS 字体缩放问题。此次更新包含多项破坏性变更，包括 FontAtlas 重构（移除字体大小管理和字符串注册）、ContextMenu 的 MouseButton
+      重命名为 Flags，且必须搭配 cimgui-go v1.5.0（imgui 1.92.8）使用。
+    content_file: giu-0-15-a-dear-imgui-based-gui-framework.md
+  - url: https://golangweekly.com/link/186501/rss
+    title: 'clipboard 0.8: The Clipboard Library Goes Cgo-Free on Desktop'
+    summary: v0.8.0 is the project's largest release, delivering Cgo-free clipboard
+      access on all desktop platforms, native Wayland support, custom MIME-typed formats,
+      clipboard enumeration, and flexible image input — all driven by community contributions.
+      The one breaking change is that `Watch` now returns `<-chan Data` instead of
+      `<-chan []byte`, requiring callers to read `data.Bytes` instead of using the
+      raw byte slice directly.
+    score: 0
+    tags: []
+    source: github.com
+    summary_zh: v0.8.0 是该剪贴板库迄今最大的社区驱动版本，新增了全平台免 Cgo 构建、原生 Wayland 支持、自定义 MIME 格式读写、剪贴板内容枚举及灵活的图像输入等功能，同时修复了
+      Windows 图像透明度、DIB 解码和 Watch 泄漏等多个缺陷。唯一的破坏性变更是 `Watch` 返回类型从 `<-chan []byte`
+      改为 `<-chan Data`，迁移仅需将 `data` 改为 `data.Bytes`。
+    content_file: clipboard-0-8-the-clipboard-library-goes-cgo-free-on-desktop.md
+  - url: https://golangweekly.com/link/186503/rss
+    title: 'Talos: An Open Source API Key Server from Ory'
+    summary: Ory Talos is a scalable API key server for issuing, verifying, revoking,
+      and managing API keys with low-latency verification, horizontal scaling, and
+      support for deriving short-lived JWT and macaroon tokens from long-lived keys.
+      It can be deployed as a managed service on the Ory Network or self-hosted, runs
+      as a single binary with multiple deployment modes, and integrates with databases
+      like PostgreSQL, MySQL, and CockroachDB for cloud-native environments.
+    score: 0
+    tags: []
+    source: github.com
+    summary_zh: Ory Talos 是一个专为高吞吐量系统设计的 API 密钥管理服务器，支持密钥的发行、验证、撤销及短期令牌派生，并通过缓存机制和
+      Sidecar 部署实现低延迟验证与水平扩展。它提供托管云服务（Ory Network）和自托管两种部署方式，开源版适用于实验和低流量场景，企业许可证则提供多节点部署、分布式缓存、安全更新
+      SLA 及生产级支持。
+    content_file: talos-an-open-source-api-key-server-from-ory.md
+  - url: https://golangweekly.com/link/186505/rss
+    title: 'Porcupine 1.2: A Linearizability Checker for Distributed Systems'
+    summary: Porcupine is a high-performance linearizability checker written in Go
+      that verifies whether concurrent operation histories are consistent with a sequential
+      specification, outperforming alternatives like Knossos by orders of magnitude.
+      It also provides an interactive HTML visualization of histories and linearization
+      points to aid in debugging distributed systems.
+    score: 0
+    tags: []
+    source: github.com
+    summary_zh: Porcupine 是一个高性能的线性一致性检查器，通过接受 Go 语言编写的顺序规约和并发历史记录来验证分布式系统的正确性，其速度比
+      Knossos 快数千至数百万倍。它支持两种历史记录格式输入，并提供交互式 HTML 可视化功能，可展示线性化点、部分线性化及非法线性化点，便于调试和分析。
+    content_file: porcupine-1-2-a-linearizability-checker-for-distributed-syst.md
+  - url: https://golangweekly.com/link/186190/rss
+    title: Go Experiments Explained
+    summary: Go ships experimental features that are typically off-by-default, allowing
+      users to opt in via the GOEXPERIMENT environment variable and provide real-world
+      feedback before features graduate to general availability or are abandoned.
+      As of Go 1.26, available experiments range from permanent diagnostic fixtures
+      like FieldTrack and StaticLockRanking to actively evaluated features like JSONv2,
+      a new inliner, SIMD support, and a goroutine leak profiler.
+    score: 0
+    tags: []
+    source: www.alexedwards.net
+    summary_zh: 本文介绍了 Go 语言通过 `GOEXPERIMENT` 环境变量发布实验性功能的机制，涵盖其从默认关闭、评估反馈到正式发布的典型生命周期，以及搁置或永久保留等不同结果。文章还梳理了截至
+      Go 1.26 所有可用实验的当前状态，包括 JSONv2、SIMD、新内联器等正在评估中的功能，以及内存竞技场等因负面反馈而搁置的功能。
     content_file: go-experiments-explained.md
-  - url: https://golangweekly.com/issues/603
-    title: Generic methods are a-go for Go 1.27
-    summary: 'Generic Methods Land in Go — Back in January, one of Go’s co-creators
-      proposed bringing generic methods to Go (rather than just functions) and now
-      he tells us: “This has been implemented and...'
+  - url: https://golangweekly.com/link/186189/rss
+    title: 'Beyond Sandboxes: Architecting Durable Runtimes for AI Agents (Webinar)'
+    summary: Sandboxing solves tool execution safety but not the operational durability
+      of AI agents themselves — when an agent process dies, its decision state, context,
+      and traceability are lost. The talk argues for a durable runtime layer beneath
+      agents that provides replayability, crash recovery, and operational explainability,
+      showing how existing agent frameworks can run on such a substrate without rewriting
+      their logic.
     score: 0
     tags: []
-    source: Golang Weekly
-    summary_zh: You haven't included any article text in your message. Could you paste
-      the Chinese article you'd like summarized, or provide a file path so I can read
-      it?
-    content_file: generic-methods-are-a-go-for-go-1-27.md
+    source: orkes.io
+    summary_zh: 本文指出，当前AI智能体基础设施过度关注沙箱化的工具执行安全，却忽视了智能体自身运行时的持久化问题——进程终止即丢失决策状态、执行上下文和可追溯性。作者提出需要在沙箱之下构建持久化运行时层，使智能体具备决策重放、状态恢复、执行可解释性等能力，并展示了如何在不重写智能体逻辑的前提下，将现有框架接入持久化执行基底。
+    content_file: beyond-sandboxes-architecting-durable-runtimes-for-ai-agents.md
+  - url: https://golangweekly.com/link/186191/rss
+    title: How Go Builds Stack Traces
+    summary: 'Go''s stack traces work through cooperation between the compiler/linker
+      and the runtime: the linker bakes a table (`.gopclntab`) into the binary recording
+      each function''s frame size, and at crash time the runtime''s unwinder uses
+      that table plus the CPU''s return-address convention to reconstruct the call
+      chain frame by frame from just a program counter and stack pointer.
+
+
+      The crash path begins when an unrecovered `gopanic` calls `fatalpanic`, which
+      switches to a separate stack and freezes all goroutines so their stacks stay
+      stable, then walks each frame by looking up its size in the linker table, computing
+      where the caller''s return address sits, and repeating until the stack is exhausted.'
+    score: 0
+    tags: []
+    source: internals-for-interns.com
+    summary_zh: 本文从 `panic()` 出发，完整追踪了 Go 栈追踪的生成过程：运行时先切换到调度器栈并冻结所有 goroutine，再由展开器（unwinder）利用当前
+      PC 和 SP 逐帧回溯调用链。展开的关键在于编译器/链接器在构建时将每个函数的帧大小等元数据写入 `.gopclntab` 表，运行时据此计算出每一帧的返回地址和调用者栈指针，从而在没有帧链表的情况下完整重建调用栈。
+    content_file: how-go-builds-stack-traces.md
+  - url: https://golangweekly.com/link/186198/rss
+    title: 'Finding a Needle in a 4 GB Haystack: From 0.75 GB/s to 49 GB/s'
+    summary: The article benchmarks 13 variants of scanning a 4 GiB mostly-zero file
+      in Go on Linux, progressing from a naive `os.ReadFile` loop at 0.75 GB/s to
+      49 GB/s (a 66× speedup) by systematically eliminating bottlenecks across allocations,
+      syscall overhead, page faults, parallelism, and SIMD (including Go 1.26's new
+      `simd/archsimd` package for AVX-512). Each variant isolates a specific layer
+      of the stack — Go runtime, kernel, page cache, memory hierarchy — revealing
+      that raw throughput on a simple problem is governed less by algorithmic cleverness
+      and more by how efficiently data moves through hardware.
+    score: 0
+    tags: []
+    source: segflow.github.io
+    summary_zh: 本文通过一个在4 GiB全零文件中查找唯一非零int64的Go编程任务，系统性地探索了从朴素逐字节遍历到mmap、多核并行、以及Go
+      1.26新增的SIMD/AVX-512等十三种优化变体，逐层揭示了Go运行时、系统调用、页面缓存和内存层次结构的性能瓶颈。最终实现了从0.75 GB/s到49
+      GB/s的66倍加速，清晰展示了每一层优化（消除拷贝、减少系统调用、利用多核并行、SIMD向量化）各自突破的性能墙及其原因。
+    content_file: finding-a-needle-in-a-4-gb-haystack-from-0-75-gb-s-to-49-gb.md
+  - url: https://golangweekly.com/link/186199/rss
+    title: Your Go Service Is Simple. Your Analytics Stack Isn't
+    summary: Tiger Cloud is a managed database service operating at massive scale
+      (3 trillion metrics/day, 3 petabytes of data) that offers disaggregated compute
+      and storage, multi-AZ high availability, and enterprise compliance (SOC 2, HIPAA,
+      GDPR). New accounts receive $1,000 in free credit for 30 days, with features
+      including up to 10-node replica sets, tiered SSD/S3 storage, deep observability
+      integrations, and provisioning via SQL, CLI, Terraform, or AI coding tools.
+    score: 0
+    tags: []
+    source: www.tigerdata.com
+    summary_zh: Tiger Cloud 是一个大规模云数据库服务，支持每天处理3万亿指标和千万亿级数据点，提供计算与存储分离、多可用区高可用、企业级安全合规等核心能力。新用户注册即赠1000美元体验金，可在几分钟内完成部署，并与主流云厂商及Postgres生态无缝集成。
+    content_file: your-go-service-is-simple-your-analytics-stack-isn-t.md
+  - url: https://golangweekly.com/link/186204/rss
+    title: 'go-pretty: Pretty Print Tables, Lists and Text on the Terminal'
+    summary: '`go-pretty` is a Go library for rendering richly formatted console output
+      including tables, progress bars, hierarchical lists, and styled text, with extensive
+      customization options. It supports multiple output formats (ASCII, HTML, Markdown,
+      CSV) and features like color, auto-merge, sorting, ETA tracking, and full ANSI
+      escape sequence handling.'
+    score: 0
+    tags: []
+    source: github.com
+    summary_zh: go-pretty 是一个 Go 语言的控制台美化输出工具库，提供表格、列表、进度条和文本处理等功能，支持多种输出格式及高度自定义样式。该库的表格组件支持颜色、自动合并、排序等特性，进度条支持ETA和速度计算，文本工具则涵盖对齐、颜色、格式化和字符串操作等常用功能。
+    content_file: go-pretty-pretty-print-tables-lists-and-text-on-the-terminal.md
+  - url: https://golangweekly.com/link/186205/rss
+    title: 'Validate 1.6: A Generic Data Validation and Filtering Library'
+    summary: '`validate` is a Go library for validating and filtering data from structs,
+      maps, and HTTP requests, supporting 70+ built-in validators, custom rules, struct
+      tags for configuration, scene-based validation, and i18n error messages. It
+      offers features like nested struct cascading, slice sub-item checking, data
+      sanitization before validation, and integration with any Go web framework such
+      as Gin or Echo.'
+    score: 0
+    tags: []
+    source: github.com
+    summary_zh: '`validate` 是一个功能丰富的 Go 数据验证与过滤库，支持对 Struct、Map 及 HTTP 请求数据进行快速验证，内置
+      70 多个常用验证器，并提供自定义验证规则、场景设置、国际化错误消息及数据过滤/转换等功能。该库可通过结构体标签便捷配置验证规则、字段翻译和错误消息，支持嵌套结构体递归验证，兼容
+      Gin、Echo 等主流框架，v2.0 版本需 Go 1.21+ 环境。'
+    content_file: validate-1-6-a-generic-data-validation-and-filtering-library.md
+  - url: https://golangweekly.com/link/186209/rss
+    title: 'Heimdall 7.2: An Enhanced HTTP Client for Go'
+    summary: Heimdall is a Go HTTP client library designed for making large-scale
+      requests, offering built-in circuit breakers (hystrix-like), configurable retry
+      strategies (constant, exponential, or custom backoff), and per-request timeout
+      control. It exposes a fluent interface for all HTTP methods, supports custom
+      HTTP client implementations via the standard `Doer` interface, and integrates
+      with statsD for metrics collection.
+    score: 0
+    tags: []
+    source: github.com
+    summary_zh: Heimdall 是一个 Go 语言的 HTTP 客户端库，支持 hystrix 熔断器、可配置的重试策略（常量/指数/自定义退避）以及自定义超时，帮助应用程序可靠地大规模发起
+      HTTP 请求。该库提供流式接口，支持自定义 HTTP 客户端注入、降级回调函数，并兼容标准库的 `*http.Response` 和 `Doer` 接口。
+    content_file: heimdall-7-2-an-enhanced-http-client-for-go.md
+  - url: https://golangweekly.com/link/185924/rss
+    title: Generic Methods Land in Go
+    summary: This Go proposal suggests allowing concrete (non-interface) methods to
+      declare their own type parameters, just like generic functions, recognizing
+      that methods are useful for code organization and chaining beyond just implementing
+      interfaces. Generic methods would work exactly like generic functions with receivers,
+      supporting type inference and method expressions, but would not be callable
+      through interfaces or reflection since interface methods cannot declare type
+      parameters.
+    score: 0
+    tags: []
+    source: github.com
+    summary_zh: 该提案建议允许Go语言的具体方法像函数一样声明自己的类型参数，从而支持泛型方法，但这些泛型方法不能用于实现接口方法。这一转变的核心观点是：方法不仅仅是实现接口的手段，它们本身作为与类型关联的命名空间函数就具有独立价值，因此即使不支持泛型接口方法，泛型具体方法也值得引入。
+    content_file: generic-methods-land-in-go.md
+  - url: https://golangweekly.com/link/185923/rss
+    title: AI Engineering Fundamentals with Scott Moss of Netflix
+    summary: This Frontend Masters course, taught by Netflix engineer Scott Moss,
+      covers AI engineering by building an AI-powered drawing agent on Cloudflare's
+      platform, integrating it with an Excalidraw app using TypeScript, React, and
+      the OpenAI SDK. The course then focuses on establishing a rigorous eval harness
+      with golden datasets and scoring to systematically measure and improve the agent's
+      reliability through context engineering, advanced tool use, and production feedback
+      loops.
+    score: 0
+    tags: []
+    source: frontendmasters.com
+    summary_zh: 本课程由Netflix高级软件工程师Scott Moss讲授，教学员如何构建基于Cloudflare的AI智能体聊天界面，并为Excalidraw绘图应用添加AI图表生成与修改功能。课程还系统介绍了AI工程的评估框架、评分体系及Braintrust等可观测性工具，帮助工程师通过上下文工程和持续反馈循环不断提升AI系统的准确性与可靠性。
+    content_file: ai-engineering-fundamentals-with-scott-moss-of-netflix.md
+  - url: https://golangweekly.com/link/185926/rss
+    title: Migrating from Go to Rust
+    summary: This article is a practical guide for backend Go developers considering
+      migrating to Rust, arguing that the primary motivation isn't speed but rather
+      the stronger correctness guarantees Rust provides by encoding error handling,
+      nil-safety, data-race prevention, and resource lifetimes into the type system
+      rather than relying on conventions and runtime checks. It compares toolchains,
+      maps Go patterns to Rust equivalents, and acknowledges that while Go offers
+      a gentler learning curve and faster compilation, Rust's compile-time enforcement
+      eliminates entire categories of bugs that Go catches only through discipline
+      or runtime detection.
+    score: 0
+    tags: []
+    source: corrode.dev
+    summary_zh: 本文探讨了从 Go 迁移到 Rust 的实际考量，指出迁移的核心动因并非性能差异，而是 Rust 通过类型系统将内存安全、错误处理和数据竞争预防等检查提升为编译期保证，从而提供更强的正确性。作者认为
+      Go 的优势在于学习曲线平缓、编译速度快和生态成熟，而 Rust 以更陡的学习曲线和更慢的构建速度为代价，换取了无垃圾回收、零成本抽象和更严格的编译时检查。
+    content_file: migrating-from-go-to-rust.md
+  - url: https://golangweekly.com/link/185927/rss
+    title: Claude as Your Performance Analysis Partner
+    summary: Claude can effectively assist with Go performance analysis by identifying
+      optimization opportunities in CPU profiles and assembly dumps, such as reducing
+      redundant atomic operations and spotting missed compiler optimizations like
+      uncached variable accesses. However, suggested optimizations require careful
+      validation against real workloads, as theoretically sound changes (e.g., replacing
+      two atomic ops with one wider atomic) can regress performance due to subtle
+      effects like false sharing and cache-line contention.
+    score: 0
+    tags: []
+    source: developers.redhat.com
+    summary_zh: 本文探讨了利用Claude AI辅助CPU性能剖析与跟踪分析，以Go语言新型Green Tea垃圾收集器在POWER10架构上的优化为案例，展示了Claude在识别原子操作瓶颈、算术优化及汇编级代码分析方面的能力。尽管部分建议（如用Or32替代Load8+Or8）因伪共享问题导致性能回退，但Claude在深入分析汇编代码、发现编译器未执行的优化（如因原子操作阻止窥孔优化）等方面展现了显著价值，证明AI可将繁琐的性能分析工作变得高效。
+    content_file: claude-as-your-performance-analysis-partner.md
+  - url: https://golangweekly.com/link/185928/rss
+    title: Tracing HTTP Requests with net/http/httptrace
+    summary: 'Go''s `net/http/httptrace` package provides hook-based visibility into
+      outgoing HTTP request phases (DNS, TCP, TLS, first byte) by attaching a `ClientTrace`
+      to a `context.Context` rather than requiring an interface on the client, which
+      lets traces compose naturally with middleware and concurrent requests. The article
+      demonstrates two practical uses: a CLI that prints per-phase timing breakdowns
+      like `curl -w`, and a reusable `RoundTripper` wrapper that automatically logs
+      request timings for every call through an `http.Client`.'
+    score: 0
+    tags: []
+    source: blainsmith.com
+    summary_zh: Go 标准库的 `net/http/httptrace` 包通过将 `ClientTrace` 附加到 `context.Context`
+      上，为 HTTP 请求的 DNS 解析、TCP 连接、TLS 握手等关键阶段提供了细粒度的追踪钩子，无需修改客户端接口即可实现并发安全的请求级追踪。文章演示了两个实用场景：一个类似
+      `curl --trace` 的命令行耗时分析工具，以及一个可复用的 `RoundTripper` 包装器，为每个请求自动记录各阶段耗时。
+    content_file: tracing-http-requests-with-net-http-httptrace.md
+  - url: https://golangweekly.com/link/185931/rss
+    title: Give Your Agent a DB for Every Task
+    summary: Ghost is a hosted Postgres service that lets AI agents spin up, fork,
+      and discard isolated database instances in seconds, so each agent task gets
+      its own environment without risking production data. It features auto-pause
+      billing, CLI/MCP integration for agent-native workflows, and built-in extensions
+      like pgvector, designed around the principle that safe experimentation requires
+      cheap, disposable infrastructure.
+    score: 0
+    tags: []
+    source: ghost.build
+    summary_zh: Ghost 是一款面向 AI 代理的托管式 Postgres 服务，支持秒级创建、分叉和销毁数据库，实现每个任务独立隔离，确保生产环境零风险。它通过
+      CLI 和 MCP 原生集成代理工作流，提供自动暂停计费、只读模式、定时删除等功能，让代理可以基于真实数据自由实验而无需人工干预。
+    content_file: give-your-agent-a-db-for-every-task.md
+  - url: https://golangweekly.com/link/185935/rss
+    title: 'gookit/color: Terminal Color Rendering Library'
+    summary: '`gookit/color` is a Go command-line color library that supports 16-color,
+      256-color, and true color (24-bit RGB) output with a simple, zero-dependency
+      API and cross-platform Windows support. It provides generic print methods, HTML-like
+      tag-based color rendering, HEX/HSL/RGB conversion, and built-in theme styles
+      for common message types like info, warning, and error.'
+    score: 0
+    tags: []
+    source: github.com
+    summary_zh: 这是一个Go语言的命令行颜色库（gookit/color），支持16色、256色和真彩色输出，并提供通用的API方法（Print、Printf、Println等）以及HTML标签风格的颜色渲染。该库零依赖、使用简单，全面兼容Windows
+      CMD和PowerShell，还支持HEX、HSL到RGB的颜色转换以及通过环境变量控制颜色输出。
+    content_file: gookit-color-terminal-color-rendering-library.md
+  - url: https://golangweekly.com/link/185937/rss
+    title: 'g 1.0: A Simple Go Version Manager'
+    summary: '`g` is a lightweight, portable Go version manager consisting of a single
+      POSIX shell script that installs and switches between official prebuilt Go releases
+      without requiring root access, source builds, or shell shims. It offers an interactive
+      TUI, checksum-verified downloads with optional mirror support, and works across
+      macOS, Linux, BSD, and WSL with minimal dependencies.'
+    score: 0
+    tags: []
+    source: github.com
+    summary_zh: '`g` 是一个轻量级的 Go 版本管理器，以单个 POSIX shell 脚本实现，使用官方预编译归档包并通过校验和验证，无需 sudo
+      权限、shim 或插件系统即可快速安装和切换 Go 版本。它支持交互式版本选择、按需运行指定版本、镜像加速下载等功能，兼容 macOS、Linux、BSD
+      和 WSL，目标是以最低侵入性和最高可移植性满足 Go 多版本管理需求。'
+    content_file: g-1-0-a-simple-go-version-manager.md
+  - url: https://golangweekly.com/link/185940/rss
+    title: 'PgQue: A Pure SQL + PL/pgSQL Zero-Bloat Postgres Queue'
+    summary: PgQue is a pure SQL/PL/pgSQL reimplementation of Skype's battle-tested
+      PgQ queue engine that runs on any Postgres 14+, including managed providers,
+      without requiring C extensions or external daemons. It uses snapshot-based batching
+      and TRUNCATE-based table rotation to achieve zero dead-tuple bloat under sustained
+      load, offering Kafka-like shared-log fan-out semantics with independent per-consumer
+      cursors, at the trade-off of ~50ms median delivery latency.
+    score: 0
+    tags: []
+    source: github.com
+    summary_zh: PgQue 是一个纯 SQL 实现的 Postgres 队列系统，继承了 Skype 时代 PgQ 的快照批处理与表轮换架构，无需
+      C 扩展或外部守护进程，可直接运行在任何托管 Postgres 14+ 上。与基于 SKIP LOCKED 的队列不同，PgQue 在持续高负载下实现零死元组膨胀且无性能衰退，并支持类似
+      Kafka 的共享日志扇出模式，每个消费者通过独立游标接收所有事件。
+    content_file: pgque-a-pure-sql-pl-pgsql-zero-bloat-postgres-queue.md
+  - url: https://golangweekly.com/link/185949/rss
+    title: 'Figurine: A Go App to Print Your Name in Style'
+    summary: Figurine is a lightweight Go CLI tool that renders styled text using
+      random or user-specified fonts, installable via `go install` or prebuilt binaries.
+      It's designed to be added to shell startup files (`.zshrc`/`.bashrc`) to display
+      decorative messages when opening a new terminal, and uses the Rainbow library
+      for colorized output.
+    score: 0
+    tags: []
+    source: github.com
+    summary_zh: Figurine 是一个 Go 语言编写的命令行工具，可以用随机或指定的艺术字体将文本以风格化方式打印到终端。它轻量易用，支持添加到
+      shell 配置文件中实现每次开启终端自动显示装饰文字，并搭配 Rainbow 库为输出添加颜色。
+    content_file: figurine-a-go-app-to-print-your-name-in-style.md

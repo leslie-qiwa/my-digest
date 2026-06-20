@@ -1,26 +1,52 @@
 # Is AI ruining our skills? Early results are in – and they're not good
 
-I'll translate the article based on the content you provided. Note that the article text appears cut off partway through, so I'll translate everything that was included.
+I'll work with the content you provided. The article is cut off partway through, but I'll translate everything that's available.
 
 ---
 
-# AI正在毁掉我们的技能吗？初步研究结果已出——情况并不乐观
+# AI正在毁掉我们的技能吗？初步结果已经出炉——情况不容乐观
 
-新闻
-2026年6月18日
+*   新闻
+*   2026年6月18日
 
-## AI正在毁掉我们的技能吗？初步研究结果已出——情况并不乐观
+# AI正在毁掉我们的技能吗？初步结果已经出炉——情况不容乐观
 
 研究表明，对人工智能工具的依赖正在削弱医生和软件工程师的能力。
 
-作者：[Mariana Lenharo](https://www.nature.com/articles/d41586-026-01947-1#author-0)
+作者
+*   [Mariana Lenharo](https://www.nature.com/articles/d41586-026-01947-1#author-0)
 
-Mariana Lenharo 是《自然》杂志驻纽约的记者。
+1.   Mariana Lenharo
+    1.   Mariana Lenharo 是《自然》杂志驻纽约市的记者。
 
-![图片：一名患者躺在医院病床上接受结肠镜检查，周围有多名身穿绿色手术服的医生，医疗监视器和设备显示着内部影像和生命体征](https://media.nature.com/lw767/magazine-assets/d41586-026-01947-1/d41586-026-01947-1_52722984.jpg)
+![图片：一名患者躺在医院病床上接受结肠镜检查，周围有多名身穿绿色手术服的医生，医疗监控器和设备显示着内部图像和生命体征](https://media.nature.com/lw767/magazine-assets/d41586-026-01947-1/d41586-026-01947-1_52722984.jpg)
 
-在使用AI辅助后，医生自身在结肠镜检查中发现癌前病变的能力出现了下降……
+在习惯使用人工智能工具辅助结肠镜检查后，医生自身发现癌前病变的能力出现了下降。图片来源：Gabrielle Voinot/Look at Sciences/Science Photo Library
+
+随着[越来越多的专业人士开始在工作中依赖人工智能](https://www.nature.com/articles/d41586-025-01067-2)工具，他们辛苦积累的技能是否会退化？
+
+这种可能性日益引发医学专家、计算机科学家和其他从业者的担忧。例如，根据本月早些时候发表的一项针对美国医疗工作者的调查[1](https://www.nature.com/articles/d41586-026-01947-1#ref-CR1)，70%的护士和77%的医生担心因[过度依赖AI系统](https://www.nature.com/articles/d41586-025-00292-z)而丧失技能。
+
+他们的担忧或许不无道理。证据表明，AI驱动的"去技能化"现象正在医学、计算机科学和其他领域发生。研究人员正在讨论如何在AI时代保留重要的人类专业技能。
+
+"仅仅意识到这种现象的存在，就有望促使人们进行一些自我反思——思考哪些技能需要保持，哪些可以'外包'给AI工具，"纽约雪城大学的信息科学家Kevin Crowston说。
+
+## 被AI"宠坏"了？
+
+一项针对波兰内窥镜专科医生的研究[2](https://www.nature.com/articles/d41586-026-01947-1#ref-CR2)——内窥镜检查是使用柔性探头检查人体内部的技术——显示了AI工具能以多快的速度侵蚀人类的能力。这些医生在职业生涯中均已完成至少2000次结肠镜检查，他们获得了一个AI系统的使用权限，该系统可以实时分析[结肠镜图像](https://www.nature.com/articles/d41586-023-00020-5)，并标记出一种称为腺瘤的癌前肠道病变。该工具在某些天可供专家使用，在另一些天则不可用。
+
+一旦医生开始使用该工具，每当系统不可用时，他们的表现就会显著下降。在AI工具引入前的三个月内，专家在28.4%的结肠镜检查中至少发现了一个腺瘤。而在该工具引入后的三个月内，在没有AI辅助的情况下进行的结肠镜检查中，腺瘤检出率下降至22.4%。
+
+[![图片](https://media.nature.com/w400/magazine-assets/d41586-026-01947-1/d41586-026-01947-1_50963950.jpg) 谷歌AI诊断皮疹的图片识别能力优于人类医生](https://www.nature.com/articles/d41586-025-01437-w)
+
+这项发现去年十月发表在《柳叶刀·胃肠病学与肝脏病学》上，表明即使是高度熟练的专业人员，随着对AI工具的依赖加深，其工作所需的技能也可能退化。加州大学旧金山分校的医生Robert Wachter如是说，他也是一本关于AI工具如何变革医疗保健的著作的作者。该研究的作者指出，持续接触此类工具可能导致临床医生"在没有AI辅助的情况下做出认知决策时，变得不那么积极、不那么专注、不那么有责任心"。
+
+该研究的共同作者、奥斯陆大学的医生兼研究员Yuichi Mori表示，需要更多研究来证实这一现象。但他补充说，使用AI工具的人应该意识到他们面临着丧失部分技能的风险。"目前还没有成熟的解决方案来应对去技能化问题。这应该是未来十年一个非常热门的研究课题。"
+
+## 没有学到教训
+
+为了调查计算机科学领域是否存在技能流失，位于加州旧金山的AI公司Anthropic的研究人员设计了一项随机对照试验，其中52名软件工程师被要求……
 
 ---
 
-The article text you provided is incomplete — it cuts off mid-caption. If you can share the rest of the article (or grant web fetch permission), I can translate the full piece.
+您提供的原文在此处被截断。如果您能提供文章的剩余部分，我可以继续完成翻译。
