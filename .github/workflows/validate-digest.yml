@@ -19,11 +19,16 @@ jobs:
       - name: Validate digest YAML
         run: |
           python3 -c "
-          import sys, yaml, glob
+          import sys, yaml, glob, re
+
+          def has_chinese(text):
+              return bool(re.search(r'[一-鿿]', text or ''))
+
           errors = []
+          warnings = []
           files = [f for f in glob.glob('digests/*.yaml') if not f.endswith('index.yaml')]
           for path in files:
-              with open(path) as f:
+              with open(path, encoding='utf-8') as f:
                   data = yaml.safe_load(f)
               if not isinstance(data, dict):
                   errors.append(f'{path}: root must be a mapping')
@@ -43,6 +48,13 @@ jobs:
                       if url in urls:
                           errors.append(f'{path}: duplicate URL {url}')
                       urls.add(url)
+                      zh = item.get('summary_zh', '')
+                      if zh and not has_chinese(zh):
+                          errors.append(f'{path}: summary_zh is not Chinese: \"{zh[:60]}\"')
+                      if item.get('summary') and not zh:
+                          errors.append(f'{path}: {item[\"title\"][:40]} missing summary_zh')
+          for w in warnings:
+              print(f'WARNING: {w}', file=sys.stderr)
           if errors:
               for e in errors:
                   print(f'ERROR: {e}', file=sys.stderr)

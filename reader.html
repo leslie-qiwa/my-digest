@@ -23,9 +23,8 @@
 </head>
 <body>
 <div class="back"><a href="index.html">&larr; Back to digest</a></div>
-<div id="giscus-top" class="giscus-section"></div>
 <div id="content"><p class="loading">Loading...</p></div>
-<div id="giscus-bottom" class="giscus-section"></div>
+<div id="giscus-bottom" class="giscus-section" style="display:none;"></div>
 
 <script>
 const GISCUS = {
@@ -72,8 +71,9 @@ async function init() {
     const title = h1 ? h1.textContent : file;
     document.title = title;
 
-    loadGiscus(document.getElementById('giscus-top'), title);
-    loadGiscus(document.getElementById('giscus-bottom'), title);
+    const bottom = document.getElementById('giscus-bottom');
+    bottom.style.display = 'block';
+    loadGiscus(bottom, title);
   } catch (e) {
     document.getElementById('content').innerHTML = `<p>Failed to load: ${e.message}</p>`;
   }
