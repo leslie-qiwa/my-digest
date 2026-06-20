@@ -1,4 +1,4 @@
-# my-ai-digest
+# my-digest
 
 Personal news digest — daily hot discussions and articles, with Chinese translations.
 
