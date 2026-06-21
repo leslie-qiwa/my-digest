@@ -1,10 +1,26 @@
 date: '2026-06-21'
-generated_at: 2026-06-21 03:54 UTC
+generated_at: 2026-06-21 16:47 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/
+    title: Google Hits 50% IPv6
+    score: 324
+    comment_cnt: 314
+    comment_url: https://news.ycombinator.com/item?id=48616800
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 谷歌的监测数据显示，IPv6采用率首次达到其用户的50%，这一重要里程碑证明了IPv6作为全球部署协议的成熟度，而APNIC实验室经加权处理的测量数据则将全球IPv6能力定为42%。文章解释了测量方法的差异，指出各地区不同的采用速度反映的是合理的经济决策而非系统性失败，并承认互联网目前以双协议模式运行，互操作性在更高的协议层实现。
+    content_file: google-hits-50-ipv6.md
+    summary: Google's measurements show IPv6 adoption has reached 50% of its users
+      for the first time, a significant milestone demonstrating IPv6's maturity as
+      a globally deployed protocol, while APNIC Labs' weighted measurements place
+      global IPv6 capability at 42%. The article explains measurement methodology
+      differences, argues that varied adoption rates reflect rational economic decisions
+      rather than systemic failure, and acknowledges that the Internet now operates
+      as a two-protocol world with interoperability handled at higher layers.
   - url: https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/
     title: The Wholesale Plagiarism of Obscure Sorrows
     score: 334
