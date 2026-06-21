@@ -1,0 +1,24 @@
+date: '2026-06-21'
+generated_at: 2026-06-21 03:54 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/
+    title: The Wholesale Plagiarism of Obscure Sorrows
+    score: 334
+    comment_cnt: 139
+    comment_url: https://news.ycombinator.com/item?id=48611411
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: MetaFilter用户发现《晦涩忧伤词典》官网悄然更换域名并被第三方公司Qontour重构为AI驱动的改版网站，不仅全文盗用原著内容、用DALL-E
+      2生成插图、开放用户AI生成新词功能，还嵌入亚马逊联盟链接分润且误导性宣称获原作者授权；原作者约翰·科尼格否认参与，而该站因搜索排名优势导致公众误认其为官方，甚至AI搜索结果将其当作真实官网，严重混淆版权归属并损害项目声誉。
+    content_file: the-wholesale-plagiarism-of-obscure-sorrows.md
+    summary: A unauthorized website, created by the web design agency Qontour, replicates
+      and expands *The Dictionary of Obscure Sorrows* using AI-generated images and
+      user-input word creation via GPT-4, despite John Koenig’s denial of involvement
+      and the site’s lack of official authorization. The site’s misleading presentation,
+      copyright misrepresentations, affiliate links, and high search ranking—particularly
+      in AI-powered searches—have caused public confusion and potential reputational
+      harm to Koenig’s original human-centered project.
