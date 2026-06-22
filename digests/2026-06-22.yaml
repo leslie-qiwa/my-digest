@@ -1,0 +1,331 @@
+date: '2026-06-22'
+generated_at: 2026-06-22 18:09 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://docs.deno.com/runtime/desktop/
+    title: Deno Desktop
+    score: 864
+    comment_cnt: 330
+    comment_url: https://news.ycombinator.com/item?id=48626137
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: Deno 2.9.0 推出了 `deno desktop` 命令，可将任何 Deno 或 TypeScript 项目（包括 Next.js、Astro、SvelteKit
+      等框架应用）打包为自包含的桌面应用程序，支持跨平台编译、内置自动更新和进程内 webview 绑定。它默认使用操作系统原生 webview 以减小二进制体积，同时可选捆绑
+      Chromium（CEF）以实现跨平台一致渲染，是 Electron 和 Tauri 的轻量替代方案。
+    content_file: deno-desktop.md
+    summary: Deno 2.9.0 introduces `deno desktop`, a new command that turns any Deno
+      or TypeScript project—including framework apps like Next.js, Astro, and SvelteKit—into
+      a self-contained desktop application with cross-platform compilation, built-in
+      auto-update, and in-process webview bindings. It offers a lightweight alternative
+      to Electron and Tauri by defaulting to the OS-native webview for small binaries
+      while optionally bundling Chromium (CEF) for consistent cross-platform rendering.
+  - url: https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/
+    title: Did my old job only exist because of fraud?
+    score: 771
+    comment_cnt: 358
+    comment_url: https://news.ycombinator.com/item?id=48622867
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://nevergivethemyourface.com/
+    title: Never Give Them Your Face
+    score: 636
+    comment_cnt: 332
+    comment_url: https://news.ycombinator.com/item?id=48630066
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 三大洲的政府正在立法要求通过面部识别或政府身份证件进行在线"年龄验证"，但这些系统实质上是对所有人的身份追踪，危及每个人的隐私，同时未能真正保护儿童。作者呼吁人们拒绝配合，因为这些验证系统只有在几乎所有人都服从的情况下才能运作，而一旦生物特征数据泄露，它们无法像密码一样被重置。
+    content_file: never-give-them-your-face.md
+    summary: Governments on three continents are passing laws requiring facial recognition
+      or government ID for "age verification" online, but these systems function as
+      universal identity tracking that endangers everyone's privacy while failing
+      to actually protect children. The author argues that people should refuse to
+      comply, since these verification systems only work with near-universal participation
+      and the biometric data they collect cannot be changed if breached.
+  - url: https://mitchellh.com/writing/zig-donation-2026
+    title: Pledging another $400k to the Zig software foundation
+    score: 540
+    comment_cnt: 167
+    comment_url: https://news.ycombinator.com/item?id=48630020
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: Mitchell Hashimoto及其家人再次向Zig软件基金会捐赠40万美元，使其累计捐赠总额达到70万美元。他赞扬了Zig在技术卓越性、社区理念和独立质量追求方面的表现，指出Ghostty的诞生在很大程度上得益于Zig，同时呼吁在围绕Zig禁止LLM贡献政策的讨论中保持更多同理心。
+    content_file: pledging-another-400k-to-the-zig-software-foundation.md
+    summary: Mitchell Hashimoto and his family are pledging an additional $400,000
+      to the Zig Software Foundation, bringing their total support to $700,000. He
+      praises Zig's technical excellence, community philosophy, and independent approach
+      to quality, noting that Ghostty exists largely because of Zig, while also calling
+      for more empathy in debates around Zig's no-LLM contribution policy.
+  - url: https://techstackups.com/comparisons/glm-5.2-vs-opus/
+    title: GLM 5.2 vs. Opus
+    score: 384
+    comment_cnt: 266
+    comment_url: https://news.ycombinator.com/item?id=48626866
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://twitter.com/LarsAnders1620/status/2068208864747540516#m
+    title: Danish privacy activist Lars Andersen raided by police
+    score: 383
+    comment_cnt: 336
+    comment_url: https://news.ycombinator.com/item?id=48625823
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 一名丹麦隐私权活动人士兼前警察在以编码方式公布首相的社会安全号码和电话号码、并质疑其加密禁令和大规模监控立场后，被武装蒙面警察破门逮捕。警察进入后立即切断路由器电源并没收了他的谷歌Nest摄像头，以防止逮捕过程被录像，引发了对丹麦警察问责和公民自由的担忧。
+    content_file: danish-privacy-activist-lars-andersen-raided-by-police.md
+    summary: A Danish privacy activist and former police officer was arrested by armed,
+      masked police who broke down his door after he published the prime minister's
+      social security and phone numbers in a coded format and questioned her stance
+      on encryption bans and mass surveillance. The officers immediately cut power
+      to his router and seized his Google Nest cameras to prevent video documentation
+      of what he considers an illegal arrest, raising concerns about police accountability
+      and civil liberties in Denmark.
+  - url: https://www.marble.onl/posts/cancel_claude.html
+    title: There is minimal downside to switching to open models
+    score: 355
+    comment_cnt: 291
+    comment_url: https://news.ycombinator.com/item?id=48622518
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 作者认为，尽管使用开放权重的大语言模型在性能、API质量和隐私信任方面仍不及Claude和GPT等专有模型，但差距已大幅缩小，类似于Linux最终赶上Windows的过程。由于Claude推出身份验证机制以及模型限制不断增加，作者计划转向开放模型，预计仅会出现短期生产力下降，而非早年使用开源替代方案时那种难以承受的代价。
+    content_file: there-is-minimal-downside-to-switching-to-open-models.md
+    summary: The author argues that while using open-weight LLMs still carries a professional
+      penalty compared to proprietary models like Claude and GPT—in terms of performance,
+      API quality, and privacy trust—the gap has narrowed significantly, much like
+      how Linux eventually caught up to Windows. Prompted by Claude's ID verification
+      rollout and increasing model restrictions, the author plans to shift toward
+      open models, expecting only a short-term productivity hit rather than the deal-breaking
+      sacrifices that once accompanied open-source alternatives.
+  - url: https://github.com/openai/codex/issues/28224
+    title: Codex logging bug may write TBs to local SSDs
+    score: 352
+    comment_cnt: 193
+    comment_url: https://news.ycombinator.com/item?id=48626930
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: OpenAI 的 Codex CLI 工具因全局 TRACE 级别日志默认设置，每年向本地 SQLite 反馈日志数据库写入约 640
+      TB 数据，可能在不到一年内耗尽消费级 SSD 的保修写入寿命。根本原因是无差别地持久化依赖库噪声、原始 WebSocket/SSE 载荷和镜像的 OpenTelemetry
+      事件，建议的修复方案是收紧默认日志过滤器而非完全禁用反馈日志。
+    content_file: codex-logging-bug-may-write-tbs-to-local-ssds.md
+    summary: OpenAI's Codex CLI tool writes approximately 640 TB/year to a local SQLite
+      feedback log database due to a global TRACE-level logging default, which can
+      exhaust a consumer SSD's warranted write endurance in under a year. The root
+      cause is indiscriminate persistence of dependency noise, raw websocket/SSE payloads,
+      and mirrored OpenTelemetry events, and the proposed fix is narrowing default
+      log filters rather than disabling feedback logs entirely.
+  - url: https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html
+    title: Everything is logarithms
+    score: 290
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=48622626
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 这篇数学文章探讨了"无底数对数"的概念——将 log N 视为一个抽象代数对象，类似于几何向量，其中选择底数（如 2 或 e）等价于选择坐标系或度量单位。作者揭示了对数换底公式与向量投影/坐标变换之间的深层结构类比，论证对数的行为类似于相对于任意原点定义的乘法向量。
+    content_file: everything-is-logarithms.md
+    summary: This mathematical essay explores the concept of a "baseless logarithm"
+      — treating log N as an abstract algebraic object analogous to a geometric vector,
+      where choosing a base (like 2 or e) is equivalent to choosing a coordinate system
+      or unit of measurement. The author draws deep structural parallels between logarithmic
+      change-of-base formulas and vector projection/coordinate transformations, arguing
+      that logarithms behave like multiplicative vectors defined relative to an arbitrary
+      origin.
+  - url: https://hawksley.dev/blog/json-ld-explained-for-personal-websites/
+    title: JSON-LD explained for personal websites
+    score: 262
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=48621517
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: JSON-LD（JSON 链接数据）是一种嵌入网页 `<head>` 标签中的结构化数据格式，帮助搜索引擎和大语言模型爬虫理解网站语义，从而获得更丰富的链接预览和更好的搜索排名。本指南介绍了关键的
+      Schema.org 节点类型——WebSite、WebPage、Person 和 ProfilePage——并提供了个人网站的实用示例，重点说明了用于跨平台消歧的
+      `sameAs` 属性以及用于跨页面合并节点数据的 `@id` 标识符。
+    content_file: json-ld-explained-for-personal-websites.md
+    summary: JSON-LD (JSON Linked Data) is a structured data format embedded in webpage
+      `<head>` tags that helps search engines and LLM crawlers understand site semantics,
+      enabling richer previews and better search rankings. The guide covers key Schema.org
+      node types—WebSite, WebPage, Person, and ProfilePage—with practical examples
+      for personal websites, emphasizing properties like `sameAs` for cross-platform
+      disambiguation and `@id` for merging node data across pages.
+  - url: https://sakana.ai/fugu/
+    title: Sakana Fugu
+    score: 199
+    comment_cnt: 109
+    comment_url: https://news.ycombinator.com/item?id=48624782
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: Fugu-Ultra 是一个通过编排多个强大模型来协同工作的 AI 系统，在六项不同的基准测试中——包括自主机器学习训练优化、古典日语假名书信阅读顺序推定、魔方求解、CAD
+      机械虹膜设计、蒙眼国际象棋和股票交易——均超越了单一前沿模型，证明了多模型编排在智能体式任务中可以超过任何单一前沿模型。值得注意的是，在 AutoResearch
+      实验中，它在单块 H100 GPU 上经过 123 次自主实验后实现了最佳平均验证 BPB（0.9774），在假名消息阅读顺序任务中则取得了 NED 0.80
+      的成绩，远超最接近的竞争者的 0.24。
+    content_file: sakana-fugu.md
+    summary: Fugu-Ultra, an AI system that orchestrates multiple strong models, outperformed
+      individual frontier models across six diverse benchmarks — including autonomous
+      ML training optimization, classical Japanese reading-order recovery, Rubik's
+      Cube solving, CAD mechanical design, blindfold chess, and stock trading — demonstrating
+      that multi-model orchestration can surpass any single frontier model on agentic
+      tasks. Notably, in the AutoResearch experiment it achieved the best mean validation
+      BPB (0.9774) over 123 autonomous experiments on a single H100 GPU, and in the
+      kana letter reading-order task it scored NED 0.80 versus 0.24 for the nearest
+      competitor.
+  - url: https://www.mooreds.com/wordpress/archives/3518
+    title: Ask for no, don't ask for yes (2022)
+    score: 182
+    comment_cnt: 88
+    comment_url: https://news.ycombinator.com/item?id=48622234
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 文章提倡一种"行动优先"的习惯：与其向上级请求许可（寻求"同意"），不如告知你的计划并设定一个近期截止日期，邀请对方提出异议（寻求"反对"）。这种方式能保持工作推进节奏，减轻忙碌管理者的决策负担，同时让你在解决问题的过程中仍能保持上级知情并允许其在必要时介入。
+    content_file: ask-for-no-don-t-ask-for-yes-2022.md
+    summary: The article advocates for a "bias for action" habit where, instead of
+      asking your boss for permission (seeking a "yes"), you inform them of your plan
+      with a near-term deadline and invite them to object (asking for a "no"). This
+      approach keeps momentum, reduces the decision burden on busy managers, and lets
+      you solve problems while still keeping leadership informed and able to weigh
+      in.
+  - url: https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers
+    title: Why Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers
+    score: 169
+    comment_cnt: 87
+    comment_url: https://news.ycombinator.com/item?id=48629064
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 绘图板制造商Gaomon、XpPen、Huion和Ugee拒绝合作开发开源Linux驱动，理由是关键驱动基础设施（Libwacom、wacom-hid-descriptors）以其最大竞争对手Wacom命名，参与合作意味着将设备规格直接分享给Wacom。作者此前一直在Linux上仅使用自由开源软件评测绘图板，现将回归逐一记录硬件规格、提交给Red
+      Hat开发者维护udev-hid-bpf项目的方式。
+    content_file: why-drawing-tablet-brands-won-t-collaborate-on-linux-floss-d.md
+    summary: Drawing tablet manufacturers Gaomon, XpPen, Huion, and Ugee have declined
+      to collaborate on open-source Linux drivers, citing concerns that the key driver
+      infrastructure (Libwacom, wacom-hid-descriptors) carries Wacom branding — their
+      largest competitor — and that participation would effectively mean sharing device
+      specifications with Wacom. The author, who reviews tablets on Linux using only
+      FLOSS software, will revert to documenting hardware specs one tablet at a time
+      for the Red Hat developers maintaining the udev-hid-bpf project.
+  - url: https://underreacted.leaflet.pub/3mmevu6woys27
+    title: Japanese verb conjugation the simple hard way
+    score: 143
+    comment_cnt: 225
+    comment_url: https://news.ycombinator.com/item?id=48623419
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 本文介绍了一种优雅的日语动词变位学习方法，用词干拼接加"通配元音"的简洁体系取代了传统教学中需要死记硬背的繁琐规则和动词分组例外。通过理解一段动词（ichidan）词干固定、而五段动词（godan）词干末尾有一个由后缀隐含元音填充的通配位，学习者可以从少量基本原理推导出各种变位形式，而非依赖查表记忆。
+    content_file: japanese-verb-conjugation-the-simple-hard-way.md
+    summary: This article presents an elegant alternative approach to learning Japanese
+      verb conjugation, replacing the traditional memorization of arbitrary rules
+      and verb group exceptions with a simple system based on stems, suffix concatenation,
+      and a "wildcard vowel" concept. By understanding that ichidan (one-row) verbs
+      have fixed stems while godan (five-row) verbs have a wildcard vowel slot filled
+      by each suffix's hidden vowel, learners can derive conjugations from a small
+      set of primitives rather than rote tables.
+  - url: https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html
+    title: The Doom Justifies the Valuation
+    score: 137
+    comment_cnt: 144
+    comment_url: https://news.ycombinator.com/item?id=48624195
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 作者认为，AI公司（尤其是Anthropic）利用末日叙事和炒作而非技术实质来支撑其高估值，并将此与GLM-5.2务实的技术博文形成对比。文章将AI炒作周期类比为历史上的社会狂热，呼吁在泡沫破裂后追究责任并建设可持续的经济体系。
+    content_file: the-doom-justifies-the-valuation.md
+    summary: The author argues that AI companies, particularly Anthropic, use existential
+      risk narratives and hype rather than technical substance to justify inflated
+      valuations, contrasting this with GLM-5.2's straightforward technical blog post.
+      They compare the AI hype cycle to past social manias and call for accountability
+      and sustainable economic structures once the bubble deflates.
+  - url: https://github.com/raiyanyahya/recall
+    title: 'Show HN: Recall – Local project memory for Claude Code'
+    score: 124
+    comment_cnt: 77
+    comment_url: https://news.ycombinator.com/item?id=48622590
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: Recall 是一款免费、隐私优先的 Claude Code 插件，通过自动记录会话活动并在本地生成简洁摘要（使用 TF-IDF +
+      TextRank，无需调用大模型），解决了每次新会话的"冷启动"问题。它无需 API 密钥、无需安装依赖、不发送任何网络请求——所有数据均保存在本地 `.recall/`
+      目录中，以零 token 开销为 Claude Code 内置的 `CLAUDE.md` 和 `--continue` 功能提供了持久化上下文补充。
+    content_file: show-hn-recall-local-project-memory-for-claude-code.md
+    summary: Recall is a free, privacy-first Claude Code plugin that solves the cold-start
+      problem by automatically logging session activity and producing a compact local
+      summary (via TF-IDF + TextRank, no LLM call) so each new session can resume
+      where the last left off. It requires no API key, no installs, and no network
+      calls—everything stays on-machine under a `.recall/` directory, complementing
+      Claude Code's built-in `CLAUDE.md` and `--continue` options with zero-token-cost
+      persistent context.
+  - url: https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time
+    title: Investors get real-time view of UK bond market activity for the first time
+    score: 87
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=48626918
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 英国推出了首个债券综合报价系统（consolidated tape），由ETS Connect UK运营，使投资者首次能够通过单一实时数据源获取英国债券市场的价格和交易信息，成为北美以外首个推出此类系统的国家。该系统的上线得益于2025年12月生效的透明度规则改革，企业债实时报告比例从不足5%提升至75%以上，目前覆盖98%的合规债券交易，由FCA在五年合同期内进行监管。
+    content_file: investors-get-real-time-view-of-uk-bond-market-activity-for.md
+    summary: The UK has launched its first bond consolidated tape, operated by ETS
+      Connect UK, providing investors with a single real-time source of prices and
+      trading activity across the UK bond market—making it the first country outside
+      North America to do so. The launch follows December 2025 transparency rule changes
+      that boosted real-time corporate bond trade reporting from under 5% to over
+      75%, with the tape now covering 98% of in-scope bond trading under a 5-year
+      FCA-supervised contract.
+  - url: https://www.scientificamerican.com/article/how-becoming-a-dad-changes-mens-brains/
+    title: Becoming a dad changes men's brains
+    score: 77
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=48629356
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 科学研究表明，成为父亲会引起可测量的大脑变化——包括灰质减少和亲职照护神经网络的激活——这些变化源于照护行为本身，而非妊娠的生理过程。多达十分之一的父亲会经历产后抑郁或焦虑，但筛查工具和支持体系仍主要面向母亲，研究者呼吁将母亲支持系统重构为涵盖父母双方的育儿支持体系。
+    content_file: becoming-a-dad-changes-men-s-brains.md
+    summary: Scientific research shows that fatherhood causes measurable brain changes—including
+      gray matter reductions and activation of parental caregiving networks—driven
+      by caregiving itself rather than pregnancy biology. Up to one in 10 fathers
+      experience postnatal depression or anxiety, yet screening tools and support
+      systems remain largely designed for mothers, prompting calls to restructure
+      maternal support into broader parental systems.
+  - url: https://mcipetition.com/
+    title: Petition against Meta's employee training data collection for ML models
+    score: 75
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=48623721
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 超过100名Meta员工签署公开信，要求公司停止通过名为"MCI"的项目收集员工电脑使用数据（包括键盘输入、鼠标移动、屏幕内容等）用于AI模型训练，并指出该做法存在严重的隐私、知情同意和监管风险。公开信援引了Meta此前违反GDPR被罚款9100万欧元以及2026年AI代理导致敏感数据泄露等事件，警告此类数据收集不可避免地会涉及社会安全号码和健康信息等敏感数据，可能违反加州隐私法律。
+    content_file: petition-against-meta-s-employee-training-data-collection-fo.md
+    summary: Over 100 Meta employees signed an open letter demanding the company stop
+      collecting employee computer-use data—keystrokes, mouse movements, screen content—for
+      AI model training under a program called MCI, citing privacy, consent, and regulatory
+      concerns. The letter highlights Meta's past GDPR violations, a 2026 AI-agent
+      data leak, and warns that such collection inevitably captures sensitive information
+      like SSNs and health data, potentially violating California privacy laws.
+  - url: https://clevercrow.io
+    title: 'Show HN: CleverCrow: give tokens to your favorite projects'
+    score: 39
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=48621645
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: CleverCrow 是一个让开源社区众筹算力、由 AI 代理完成缺陷修复和功能开发的平台，维护者在计划、代码审查和合并的每个环节都拥有完全控制权。代理在无凭证的沙箱中运行，支持者汇集小额资金支付令牌成本，未使用的资金会自动退还。
+    content_file: show-hn-clevercrow-give-tokens-to-your-favorite-projects.md
+    summary: CleverCrow is a platform that lets open-source communities fund compute
+      for AI-driven bug fixes and features, with maintainers retaining full control
+      over planning, code review, and merging. The agent works in a credential-less
+      sandbox, backers pool small pledges to cover token costs, and unspent funds
+      are refunded automatically.
+  - url: https://oak.space/oak/oak
+    title: 'Show HN: Oak – Git replacement designed for agents'
+    score: 31
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48631726
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: Oak 是一个专为 AI 代理工作流设计的开源版本控制系统，采用 Rust Cargo 工作区构建，包含可复用的 VCS 库（oakvcs-core）和命令行客户端（oakvcs-cli）。它以"每会话一分支"作为工作单元，通过内容寻址的惰性挂载实现快速仓库加载，支持
+      Claude Code、Codex、Cursor 等多种代理前端。
+    content_file: show-hn-oak-git-replacement-designed-for-agents.md
+    summary: Oak is an open-source version control system designed for AI agent workflows,
+      built as a Rust Cargo workspace with a reusable VCS library (oakvcs-core) and
+      a CLI client (oakvcs-cli). It uses branch-per-session as the unit of work, content-addressed
+      lazy mounts for fast repo hydration, and supports multiple agent frontends like
+      Claude Code, Codex, and Cursor.
