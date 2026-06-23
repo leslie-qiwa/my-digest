@@ -1,10 +1,51 @@
 date: '2026-06-23'
-generated_at: 2026-06-23 20:00 UTC
+generated_at: 2026-06-23 22:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.anthropic.com/legal/privacy
+    title: Anthropic updates their terms to verify age or identity
+    score: 183
+    comment_cnt: 160
+    comment_url: https://news.ycombinator.com/item?id=48650311
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://dynomight.net/vitamin-d/
+    title: The worthlessness of Vitamin D is mildly exaggerated
+    score: 131
+    comment_cnt: 93
+    comment_url: https://news.ycombinator.com/item?id=48647486
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection
+    title: AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15%
+      Asian
+    score: 107
+    comment_cnt: 85
+    comment_url: https://news.ycombinator.com/item?id=48649673
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://sofiakodar.github.io/posts/becomingmanager/
+    title: The truth about being a manager
+    score: 95
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=48648558
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.anthropic.com/news/introducing-claude-tag
     title: Claude Tag
     score: 151
