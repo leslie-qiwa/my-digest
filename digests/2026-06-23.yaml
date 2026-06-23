@@ -1,0 +1,201 @@
+date: '2026-06-23'
+generated_at: 2026-06-23 05:50 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://ipvm.com/reports/police-chiefs-track
+    title: Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed
+    score: 457
+    comment_cnt: 186
+    comment_url: https://news.ycombinator.com/item?id=48634694
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 美国多地警察局长因利用Flock车牌识别系统跟踪前任伴侣和情敌而被逮捕或被迫辞职，其中一名局长对一名男子的车牌查询多达178次——Flock公司首席法务官承认这是"最常见的"滥用形式，却同时将其描述为罕见事件。民权组织和GPS、手机定位追踪领域的法律先例支持对常规车牌识别查询实施搜查令要求，而现有的紧急情况例外条款仍可保障真正紧急情况下的无令访问。
+    content_file: flock-powered-police-chiefs-stalking-women-shows-why-warrant.md
+    summary: Police chiefs across the U.S. have been arrested or forced to resign
+      for using Flock license plate reader systems to stalk ex-partners and romantic
+      rivals, with one chief running a man's plate up to 178 times — a pattern Flock's
+      own chief legal officer called "the most common" form of abuse while simultaneously
+      characterizing it as rare. Civil liberties groups and legal precedent from GPS
+      and cell-phone tracking cases support requiring warrants for routine LPR queries,
+      while existing exigent-circumstances exceptions would preserve warrantless access
+      for genuine emergencies.
+  - url: https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/
+    title: The text in Claude Code’s “Extended Thinking” output
+    score: 293
+    comment_cnt: 205
+    comment_url: https://news.ycombinator.com/item?id=48630535
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: Claude Code 记录到磁盘的"思维块"实际上是加密签名，只有 Anthropic 持有解密密钥，用户无法独立审计代理的实际推理过程。API
+      仅返回模型推理的有损摘要而非完整思维链，这引发了对透明度和真正审计追踪可行性的担忧。
+    content_file: the-text-in-claude-codes-extended-thinking-output.md
+    summary: Claude Code's "thinking blocks" logged to disk are encrypted signatures
+      that only Anthropic can decrypt, meaning users cannot independently audit the
+      actual reasoning behind their agent's actions. The API returns only a lossy
+      summary of the model's reasoning rather than the full chain of thought, raising
+      concerns about transparency and the feasibility of true audit trails.
+  - url: https://unsloth.ai/docs/models/glm-5.2
+    title: GLM-5.2 – How to Run Locally
+    score: 286
+    comment_cnt: 133
+    comment_url: https://news.ycombinator.com/item?id=48636377
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: Z.ai 发布了 GLM-5.2 开源模型，拥有 7440 亿参数（400 亿活跃参数）和 100 万上下文窗口，声称性能可与 Claude
+      4.8 Opus、GPT-5.5 和 Gemini 3.1 Pro 持平。Unsloth 提供了动态 GGUF 量化方案，最低可将模型压缩至 223GB（1-bit），2-bit
+      量化可在 256GB 统一内存的 Mac 上运行，同时保留约 82% 的 top-1 准确率。
+    content_file: glm-5-2-how-to-run-locally.md
+    summary: Z.ai has released GLM-5.2, a 744B-parameter open model with 40B active
+      parameters and a 1M context window, claiming performance on par with Claude
+      4.8 Opus, GPT-5.5, and Gemini 3.1 Pro. Unsloth has provided dynamic GGUF quantizations
+      that compress the model down to as little as 223GB (1-bit) for local inference
+      on consumer hardware, with the 2-bit quant fitting on a 256GB unified-memory
+      Mac while retaining roughly 82% top-1 accuracy.
+  - url: https://spur.us/blog/smart-tv-apps-residential-proxy-sdks
+    title: Nearly half of LG smart TV apps contain residential proxy SDKs
+    score: 215
+    comment_cnt: 144
+    comment_url: https://news.ycombinator.com/item?id=48635954
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 一项对6,038款LG和三星智能电视应用的扫描发现，其中2,058款内嵌了Bright Data、Massive和Honeygain/Oxylabs的住宅代理SDK，在用户不知情的情况下将第三方网络流量通过其家庭网络转发，以换取免广告体验或后台变现。与已明确禁止此类行为的亚马逊和Roku不同，LG和三星尚未出台同等公开政策，使电视用户面临本地网络被入侵的潜在风险。
+    content_file: nearly-half-of-lg-smart-tv-apps-contain-residential-proxy-sd.md
+    summary: A scan of 6,038 LG and Samsung smart TV apps found 2,058 containing residential
+      proxy SDKs from Bright Data, Massive, and Honeygain/Oxylabs, quietly routing
+      third-party internet traffic through users' home networks in exchange for ad-free
+      experiences or background monetization. Unlike Amazon and Roku, which ban such
+      practices, LG and Samsung have no equivalent public policy, leaving TV owners
+      exposed to potential local-network intrusion if the SDK's server-side traffic
+      filters fail or are abused.
+  - url: https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080
+    title: Mexican government unveils a prototype for a new homegrown, ultra-affordable
+      EV
+    score: 201
+    comment_cnt: 162
+    comment_url: https://news.ycombinator.com/item?id=48632652
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 墨西哥发布了政府支持的电动汽车原型车Olinia Uno，售价约8,500美元，可搭载六名乘客，续航里程约125公里，计划于明年夏天上市，作为总统辛鲍姆"墨西哥计划"经济倡议的一部分。该车发布正值中国车企引领全球电动汽车平价化浪潮之际，而美国则通过高额关税壁垒和拟议中的中国联网汽车禁令采取相反路线。
+    content_file: mexican-government-unveils-a-prototype-for-a-new-homegrown-u.md
+    summary: Mexico unveiled the Olinia Uno, a government-backed electric vehicle
+      prototype priced at roughly $8,500 that seats six and offers 77 miles of range,
+      with sales planned for next summer as part of President Sheinbaum's Plan México
+      economic initiative. The launch comes amid a global EV affordability push led
+      by Chinese manufacturers, while the U.S. moves in the opposite direction with
+      tariff barriers and proposed bans on Chinese-connected vehicles.
+  - url: https://role-confusion.github.io
+    title: Prompt Injection as Role Confusion
+    score: 171
+    comment_cnt: 93
+    comment_url: https://news.ycombinator.com/item?id=48631888
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 本文认为提示注入攻击之所以成功，是因为大语言模型未能正确感知角色边界——即将单一token流划分为不同信任和权限层级的标签（system、user、tool）。作者指出，理解角色感知机制而非记忆已知攻击模式才是实现稳健防御的关键，并提出了一套研究角色机制的科学议程。
+    content_file: prompt-injection-as-role-confusion.md
+    summary: This paper argues that prompt injection attacks succeed because LLMs
+      fail to correctly perceive role boundaries — the tags (system, user, tool) that
+      partition a single token stream into segments of different trust and authority.
+      The authors show that understanding role perception, rather than memorizing
+      known attacks, is the key to robust defenses, and they propose a research agenda
+      for studying how LLMs process roles.
+  - url: https://arun.is/blog/japan-symbols/
+    title: Japanese symbols that speak without words
+    score: 148
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=48634803
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 日本拥有悠久的无文字图形符号传统——从古代的家纹到现代的驾驶员标志和公共交通标识——仅通过形状和颜色传达含义，无需任何文字。这些符号涵盖了警车和特急列车的车辆徽标、面向新手驾驶员、老年驾驶员和残障驾驶员的强制或推荐车贴，以及东京都发行的帮助标志，用于标识公共交通中有隐性健康状况的乘客。
+    content_file: japanese-symbols-that-speak-without-words.md
+    summary: Japan has a rich tradition of wordless graphic symbols—from ancient kamon
+      crests to modern driver and transit marks—that convey meaning through shape
+      and color alone, requiring no text. These symbols range from vehicle insignia
+      for police and express trains to mandatory driver stickers for beginners, elderly,
+      and disabled motorists, as well as the Tokyo-issued Help Mark for people with
+      invisible disabilities on public transit.
+  - url: https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes
+    title: British Columbia, Time Zones, and Postgres
+    score: 127
+    comment_cnt: 88
+    comment_url: https://news.ycombinator.com/item?id=48634787
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 不列颠哥伦比亚省于 2026 年 3 月永久切换至全年太平洋夏令时（UTC-7），这可能导致 PostgreSQL 中以 `timestamptz`
+      存储的未来预约出现静默偏差，因为该列类型存储的是 UTC 值，而插入与查询之间 tzdata 规则可能已发生变化。推荐的解决方案是双列模式——同时存储用户的本地时间、IANA
+      时区名称以及由触发器计算的 UTC 列——从而确保未来的本地时间意图不受时区规则更新的影响。
+    content_file: british-columbia-time-zones-and-postgres.md
+    summary: British Columbia's permanent switch to year-round Pacific Daylight Time
+      (UTC-7) in March 2026 can silently break future appointments stored as `timestamptz`
+      in PostgreSQL, because those columns store UTC and rely on tzdata rules that
+      change between insert and query time. The recommended fix is a dual-column pattern—storing
+      the user's local wall-clock time, IANA timezone name, and a trigger-computed
+      UTC column—so that future local intent survives timezone-rule updates.
+  - url: https://lwn.net/Articles/1029767/
+    title: Linux and Secure Boot certificate expiration (2025)
+    score: 118
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=48633941
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 微软用于签署 Linux 安全启动 shim 的 2011 年 UEFI 签名密钥将于 2026 年 9 月到期，届时在安全启动系统上进行新的
+      Linux 安装将需要固件更新以添加微软 2023 年的替换密钥——而许多系统可能尚未获得甚至永远不会获得此更新。虽然已安装的发行版应能继续使用自身密钥正常启动，但此次过渡带来了重大复杂性，包括
+      EFI 变量空间不足问题、至少一家制造商丢失了其平台密钥，以及首次进行的 KEK 更新流程可能被部分 BIOS 厂商错误实现。
+    content_file: linux-and-secure-boot-certificate-expiration-2025.md
+    summary: Microsoft's 2011 UEFI signing key used for Linux Secure Boot shim expires
+      in September 2026, meaning new Linux installations on Secure Boot systems will
+      require firmware updates to add Microsoft's 2023 replacement key—updates that
+      many systems may not yet have or may never receive. While already-installed
+      distributions should continue booting with their own keys, the transition introduces
+      significant complications including EFI variable space issues, at least one
+      manufacturer losing its platform key, and the first-ever KEK update process,
+      which some BIOS vendors may have implemented incorrectly.
+  - url: https://manualdousuario.net/en/smart-glasses-ugly-tacky/
+    title: Tacky men with ridiculous glasses want you to wear them too
+    score: 102
+    comment_cnt: 147
+    comment_url: https://news.ycombinator.com/item?id=48636100
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 硅谷CEO们正将"智能眼镜"推崇为下一代计算平台，但文章认为从谷歌眼镜到Meta Ray-Ban再到Snap的AR眼镜，每一代产品在文化和审美上都注定失败——笨重、丑陋且不受社会欢迎。除了时尚问题，这些眼镜还面临电池续航短、实用性存疑以及对旁人严重的隐私威胁等困境，令人想起2012年"Glasshole"的强烈反感。
+    content_file: tacky-men-with-ridiculous-glasses-want-you-to-wear-them-too.md
+    summary: Silicon Valley CEOs are pushing "smart glasses" as the next computing
+      platform, but the article argues these efforts are culturally and aesthetically
+      doomed—every iteration from Google Glass to Meta Ray-Bans to Snap's AR specs
+      remains bulky, ugly, and socially unwelcome. Beyond fashion, the glasses offer
+      limited battery life, questionable utility, and serious privacy concerns for
+      bystanders, recalling the "Glasshole" backlash of 2012.
+  - url: https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm
+    title: Blogger defeats photographer's copyright claim
+    score: 95
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=48632859
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 联邦法院以合理使用为由，判决博主Lauren Messiah胜诉——摄影公司Sokolskyfilm因其2009年博客文章中使用了一张通过Google图片搜索找到的1962年时尚照片而提起诉讼。法院的分析明显偏向被告，凸显了因博客附带使用照片而起诉的低风险本质，以及在线版权法中诉讼时效抗辩持续被削弱的趋势。
+    content_file: blogger-defeats-photographer-s-copyright-claim.md
+    summary: A federal court ruled in favor of blogger Lauren Messiah on fair use
+      grounds after photographer Sokolskyfilm sued over a 2009 blog post that used
+      a 1962 fashion photo found via Google Images, despite the photo being used verbatim
+      and without credit. The court's notably defense-favorable analysis highlights
+      the low-stakes nature of suing bloggers over incidental photo use and the continued
+      erosion of statute-of-limitations defenses in online copyright law.
+  - url: https://github.com/kyle-ssg/kyde
+    title: 'Show HN: I rebuilt the only parts of my IDE I use, in Rust, over a weekend'
+    score: 46
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=48629416
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: Kyde 是一款基于 Zed 的 gpui 框架构建的开源 macOS 原生 GPU 渲染 Git 客户端与代码编辑器，在大文件上可实现
+      120fps 滚动，支持并排差异对比与分块暂存、内嵌终端及 tree-sitter 语法高亮。该项目由一位自称不懂 Rust 的开发者创建，旨在为提交与差异查看工作流提供一个快速的原生替代方案，免去启动完整
+      JVM IDE 的等待。
+    content_file: show-hn-i-rebuilt-the-only-parts-of-my-ide-i-use-in-rust-ove.md
+    summary: Kyde is a new open-source, GPU-rendered Git client and code editor for
+      macOS built on Zed's gpui framework, offering 120fps scrolling on large files,
+      side-by-side diffs with hunk staging, an embedded terminal, and tree-sitter
+      syntax highlighting. Created by a developer who doesn't know Rust, it aims to
+      be a fast, native replacement for the commit-and-diff workflow that previously
+      required a full JVM-based IDE.
