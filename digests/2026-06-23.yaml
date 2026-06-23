@@ -1,10 +1,72 @@
 date: '2026-06-23'
-generated_at: 2026-06-23 16:02 UTC
+generated_at: 2026-06-23 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://mistral.ai/news/ocr-4/
+    title: Mistral OCR 4
+    score: 281
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=48645152
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/future-file-format/f3
+    title: F3
+    score: 196
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48647799
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://status.claude.com/incidents/jbhf20wjmzrf
+    title: Elevated error rate across multiple models
+    score: 173
+    comment_cnt: 212
+    comment_url: https://news.ycombinator.com/item?id=48645386
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.dshr.org/2026/06/ais-affordability-crisis.html
+    title: AI's Affordability Crisis
+    score: 162
+    comment_cnt: 212
+    comment_url: https://news.ycombinator.com/item?id=48646276
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://finance.yahoo.com/markets/currencies/articles/ecb-secures-key-parliamentary-backing-102718449.html
+    title: Digital euro clears key hurdle as EU seeks to break free from U.S. credit
+      cards
+    score: 72
+    comment_cnt: 96
+    comment_url: https://news.ycombinator.com/item?id=48647444
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.acquired.fm/episodes/the-walt-disney-company
+    title: Walt Disney Company is the most successful at monetizing human nostalgia
+      [audio]
+    score: 55
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=48635409
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://arxiv.org/abs/2606.16140
     title: 'VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel
       SFT+GRPO'
