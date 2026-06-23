@@ -1,10 +1,164 @@
 date: '2026-06-23'
-generated_at: 2026-06-23 05:50 UTC
+generated_at: 2026-06-23 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://arxiv.org/abs/2606.16140
+    title: 'VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel
+      SFT+GRPO'
+    score: 306
+    comment_cnt: 162
+    comment_url: https://news.ycombinator.com/item?id=48639240
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.stephendiehl.com/posts/bad_place_2026/
+    title: 'Crypto in 2026: Oh, This Is the Bad Place'
+    score: 277
+    comment_cnt: 318
+    comment_url: https://news.ycombinator.com/item?id=48642699
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/baidu/Unlimited-OCR
+    title: 'Unlimited OCR: One-Shot Long-Horizon Parsing'
+    score: 266
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=48643426
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://swelljoe.com/post/will-it-mythos/
+    title: Will It Mythos?
+    score: 239
+    comment_cnt: 177
+    comment_url: https://news.ycombinator.com/item?id=48640196
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://jchri.st/blog/in-praise-of-memcached/
+    title: In praise of memcached
+    score: 231
+    comment_cnt: 99
+    comment_url: https://news.ycombinator.com/item?id=48638886
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://pluralistic.net/2026/06/23/destroy-the-village/
+    title: Spying on kids to save kids from spying is stupid
+    score: 215
+    comment_cnt: 140
+    comment_url: https://news.ycombinator.com/item?id=48645173
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/dorukkumkumoglu/optocamzero
+    title: 'Optocam Zero: a Pi Zero based digital camera made using off the shelf
+      components'
+    score: 212
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=48634778
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://kreya.app/blog/new-http-query-method-explained/
+    title: The new HTTP QUERY method explained
+    score: 197
+    comment_cnt: 142
+    comment_url: https://news.ycombinator.com/item?id=48640974
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lucumr.pocoo.org/2026/6/23/the-coming-loop/
+    title: The Coming Loop
+    score: 151
+    comment_cnt: 133
+    comment_url: https://news.ycombinator.com/item?id=48643180
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627
+    title: Memory crisis is getting so bad that even retro RAM prices are going to
+      the Moon
+    score: 143
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48634559
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://en.wikipedia.org/wiki/User:Larry_Sanger
+    title: Wikipedia cofounder Larry Sanger blocked from editing Wikipedia
+    score: 96
+    comment_cnt: 105
+    comment_url: https://news.ycombinator.com/item?id=48643407
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/c4gy0x0j5deo
+    title: Oracle shed about 20k roles globally in the last year
+    score: 92
+    comment_cnt: 107
+    comment_url: https://news.ycombinator.com/item?id=48643620
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.lwilko.com/blog/i-gave-an-ai-a-civilization
+    title: AI Built a Nuke and Still Lost
+    score: 83
+    comment_cnt: 92
+    comment_url: https://news.ycombinator.com/item?id=48641927
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://daringfireball.net/linked/2026/06/22/apple-device-prices-when
+    title: Apple is going to raise device prices, but when?
+    score: 72
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=48643079
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=48641160
+    title: 'Ask HN: Anthropic banned me from using Claude Code and I don''t know what
+      to do'
+    score: 55
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=48641160
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://ipvm.com/reports/police-chiefs-track
     title: Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed
     score: 457
