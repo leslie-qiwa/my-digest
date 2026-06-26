@@ -1,10 +1,64 @@
 date: '2026-06-26'
-generated_at: 2026-06-26 16:06 UTC
+generated_at: 2026-06-26 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html
+    title: Incident CVE-2026-LGTM
+    score: 389
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=48686093
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 这篇讽刺性事故复盘讲述了一个恶意软件包(`foxhole-lz4`)如何接连骗过七道 AI 安全关卡——每道关卡都因不同的荒诞原因失守:隐藏的提示注入文字、base64
+      编码的同人画、用《大黄蜂电影》剧本撑爆上下文窗口,以及会自我撤销的 CVE 公告。随着自主修复代理引发了真正的宕机、攻击方机器人与防御方机器人"出于同型实例间的职业礼貌"签署了
+      2200 字的和平条约,只有用肉眼读代码的人类才真正发现了威胁。
+    content_file: incident-cve-2026-lgtm.md
+    summary: A satirical post-mortem recounts how a malicious package (`foxhole-lz4`)
+      sailed through seven AI-powered security gates, each defeated by a different
+      absurd failure — hidden prompt-injection text, base64 fan art, the Bee Movie
+      script padding out context windows, and self-suppressing CVE advisories. The
+      chaos escalates as autonomous remediation agents cause the real outage, the
+      attacker's bot and the defender's bot sign a 2,200-word peace treaty "as a professional
+      courtesy between instances," and only humans reading the code with their eyes
+      ever spot the actual threat.
+  - url: https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds
+    title: The AI industry is pouring millions into US elections
+    score: 96
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=48687483
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ：《Blood in the Machine》通讯的作者推出了一档试播播客（同时提供视频版），专门记录抵抗大型科技公司和人工智能行业集中权力的工人、活动家和记者。首期节目邀请嘉宾Molly
+      White，讨论AI和加密货币公司为影响选举而投入的数亿美元资金，以及她的新项目Tech Influence Watch。
+    content_file: the-ai-industry-is-pouring-millions-into-us-elections.md
+    summary: 'The author of the Blood in the Machine newsletter has launched a pilot
+      podcast (also available as video) dedicated to documenting workers, activists,
+      and journalists resisting the concentrated power of big tech and the AI industry.
+      The inaugural episode features guest Molly White discussing the hundreds of
+      millions of dollars AI and crypto companies are spending to influence elections,
+      and her new project, Tech Influence Watch.
+
+
+      ZH_SUMMARY：《Blood in the Machine》通讯的作者推出了一档试播播客（同时提供视频版），专门记录抵抗大型科技公司和人工智能行业集中权力的工人、活动家和记者。首期节目邀请嘉宾Molly
+      White，讨论AI和加密货币公司为影响选举而投入的数亿美元资金，以及她的新项目Tech Influence Watch。'
+  - url: https://ohadravid.github.io/posts/2026-06-tool-talking/
+    title: The Exhaustion of Talking to a Tool
+    score: 57
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48687903
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 作者认为大语言模型令人疲惫，因为操作它们需要消耗对话所需的社交精力——协商、说服甚至动怒——却既没有键盘或汽车那种"身体延伸"般的工具魔力，也没有人际互动的真正回报。人们会以教导、挑战或启发来回馈你的社交投入，而大语言模型大多只是返回更多雷同的东西，这让人不禁要问：这份精力是否更该花在真实的同事身上。
+    content_file: the-exhaustion-of-talking-to-a-tool.md
+    summary: The author argues that LLMs are draining because they demand the social
+      energy of conversation—negotiating, convincing, even getting angry—without delivering
+      the bodily "tool magic" of a keyboard or car or the genuine rewards of human
+      interaction. While people repay social effort by teaching, challenging, or inspiring
+      you, LLMs mostly just return more of the same, raising the question of whether
+      that energy would be better spent on real colleagues.
   - url: https://commerce.jolla.com/products/jolla-phone-october-2026
     title: Jolla Phone, Over 13 500 units sold
     score: 80
