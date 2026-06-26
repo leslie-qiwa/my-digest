@@ -1,10 +1,47 @@
 date: '2026-06-26'
-generated_at: 2026-06-26 06:03 UTC
+generated_at: 2026-06-26 08:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/
+    title: Framework's 10G Ethernet module exposes USB-C's complexity
+    score: 144
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=48681220
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: Jeff Geerling 测试了 WisdPi 为 Framework 电脑推出的 99 美元 10G 以太网扩展卡，发现 USB-C
+      带宽的复杂性以及 RTL8159 控制器需要 USB 3.2 Gen 2x2（20 Gbps）才能达到标称的 10 Gbps，导致实际速度常常只有 7–9.4
+      Gbps，在许多端口和 Linux 上表现更差。该模块还会发热严重（接近 70°C）并凸出于笔记本之外，因此他建议大多数人选择更便宜的 2.5G 卡，只有在确实需要更快有线速度时才考虑这款
+      10G 卡。
+    content_file: framework-s-10g-ethernet-module-exposes-usb-c-s-complexity.md
+    summary: Jeff Geerling tested WisdPi's $99 10G Ethernet Expansion Card for Framework
+      computers and found that USB-C bandwidth complexity—plus the RTL8159 controller's
+      need for USB 3.2 Gen 2x2 (20 Gbps)—makes it hard to reach the rated 10 Gbps,
+      with real-world results often falling to 7–9.4 Gbps and worse on many ports
+      and on Linux. The module also runs hot (near 70°C) and protrudes from the laptop,
+      leading him to recommend the cheaper 2.5G card for most people and the 10G card
+      only when faster wired speed is essential.
+  - url: https://www.nijho.lt/post/proxmox-to-nixos/
+    title: Migrating from Proxmox to NixOS and Incus
+    score: 72
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48679385
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 作者弃用了多节点的 Proxmox 家庭实验室集群，将全部环境迁移到运行 Incus 的 NixOS，因为相比命令式、图形界面驱动系统多年的摩擦，NixOS
+      声明式、可复现、原子化的配置更具优势。作者认为这一转变在 AI 智能体时代尤为有力——基于文本、确定性的基础设施让 AI 智能体能安全读取和修改整套配置——而
+      Incus（LXD 的社区分支）则妥善承载有状态虚拟机和 Home Assistant 等「宠物式」遗留负载。
+    content_file: migrating-from-proxmox-to-nixos-and-incus.md
+    summary: The author has decommissioned their multi-node Proxmox homelab and migrated
+      everything to NixOS running Incus, won over by NixOS's declarative, reproducible,
+      atomic configuration after years of friction with imperative GUI-driven systems.
+      They argue this shift is especially powerful in an agentic-AI era—text-based,
+      deterministic infrastructure lets AI agents safely read and modify the whole
+      setup—while Incus (the LXD fork) cleanly handles stateful VMs and legacy "pet"
+      workloads like Home Assistant.
   - url: https://borretti.me/article/no-one-escapes-the-permanent-underclass
     title: No-One Escapes the Permanent Underclass
     score: 52
