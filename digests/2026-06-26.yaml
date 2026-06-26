@@ -1,10 +1,61 @@
 date: '2026-06-26'
-generated_at: 2026-06-26 12:03 UTC
+generated_at: 2026-06-26 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://calpaterson.com/bank-python.html
+    title: An oral history of Bank Python (2021)
+    score: 142
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48678645
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: “银行 Python”指的是许多大型投资银行内部使用的、对整个 Python 生态系统的庞大私有分支，本文通过一个虚构的综合系统“Minerva”来加以说明。文章介绍了其核心组件——Barbara（一个极其简单的全局键值对象存储）和
+      Dagger（一个有向无环图，用于追踪金融工具之间的依赖关系，并自动对衍生品、头寸以及层层嵌套直至整个银行的“账簿”进行重新估值）。
+    content_file: an-oral-history-of-bank-python-2021.md
+    summary: '"Bank Python" refers to the sprawling, proprietary forks of the Python
+      ecosystem used inside many of the largest investment banks, illustrated here
+      through a fictional composite system called "Minerva." The piece walks through
+      its core pieces — Barbara, a brutally simple global key-value object store,
+      and Dagger, a directed acyclic graph that tracks dependencies between financial
+      instruments and automatically reprices derivatives, positions, and nested "books"
+      up to the level of the entire bank.'
+  - url: https://github.com/mondaycom/HATCHA
+    title: Captcha proves you're human. HATCHA proves you're not
+    score: 58
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=48685677
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: HATCHA(超高速智能体计算启发式评估测试)是一种反向验证码,通过对 AI 智能体轻松、但对人类繁琐的挑战(如大数乘法、字符串反转、二进制解码)来限制访问。它提供服务端无状态的
+      HMAC 签名验证(答案绝不发送到客户端)、五种内置挑战类型、运行时可扩展的自定义挑战、通过 CSS 变量实现的主题定制,以及 Next.js 和 Express
+      适配器。
+    content_file: captcha-proves-you-re-human-hatcha-proves-you-re-not.md
+    summary: HATCHA (Hyperfast Agent Test for Computational Heuristic Assessment)
+      is a reverse CAPTCHA that gates access behind challenges easy for AI agents
+      but tedious for humans, such as large-number multiplication, string reversal,
+      and binary decoding. It offers server-side, stateless HMAC-signed verification
+      (answers never reach the client), five built-in challenge types, runtime-extensible
+      custom challenges, theming via CSS variables, and Next.js and Express adapters.
+  - url: https://xlii.space/eng/honesty-gets-emacs-patch-rejected/
+    title: Honesty gets Emacs patch rejected
+    score: 24
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48681557
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 一位开发者花了数月研究 Emacs 在 macOS 上的性能，借助开放权重模型 GLM 5.2 找出并起草了一个仅 92 行的小型优化补丁，并在提交到
+      emacs-devel 时如实披露使用了大语言模型。该补丁因 GNU 反对接受 LLM 辅助贡献的政策而被拒，作者认为该政策不合理——惩罚的是诚实而非滥用——并因此决定不再为
+      Emacs 做贡献。
+    content_file: honesty-gets-emacs-patch-rejected.md
+    summary: A developer who spent months working on Emacs macOS performance used
+      the open-weights GLM 5.2 model to find and draft a narrow 92-line optimization
+      patch, then honestly disclosed the LLM assistance when submitting it to emacs-devel.
+      The patch was rejected under GNU's policy against LLM-assisted contributions,
+      which the author argues is incoherent—punishing honesty rather than misuse—and
+      has decided to stop contributing to Emacs as a result.
   - url: https://akrites.org/letter/
     title: We All Depend on Open Source. We Will Defend It Together
     score: 226
