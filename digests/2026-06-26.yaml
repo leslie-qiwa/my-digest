@@ -1,10 +1,41 @@
 date: '2026-06-26'
-generated_at: 2026-06-26 02:01 UTC
+generated_at: 2026-06-26 04:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://om.co/2026/06/24/1966-2026/
+    title: Om Malik has died
+    score: 598
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=48678852
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 旧金山的作家、摄影师与投资人 Om Malik 在与心脏疾病长期抗争后，于2026年6月24日在斯坦福医院去世，离世时家人和朋友陪伴在侧。他的家人邀请读者分享追忆，文章下方涌现大量悼念留言，称颂他数十年来在科技界的洞察力、善良、对后辈的指导以及他的摄影作品。
+    content_file: om-malik-has-died.md
+    summary: Om Malik, a San Francisco–based writer, photographer, and investor, passed
+      away on June 24, 2026, at Stanford Hospital after a long struggle with heart-related
+      health issues, surrounded by family and friends. His family invited readers
+      to share remembrances, and the post drew an outpouring of tributes praising
+      his insight, kindness, mentorship, and photography across decades in the tech
+      world.
+  - url: https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition
+    title: AI children's books, body horror edition
+    score: 156
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48681250
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 一位作者此前指出AI生成的童书千篇一律，于是买下一本亚马逊畅销的AI百科全书来检验质量，结果发现插图充满怪诞的"身体恐怖"错误，如扭曲的倒影、融合的野兽和令人不安的解剖图。文章总结道，尽管未来的模型也许终能生成完美的儿童百科，但眼下这些被当作礼物大量销售的书正在悄悄误导孩子，而且无人为此负责。
+    content_file: ai-children-s-books-body-horror-edition.md
+    summary: A writer who previously argued that AI-generated children's books are
+      all monotonously alike bought one of the Amazon bestseller encyclopedias to
+      test its quality, and found the artwork riddled with grotesque, body-horror
+      errors like distorted reflections, fused beasts, and unsettling anatomical diagrams.
+      The piece concludes that while future models may eventually produce flawless
+      children's encyclopedias, for now these widely-sold, gift-bought books are quietly
+      miseducating kids with no one held accountable.
   - url: https://news.ycombinator.com/item?id=48668199
     title: 'Ask HN: Where is the programming profession going?'
     score: 105
