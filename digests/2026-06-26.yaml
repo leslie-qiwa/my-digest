@@ -1,10 +1,43 @@
 date: '2026-06-26'
-generated_at: 2026-06-26 14:02 UTC
+generated_at: 2026-06-26 16:06 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://commerce.jolla.com/products/jolla-phone-october-2026
+    title: Jolla Phone, Over 13 500 units sold
+    score: 80
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48687272
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: Jolla Phone（2026年10月）是一款独立的、由社区主导的欧洲 Linux 手机，运行 Sailfish OS 5，采用分批预订模式销售，需支付可全额退款的99欧元定金，最终总价为649欧元，预计2026年10月发往欧盟、英国、挪威和瑞士。该机强调隐私设计（无追踪、配备物理隐私开关）、可由用户更换的后盖和电池、支持安卓应用，并配备联发科天玑7100
+      5G芯片、6.36英寸 AMOLED 屏幕和索尼相机等现代规格。
+    content_file: jolla-phone-over-13-500-units-sold.md
+    summary: The Jolla Phone (October 2026) is an independent, community-driven European
+      Linux phone running Sailfish OS 5, sold via a batch pre-order model with a refundable
+      99€ down payment toward a 649€ total price and October 2026 shipping to the
+      EU, UK, Norway, and Switzerland. It emphasizes privacy by design (no tracking,
+      a physical Privacy Switch), user-replaceable back covers and battery, Android
+      app support, and modern specs including a MediaTek Dimensity 7100 5G chip, 6.36"
+      AMOLED display, and Sony cameras.
+  - url: https://www.clinicaltrialsabundance.blog/p/why-were-covid-vaccine-trials-so-fast
+    title: Why were Covid vaccine trials so fast?
+    score: 21
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=48686576
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 新冠疫苗的研发速度远超以往8至12年的平均水平，原因在于科学条件异常有利——病毒能激发自然免疫、此前对SARS和MERS的研究提供了基础、结构生物学使稳定的融合前刺突蛋白成为可能。此外，临床试验各阶段并行而非顺序进行，加上公众参与意愿高涨和试验招募基础设施的优化，进一步压缩了研发时间线。
+    content_file: why-were-covid-vaccine-trials-so-fast.md
+    summary: Covid vaccines were developed far faster than the historical 8–12 year
+      average because the science was unusually favorable—the virus provoked natural
+      immunity, prior SARS/MERS research gave a head start, and structural biology
+      enabled a stabilized pre-fusion spike protein. The timeline was further compressed
+      by running clinical trial phases in parallel rather than sequentially, and by
+      exceptionally fast recruitment driven by high public willingness and streamlined
+      trial infrastructure.
   - url: https://calpaterson.com/bank-python.html
     title: An oral history of Bank Python (2021)
     score: 142
@@ -397,3 +430,82 @@ feeds:
     summary_zh: ''
     content_file: ''
     summary: ''
+- id: golang-weekly
+  label: Golang Weekly
+  provider: rss_newsletter
+  items:
+  - url: https://golangweekly.com/link/187209/rss
+    title: 'Awesome Go: ~3000 Categorized Go Resources'
+    summary: Most curated ‘awesome’ collections go stale, but I’ve been impressed
+      that Go’s gets almost-daily updates! It’s a perennially useful resource and
+      worth revisiting in a week short on big Go news (are we all enjoying the World
+      Cup?). You can contribute projects of your own too, if they meet the quality
+    score: 0
+    tags: []
+    source: awesome-go.com
+    domain: awesome-go.com
+    summary_zh: Awesome Go 是一个精选的 Go 语言框架、库和软件清单，灵感来自 awesome-python，并通过社区赞助维持运营。本文列出了多个分类（如
+      Actor 模型、人工智能、音频与音乐、认证与授权等）下的众多开源项目及其简要说明。
+    content_file: awesome-go-3000-categorized-go-resources.md
+  - url: https://golangweekly.com/link/187178/rss
+    title: 'Shard Your Locks: Benchmarking 6 Go Cache Designs'
+    summary: 📊 — A Google Cloud engineer benchmarked several approaches (sync.Mutex,
+      sync.RWMutex, sharded locks, etc.) to find the fastest way to guard a concurrent
+      in-memory cache. The numbers vary a lot with different types of load and usage,
+      so benchmarking against your own workload is always best.
+    score: 0
+    tags: []
+    source: strebkov.dev
+    domain: strebkov.dev
+    summary_zh: 作者仅用 Go 标准库以六种方式实现了同一个内存字符串缓存，并在 1 到 8 核下针对读密集、均衡和写密集负载进行了基准测试，发现排名会随工作负载而变化，而单个
+      sync.Mutex 这一"显而易见"的方案核数越多反而越慢。综合最优的是约 15 行代码的 256 路分片锁（sharded），在 8 核下比单一互斥锁快达
+      8 倍；而被视为"读竞争"反射式修复的 sync.RWMutex 其实是个陷阱。
+    content_file: shard-your-locks-benchmarking-6-go-cache-designs.md
+  - url: https://golangweekly.com/link/187185/rss
+    title: On Excessive nil Pointer Checks
+    summary: An argument that most defensive if .. != nil guards are a smell and that
+      you should ‘fail fast and fail early’ at construction instead of accepting broken
+      objects.
+    score: 0
+    tags: []
+    source: konradreiche.com
+    domain: konradreiche.com
+    summary_zh: 这篇文章探讨了 Go 语言中过度使用 nil 指针检查的问题，指出在错误的位置添加 nil 检查并不是防御性编程，而是代码失去了对象来源和不变量的清晰认知的标志。作者主张应在初始化和边界处尽早、显式地处理错误（快速失败、响亮失败），而不是用
+      nil 检查或日志默默吞掉失败，把不确定性扩散到代码深处。
+    content_file: on-excessive-nil-pointer-checks.md
+  - url: https://golangweekly.com/link/187186/rss
+    title: How Channel Iteration Leaks Goroutines
+    summary: Ranging over a channel that never closes leaks the goroutine forever.
+      Redowan dissects a real cron scheduler bug and the fix.
+    score: 0
+    tags: []
+    source: rednafi.com
+    domain: rednafi.com
+    summary_zh: 作者在自己编写一个定时任务调度器时遇到了经典的「range 遍历 channel」导致的 goroutine 泄漏：收集器对一个永远不会被关闭的
+      channel 进行 range，在最后一个结果之后会永久阻塞在接收上，每次 tick 都泄漏一个 goroutine。修复方法是在所有任务上报后 close
+      掉该 channel（缓冲 channel 无济于事），并用 Go 1.27 新增的无需测试的 leak profile 来确定性地发现此类泄漏。
+    content_file: how-channel-iteration-leaks-goroutines.md
+  - url: https://golangweekly.com/link/187192/rss
+    title: 'asciigraph 0.10: ASCII Line Graph Rendering Library'
+    summary: 📈 — A long standing library for rendering line graphs in ASCII text,
+      including in color, all with no dependencies. v0.10 adds spectrum/heatmap gradient
+      coloring, threshold coloring, and a flicker-free realtime mode.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: asciigraph 是一个用于绘制轻量级 ASCII 折线图的 Go 包，支持单序列与多序列绘图，并可通过选项自定义高度、宽度、Y
+      轴数值格式、X 轴范围与刻度等。它还提供按值着色（渐变、阈值高亮）、序列图例等功能，并附带一个可从标准输入读取数据、支持实时绘图的命令行工具。
+    content_file: asciigraph-0-10-ascii-line-graph-rendering-library.md
+  - url: https://golangweekly.com/link/187195/rss
+    title: 'Delve 1.27: The Popular Go Debugging Tool'
+    summary: A minor bump for the popular debugger, though we haven’t mentioned it
+      in over a year. Over that time, it’s seen some modernization and focused on
+      supporting Go 1.27 better (e.g. generic methods and mapsplitgroup support).
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: Delve 调试器发布 v1.27.0 版本，包含帧指针栈展开、arm64 上 sigpanic 帧的 SP 计算修复、泛型方法支持、对
+      Go 1.27 的多项适配以及 DAP 写内存请求处理等改进。该版本还修复了多处错误传播问题、为 riscv64 调整了测试，并迎来了三位新贡献者。
+    content_file: delve-1-27-the-popular-go-debugging-tool.md
