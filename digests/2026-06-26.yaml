@@ -1,10 +1,58 @@
 date: '2026-06-26'
-generated_at: 2026-06-26 10:02 UTC
+generated_at: 2026-06-26 12:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://akrites.org/letter/
+    title: We All Depend on Open Source. We Will Defend It Together
+    score: 226
+    comment_cnt: 115
+    comment_url: https://news.ycombinator.com/item?id=48682737
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 一批主要的科技、金融和电信公司共同发起了 Akrites，称其为历史上规模最大的协调行动，旨在发现、修复并负责任地披露关键开源软件中的漏洞。该计划应对人工智能打破攻防平衡的局面，提供单一保密渠道，在上游与维护者协同修复，并将补丁部署而非公开披露作为成功标准。
+    content_file: we-all-depend-on-open-source-we-will-defend-it-together.md
+    summary: A coalition of major technology, finance, and telecom companies has launched
+      Akrites, described as the largest coordinated effort in history to find, fix,
+      and responsibly disclose vulnerabilities in critical open source software. The
+      initiative responds to AI's collapse of the attacker-defender balance by providing
+      a single confidential channel to coordinate remediation upstream with maintainers,
+      prioritizing patch deployment over publication.
+  - url: https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854
+    title: Micron locks in historically high memory prices for five years
+    score: 62
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=48683041
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 这期 The Register 热门榜以人工智能的经济连锁反应为主——既有非营利组织再培训被AI取代的员工、Elastic 借自动化裁员,也有苹果因内存成本上调售价、亚马逊向印度云基础设施投入巨资。其余为安全与开源动态,包括冒充
+      Signal 客服的钓鱼攻击、未修复的 SharePoint 零日漏洞、Collabora CODE 26.04 发布,以及 Bcachefs 退出实验阶段。
+    content_file: micron-locks-in-historically-high-memory-prices-for-five-yea.md
+    summary: The Register's most-popular roundup is dominated by AI's economic ripple
+      effects — from a non-profit retraining displaced workers and Elastic/Microsoft
+      leaning on automation to cut headcount, to Apple raising prices on RAM-cost
+      pressure and Amazon committing billions to Indian cloud. Security and FOSS items
+      round it out, including Signal-support phishing, an unpatched SharePoint zero-day,
+      Collabora's CODE 26.04, and Bcachefs leaving experimental status.
+  - url: https://www.gardensillustrated.com/features/the-history-of-lawns
+    title: Why are we so obsessed with lawns?
+    score: 30
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=48682066
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 本文认为草坪是英国园艺对世界最具标志性的贡献，并追溯其18世纪作为精英阶层耗费人力的身份象征的起源、19世纪滚筒式割草机带来的普及，以及它在美国作为民族认同象征的盛行。文章反思了草坪沉重的文化与环境包袱——从化学品和水资源的过度消耗到其在电影中象征压抑的循规蹈矩——并以查茨沃斯庄园物种丰富、未经"改良"的"索尔兹伯里"草坪为例，提出我们或许应学会接纳自然的不羁。
+    content_file: why-are-we-so-obsessed-with-lawns.md
+    summary: This article argues that the lawn is British horticulture's most iconic
+      global contribution, tracing its 18th-century origins as an elite, labour-intensive
+      status symbol through its democratisation by the 19th-century cylinder mower
+      and its avid adoption in the USA as a symbol of nationhood. It reflects on the
+      lawn's heavy cultural and environmental baggage—from chemical-and-water excess
+      to its cinematic association with sterile conformity—and suggests, via Chatsworth's
+      species-rich unimproved "Salisburys" lawns, that we might learn to accept nature's
+      foibles.
   - url: https://www.fernandoi.cl/posts/hackmyclaw/
     title: What happened after 2k people tried to hack my AI assistant
     score: 160
