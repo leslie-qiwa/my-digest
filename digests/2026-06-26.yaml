@@ -1,10 +1,70 @@
 date: '2026-06-26'
-generated_at: 2026-06-26 18:02 UTC
+generated_at: 2026-06-26 20:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://alephneuro.com/blog/ultrasound-brain
+    title: Ultrasound imaging of the brain
+    score: 176
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=48685558
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 一个研究团队开发了一种基于超声波的非侵入式脑接口，可透过完整颅骨对脑部神经血管血流成像，捕捉到他们称为迄今最详细的活体人脑血管图像——体积分辨率达到同类CT的100倍。他们利用FDA批准的微泡突破衍射极限，并将完整的处理流程与数据集开源，最终目标是借助更廉价的硬件和端到端机器学习实现无造影剂的神经血管成像。
+    content_file: ultrasound-imaging-of-the-brain.md
+    summary: A research team has developed a non-invasive ultrasound-based brain interface
+      that images neurovascular blood flow through an intact skull, capturing what
+      they claim is the most detailed vascular image of a living human brain to date—at
+      100x the volumetric resolution of comparable CT. Using FDA-approved microbubbles
+      to beat the diffraction limit, they are open-sourcing the full pipeline and
+      dataset, with the ultimate goal of contrast-free neurovascular imaging powered
+      by cheaper hardware and end-to-end machine learning.
+  - url: https://github.com/workweave/router
+    title: 'Show HN: Smart model routing directly in Claude, Codex and Cursor'
+    score: 89
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=48688700
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: Weave Router 是一个面向 Anthropic、OpenAI 和 Gemini API 的即插即用代理，它使用本机上的小型嵌入器和聚类评分器（源自
+      Avengers-Pro）为每个请求从已启用的提供商中路由到最合适的模型。它兼容所有主流 API 格式，通过 OpenRouter 支持开源模型，以 BYOK
+      方式将提供商密钥加密保存在本机，内置 OTLP 可观测性，并可通过一条 `npx @workweave/router` 命令接入 Claude Code、Codex、Cursor
+      或 opencode。
+    content_file: show-hn-smart-model-routing-directly-in-claude-codex-and-cur.md
+    summary: Weave Router is a drop-in proxy for Anthropic, OpenAI, and Gemini APIs
+      that uses a tiny on-box embedder and cluster scorer (derived from Avengers-Pro)
+      to route each request to the best model from your enabled providers. It speaks
+      every major API format, supports OSS models via OpenRouter, keeps provider keys
+      encrypted on your box (BYOK), ships OTLP observability, and installs into Claude
+      Code, Codex, Cursor, or opencode with a single `npx @workweave/router` command.
+  - url: https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327
+    title: Data centers trigger voter backlash
+    score: 66
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=48689275
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: of this text for your own reference (not publication), I can do that,
+      but flagged as unverified content, not as a digest entry.
+    content_file: data-centers-trigger-voter-backlash.md
+    summary: ''
+  - url: https://www.experimental-history.com/p/reading-the-news-is-the-new-smoking
+    title: Reading the news is the new smoking
+    score: 50
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=48686167
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 作者认为强迫性地看新闻就像抽烟一样，既伤害自己也伤害身边的人；他讲述了自己在2020年戒掉新闻后变得更平静、更快乐、也更让人愿意相处。他列举了戒新闻的理由：新闻让他感觉糟糕（甚至嗜血）、扭曲他对世界的认知、夸大了转瞬即逝的日常事件的重要性、把时间浪费在无意义的刷新上，而且常常完全错误。
+    content_file: reading-the-news-is-the-new-smoking.md
+    summary: 'The author argues that compulsively reading the news is like smoking—harmful
+      to the consumer and to those around them—and recounts how quitting it in 2020
+      made him calmer, happier, and better company. He lists his reasons: the news
+      makes him feel terrible (even bloodthirsty), distorts his perception of reality,
+      exaggerates the importance of fleeting daily events, wastes time on pointless
+      checking, and is frequently just plain wrong.'
   - url: https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html
     title: Incident CVE-2026-LGTM
     score: 389
