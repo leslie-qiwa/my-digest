@@ -1,10 +1,42 @@
 date: '2026-06-27'
-generated_at: 2026-06-27 14:05 UTC
+generated_at: 2026-06-27 16:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.openra.net/
+    title: OpenRA
+    score: 221
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48697560
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: OpenRA 的 playtest-20260222 测试版为《红色警戒》《泰伯利亚黎明》和《沙丘 2000》引入了随机地图生成器，并为《沙丘
+      2000》带来重大的视觉与平衡性改造，同时《泰伯利亚黎明》的高清素材支持已功能完备。此次更新还包括地图编辑器改进、新任务、会建造扩张基地的电脑 AI、自动存档、全新“其他
+      RTS”鼠标模式，以及对本地化的持续筹备。
+    content_file: openra.md
+    summary: OpenRA's playtest-20260222 introduces random map generators for Red Alert,
+      Tiberian Dawn, and Dune 2000, alongside a major Dune 2000 visual and balance
+      overhaul and feature-complete HD asset support for Tiberian Dawn. The release
+      also brings map editor improvements, new missions, expansion-building bots,
+      auto-save, an "Other RTS" mouse mode, and continued localisation groundwork.
+  - url: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/
+    title: Asian AI startups launch Mythos-like models
+    score: 53
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48697958
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 在美国对Anthropic的Mythos和Fable 5模型的禁令持续之际,两家亚洲公司推出了竞争性AI产品——日本Sakana AI推出了智能体编排模型Fugu,中国360则发布了网络安全工具屠龙凤和倚天针。Sakana将Fugu定位为保留前沿AI使用权的对冲手段而非取代美国模型,而360则强调漏洞发现AI是国家战略资产,表明本土替代方案已开始填补出口禁令留下的空白。
+    content_file: asian-ai-startups-launch-mythos-like-models.md
+    summary: As the U.S. ban on Anthropic's Mythos and Fable 5 models continues, two
+      Asian companies have launched rival AI products—Japan's Sakana AI with its agent-orchestration
+      model Fugu, and China's 360 with cybersecurity tools Tulongfeng and Yitianzhen.
+      Sakana frames Fugu as a hedge to preserve access to frontier AI rather than
+      replace U.S. models, while 360 emphasizes vulnerability-finding AI as a national
+      strategic asset, signaling local alternatives are already filling the gap left
+      by the export order.
   - url: https://w.pitula.me/fintech-engineering-handbook/
     title: Fintech Engineering Handbook
     score: 174
