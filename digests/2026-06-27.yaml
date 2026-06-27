@@ -1,10 +1,25 @@
 date: '2026-06-27'
-generated_at: 2026-06-27 00:04 UTC
+generated_at: 2026-06-27 02:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme
+    title: We can still stop California's 3D printer surveillance scheme
+    score: 222
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=48692051
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 尽管电子前哨基金会（EFF）警告该技术不可行且有害，加州州议会仍通过了AB 2047法案，强制要求3D打印机安装监控和审查软件以防止无证制造枪支。最新修正案为私人转售、开源工具和娱乐行业增加了豁免条款，但在该法案提交州参议院之际，仍未能解决对隐私、言论自由和消费者权利的核心威胁。
+    content_file: we-can-still-stop-california-s-3d-printer-surveillance-schem.md
+    summary: The California State Assembly has passed AB 2047, a bill mandating surveillance
+      and censorship software on 3D printers to prevent unlicensed firearm manufacturing,
+      despite EFF's warnings that such technology is unworkable and harmful. Recent
+      amendments added carveouts for private resale, open source tools, and the entertainment
+      industry, but failed to address core threats to privacy, free speech, and consumer
+      rights as the bill heads to the state senate.
   - url: https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013
     title: PlayStation Is Deleting 551 Movies from Customers' Accounts
     score: 125
