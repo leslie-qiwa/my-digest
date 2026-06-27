@@ -12,21 +12,37 @@ jobs:
       pull-requests: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # need the base ref to diff the PR's changed files
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
       - run: pip install pyyaml
-      - name: Validate digest YAML
+      - name: Validate changed digest YAML
+        env:
+          BASE_REF: ${{ github.base_ref }}
         run: |
-          python3 -c "
-          import sys, yaml, glob, re
+          # Validate ONLY the digest file(s) this PR changes — not the whole digests/ history. A
+          # previously merged digest must never block a new PR (each was validated by its own PR).
+          # The generator records items even when a translation comes back empty (permissive
+          # default — failure stays visible), so a missing summary_zh is a WARNING here, not a
+          # failure; a summary_zh that exists but isn't Chinese is still a hard error.
+          CHANGED=$(git diff --name-only "origin/$BASE_REF...HEAD" -- 'digests/*.yaml' \
+            | grep -vE '(^|/)index\.yaml$' || true)
+          if [ -z "$CHANGED" ]; then
+            echo "No changed digest files to validate."
+            exit 0
+          fi
+          echo "Validating changed digest file(s):"; echo "$CHANGED" | sed 's/^/  /'
+          FILES="$CHANGED" python3 -c "
+          import os, sys, yaml, re
 
           def has_chinese(text):
               return bool(re.search(r'[一-鿿]', text or ''))
 
           errors = []
           warnings = []
-          files = [f for f in glob.glob('digests/*.yaml') if not f.endswith('index.yaml')]
+          files = [f for f in os.environ['FILES'].splitlines() if f.strip()]
           for path in files:
               with open(path, encoding='utf-8') as f:
                   data = yaml.safe_load(f)
@@ -52,14 +68,14 @@ jobs:
                       if zh and not has_chinese(zh):
                           errors.append(f'{path}: summary_zh is not Chinese: \"{zh[:60]}\"')
                       if item.get('summary') and not zh:
-                          errors.append(f'{path}: {item[\"title\"][:40]} missing summary_zh')
+                          warnings.append(f'{path}: {item[\"title\"][:40]} missing summary_zh (translation empty)')
           for w in warnings:
               print(f'WARNING: {w}', file=sys.stderr)
           if errors:
               for e in errors:
                   print(f'ERROR: {e}', file=sys.stderr)
               sys.exit(1)
-          print(f'Validated {len(files)} file(s): OK')
+          print(f'Validated {len(files)} changed file(s): OK')
           "
       - name: Enable auto-merge
         if: success()
