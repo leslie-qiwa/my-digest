@@ -1,10 +1,25 @@
 date: '2026-06-27'
-generated_at: 2026-06-27 18:05 UTC
+generated_at: 2026-06-27 20:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/
+    title: International investment and local rules push prices up faster than supply
+    score: 123
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=48693420
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 麦库姆斯商学院凯特琳·戈尔巴克的最新研究发现，2010年代涌入的外国投资推高了美国房价，尤其是在外国出生居民较多的社区，那里房价比其他地区高出6.7%，而供应仅增长1%。研究还表明，自2000年以来开发商对房价上涨的反应一直疲弱，而城市在很大程度上通过分区和许可决策掌控着住房供应。
+    content_file: international-investment-and-local-rules-push-prices-up-fast.md
+    summary: New research from the McCombs School of Business by Caitlin Gorback finds
+      that a surge of foreign investment in the 2010s pushed U.S. home prices higher,
+      especially in neighborhoods with more foreign-born residents, where prices rose
+      6.7% above other areas while supply grew just 1%. The study also shows that
+      builders have responded weakly to rising prices since 2000, and that cities
+      themselves largely control housing supply through zoning and permitting decisions.
   - url: https://pluralistic.net/2026/06/27/zuckerstreisand-2/
     title: Zuckerberg's Increasingly Bizarre War on Whistleblowers
     score: 301
