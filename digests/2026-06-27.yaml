@@ -1,10 +1,57 @@
 date: '2026-06-27'
-generated_at: 2026-06-27 08:03 UTC
+generated_at: 2026-06-27 14:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://w.pitula.me/fintech-engineering-handbook/
+    title: Fintech Engineering Handbook
+    score: 174
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=48696982
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 《金融科技工程手册》是一份持续更新的参考资料，描述了以资金为核心的软件系统的关键工程模式，并围绕三大原则展开：不凭空创造数据、不丢失数据、不信任。手册涵盖如何正确表示货币——包括精度处理、舍入策略、货币建模和外汇汇率，因为表示层的错误会传递到其上的每一层。
+    content_file: fintech-engineering-handbook.md
+    summary: 'The Fintech Engineering Handbook is a living reference describing the
+      core software patterns for systems where money is the primary concern, organized
+      around three principles: no invented data, no lost data, and no trust. It covers
+      how to represent money correctly—precision handling, rounding strategies, currency
+      modeling, and FX rates—since errors at the representation layer propagate to
+      every layer above.'
+  - url: https://www.sfwriter.com/wordstar.htm
+    title: 'WordStar: A Writer''s Word Processor (1996)'
+    score: 122
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=48694853
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 科幻作家罗伯特·J·索耶解释了为什么他和许多同行作家（包括亚瑟·C·克拉克、乔治·R·R·马丁和安妮·赖斯）至今仍偏爱 DOS 文字处理软件
+      WordStar 进行创作。他认为 WordStar 逻辑清晰、基于按键位置助记的 Control 键界面让盲打者可以完全在主键行上操作，因此在写作效率上远胜
+      WordPerfect 或 Microsoft Word。
+    content_file: wordstar-a-writer-s-word-processor-1996.md
+    summary: Science-fiction writer Robert J. Sawyer explains why he and many fellow
+      authors—including Arthur C. Clarke, George R.R. Martin, and Anne Rice—still
+      prefer the DOS word processor WordStar for creative writing. He argues that
+      WordStar's logical, positionally-mnemonic Control-key interface lets touch-typists
+      work entirely from the home row, making it far more efficient for composition
+      than WordPerfect or Microsoft Word.
+  - url: https://dervis.de/physical/
+    title: If you can't hold it, you don't own it
+    score: 89
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48697335
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 当消费者"购买"数字电影、游戏、图书或音乐时，通常获得的是可撤销且与账户绑定的许可，而非真正的所有权，因此当商店关闭、失去版权或更改政策时，购买内容可能被移除。从亚马逊、索尼到Disney+、Netflix和苹果，大量下架、诉讼和资料库移除事件表明，与可转售的实体媒介不同，数字内容可能在不退款的情况下消失。
+    content_file: if-you-can-t-hold-it-you-don-t-own-it.md
+    summary: When consumers "buy" digital movies, games, books, or music, they typically
+      receive a revocable, account-locked license rather than true ownership, leaving
+      purchases vulnerable to removal when stores close, lose rights, or change policies.
+      A long history of delistings, lawsuits, and library removals—from Amazon and
+      Sony to Disney+, Netflix, and Apple—shows that digital content can vanish without
+      refunds, unlike resellable physical media.
   - url: https://news.ycombinator.com/item?id=48694802
     title: 'Ask HN: MacBook vs. Dedicated GPU for LLM'
     score: 24
