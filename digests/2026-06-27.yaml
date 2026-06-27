@@ -1,10 +1,57 @@
 date: '2026-06-27'
-generated_at: 2026-06-27 16:03 UTC
+generated_at: 2026-06-27 18:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://pluralistic.net/2026/06/27/zuckerstreisand-2/
+    title: Zuckerberg's Increasingly Bizarre War on Whistleblowers
+    score: 301
+    comment_cnt: 116
+    comment_url: https://news.ycombinator.com/item?id=48698684
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 科里·多克托罗将马克·扎克伯格对告密者萨拉·温-威廉姆斯（回忆录《不负责任的人》作者）穷追不舍的法律打压，比作白俄罗斯独裁者卢卡申科因民众吃冰淇淋就将其逮捕的荒诞残暴。尽管温-威廉姆斯严格遵守仲裁员的封口令、甚至在台上一言不发、一动不动，Meta仍不断索要更高赔偿（已逾1100万美元），最终促使她起诉以求废除这份封口合同。
+    content_file: zuckerberg-s-increasingly-bizarre-war-on-whistleblowers.md
+    summary: Cory Doctorow compares Mark Zuckerberg's relentless legal campaign against
+      whistleblower Sarah Wynn-Williams—author of the memoir Careless People—to the
+      absurd cruelty of Belarusian dictator Lukashenka, who jailed people for eating
+      ice cream. Despite Wynn-Williams scrupulously complying with an arbitrator's
+      gag order to the point of sitting silent and motionless onstage, Meta continues
+      to seek ever-larger damages (already over $11m), prompting her to finally sue
+      to invalidate her silencing contract.
+  - url: https://github.com/bikini/exploitarium
+    title: Anonymous GitHub account mass-dropping undisclosed 0-days
+    score: 272
+    comment_cnt: 114
+    comment_url: https://news.ycombinator.com/item?id=48698617
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 该仓库是作者公开的概念验证（PoC）和漏洞研究文章的整合归档，既包含以原始 README 和跟踪文件保存的former独立 PoC
+      仓库，也包含新的自包含研究条目。作者通过 Git 树/blob 比对，针对 12 个旧仓库共 96 个跟踪条目验证了整合的一致性且零不匹配，并强调这些材料属于善意的公开披露，绝不可被恶意使用。
+    content_file: anonymous-github-account-mass-dropping-undisclosed-0-days.md
+    summary: This repository is a consolidated archive of the author's public proof-of-concept
+      and vulnerability research writeups, combining former standalone PoC repos (preserved
+      with original READMEs and tracked files) alongside new self-contained research
+      entries. The author verified the consolidation against fresh clones of 12 former
+      repos covering 96 tracked entries with zero mismatches using Git tree/blob comparisons,
+      and stresses that the material is for good-faith open disclosure and must not
+      be used maliciously.
+  - url: https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/
+    title: How Many Elementary Particles Are There, Really?
+    score: 75
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=48697746
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: '"基本粒子到底有多少种"这个看似简单的问题其实没有明确答案，因为计数取决于你选择纳入哪些区分——反粒子、色荷、手性以及极化状态。从教科书上的17种出发，总数可以增至30、37、61乃至118，物理学家戴维·童甚至认为真正的答案并非整数。'
+    content_file: how-many-elementary-particles-are-there-really.md
+    summary: The seemingly simple question of how many elementary particles exist
+      has no clear answer, because the count depends on which distinctions—antiparticles,
+      color charges, chirality, and polarization states—you choose to include. Starting
+      from the textbook's 17, the tally can grow to 30, 37, 61, or 118, and physicist
+      David Tong even suggests the true answer is not a whole number.
   - url: https://www.openra.net/
     title: OpenRA
     score: 221
