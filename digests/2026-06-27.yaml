@@ -1,10 +1,43 @@
 date: '2026-06-27'
-generated_at: 2026-06-27 02:02 UTC
+generated_at: 2026-06-27 04:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies
+    title: U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations
+    score: 283
+    comment_cnt: 278
+    comment_url: https://news.ycombinator.com/item?id=48692995
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 美国政府周五解除了对Anthropic强大的Claude Mythos 5人工智能模型的出口禁令，允许其向100多家受信任的美国机构发布，标志着在两周对峙后与特朗普政府关系的缓和。商务部长霍华德·卢特尼克的信函未提及性能较弱的Fable
+      5模型，但知情人士预计随着监管前沿AI的新机制逐步成形，该模型最终也将获准发布。
+    content_file: u-s-allows-anthropic-to-release-mythos-ai-to-trusted-us-orga.md
+    summary: The US government on Friday lifted its export block on Anthropic's Claude
+      Mythos 5 AI model, allowing its release to over 100 trusted US institutions
+      and marking a de-escalation with the Trump Administration after a two-week standoff.
+      The letter from Commerce Secretary Howard Lutnick was silent on the weaker Fable
+      5 model, though people close to the talks expect it to be released eventually
+      as a new regulatory regime over frontier AI takes shape.
+  - url: https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed
+    title: Why does kinetic energy increase quadratically, not linearly, with speed?
+      (2011)
+    score: 137
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48692946
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 作者提出两个直观论证，说明动能为何与速度的平方成正比（$KE\propto v^2$），二者都建立在能量守恒且可在动能与势能之间相互转化这一前提上。第一个论证借助弹簧将两个箱子推开并结合伽利略不变性，第二个则仅依赖恒定重力场中的自由落体运动学，而无需预设功或
+      $mgh$ 公式。
+    content_file: why-does-kinetic-energy-increase-quadratically-not-linearly.md
+    summary: The author offers two intuitive arguments for why kinetic energy is proportional
+      to the square of velocity ($KE\propto v^2$), grounding both in the premise that
+      energy is conserved and convertible between kinetic and potential forms. The
+      first uses a spring pushing two boxes apart combined with Galilean invariance,
+      while the second relies only on free-fall kinematics in a constant gravitational
+      field without presupposing work or the formula $mgh$.
   - url: https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme
     title: We can still stop California's 3D printer surveillance scheme
     score: 222
