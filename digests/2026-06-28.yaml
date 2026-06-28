@@ -1,10 +1,41 @@
 date: '2026-06-28'
-generated_at: 2026-06-28 14:00 UTC
+generated_at: 2026-06-28 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.engadget.com/2203000/flock-cameras-recording-license-plate/
+    title: Flock cameras track more than your license plate, and they're spreading
+      fast
+    score: 138
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=48707673
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=48707536
+    title: 'Ask HN: Is there a bad employers (who have a records of not paying) list?'
+    score: 39
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48707536
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.dnews.gr/eidhseis/news-in-english/596650/greece-is-richer-so-why-do-so-many-greeks-still-feel-poor
+    title: Greece Is Richer. So Why Do So Many Greeks Still Feel Poor?
+    score: 26
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=48706903
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online
     title: Kids act would require age checks to get online
     score: 84
