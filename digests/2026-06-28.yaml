@@ -1,0 +1,73 @@
+date: '2026-06-28'
+generated_at: 2026-06-28 00:05 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://danluu.com/discontinuities/
+    title: Suspicious Discontinuities (2020)
+    score: 199
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48698151
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 使用明确的数字门槛——如佩尔助学金收入线、p值上限、量刑重量、考试及格分以及青少年体育的年龄分组——会导致数据中出现"聚集"和断点,因为人们会刻意优化以落在有利的一侧。这些扭曲在收入、选举结果、拍卖价格、p值、毒品数量、考试分数和运动员出生日期的直方图中清晰可见,往往产生与政策初衷相反的结果,有时甚至能揭示彻底的造假。
+    content_file: suspicious-discontinuities-2020.md
+    summary: Using sharp numerical thresholds—such as the Pell Grant income cutoff,
+      p-value limits, sentencing weights, exam pass marks, and youth-sports age cohorts—creates
+      bunching and discontinuities in data because people optimize to land on the
+      favorable side of the line. These distortions, visible in histograms of income,
+      election results, auction prices, p-values, drug quantities, exam scores, and
+      athlete birth dates, often produce outcomes opposite to the policy's intent
+      and can even reveal outright fraud.
+  - url: https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/
+    title: '''Careless People'' author claims Meta surveilled her for 12mos to enforce
+      silence'
+    score: 160
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=48701822
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: Meta前高管、爆料回忆录《不顾后果的人》的作者萨拉·温-威廉姆斯已在联邦法院起诉该公司，主张让她噤声的私人仲裁令以及她签署的不诋毁离职协议无效且系在胁迫下签订。她请求法院解除禁言令并撤销该协议，并指控Meta对她进行监视、并以每次违约索赔5万美元相威胁，以恐吓她及他人不敢发声。
+    content_file: careless-people-author-claims-meta-surveilled-her-for-12mos.md
+    summary: Sarah Wynn-Williams, a former Meta executive and author of the tell-all
+      memoir "Careless People," has sued the company in federal court, arguing that
+      the private arbitration order silencing her and her non-disparagement severance
+      agreement are invalid and were signed under duress. She asks the court to lift
+      the gag order and vacate the agreement, alleging Meta has surveilled her and
+      threatened $50,000 in damages per violation to intimidate her and others from
+      speaking out.
+  - url: https://www.gadgetreview.com/arrest-him-the-moment-police-handcuffed-a-farmer-for-going-5-seconds-over-his-time-limit-at-data-center-meeting
+    title: A Farmer Arrested for Going 5 Seconds over His Time Limit at Data Center
+      Meeting
+    score: 94
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48701342
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 在俄克拉荷马州克莱尔莫,居民达伦·布兰查德因在2月17日市议会会议上就"野马项目"(一个约300英亩的数据中心园区)发言略微超过三分钟公众评论时限,而被以非法侵入罪逮捕。执法记录仪画面(收费从1750美元降至120美元后才获得)拍下了他请求提交文件时警官下令逮捕的过程,引发了关于报复受保护言论的指控,以及城镇在重大基础设施资金涌入时如何对待异议的质疑。
+    content_file: a-farmer-arrested-for-going-5-seconds-over-his-time-limit-at.md
+    summary: In Claremore, Oklahoma, resident Darren Blanchard was arrested for trespassing
+      after speaking slightly past a three-minute public-comment limit at a February
+      17 city council meeting about Project Mustang, a roughly 300-acre data center
+      campus. Bodycam footage—obtained only after a fee dropped from $1,750 to $120—captured
+      an officer ordering his arrest as he asked to submit documents, fueling claims
+      of retaliation against protected speech and raising questions about how towns
+      handle dissent when major infrastructure money arrives.
+  - url: https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis
+    title: GLP-1 drugs led to weight loss and reversed depression-like behavior in
+      mice
+    score: 56
+    comment_cnt: 88
+    comment_url: https://news.ycombinator.com/item?id=48701984
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: 一项中国研究发现，奥泽匹克等GLP-1药物能通过一条独立于减重作用的肠道微生物通路逆转小鼠的抑郁样行为，这一作用依赖于德氏乳杆菌及其产生的内源性大麻素。由于抗抑郁益处源自特定肠道微生物，奥泽匹克的部分效果或许可通过富含纤维的饮食和酸奶等活性发酵食品部分实现。
+    content_file: glp-1-drugs-led-to-weight-loss-and-reversed-depression-like.md
+    summary: A Chinese study found that GLP-1 drugs like Ozempic reverse depression-like
+      behavior in mice through a gut-microbe pathway that is separate from their weight-loss
+      effect, depending on the bacterium Lactobacillus delbrueckii and its production
+      of endocannabinoids. Because the antidepressant benefit traces back to specific
+      gut microbes, some of Ozempic's effects may be partly achievable through fiber-rich
+      diets and live ferments like yogurt.
