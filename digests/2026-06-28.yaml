@@ -1,10 +1,30 @@
 date: '2026-06-28'
-generated_at: 2026-06-28 04:03 UTC
+generated_at: 2026-06-28 06:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you
+    title: Feds Killed Polestar and Spared Volvo. That Should Terrify You
+    score: 98
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=48703613
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html
+    title: Ford hired AI and sacked humans. It backfired badly
+    score: 94
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48703968
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://jayacunzo.com/blog/your-move-chief
     title: Response to AI slop is from Robin Williams
     score: 93
