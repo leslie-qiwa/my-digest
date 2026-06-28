@@ -1,10 +1,52 @@
 date: '2026-06-28'
-generated_at: 2026-06-28 16:01 UTC
+generated_at: 2026-06-28 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/
+    title: EU to legislate about Chat Control behind closed doors
+    score: 328
+    comment_cnt: 193
+    comment_url: https://news.ycombinator.com/item?id=48707719
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/
+    title: Michigan bill would bar employers from requiring after-hours coms with
+      workers
+    score: 131
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=48707769
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/itsthelore/wayfinder-router
+    title: 'Wayfinder Router: deterministic routing of queries between local and hosted
+      LLM'
+    score: 102
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48704373
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://antoine.fi/mri-analysis-using-claude-code-opus
+    title: I used Claude Code to get a second opinion on my MRI
+    score: 70
+    comment_cnt: 85
+    comment_url: https://news.ycombinator.com/item?id=48708941
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.engadget.com/2203000/flock-cameras-recording-license-plate/
     title: Flock cameras track more than your license plate, and they're spreading
       fast
