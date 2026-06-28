@@ -1,10 +1,70 @@
 date: '2026-06-28'
-generated_at: 2026-06-28 20:02 UTC
+generated_at: 2026-06-28 22:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/librepods-org/librepods
+    title: 'Librepods: AirPods liberated'
+    score: 176
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=48710232
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/
+    title: GLM 5.2 beats Claude in our benchmarks
+    score: 174
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=48709670
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/
+    title: Reflections on software engineering in the age of AI
+    score: 78
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=48708721
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about
+    title: The cost YAGNI was never about
+    score: 78
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=48710082
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it
+    title: The US Used to Demand the Best Tech. Now We Ban It
+    score: 77
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=48710437
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html
+    title: Professor denounces mass AI fraud on an exam at Brown
+    score: 71
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=48708991
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/
     title: The curious case of the disappearing Polish S (2015)
     score: 182
