@@ -1,10 +1,30 @@
 date: '2026-06-28'
-generated_at: 2026-06-28 18:01 UTC
+generated_at: 2026-06-28 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/
+    title: The curious case of the disappearing Polish S (2015)
+    score: 182
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48706814
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing
+    title: Tokenmaxxing is dead, long live tokenmaxxing
+    score: 60
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=48708795
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/
     title: EU to legislate about Chat Control behind closed doors
     score: 328
