@@ -1,10 +1,26 @@
 date: '2026-06-28'
-generated_at: 2026-06-28 00:05 UTC
+generated_at: 2026-06-28 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/kageroumado/adrafinil
+    title: 'Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work'
+    score: 90
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=48701512
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: Adrafinil 是一款 macOS 菜单栏应用，仅在 AI 编程代理处于活动会话时才阻止 Mac 睡眠（包括合盖睡眠），任务结束后系统即恢复正常睡眠。它将
+      root 级睡眠控制隔离在一个微型、经过审计的辅助程序中，通过一键钩子集成九款代理，并具备引用计数断言、热保护切断和空闲释放等保护机制。
+    content_file: show-hn-adrafinil-keep-a-lid-closed-mac-awake-only-while-age.md
+    summary: Adrafinil is a macOS menu bar app that keeps a Mac awake—including with
+      the lid closed—only while an AI coding agent has an active session, then lets
+      the system sleep normally once the work finishes. It isolates root-level sleep
+      control in a tiny audited helper, integrates via one-click hooks with nine agents,
+      and includes safeguards like reference-counted assertions, a thermal cutout,
+      and idle release.
   - url: https://danluu.com/discontinuities/
     title: Suspicious Discontinuities (2020)
     score: 199
