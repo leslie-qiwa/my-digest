@@ -1,10 +1,40 @@
 date: '2026-06-29'
-generated_at: 2026-06-29 14:00 UTC
+generated_at: 2026-06-29 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.openculture.com/2020/10/daisugi.html
+    title: Daisugi, the Japanese technique of growing trees out of other trees (2020)
+    score: 163
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48708859
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing
+    title: Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing
+    score: 134
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=48718102
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html
+    title: POSIX Is Not a Shell
+    score: 50
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48711403
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/
     title: Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google
       helped
