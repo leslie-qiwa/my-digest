@@ -1,10 +1,20 @@
 date: '2026-06-29'
-generated_at: 2026-06-29 02:04 UTC
+generated_at: 2026-06-29 04:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://news.ycombinator.com/item?id=48713041
+    title: We need tech news sources which exclude AI
+    score: 98
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48713041
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://dam.stanford.edu/memory-prices.html
     title: Historical memory prices 1960-2026
     score: 163
