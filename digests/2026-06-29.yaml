@@ -1,10 +1,30 @@
 date: '2026-06-29'
-generated_at: 2026-06-29 08:04 UTC
+generated_at: 2026-06-29 10:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc
+    title: The MUMPS 76 Primer – anniversary edition
+    score: 82
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48706796
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://danielcordova.me/blog/debian-openrc/
+    title: Replacing Systemd with OpenRC in Debian
+    score: 51
+    comment_cnt: 89
+    comment_url: https://news.ycombinator.com/item?id=48715630
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://danunparsed.com/p/hackerrank-open-source-ats
     title: HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No
       – 88
