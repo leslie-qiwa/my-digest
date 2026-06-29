@@ -1,0 +1,17 @@
+date: '2026-06-29'
+generated_at: 2026-06-29 00:04 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/
+    title: California legislature agrees to upload driver's licenses to national database
+    score: 118
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48708139
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
