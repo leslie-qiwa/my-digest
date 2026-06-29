@@ -1,10 +1,31 @@
 date: '2026-06-29'
-generated_at: 2026-06-29 12:03 UTC
+generated_at: 2026-06-29 14:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/
+    title: Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google
+      helped
+    score: 512
+    comment_cnt: 76
+    comment_url: https://news.ycombinator.com/item?id=48716902
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/itsthelore/rac-core
+    title: Lore – Give your coding agent the decisions your team made
+    score: 40
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48714880
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/ogulcancelik/herdr
     title: 'Herdr: Agent multiplexer that lives in your terminal'
     score: 81
