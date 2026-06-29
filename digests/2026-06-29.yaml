@@ -1,10 +1,30 @@
 date: '2026-06-29'
-generated_at: 2026-06-29 04:05 UTC
+generated_at: 2026-06-29 06:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026
+    title: Age verification is just a precursor to automated attribution of speech
+    score: 238
+    comment_cnt: 105
+    comment_url: https://news.ycombinator.com/item?id=48714529
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number
+    title: 'TOP500 at ISC’26: We have a New Number 1 Supercomputer'
+    score: 92
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48710775
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://news.ycombinator.com/item?id=48713041
     title: We need tech news sources which exclude AI
     score: 98
