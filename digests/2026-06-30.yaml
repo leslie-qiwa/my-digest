@@ -1,10 +1,20 @@
 date: '2026-06-30'
-generated_at: 2026-06-30 08:00 UTC
+generated_at: 2026-06-30 10:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers
+    title: US Supreme Court Just Blew Up EU-US Data Transfers
+    score: 184
+    comment_cnt: 127
+    comment_url: https://news.ycombinator.com/item?id=48728740
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://htmx.org/essays/working-with-ai/
     title: 'Working With AI: A concrete example'
     score: 152
