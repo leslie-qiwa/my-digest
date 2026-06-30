@@ -1,10 +1,30 @@
 date: '2026-06-30'
-generated_at: 2026-06-30 02:00 UTC
+generated_at: 2026-06-30 06:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html
+    title: Scientists find molecular-level evidence for two structures in liquid water
+    score: 96
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=48726073
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://home.robusta.dev/blog/you-really-shouldnt-copy-paste-errors-into-claude-code
+    title: You shouldn't copy-paste errors into Claude Code
+    score: 31
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=48725359
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://alexwlchan.net/2026/computer-room/
     title: Rebuilding the Computer Room
     score: 96
