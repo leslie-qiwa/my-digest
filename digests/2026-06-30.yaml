@@ -1,0 +1,17 @@
+date: '2026-06-30'
+generated_at: 2026-06-30 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/
+    title: '.self: A new top-level domain designed to support self-hosting'
+    score: 246
+    comment_cnt: 154
+    comment_url: https://news.ycombinator.com/item?id=48724230
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
