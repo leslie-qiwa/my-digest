@@ -1,10 +1,40 @@
 date: '2026-06-30'
-generated_at: 2026-06-30 12:00 UTC
+generated_at: 2026-06-30 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting
+    title: The US ambassador had Belgian police stop our reporting
+    score: 357
+    comment_cnt: 138
+    comment_url: https://news.ycombinator.com/item?id=48730608
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://cekrem.github.io/posts/parse-dont-validate-typescript/
+    title: Parse, Don't Validate – In a Language That Doesn't Want You To
+    score: 64
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48730818
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://antaresindustries.com/updates/antares-achieves-criticality
+    title: Antares Achieves Criticality of Mark-0 Reactor
+    score: 55
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48730246
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/
     title: European digital ID wallets are a gift to Google and Apple
     score: 164
