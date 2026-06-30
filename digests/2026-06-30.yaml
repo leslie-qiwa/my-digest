@@ -1,10 +1,31 @@
 date: '2026-06-30'
-generated_at: 2026-06-30 06:01 UTC
+generated_at: 2026-06-30 08:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://htmx.org/essays/working-with-ai/
+    title: 'Working With AI: A concrete example'
+    score: 152
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48720064
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html
+    title: Study suggests most Americans would be healthier without daylight saving
+      time
+    score: 79
+    comment_cnt: 92
+    comment_url: https://news.ycombinator.com/item?id=48728294
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html
     title: Scientists find molecular-level evidence for two structures in liquid water
     score: 96
