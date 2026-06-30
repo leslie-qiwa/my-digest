@@ -1,10 +1,40 @@
 date: '2026-06-30'
-generated_at: 2026-06-30 14:01 UTC
+generated_at: 2026-06-30 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/
+    title: Looking Ahead to Postgres 19
+    score: 97
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=48733031
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/
+    title: Words Are a Byproduct of Consciousness. For LLMs, It's Backwards
+    score: 77
+    comment_cnt: 146
+    comment_url: https://news.ycombinator.com/item?id=48733062
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://apnews.com/live/birthright-citizenship-decision-supreme-court-updates-06-30-2026
+    title: Supreme Court upholds broad conception of birthright citizenship
+    score: 63
+    comment_cnt: 116
+    comment_url: https://news.ycombinator.com/item?id=48733406
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting
     title: The US ambassador had Belgian police stop our reporting
     score: 357
