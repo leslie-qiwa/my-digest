@@ -1,10 +1,80 @@
 date: '2026-07-01'
-generated_at: 2026-07-01 16:01 UTC
+generated_at: 2026-07-01 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/
+    title: For first time, a cell built from scratch grows and divides
+    score: 375
+    comment_cnt: 120
+    comment_url: https://news.ycombinator.com/item?id=48747304
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for
+    title: Sony Deletes 551 Movies PlayStation Owners Paid For
+    score: 245
+    comment_cnt: 122
+    comment_url: https://news.ycombinator.com/item?id=48747389
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.cloudflare.com/monetization-gateway/
+    title: Monetization Gateway
+    score: 126
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=48746914
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch
+    title: Pine64 launch $50 smart speaker for Home Assistant tinkerers
+    score: 117
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48744446
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://nym.com/blog/anti-palantir-manifesto
+    title: The Anti-Palantir Manifesto
+    score: 93
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=48747772
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=48747976
+    title: 'Ask HN: Who is hiring? (July 2026)'
+    score: 65
+    comment_cnt: 79
+    comment_url: https://news.ycombinator.com/item?id=48747976
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.euronews.com/my-europe/2026/06/30/america-can-switch-off-the-worlds-ai-europe-must-switch-gears-before-its-too-late
+    title: America can switch off AI. Europe must switch gears before it's too late
+    score: 43
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48741943
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/
     title: Nintendo has raised its employees base salary by 10%
     score: 324
