@@ -1,10 +1,30 @@
 date: '2026-07-01'
-generated_at: 2026-07-01 18:01 UTC
+generated_at: 2026-07-01 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://box2d.org/posts/2026/06/announcing-box3d/
+    title: Box3D, an open source 3D physics engine
+    score: 320
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=48745445
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://devz.cl/posts/solid-never-felt-solid/
+    title: Solid and Clean Code never felt solid or clean to me
+    score: 41
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48748951
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/
     title: For first time, a cell built from scratch grows and divides
     score: 375
