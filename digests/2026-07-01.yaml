@@ -1,10 +1,20 @@
 date: '2026-07-01'
-generated_at: 2026-07-01 02:00 UTC
+generated_at: 2026-07-01 06:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/
+    title: Supersonic flight returning to US after half-century ban
+    score: 61
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48741654
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://ngrok.com/blog/i-ported-kubernetes-to-the-browser
     title: I ported Kubernetes to the browser
     score: 167
