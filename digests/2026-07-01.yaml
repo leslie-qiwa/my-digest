@@ -1,10 +1,20 @@
 date: '2026-07-01'
-generated_at: 2026-07-01 10:00 UTC
+generated_at: 2026-07-01 12:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://gauthier-lechevalier.com/radar
+    title: I built a mmWave material classification radar (2025)
+    score: 188
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48736137
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/
     title: Godot will no longer accept AI-authored code contributions
     score: 143
