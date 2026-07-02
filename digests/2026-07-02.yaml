@@ -1,10 +1,20 @@
 date: '2026-07-02'
-generated_at: 2026-07-02 00:01 UTC
+generated_at: 2026-07-02 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/
+    title: Meta Caps Internal AI Token Spending After Costs Approach Billions in 2026
+    score: 97
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=48754713
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://golemui.com
     title: 'Show HN: GolemUI – Declarative Form Engine'
     score: 34
