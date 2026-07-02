@@ -1,10 +1,30 @@
 date: '2026-07-02'
-generated_at: 2026-07-02 10:01 UTC
+generated_at: 2026-07-02 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html
+    title: Google loses fight over record $4.7B EU antitrust fine
+    score: 127
+    comment_cnt: 118
+    comment_url: https://news.ycombinator.com/item?id=48758309
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://cursor.com/evals
+    title: CursorBench 3.1
+    score: 82
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48756840
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/
     title: Oomwoo, an open-source robot vacuum you build yourself
     score: 298
