@@ -1,10 +1,60 @@
 date: '2026-07-03'
-generated_at: 2026-07-03 14:00 UTC
+generated_at: 2026-07-03 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/
+    title: The Safari MCP server for web developers
+    score: 188
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48769639
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater
+    title: Please stop the AI confidence theater
+    score: 187
+    comment_cnt: 178
+    comment_url: https://news.ycombinator.com/item?id=48774414
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html
+    title: Zuckerberg 'Admits' Meta's Layoffs Were Ineffective
+    score: 173
+    comment_cnt: 155
+    comment_url: https://news.ycombinator.com/item?id=48774454
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: http://www.lmdb.tech/doc/
+    title: Lightning Memory-Mapped Database Manager (LMDB) 1.0
+    score: 82
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48766598
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://publicznyprofil.github.io/ai_cant_do_your_work/
+    title: 'It Still Can''t Do My Job: Four Years of Moving Goalposts (2022–2026)'
+    score: 37
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=48775909
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/HUANGCHIHHUNGLeo/claude-real-video
     title: Claude-real-video － any LLM can watch a video
     score: 147
@@ -156,3 +206,75 @@ feeds:
     summary_zh: ''
     content_file: ''
     summary: ''
+- id: golang-weekly
+  label: Golang Weekly
+  provider: rss_newsletter
+  items:
+  - url: https://golangweekly.com/link/187473/rss
+    title: 'Building Gin: Simple Over Easy'
+    summary: Did you know Gin, the popular Go web framework, was built for a social
+      network that never took off? Twelve years and 88K stars later, its creator reflects
+      on choosing simplicity, radix tree routing (complete with a live diagram) and,
+      aptly for a Go project, never breaking the API.
+    score: 0
+    tags: []
+    source: manualmeida.dev
+    domain: manualmeida.dev
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/187475/rss
+    title: 'Understanding the Go Runtime: Profiling'
+    summary: Jesús is back with another of his deep dives, this time into how profiling
+      works under the hood. If you’ve ever used pprof, you’ll learn exactly what’s
+      going on inside Go to make it work, and what the five different types of profile
+      measure.
+    score: 0
+    tags: []
+    source: internals-for-interns.com
+    domain: internals-for-interns.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/187480/rss
+    title: How 4 Bytes of Padding Make Array Clearing 49% Faster
+    summary: Clearing a big Go array runs faster on Intel when it sits at an 8-byte
+      aligned offset. Here’s why, plus a benchmark that also tries out Go 1.26’s experimental
+      SIMD intrinsics.
+    score: 0
+    tags: []
+    source: blog.andr2i.com
+    domain: blog.andr2i.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/187484/rss
+    title: 'LeafWiki: A Self-Hosted Wiki in a Single Go Binary'
+    summary: No complex setup, just a single binary and a data directory with an SQLite
+      database and Markdown files within. There’s a demo instance here.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/187486/rss
+    title: 'Compress 1.19.0: Optimized Compression Packages for Go'
+    summary: Covers a variety of compression standards like zstandard, S2, gzip, zlib,
+      snappy, and zip, plus a fast parallel gzip implementation. Recent improvements
+      include concurrent zstd stream encoding and an ARM64 zstd decoder.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/187489/rss
+    title: 'Mo: View Markdown .md Files in the Browser'
+    summary: Charm’s Glow is a good Markdown viewer on the terminal, but if you’re
+      drowning in Markdown files you’d rather read in the browser, this is an elegant
+      solution, and even includes things like syntax highlighting and Mermaid diagram
+      rendering.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
