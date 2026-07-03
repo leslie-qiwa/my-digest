@@ -1,10 +1,51 @@
 date: '2026-07-03'
-generated_at: 2026-07-03 16:02 UTC
+generated_at: 2026-07-03 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/
+    title: Valve open source the Steam Machine e-ink screen so you can make your own
+    score: 352
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48774518
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arxiv.org/abs/2602.20415
+    title: Markets are competitive if and only if P != NP
+    score: 178
+    comment_cnt: 115
+    comment_url: https://news.ycombinator.com/item?id=48776345
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts
+    title: Claude, please stop trying to memorize random crap
+    score: 87
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=48776232
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive
+    title: 'America, 1926: What a Forgotten 100-Year-Old Report Says About Who We
+      Are'
+    score: 74
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=48775979
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/
     title: The Safari MCP server for web developers
     score: 188
