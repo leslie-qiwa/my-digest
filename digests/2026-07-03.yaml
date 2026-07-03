@@ -1,10 +1,92 @@
 date: '2026-07-03'
-generated_at: 2026-07-03 18:01 UTC
+generated_at: 2026-07-03 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/jamesob/local-llm
+    title: Jamesob's guide to running SOTA LLMs locally
+    score: 169
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=48775921
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://interconnected.org/home/2026/07/03/factories
+    title: Factories are just rooms
+    score: 115
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48776035
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://phenomenalworld.org/analysis/the-anti-amazon/
+    title: Costco is the anti-Amazon
+    score: 106
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=48776044
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type
+    title: 'I Wasn''t Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination
+      (2025)'
+    score: 94
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=48777728
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/us-news/2026/jul/03/datacenter-recall-elections
+    title: US residents angry datacenters 'shoved down our throats' are recalling
+      officials
+    score: 85
+    comment_cnt: 95
+    comment_url: https://news.ycombinator.com/item?id=48776780
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240
+    title: Hackers shoveled snow for company, were rewarded with network admin access
+    score: 78
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=48774704
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://superuserdone.com/posts/2026-07-03-give-smart-people-the-tools/
+    title: Give Smart People the Tools to Do Smart Things
+    score: 76
+    comment_cnt: 95
+    comment_url: https://news.ycombinator.com/item?id=48775748
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://okaneland.com/study/ai-productivity-roi-at-work/
+    title: AI saves about 3% of your hours, and almost none of it reaches the money
+    score: 63
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=48777257
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/
     title: Valve open source the Steam Machine e-ink screen so you can make your own
     score: 352
