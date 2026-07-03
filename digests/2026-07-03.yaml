@@ -1,10 +1,51 @@
 date: '2026-07-03'
-generated_at: 2026-07-03 20:02 UTC
+generated_at: 2026-07-03 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/teamchong/pxpipe
+    title: 60% Fable cost cut by converting code to images and having the model OCR
+      it
+    score: 189
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=48776464
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit
+    title: 'PostgreSQL and the OOM killer: Why we use strict memory overcommit'
+    score: 139
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=48774509
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://apnews.com/article/california-farmer-nectarines-lawsuit-patent-4f7bc8ab185e8b9cbdd6d6ad4f2aabd1
+    title: Farmer, marketer at odds over sales of white nectarines
+    score: 104
+    comment_cnt: 104
+    comment_url: https://news.ycombinator.com/item?id=48778031
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code
+    title: Gemini Code Assist will be shut down on July 17
+    score: 61
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48774429
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/jamesob/local-llm
     title: Jamesob's guide to running SOTA LLMs locally
     score: 169
