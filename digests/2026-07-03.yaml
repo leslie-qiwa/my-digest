@@ -1,10 +1,30 @@
 date: '2026-07-03'
-generated_at: 2026-07-03 02:00 UTC
+generated_at: 2026-07-03 04:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://scottaaronson.blog/?p=9902
+    title: An American Privacy Emergency
+    score: 210
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=48768992
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts
+    title: CarPlay Is Additive
+    score: 90
+    comment_cnt: 98
+    comment_url: https://news.ycombinator.com/item?id=48769397
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data
     title: Postgres transactions are a distributed systems superpower
     score: 112
