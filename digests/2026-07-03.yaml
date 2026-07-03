@@ -1,10 +1,30 @@
 date: '2026-07-03'
-generated_at: 2026-07-03 10:00 UTC
+generated_at: 2026-07-03 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://weli.dev/blog/half-baked-product/
+    title: Half-Baked Product
+    score: 286
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=48772388
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/cj6gr0xkyr3o
+    title: AI is 'not smart' so what's next in artificial intelligence?
+    score: 37
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48769696
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/FractalFir/crustc
     title: 'crustc: entirety of `rustc`, translated to C'
     score: 281
