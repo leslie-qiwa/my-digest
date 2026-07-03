@@ -1,0 +1,57 @@
+date: '2026-07-03'
+generated_at: 2026-07-03 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://pradyuprasad.com/writings/how-to-ask-for-help/
+    title: How to ask for help from people who don't know you
+    score: 368
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=48761118
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data
+    title: Virginia bans sale of geolocation data
+    score: 328
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=48767347
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/immich-app/immich/discussions/29439
+    title: Immich 3.0
+    score: 151
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=48761944
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.okturtles.org/2026/07/short-leash-ai-method/
+    title: The short leash AI coding method for beating Fable
+    score: 53
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48766026
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://spectrum.ieee.org/orbital-data-center-hype
+    title: 'Orbital Data Centers: Why the Hype Outpaces Reality'
+    score: 25
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48759256
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
