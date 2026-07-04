@@ -1,10 +1,21 @@
 date: '2026-07-04'
-generated_at: 2026-07-04 16:00 UTC
+generated_at: 2026-07-04 18:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/anthropics/claude-code/issues/74066
+    title: Potential session/cache leakage between workspace instances or consumer
+      accounts
+    score: 205
+    comment_cnt: 93
+    comment_url: https://news.ycombinator.com/item?id=48785485
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://mrbruh.com/msicenter/
     title: MSI Center – How to gain SYSTEM privileges in seconds
     score: 124
