@@ -1,10 +1,61 @@
 date: '2026-07-04'
-generated_at: 2026-07-04 20:01 UTC
+generated_at: 2026-07-04 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system
+    title: Meta data center water discharges suspended for contaminating water supply
+    score: 188
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=48786782
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main
+    title: Command and Conquer Generals natively ported to macOS, iPhone, iPad using
+      Fable
+    score: 186
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=48788283
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/
+    title: AI has torched the market for junior programmers
+    score: 76
+    comment_cnt: 134
+    comment_url: https://news.ycombinator.com/item?id=48788361
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/
+    title: As downtown Seattle offices empty, city facing years of 'zombie' towers
+    score: 68
+    comment_cnt: 97
+    comment_url: https://news.ycombinator.com/item?id=48787725
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.scientificamerican.com/article/how-working-memory-could-give-rise-to-consciousness/
+    title: How working memory could give rise to consciousness
+    score: 46
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48785478
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://javoriuski.com/post/youtube
     title: Leaking YouTube creators' private videos
     score: 273
