@@ -1,10 +1,40 @@
 date: '2026-07-04'
-generated_at: 2026-07-04 10:00 UTC
+generated_at: 2026-07-04 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://crocidb.com/post/freebsd-ate-my-ram/
+    title: FreeBSD ate my RAM
+    score: 153
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48778757
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.marginalia.nu/log/a_135_learn/
+    title: Maybe you should learn something
+    score: 142
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48782435
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post
+    title: Agentic coding notes from Galapagos Island
+    score: 108
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48782671
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://mistral.ai/news/leanstral-1-5/
     title: 'Leanstral 1.5: Proof abundance for all'
     score: 232
