@@ -1,0 +1,27 @@
+date: '2026-07-04'
+generated_at: 2026-07-04 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/
+    title: Espionage Against the European Parliament
+    score: 244
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=48779683
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm
+    title: The Fall and Rise of Screwworm
+    score: 131
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=48774492
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
