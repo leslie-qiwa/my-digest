@@ -1,10 +1,30 @@
 date: '2026-07-04'
-generated_at: 2026-07-04 06:00 UTC
+generated_at: 2026-07-04 10:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://mistral.ai/news/leanstral-1-5/
+    title: 'Leanstral 1.5: Proof abundance for all'
+    score: 232
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=48780801
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/
+    title: The bottleneck might be the air in the room
+    score: 226
+    comment_cnt: 134
+    comment_url: https://news.ycombinator.com/item?id=48783117
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.wafer.ai/blog/glm52-amd
     title: Performance per dollar is getting faster and cheaper
     score: 186
