@@ -1,10 +1,40 @@
 date: '2026-07-04'
-generated_at: 2026-07-04 18:00 UTC
+generated_at: 2026-07-04 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://javoriuski.com/post/youtube
+    title: Leaking YouTube creators' private videos
+    score: 273
+    comment_cnt: 135
+    comment_url: https://news.ycombinator.com/item?id=48786781
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.eso.org/public/news/eso2607/
+    title: No more than 100 000 faint satellites should orbit Earth
+    score: 84
+    comment_cnt: 109
+    comment_url: https://news.ycombinator.com/item?id=48787042
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488
+    title: 'Sick leave: Germany rising but not the worst in Europe'
+    score: 32
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48787058
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/anthropics/claude-code/issues/74066
     title: Potential session/cache leakage between workspace instances or consumer
       accounts
