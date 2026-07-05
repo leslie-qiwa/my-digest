@@ -1,10 +1,30 @@
 date: '2026-07-05'
-generated_at: 2026-07-05 14:00 UTC
+generated_at: 2026-07-05 16:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://organicmaps.app/
+    title: Organic Maps
+    score: 179
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48794446
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk
+    title: Cannabis Users Face Substantially Higher Risk of Heart Attack (2025)
+    score: 88
+    comment_cnt: 108
+    comment_url: https://news.ycombinator.com/item?id=48793492
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.bbc.com/news/articles/c8e2j0j87reo
     title: Europe's new climate in seven charts
     score: 123
