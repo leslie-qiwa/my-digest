@@ -1,10 +1,20 @@
 date: '2026-07-05'
-generated_at: 2026-07-05 20:00 UTC
+generated_at: 2026-07-05 22:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://arxiv.org/abs/2602.09239
+    title: A sociotechnical threat model for AI-driven smart home devices
+    score: 78
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=48795830
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://phosh.mobi/releases/rel-0.56.0/
     title: Phosh 0.56.0
     score: 133
