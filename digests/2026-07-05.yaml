@@ -1,10 +1,30 @@
 date: '2026-07-05'
-generated_at: 2026-07-05 10:00 UTC
+generated_at: 2026-07-05 12:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://ui.shadcn.com/docs/changelog
+    title: Shadcn/UI now defaults to Base UI instead of Radix
+    score: 159
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=48791328
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.devever.net/~hl/webcrypto
+    title: Web-based cryptography is always snake oil
+    score: 43
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48792203
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/
     title: sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)
     score: 44
