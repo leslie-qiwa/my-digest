@@ -1,10 +1,50 @@
 date: '2026-07-05'
-generated_at: 2026-07-05 16:00 UTC
+generated_at: 2026-07-05 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html
+    title: EU Council forces Chat Control via fast-track
+    score: 226
+    comment_cnt: 108
+    comment_url: https://news.ycombinator.com/item?id=48793393
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://craigmod.com/essays/fast_software/
+    title: Fast Software, the Best Software (2019)
+    score: 100
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48792008
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.formaly.io/blog/knowledge-should-not-be-gated
+    title: Knowledge Should Not Be Gated
+    score: 69
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48792195
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri
+    title: Solar rail could become common in Europe after successful trial in Switzerland
+    score: 56
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48794704
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://organicmaps.app/
     title: Organic Maps
     score: 179
