@@ -1,10 +1,20 @@
 date: '2026-07-05'
-generated_at: 2026-07-05 12:00 UTC
+generated_at: 2026-07-05 14:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.bbc.com/news/articles/c8e2j0j87reo
+    title: Europe's new climate in seven charts
+    score: 123
+    comment_cnt: 180
+    comment_url: https://news.ycombinator.com/item?id=48792790
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://ui.shadcn.com/docs/changelog
     title: Shadcn/UI now defaults to Base UI instead of Radix
     score: 159
