@@ -1,10 +1,51 @@
 date: '2026-07-05'
-generated_at: 2026-07-05 06:00 UTC
+generated_at: 2026-07-05 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://ziglang.org/devlog/2026/#2026-06-30
+    title: 'Zig: All Package Management Functionality Moved from Compiler to Build
+      System'
+    score: 185
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=48786638
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/
+    title: If you're a button, you have one job
+    score: 159
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=48790689
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/
+    title: 'Better Models: Worse Tools'
+    score: 154
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48788599
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/
+    title: My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress
+    score: 32
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=48789325
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://adamraudonis.github.io/splats4D/
     title: Fable created novel 4D splat format
     score: 143
