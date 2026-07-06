@@ -1,10 +1,50 @@
 date: '2026-07-06'
-generated_at: 2026-07-06 20:01 UTC
+generated_at: 2026-07-06 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.anthropic.com/research/global-workspace
+    title: A global workspace in language models
+    score: 180
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48808002
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.bloomberglaw.com/us-law-week/doj-closing-abbott-labs-case-spurs-wider-corporate-crime-retreat
+    title: DOJ Closing Abbott Labs Case Spurs Wider Corporate Crime Retreat
+    score: 119
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48805304
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://janilowski.pl/en/blog/2026/price-per-m-tokens/
+    title: Price per 1M tokens is meaningless
+    score: 101
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48809542
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://reprog.wordpress.com/2026/07/05/what-does-jeff-bezos-think-is-going-to-happen/
+    title: What does Jeff Bezos think is going to happen?
+    score: 55
+    comment_cnt: 87
+    comment_url: https://news.ycombinator.com/item?id=48809208
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://openwrt.org/toh/openwrt/one
     title: OpenWrt One – Open Hardware Router
     score: 147
