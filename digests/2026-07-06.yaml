@@ -1,10 +1,80 @@
 date: '2026-07-06'
-generated_at: 2026-07-06 14:01 UTC
+generated_at: 2026-07-06 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps/
+    title: Anthropic's Method to Losing Goodwill in a Few Easy Steps
+    score: 218
+    comment_cnt: 142
+    comment_url: https://news.ycombinator.com/item?id=48803751
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.cloudflare.com/workers-cache/
+    title: Workers Cache
+    score: 167
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=48804014
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html
+    title: Nintendo announces new product revisions in Europe with replaceable batteries
+    score: 143
+    comment_cnt: 89
+    comment_url: https://news.ycombinator.com/item?id=48804193
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://spectrum.ieee.org/stochastic-parrot
+    title: Emily Bender Sets the Record Straight on "Stochastic Parrots"
+    score: 78
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=48805401
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://rruxandra.github.io/regression-to-the-mean.html
+    title: 'Regression to the Mean: on LLMs and the quiet death of the new'
+    score: 66
+    comment_cnt: 85
+    comment_url: https://news.ycombinator.com/item?id=48804219
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://spectrum.ieee.org/us-engineered-sovereignty
+    title: How the U.S. Engineered Its Sovereignty
+    score: 49
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48802971
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://twitter.com/bryan_johnson/status/2072069730517860385
+    title: 'Bryan Johnson: I have an autoimmune disease. My stomach is eating itself'
+    score: 43
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=48804049
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://web.archive.org/web/20050615235108/http://www.geocities.com/tablizer/science.htm
     title: '"Software Engineering" Is Not Engineering (2005)'
     score: 44
