@@ -1,10 +1,40 @@
 date: '2026-07-06'
-generated_at: 2026-07-06 08:01 UTC
+generated_at: 2026-07-06 10:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.starringthecomputer.com/computers.html
+    title: Starring the Computer
+    score: 230
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48796093
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.wysr.xyz/p/the-private-capture-of-public-genius
+    title: The Private Capture of Public Genius
+    score: 110
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=48799178
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://tomtunguz.com/ai-spend-breakeven-2029/
+    title: When AI Costs More Than the Engineer
+    score: 85
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=48801493
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://arxiv.org/abs/2605.20049
     title: Does code cleanliness affect coding agents? A controlled minimal-pair study
     score: 106
