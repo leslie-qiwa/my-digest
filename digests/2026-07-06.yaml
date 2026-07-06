@@ -1,10 +1,90 @@
 date: '2026-07-06'
-generated_at: 2026-07-06 16:02 UTC
+generated_at: 2026-07-06 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.publicnotice.co/p/kalshi-cnn-cnbc
+    title: How Kalshi Infects the News
+    score: 166
+    comment_cnt: 139
+    comment_url: https://news.ycombinator.com/item?id=48804123
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://dernocua.github.io/notes/aluminum-foil.html
+    title: Aluminum foil (2021)
+    score: 160
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=48804297
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.xbox.com/en-us/2026/07/06/resetting-xbox/
+    title: Resetting Xbox
+    score: 154
+    comment_cnt: 112
+    comment_url: https://news.ycombinator.com/item?id=48804993
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://andonlabs.com/blog/fable5-vending-bench
+    title: 'Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability'
+    score: 121
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=48803762
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://postgresisenough.dev/
+    title: Do you need separate systems when you already have Postgres?
+    score: 96
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=48805564
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://oztalking.com/en/issues/hidden-4gb-ai-model
+    title: Google Chrome Installed a 4GB AI Model on Your PC
+    score: 76
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=48805627
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ben.stolovitz.com/posts/car-touchscreens-are-cheap-not-good/
+    title: Car touchscreens are cheap, not good
+    score: 75
+    comment_cnt: 101
+    comment_url: https://news.ycombinator.com/item?id=48806151
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theargumentmag.com/p/should-dayquil-be-legal
+    title: Should DayQuil Be Legal?
+    score: 73
+    comment_cnt: 86
+    comment_url: https://news.ycombinator.com/item?id=48806289
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps/
     title: Anthropic's Method to Losing Goodwill in a Few Easy Steps
     score: 218
