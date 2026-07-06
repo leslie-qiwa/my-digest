@@ -1,10 +1,40 @@
 date: '2026-07-06'
-generated_at: 2026-07-06 02:01 UTC
+generated_at: 2026-07-06 06:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt
+    title: 'Al Vigier: Canada''s AI strategy shouldn''t include secret Palantir bills'
+    score: 132
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=48799256
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://shub.club/writings/2026/july/you-need-a-webring/
+    title: You need a webring
+    score: 74
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48796792
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://mihai.page/pi-square-is-10/
+    title: Pi squared is nearly 10
+    score: 59
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48793073
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://notesbylex.com/completing-a-computer-science-degree-on-coursera
     title: Completing a computer science degree on Coursera
     score: 97
