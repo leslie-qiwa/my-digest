@@ -1,10 +1,40 @@
 date: '2026-07-06'
-generated_at: 2026-07-06 18:02 UTC
+generated_at: 2026-07-06 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://openwrt.org/toh/openwrt/one
+    title: OpenWrt One – Open Hardware Router
+    score: 147
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=48808482
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html
+    title: The Supreme Court Just Lit a Fuse Under Flock's License Plate Camera Empire
+    score: 89
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=48807383
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.surrey.ac.uk/news/astrophysicists-show-how-worlds-darkest-coating-could-protect-night-sky-satellite-light-pollution
+    title: 'Study: ultra-black coating could reduce satellite light pollution'
+    score: 33
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48803244
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.publicnotice.co/p/kalshi-cnn-cnbc
     title: How Kalshi Infects the News
     score: 166
