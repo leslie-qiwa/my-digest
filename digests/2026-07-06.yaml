@@ -1,10 +1,20 @@
 date: '2026-07-06'
-generated_at: 2026-07-06 00:02 UTC
+generated_at: 2026-07-06 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://notesbylex.com/completing-a-computer-science-degree-on-coursera
+    title: Completing a computer science degree on Coursera
+    score: 97
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=48798061
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.opentools.studio/
     title: OpenPrinter
     score: 280
