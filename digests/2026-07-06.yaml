@@ -1,0 +1,47 @@
+date: '2026-07-06'
+generated_at: 2026-07-06 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://www.opentools.studio/
+    title: OpenPrinter
+    score: 280
+    comment_cnt: 78
+    comment_url: https://news.ycombinator.com/item?id=48797916
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://en.wikipedia.org/wiki/Small_penis_rule
+    title: Small Penis Rule
+    score: 122
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=48797015
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html
+    title: Run Windows 2000 on a DEC Alpha with a new es40 fork
+    score: 98
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48794302
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://sigfrid-lundberg.se/entries/2010/07/hate_xml/
+    title: Do you hate XML? (2010)
+    score: 30
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48796438
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
