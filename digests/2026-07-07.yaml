@@ -1,10 +1,41 @@
 date: '2026-07-07'
-generated_at: 2026-07-07 18:03 UTC
+generated_at: 2026-07-07 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://fightchatcontrol.eu/chat-control-overview
+    title: Chat Control 1.0 and 2.0 Explained
+    score: 206
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=48818311
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www-cs-faculty.stanford.edu/~knuth/taocp.html
+    title: The Art of Computer Programming by Donald E. Knuth
+    score: 189
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48813929
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://whimfiles.com
+    title: 'Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no
+      Electron)'
+    score: 73
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48814952
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html
     title: Chat Control passed first round in EU Parliament
     score: 288
