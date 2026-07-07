@@ -1,10 +1,71 @@
 date: '2026-07-07'
-generated_at: 2026-07-07 12:00 UTC
+generated_at: 2026-07-07 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://cakehonolulu.github.io/linux-for-jaguar/
+    title: Linux on the Atari Jaguar
+    score: 170
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=48808663
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/
+    title: 98% Isn't Much
+    score: 137
+    comment_cnt: 117
+    comment_url: https://news.ycombinator.com/item?id=48816959
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ciphercue.com/blog/european-web-hosting-vendor-share-2026
+    title: Europe's company websites are mostly served by US vendors
+    score: 93
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=48816612
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal
+    title: Dua Lipa opens library for banned and censored books in Portugal
+    score: 70
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=48817017
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly-smashed-the-official-409-mph-record-hopes-to-get-stamp-of-approval-from-guinness-soon
+    title: Electric anti-aircraft interceptor drone breaks world air speed record
+      at 434mph
+    score: 62
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48805985
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162
+    title: Why migrants come to Germany for work and then leave again
+    score: 31
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=48815982
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device
     title: Microsoft Can Track Users via a Windows Device ID
     score: 116
