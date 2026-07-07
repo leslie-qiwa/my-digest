@@ -1,10 +1,20 @@
 date: '2026-07-07'
-generated_at: 2026-07-07 10:00 UTC
+generated_at: 2026-07-07 12:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device
+    title: Microsoft Can Track Users via a Windows Device ID
+    score: 116
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48815196
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals
     title: Small AI Models Gain Traction In places with unreliable networks
     score: 143
