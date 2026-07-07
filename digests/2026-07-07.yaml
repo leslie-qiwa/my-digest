@@ -1,10 +1,41 @@
 date: '2026-07-07'
-generated_at: 2026-07-07 04:01 UTC
+generated_at: 2026-07-07 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home
+    title: How to sequence your own DNA at home
+    score: 178
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=48812156
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/iOfficeAI/OfficeCLI
+    title: 'OfficeCLI: Office suite for AI agents to read and edit Microsoft Office
+      files'
+    score: 168
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48807225
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/
+    title: 'Acronym Fatigue Series Introduction: why I''m wary of acronyms'
+    score: 54
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48811339
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/
     title: Amazon will stop accepting new customers for Mechanical Turk
     score: 142
