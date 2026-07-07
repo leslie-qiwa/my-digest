@@ -1,10 +1,20 @@
 date: '2026-07-07'
-generated_at: 2026-07-07 00:02 UTC
+generated_at: 2026-07-07 02:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/MaximeRivest/Riddle
+    title: Fable turned reMarkable into Tom Riddle's diary from Harry Potter
+    score: 141
+    comment_cnt: 91
+    comment_url: https://news.ycombinator.com/item?id=48811591
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/can1357/pon
     title: Python 3.14 compiled to metal – no interpreter
     score: 109
