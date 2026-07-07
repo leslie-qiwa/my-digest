@@ -1,10 +1,61 @@
 date: '2026-07-07'
-generated_at: 2026-07-07 16:01 UTC
+generated_at: 2026-07-07 18:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html
+    title: Chat Control passed first round in EU Parliament
+    score: 288
+    comment_cnt: 126
+    comment_url: https://news.ycombinator.com/item?id=48819008
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://better-auth.com/blog/better-auth-joins-vercel
+    title: Better Auth is joining Vercel
+    score: 85
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=48819512
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://govauctions.app/research/cheapest-homes-in-america
+    title: Mapping homes you can buy from the US government for <$100k
+    score: 56
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48820274
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/c33y0n1v1xjo
+    title: China sentences official to death for taking $325M in bribes
+    score: 53
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=48820220
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.newscientist.com/article/2532997-salt-batteries-are-about-to-shake-up-evs-and-grid-storage/
+    title: Sodium-ion "salt" batteries will revolutionize electric-vehicle and grid
+      storage
+    score: 31
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=48818271
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/V4bel/Januscape
     title: 'Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]'
     score: 127
