@@ -1,10 +1,20 @@
 date: '2026-07-07'
-generated_at: 2026-07-07 20:01 UTC
+generated_at: 2026-07-07 22:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://firesphere.dev/articles/yes-actually-i-do-fucking-mind
+    title: 'Re: I''m Begging You to Leave Your AI Note-Taker at Home'
+    score: 47
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=48823024
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://fightchatcontrol.eu/chat-control-overview
     title: Chat Control 1.0 and 2.0 Explained
     score: 206
