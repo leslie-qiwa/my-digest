@@ -1,0 +1,57 @@
+date: '2026-07-07'
+generated_at: 2026-07-07 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://github.com/can1357/pon
+    title: Python 3.14 compiled to metal – no interpreter
+    score: 109
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=48809496
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://stevekrouse.com/learn-to-code
+    title: Learning to code is still worthwhile
+    score: 89
+    comment_cnt: 95
+    comment_url: https://news.ycombinator.com/item?id=48810439
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/
+    title: GLM 5.2 and the coming AI margin collapse
+    score: 87
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48809877
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/karola3vax/CS2FOW
+    title: 'CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers'
+    score: 87
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48805965
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.astralcodexten.com/p/the-ai-superforecasters-are-here
+    title: The AI Superforecasters Are Here
+    score: 56
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48806296
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
