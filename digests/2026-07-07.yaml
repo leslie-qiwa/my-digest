@@ -1,10 +1,40 @@
 date: '2026-07-07'
-generated_at: 2026-07-07 02:00 UTC
+generated_at: 2026-07-07 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/
+    title: Amazon will stop accepting new customers for Mechanical Turk
+    score: 142
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48803886
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.cr.yp.to/20260706-fairness.html
+    title: 'NSA and IETF: Fairness'
+    score: 65
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=48811887
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector
+    title: 'AI: The ROI Runway Could Be Long Outside the Tech Sector'
+    score: 60
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48810533
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/MaximeRivest/Riddle
     title: Fable turned reMarkable into Tom Riddle's diary from Harry Potter
     score: 141
