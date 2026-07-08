@@ -1,10 +1,41 @@
 date: '2026-07-08'
-generated_at: 2026-07-08 20:01 UTC
+generated_at: 2026-07-08 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582
+    title: PlayStation can delete all your digital games after 3 years of inactivity
+      (EU)
+    score: 178
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=48834919
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://e360.yale.edu/features/cassandra-rauert-interview
+    title: What Do We Know About the Microplastics Inside Us?
+    score: 158
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=48834898
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html
+    title: The classifiers Anthropic puts in front of Fable are too zealous
+    score: 142
+    comment_cnt: 121
+    comment_url: https://news.ycombinator.com/item?id=48837162
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/
     title: TypeScript 7
     score: 263
