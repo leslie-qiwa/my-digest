@@ -1,10 +1,50 @@
 date: '2026-07-08'
-generated_at: 2026-07-08 00:01 UTC
+generated_at: 2026-07-08 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://odra.dev/slopfix/
+    title: We charge $10k a week to delete AI-generated code
+    score: 205
+    comment_cnt: 107
+    comment_url: https://news.ycombinator.com/item?id=48823359
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://astro.build/blog/astro-7/
+    title: Astro 7.0
+    score: 181
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48821653
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://replicated.live/blog/away
+    title: Automating AI Away
+    score: 103
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48818937
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/society/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists
+    title: Men's average testosterone levels have halved in last 50 years
+    score: 56
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=48823368
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/
     title: Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro
     score: 242
