@@ -1,10 +1,30 @@
 date: '2026-07-08'
-generated_at: 2026-07-08 10:00 UTC
+generated_at: 2026-07-08 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://pgdog.dev/blog/why-yet-another-connection-pooler
+    title: Why we built yet another Postgres connection pooler
+    score: 204
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48819308
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/rowboatlabs/rowboat
+    title: 'Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop'
+    score: 168
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48819808
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/
     title: 'GitLost: We Tricked GitHub''s AI Agent into Leaking Private Repos'
     score: 180
