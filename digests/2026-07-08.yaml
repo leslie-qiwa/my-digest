@@ -1,10 +1,30 @@
 date: '2026-07-08'
-generated_at: 2026-07-08 06:02 UTC
+generated_at: 2026-07-08 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://kb.cert.org/vuls/id/213560
+    title: Tenda firmware (multiple versions) contains hidden authentication backdoor
+    score: 176
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48825749
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/
+    title: How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)
+    score: 155
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=48827325
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://anthonyhobday.com/blog/20260410
     title: Notes on Software Quality
     score: 109
