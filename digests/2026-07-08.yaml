@@ -1,10 +1,20 @@
 date: '2026-07-08'
-generated_at: 2026-07-08 12:01 UTC
+generated_at: 2026-07-08 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/
+    title: Apple to increase spend with Broadcom to produce billions more U.S. chips
+    score: 112
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=48830565
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://pgdog.dev/blog/why-yet-another-connection-pooler
     title: Why we built yet another Postgres connection pooler
     score: 204
