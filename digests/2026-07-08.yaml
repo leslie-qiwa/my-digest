@@ -1,10 +1,63 @@
 date: '2026-07-08'
-generated_at: 2026-07-08 14:01 UTC
+generated_at: 2026-07-08 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.theguardian.com/us-news/2026/jul/08/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food
+    title: US Food and Drug Administration rejects petition to set PFAS limits in
+      food
+    score: 159
+    comment_cnt: 111
+    comment_url: https://news.ycombinator.com/item?id=48831785
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.digipres.org/the-floppy-guide/
+    title: Copy That Floppy – Cambridge guide for preserving data from fragile floppy
+      disks
+    score: 139
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48827092
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/
+    title: It seems that the age of reading might be a short anomaly in human history
+    score: 66
+    comment_cnt: 126
+    comment_url: https://news.ycombinator.com/item?id=48830868
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/technology-64939558
+    title: Tiny data centre used to heat public swimming pool
+    score: 65
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=48831499
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work
+    title: List of European organizations that have banned personal messaging apps
+      at work
+    score: 38
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=48830371
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/
     title: Apple to increase spend with Broadcom to produce billions more U.S. chips
     score: 112
