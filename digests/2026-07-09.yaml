@@ -1,10 +1,51 @@
 date: '2026-07-09'
-generated_at: 2026-07-09 12:00 UTC
+generated_at: 2026-07-09 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/
+    title: 'EU Parliament greenlights Chat Control 1.0 – Breyer: "Our children lose
+      out"'
+    score: 275
+    comment_cnt: 130
+    comment_url: https://news.ycombinator.com/item?id=48843923
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/cg5pd9z2487o
+    title: Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75
+    score: 186
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=48843438
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony
+    title: 'New Sweden: the US''s long-lost ''secret'' colony'
+    score: 158
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=48836324
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase
+    title: Benchmarking coding agents on Databricks' multi-million line codebase
+    score: 130
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=48837696
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html
     title: My Thoughts on the Bun Rust Rewrite
     score: 196
