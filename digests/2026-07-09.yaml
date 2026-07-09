@@ -1,10 +1,50 @@
 date: '2026-07-09'
-generated_at: 2026-07-09 16:02 UTC
+generated_at: 2026-07-09 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/
+    title: Muse Spark 1.1
+    score: 204
+    comment_cnt: 123
+    comment_url: https://news.ycombinator.com/item?id=48846184
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.pangram.com/blog/ai-in-your-feed
+    title: AI content is everywhere on social media, especially LinkedIn
+    score: 111
+    comment_cnt: 85
+    comment_url: https://news.ycombinator.com/item?id=48847940
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/PostHog/posthog-foss
+    title: PostHog FOSS
+    score: 85
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=48846293
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.anthropic.com/news/reflect-with-claude
+    title: A new way to reflect on how you use Claude
+    score: 39
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48845526
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1
     title: Introducing Muse Spark 1.1
     score: 137
