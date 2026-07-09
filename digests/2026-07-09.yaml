@@ -1,10 +1,51 @@
 date: '2026-07-09'
-generated_at: 2026-07-09 14:01 UTC
+generated_at: 2026-07-09 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1
+    title: Introducing Muse Spark 1.1
+    score: 137
+    comment_cnt: 87
+    comment_url: https://news.ycombinator.com/item?id=48846184
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/
+    title: US seeks cheaper hunter-killer drones after Iran destroys $1B worth of
+      Reapers
+    score: 133
+    comment_cnt: 160
+    comment_url: https://news.ycombinator.com/item?id=48845514
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/
+    title: 'The Glass Backbone: Why the Army''s Logistics Will Break in the Next War'
+    score: 84
+    comment_cnt: 93
+    comment_url: https://news.ycombinator.com/item?id=48845442
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.uncommonapps.nyc/p/just-pay-the-subscription
+    title: Just Pay the Subscription
+    score: 33
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=48845269
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/
     title: 'EU Parliament greenlights Chat Control 1.0 – Breyer: "Our children lose
       out"'
