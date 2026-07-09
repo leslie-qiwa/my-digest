@@ -1,10 +1,30 @@
 date: '2026-07-09'
-generated_at: 2026-07-09 10:01 UTC
+generated_at: 2026-07-09 12:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html
+    title: My Thoughts on the Bun Rust Rewrite
+    score: 196
+    comment_cnt: 124
+    comment_url: https://news.ycombinator.com/item?id=48843352
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/
+    title: Why developers are ditching GitHub for Codeberg and self-hosting alternatives
+    score: 180
+    comment_cnt: 134
+    comment_url: https://news.ycombinator.com/item?id=48842611
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/malisper/pgrust
     title: Postgres rewritten in Rust, now passing 100% of the Postgres regression
       tests
