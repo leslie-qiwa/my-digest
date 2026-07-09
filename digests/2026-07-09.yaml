@@ -1,0 +1,17 @@
+date: '2026-07-09'
+generated_at: 2026-07-09 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://bun.com/blog/bun-in-rust
+    title: Rewriting Bun in Rust
+    score: 178
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=48837877
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
