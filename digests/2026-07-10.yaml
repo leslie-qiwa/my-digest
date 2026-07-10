@@ -1,10 +1,50 @@
 date: '2026-07-10'
-generated_at: 2026-07-10 20:02 UTC
+generated_at: 2026-07-10 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban
+    title: New York City to become first in US to ban deceptive subscription practices
+    score: 268
+    comment_cnt: 147
+    comment_url: https://news.ycombinator.com/item?id=48863464
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/
+    title: The tech of 'Terminator 2' – an oral history (2017)
+    score: 125
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48862365
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.pushsquare.com/news/2026/07/ps5-has-put-a-dampener-on-gaming-45percent-of-enthusiasts-seriously-considering-leaving-sony-for-pc
+    title: 45% of Enthusiasts 'Seriously Considering' Leaving Sony for PC
+    score: 66
+    comment_cnt: 90
+    comment_url: https://news.ycombinator.com/item?id=48863602
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept
+    title: Computation as a universal and fundamental concept
+    score: 60
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=48861213
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/
     title: QuadRF can spot drones and see WiFi through my wall
     score: 274
