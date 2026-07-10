@@ -1,10 +1,30 @@
 date: '2026-07-10'
-generated_at: 2026-07-10 04:01 UTC
+generated_at: 2026-07-10 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full
+    title: Parental device use and the adolescent-caregiver attachment bond
+    score: 116
+    comment_cnt: 92
+    comment_url: https://news.ycombinator.com/item?id=48854247
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.anthropic.com/news/ben-bernanke
+    title: Ben Bernanke Joins Anthropic Oversight Trust
+    score: 62
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=48855112
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/
     title: Interview with Mitchell Hashimoto about Ghostty and Zig
     score: 156
