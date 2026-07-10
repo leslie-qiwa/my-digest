@@ -1,10 +1,100 @@
 date: '2026-07-10'
-generated_at: 2026-07-10 14:00 UTC
+generated_at: 2026-07-10 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://unstack.io/write-code-like-a-human-will-maintain-it
+    title: Write code like a human will maintain it
+    score: 177
+    comment_cnt: 141
+    comment_url: https://news.ycombinator.com/item?id=48859701
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/
+    title: Late Bronze Age Collapse
+    score: 163
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=48858737
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html
+    title: Punk, or why I don't stream anymore
+    score: 114
+    comment_cnt: 130
+    comment_url: https://news.ycombinator.com/item?id=48859671
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html
+    title: In Emacs, Everything Looks Like a Service
+    score: 105
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=48857230
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://novaramedia.com/2026/07/09/europes-largest-unions-demand-right-to-cancel-work-on-days-above-30c/
+    title: Europe's Largest Unions Demand Right to Cancel Work on Days Above 30C
+    score: 53
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=48859298
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html
+    title: Scarf has moved away from Haskell
+    score: 44
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48859673
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.loicmathieu.fr/wordpress/informatique/java-27-whats-new/
+    title: 'Java 27: What''s New?'
+    score: 43
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48857962
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://simpleflying.com/ryanair-thessaloniki-diversion-window-damage/
+    title: Ryanair Passenger Sucked Toward Broken Window After Midair Engine Failure
+    score: 41
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48858997
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=48859439
+    title: How do you use Vim in the era of AI?
+    score: 28
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=48859439
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/
     title: Good Tools Are Invisible
     score: 90
