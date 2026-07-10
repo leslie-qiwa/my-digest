@@ -1,10 +1,20 @@
 date: '2026-07-10'
-generated_at: 2026-07-10 00:02 UTC
+generated_at: 2026-07-10 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.ello.com/blog/teaching-a-child-in-1000-ms
+    title: Building a real-time AI tutor for 5-year-olds
+    score: 40
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=48852199
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/JustVugg/colibri
     title: 'Show HN: Getting GLM 5.2 running on my slow computer'
     score: 293
