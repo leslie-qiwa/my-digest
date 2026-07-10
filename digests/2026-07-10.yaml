@@ -1,10 +1,70 @@
 date: '2026-07-10'
-generated_at: 2026-07-10 18:00 UTC
+generated_at: 2026-07-10 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/
+    title: QuadRF can spot drones and see WiFi through my wall
+    score: 274
+    comment_cnt: 98
+    comment_url: https://news.ycombinator.com/item?id=48861717
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ianreppel.org/how-successful-companies-go-blind/
+    title: Successful Companies Go Blind
+    score: 144
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48859678
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lesleylai.info/en/flashcards/
+    title: A Love Letter to Flashcards
+    score: 99
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48861319
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/
+    title: Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)
+    score: 95
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=48862252
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://vettedconsumer.com/unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant-and-where-they-slow-down/
+    title: 'Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can''t'
+    score: 62
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48858171
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/
+    title: SpaceX wants to launch 100k more Starlink satellites – for 100x the bandwidth
+    score: 23
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=48863064
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.minid.net/2026/7/10/ai-works-for-me
     title: You're Not a Better Engineer Because You Type Git Commands by Hand
     score: 34
