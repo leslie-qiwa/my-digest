@@ -1,5 +1,5 @@
 date: '2026-07-10'
-generated_at: 2026-07-10 10:01 UTC
+generated_at: 2026-07-10 12:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
@@ -96,3 +96,93 @@ feeds:
     summary_zh: ''
     content_file: ''
     summary: ''
+- id: golang-weekly
+  label: Golang Weekly
+  provider: rss_newsletter
+  items:
+  - url: https://golangweekly.com/link/187743/rss
+    title: From TypeScript 7's Go Rewrite to Go as an Agentic Language
+    summary: The 10x faster, Go-powered TypeScript 7.0 compiler was released this
+      week, and former Go product lead Steve Francia leans on Microsoft's success
+      with the port to argue that Go is the natural default for agentic development.
+    score: 0
+    tags: []
+    source: spf13.com
+    domain: spf13.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/187746/rss
+    title: 'Proposal: go run -c ''code here'''
+    summary: Some languages (like Python or Ruby) let you run once-off arbitrary bits
+      of code as a one-liner from the terminal. Could Go do the same? Ian Lance Taylor,
+      Rob Pike, and others weighed in on the idea in this golang-nuts thread.
+    score: 0
+    tags: []
+    source: groups.google.com
+    domain: groups.google.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/187755/rss
+    title: mmap vs pread in a Real Go Storage Engine
+    summary: 'A surprisingly thorough tour of how the VictoriaMetrics filesystem layer
+      reads bytes: mmap when mincore says pages are resident, pread when a major page
+      fault might block a Go thread.'
+    score: 0
+    tags: []
+    source: internals-for-interns.com
+    domain: internals-for-interns.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/187763/rss
+    title: 'Goshot: Go Library and CLI to Turn Code into Screenshots'
+    summary: Turn the code of your choice into screenshots you can share or put in
+      your READMEs. The styling and colors are highly customizable, you get syntax
+      highlighting, and a choice of window chrome styles.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/187765/rss
+    title: 'go-mail 0.8: Comprehensive Email Sending Library'
+    summary: ✉️ — A feature-rich library for composing and sending mail with a strong
+      focus on security and correctness, covering SSL/TLS, SMTP AUTH, address validation,
+      and more. v0.8 adds native NTLMv2 SMTP authentication and DKIM support.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/187767/rss
+    title: 'pREST 2.0: Serve a RESTful API From a Postgres Database'
+    summary: Turn a Postgres database into a RESTful API. Covers similar ground to
+      PostgREST but built in Go rather than Haskell. v2.0 adds support for multiple
+      databases.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/187770/rss
+    title: 'radsort 1.0: A Stable LSD Radix Sort Implementation'
+    summary: From the prolific author of compress and cpuid comes a Go implementation
+      of Radsort, a stable LSD radix sort with O(√n) space overhead.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/187773/rss
+    title: 'httpSMS: Turn an Android Phone into an SMS Gateway'
+    summary: A developer from Cameroon struggled to find an automated way to send
+      and receive SMS messages API-style, so built this.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
