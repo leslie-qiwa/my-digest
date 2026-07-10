@@ -1,10 +1,20 @@
 date: '2026-07-10'
-generated_at: 2026-07-10 16:02 UTC
+generated_at: 2026-07-10 18:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.minid.net/2026/7/10/ai-works-for-me
+    title: You're Not a Better Engineer Because You Type Git Commands by Hand
+    score: 34
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=48862506
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://unstack.io/write-code-like-a-human-will-maintain-it
     title: Write code like a human will maintain it
     score: 177
