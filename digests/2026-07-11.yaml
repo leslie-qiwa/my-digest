@@ -1,10 +1,40 @@
 date: '2026-07-11'
-generated_at: 2026-07-11 20:01 UTC
+generated_at: 2026-07-11 22:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey
+    title: Female US rower completes historic solo journey from California to Hawaii
+    score: 177
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=48873692
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://evanhahn.com/prefer-strict-tables-in-sqlite/
+    title: Prefer strict tables in SQLite
+    score: 159
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=48873940
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.off-policy.com/dont-go-quietly-into-the-ai-night/
+    title: Who manages the agents?
+    score: 65
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=48874182
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/
     title: Modern decor may be straining people's brains
     score: 125
