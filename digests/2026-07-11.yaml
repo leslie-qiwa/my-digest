@@ -1,10 +1,21 @@
 date: '2026-07-11'
-generated_at: 2026-07-11 00:02 UTC
+generated_at: 2026-07-11 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity
+    title: Einstein's relativity rules chemical bonds in heavy elements, new research
+      shows
+    score: 142
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48866134
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/
     title: Apple sues OpenAI, accuses ex-employees of stealing trade secrets
     score: 292
