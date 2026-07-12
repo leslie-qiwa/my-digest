@@ -1,10 +1,51 @@
 date: '2026-07-12'
-generated_at: 2026-07-12 18:00 UTC
+generated_at: 2026-07-12 20:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://fabiensanglard.net/extinct/index.html
+    title: Don't you mean extinct?
+    score: 141
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=48881830
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://odinbook.com/
+    title: Understanding the Odin Programming Language
+    score: 126
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=48880499
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media
+    title: 'Death of the Status Update: Why 55% of Americans Stopped Posting on Social
+      Media'
+    score: 72
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=48879902
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion
+    title: Claude Code May–July 2026 weekly limits promotion
+    score: 40
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=48883064
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://scotto.me/blog/2026-07-12-how-to-read-more-books/
     title: How to Read More Books
     score: 119
