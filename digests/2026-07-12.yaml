@@ -1,10 +1,41 @@
 date: '2026-07-12'
-generated_at: 2026-07-12 20:03 UTC
+generated_at: 2026-07-12 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://systima.ai/blog/claude-code-vs-opencode-token-overhead
+    title: Claude Code sends 33k tokens before reading the prompt; OpenCode sends
+      7k
+    score: 329
+    comment_cnt: 185
+    comment_url: https://news.ycombinator.com/item?id=48883275
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html
+    title: I love LLMs, I hate hype
+    score: 233
+    comment_cnt: 125
+    comment_url: https://news.ycombinator.com/item?id=48883343
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013
+    title: Irish datacenters now guzzle 23% of the country's electricity
+    score: 82
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48884322
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://fabiensanglard.net/extinct/index.html
     title: Don't you mean extinct?
     score: 141
