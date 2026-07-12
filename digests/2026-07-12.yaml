@@ -1,0 +1,37 @@
+date: '2026-07-12'
+generated_at: 2026-07-12 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/
+    title: Stop Telling Me to Ask an LLM
+    score: 108
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=48876441
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.expressnews.com/business/article/san-antonio-usaa-insurance-claims-rejected-22293061.php
+    title: USAA closed 51% of home insurance claims without making a payment in 2025
+    score: 72
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48872517
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/
+    title: I used to love Claude, but the latest models are slowly ruining it
+    score: 39
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48875494
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
