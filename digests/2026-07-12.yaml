@@ -1,10 +1,51 @@
 date: '2026-07-12'
-generated_at: 2026-07-12 12:00 UTC
+generated_at: 2026-07-12 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html
+    title: Woman in Brazil enslaved for 55 years by 3 generations of the same family
+    score: 115
+    comment_cnt: 134
+    comment_url: https://news.ycombinator.com/item?id=48880209
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/
+    title: Unexpected Solidlike Fracture in Simple Liquids
+    score: 97
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48877668
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france
+    title: Datacentres drive up big tech's carbon emissions to a third of those of
+      France
+    score: 56
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=48879950
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/c9q29j47v9ro
+    title: Wealthy AI workers send San Francisco house prices soaring
+    score: 36
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48875371
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://fabiensanglard.net/tb4/index.html
     title: A dock that wakes up reliably
     score: 87
