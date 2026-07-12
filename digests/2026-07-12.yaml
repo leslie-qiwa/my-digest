@@ -1,10 +1,41 @@
 date: '2026-07-12'
-generated_at: 2026-07-12 04:01 UTC
+generated_at: 2026-07-12 06:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://timeseriesofindia.com/economy/reads/upi-architecture/
+    title: 'UPI: Anatomy of a Payment Transaction'
+    score: 140
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48873457
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy
+    title: Why are US consumers so angry? It's not just high prices
+    score: 68
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=48877927
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans
+    title: Under federal rule, colleges must leave grads better off or lose financial
+      aid
+    score: 40
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48878126
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547
     title: What xAI's Grok Build CLI Actually Sends to xAI
     score: 107
