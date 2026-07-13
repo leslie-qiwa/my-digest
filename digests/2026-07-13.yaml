@@ -1,10 +1,20 @@
 date: '2026-07-13'
-generated_at: 2026-07-13 04:00 UTC
+generated_at: 2026-07-13 06:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://substack.magazinenongrata.com/p/how-i-learned-to-read-again
+    title: I Learned to Read Again
+    score: 119
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48883238
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://news.ycombinator.com/item?id=48886741
     title: 'Ask HN: Add flag for AI-generated articles'
     score: 178
