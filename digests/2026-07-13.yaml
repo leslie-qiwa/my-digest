@@ -1,10 +1,40 @@
 date: '2026-07-13'
-generated_at: 2026-07-13 16:01 UTC
+generated_at: 2026-07-13 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.ms.now/opinion/doge-government-efficiency-records-job-cuts-elon-musk-foia
+    title: DOGE is done. What happened to its records?
+    score: 222
+    comment_cnt: 174
+    comment_url: https://news.ycombinator.com/item?id=48894641
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/
+    title: LAPD lets contract with surveillance giant Flock expire
+    score: 202
+    comment_cnt: 124
+    comment_url: https://news.ycombinator.com/item?id=48893947
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://get-inscribe.com/blog/apple-speech-api-benchmark.html
+    title: Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor
+    score: 153
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=48894752
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://antirez.com/news/169
     title: Control the Ideas, Not the Code
     score: 154
