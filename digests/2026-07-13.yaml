@@ -1,10 +1,30 @@
 date: '2026-07-13'
-generated_at: 2026-07-13 02:00 UTC
+generated_at: 2026-07-13 04:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://news.ycombinator.com/item?id=48886741
+    title: 'Ask HN: Add flag for AI-generated articles'
+    score: 178
+    comment_cnt: 124
+    comment_url: https://news.ycombinator.com/item?id=48886741
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6
+    title: 'Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper'
+    score: 154
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48882716
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://dakra.github.io/ghostel/
     title: 'Ghostel.el: Terminal emulator powered by libghostty'
     score: 265
