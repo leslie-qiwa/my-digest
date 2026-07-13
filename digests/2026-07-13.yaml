@@ -1,0 +1,28 @@
+date: '2026-07-13'
+generated_at: 2026-07-13 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://scrapfly.dev/posts/browser-math-os-fingerprint/
+    title: Since Chromium 148, Math.tanh is now fingerprintable to link underlying
+      OS
+    score: 220
+    comment_cnt: 109
+    comment_url: https://news.ycombinator.com/item?id=48884853
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=48884984
+    title: 'Ask HN: What Are You Working On? (July 2026)'
+    score: 39
+    comment_cnt: 87
+    comment_url: https://news.ycombinator.com/item?id=48884984
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
