@@ -1,10 +1,40 @@
 date: '2026-07-13'
-generated_at: 2026-07-13 12:02 UTC
+generated_at: 2026-07-13 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://mmapped.blog/posts/52-backtrack-free-cursive
+    title: Backtrack-Free Cursive
+    score: 142
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=48888518
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop
+    title: An Infuriating Goodbye to Photoshop
+    score: 111
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=48891200
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.wired.com/story/sfpd-drone-video-leak-surveillance/
+    title: Leak of San Francisco Police Drone Footage Exposes Reality of Urban Surveillance
+    score: 65
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=48891463
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78
     title: Sam Neill has died
     score: 223
