@@ -1,10 +1,30 @@
 date: '2026-07-13'
-generated_at: 2026-07-13 00:01 UTC
+generated_at: 2026-07-13 02:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://dakra.github.io/ghostel/
+    title: 'Ghostel.el: Terminal emulator powered by libghostty'
+    score: 265
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48879504
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/
+    title: How we can reduce traffic congestion
+    score: 79
+    comment_cnt: 88
+    comment_url: https://news.ycombinator.com/item?id=48881967
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://scrapfly.dev/posts/browser-math-os-fingerprint/
     title: Since Chromium 148, Math.tanh is now fingerprintable to link underlying
       OS
