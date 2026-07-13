@@ -1,10 +1,60 @@
 date: '2026-07-13'
-generated_at: 2026-07-13 10:02 UTC
+generated_at: 2026-07-13 12:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78
+    title: Sam Neill has died
+    score: 223
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48888468
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news
+    title: The Graph That Should Be Front-Page News
+    score: 169
+    comment_cnt: 110
+    comment_url: https://news.ycombinator.com/item?id=48888331
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://vilkeliskis.com/b/2026/0711.html
+    title: Designing and assembling my first PCB
+    score: 127
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48885728
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/
+    title: 'Interrail: 6,379Km and 13 Countries over 7 weeks'
+    score: 93
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=48889350
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/
+    title: Berkshire's $397B Bet Against an Overheated Market
+    score: 68
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=48889429
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.larp.website/
     title: LARP – Revenue infrastructure for serious founders
     score: 243
