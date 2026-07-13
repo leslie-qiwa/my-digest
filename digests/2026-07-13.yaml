@@ -1,10 +1,40 @@
 date: '2026-07-13'
-generated_at: 2026-07-13 06:01 UTC
+generated_at: 2026-07-13 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://countbinface.com
+    title: Count Binface
+    score: 234
+    comment_cnt: 112
+    comment_url: https://news.ycombinator.com/item?id=48887753
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arxiv.org/abs/2607.06377
+    title: Automation Without Understanding
+    score: 113
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48882554
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/hasenj/go-shirei/
+    title: 'Show HN: Shirei, cross-platform GUI framework in native Go'
+    score: 84
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48882562
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://substack.magazinenongrata.com/p/how-i-learned-to-read-again
     title: I Learned to Read Again
     score: 119
