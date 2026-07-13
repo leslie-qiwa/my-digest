@@ -1,10 +1,70 @@
 date: '2026-07-13'
-generated_at: 2026-07-13 20:01 UTC
+generated_at: 2026-07-13 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://werd.io/climate-gov-was-destroyed-open-data-saved-it/
+    title: Climate.gov was destroyed. Open data saved it
+    score: 268
+    comment_cnt: 107
+    comment_url: https://news.ycombinator.com/item?id=48897945
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/
+    title: Building and Shipping Mac and iOS Apps Without Ever Opening Xcode
+    score: 161
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=48896665
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.whois.com/whois/t.me
+    title: Telegram's t.me domain has been suspended
+    score: 145
+    comment_cnt: 80
+    comment_url: https://news.ycombinator.com/item?id=48897878
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://playcode.io/blog/real-price-of-frontier-models
+    title: The real prices of frontier models. Tokens * Price, right?
+    score: 115
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48896800
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/logseq/logseq/releases
+    title: Logseq 2.0 Beta (DB version) is here
+    score: 85
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=48896229
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool
+    title: AI Is a Bad Tool
+    score: 68
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=48897861
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report
     title: Wikipedia escapes Category 1 designation under the UK Online Safety Act
       for now
