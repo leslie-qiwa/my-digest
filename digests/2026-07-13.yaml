@@ -1,10 +1,40 @@
 date: '2026-07-13'
-generated_at: 2026-07-13 08:01 UTC
+generated_at: 2026-07-13 10:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.larp.website/
+    title: LARP – Revenue infrastructure for serious founders
+    score: 243
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48882569
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://shellzine.net/cyberpunk-comics/
+    title: Cyberpunk Comics, Manga and Graphic Novels
+    score: 190
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=48885643
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://raymyers.org/post/zed-creator-calls-spade-a-spade/
+    title: Zig Creator Calls Spade a Spade, Anthropic Blows Smoke
+    score: 142
+    comment_cnt: 82
+    comment_url: https://news.ycombinator.com/item?id=48889637
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://countbinface.com
     title: Count Binface
     score: 234
