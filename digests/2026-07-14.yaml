@@ -1,10 +1,61 @@
 date: '2026-07-14'
-generated_at: 2026-07-14 12:01 UTC
+generated_at: 2026-07-14 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/openai/codex/issues/28058
+    title: Codex starts encrypting sub-agent prompts
+    score: 227
+    comment_cnt: 143
+    comment_url: https://news.ycombinator.com/item?id=48905028
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.dw.com/en/germany-freedom-of-information-act/a-77939695
+    title: Germany set to restrict its Freedom of Information Act
+    score: 103
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=48905290
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.incogni.com/digital-fatigue-and-burnout/
+    title: 'The great digital fatigue: How digital burnout is changing social media
+      use'
+    score: 63
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=48904855
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing
+    title: How to stop Claude from saying load-bearing
+    score: 46
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=48905248
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.commonreader.co.uk/p/no-spanish-reading-crisis
+    title: No Spanish Reading Crisis?
+    score: 35
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48905105
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.bbc.com/news/articles/cm2drrv6q54o
     title: An Englishwoman who sketched India before photography took hold
     score: 174
