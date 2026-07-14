@@ -1,10 +1,20 @@
 date: '2026-07-14'
-generated_at: 2026-07-14 18:02 UTC
+generated_at: 2026-07-14 20:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/
+    title: The Tower Keeps Rising
+    score: 173
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=48909785
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.artfish.ai/p/offloading-thinking-to-ai
     title: Are we offloading too much of our thinking to AI?
     score: 200
