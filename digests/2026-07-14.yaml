@@ -1,0 +1,37 @@
+date: '2026-07-14'
+generated_at: 2026-07-14 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://neow.in/cWsyMTV3
+    title: Samsung Health app threatens data deletion if users opt out AI training
+    score: 225
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=48897991
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/Poseidon-fan/linux-0.11-rs
+    title: Linux 0.11 rewritten in idiomatic Rust, boots in QEMU
+    score: 81
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=48898134
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php
+    title: The infinite scroll may become endangered if controversial Calif. law passes
+    score: 51
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=48897104
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
