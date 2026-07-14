@@ -1,10 +1,30 @@
 date: '2026-07-14'
-generated_at: 2026-07-14 20:00 UTC
+generated_at: 2026-07-14 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://prismml.com/news/bonsai-27b
+    title: 'Bonsai 27B: A 27B-Class model that runs on a phone'
+    score: 266
+    comment_cnt: 90
+    comment_url: https://news.ycombinator.com/item?id=48910545
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left
+    title: 'Cursor 0day: When Full Disclosure Becomes the Only Protection Left'
+    score: 142
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48910676
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/
     title: The Tower Keeps Rising
     score: 173
