@@ -1,10 +1,70 @@
 date: '2026-07-14'
-generated_at: 2026-07-14 14:01 UTC
+generated_at: 2026-07-14 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/JetBrains/youtrackdb
+    title: YouTrackDB is a general-use object-oriented graph database
+    score: 162
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=48902026
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://gendx.dev/blog/2026/07/13/input-digits.html
+    title: Just Let Me Write Digits
+    score: 125
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=48902791
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://thinkingmachines.ai/blog/the-future-worth-building-is-human/
+    title: The Future Worth Building Is Human
+    score: 92
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48904905
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.thedial.world/articles/news/amish-pennsylvania-dutch
+    title: Our Amish Language
+    score: 69
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48901645
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arxiv.org/abs/2607.05188
+    title: Coding agents think ahead of time
+    score: 68
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48905764
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/cx2wzpwn51lo
+    title: Volkswagen planning to cut up to 100.000 jobs globally
+    score: 36
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48896608
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/openai/codex/issues/28058
     title: Codex starts encrypting sub-agent prompts
     score: 227
