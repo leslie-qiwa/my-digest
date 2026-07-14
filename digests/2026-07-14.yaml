@@ -1,10 +1,50 @@
 date: '2026-07-14'
-generated_at: 2026-07-14 02:01 UTC
+generated_at: 2026-07-14 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://fabiensanglard.net/silpheed/index.html
+    title: The art and engineering of Sega CD Silpheed
+    score: 236
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48893639
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lalitm.com/post/git-history/
+    title: The Git history command deserves more attention
+    score: 116
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=48901010
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/marcelpanse/youtube-guitar-tab-parser
+    title: 'Show HN: YouTube Guitar Tab Parser'
+    score: 86
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48898154
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.thunderbird.net/2026/07/desktopsettings/
+    title: 'Thunderbird Desktop settings research: what we learned from your feedback'
+    score: 58
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48896818
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/thephw/claude-meseeks
     title: Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is
       waiting
