@@ -1,10 +1,70 @@
 date: '2026-07-14'
-generated_at: 2026-07-14 16:02 UTC
+generated_at: 2026-07-14 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.artfish.ai/p/offloading-thinking-to-ai
+    title: Are we offloading too much of our thinking to AI?
+    score: 200
+    comment_cnt: 184
+    comment_url: https://news.ycombinator.com/item?id=48908178
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://adi.bio/reality
+    title: Punch yourself in the face with reality
+    score: 132
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=48905118
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/
+    title: 'Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK'
+    score: 132
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48909424
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html
+    title: S&P downgrades Oracle to BBB – only one notch above junk level
+    score: 89
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=48909768
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.derekthompson.org/p/a-philosophers-one-word-theory-to
+    title: Agnes Callard’s theory of the uni-context
+    score: 73
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=48907290
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/
+    title: I'm a USB-C Maximalist
+    score: 42
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=48908214
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/JetBrains/youtrackdb
     title: YouTrackDB is a general-use object-oriented graph database
     score: 162
