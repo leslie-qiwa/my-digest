@@ -1,10 +1,40 @@
 date: '2026-07-15'
-generated_at: 2026-07-15 16:07 UTC
+generated_at: 2026-07-15 18:06 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.corporatejetinvestor.com/news/starlink-price-rise-reckless-says-correnti/
+    title: Starlink unlimited aviation plan to rise from $10k/month to $20k
+    score: 101
+    comment_cnt: 126
+    comment_url: https://news.ycombinator.com/item?id=48923217
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://eardatasci.github.io/c/ambiance/index.html
+    title: Towards a Harness That Can Do Anything
+    score: 95
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48921077
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/
+    title: My midlife crisis Corolla is fast, furious, and modded
+    score: 64
+    comment_cnt: 118
+    comment_url: https://news.ycombinator.com/item?id=48921303
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://core.telegram.org/bots/serverless
     title: Telegram Serverless
     score: 109
