@@ -1,10 +1,40 @@
 date: '2026-07-15'
-generated_at: 2026-07-15 12:05 UTC
+generated_at: 2026-07-15 14:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://ramones.dev/posts/mental-health/
+    title: Prioritize mental health, and why communication is so important
+    score: 72
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48919198
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.captchainbox.com
+    title: 'Show HN: Make senders work to get into your inbox'
+    score: 35
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=48919489
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.sevarg.net/2023/03/25/why-people-hate-tech/
+    title: Why do people hate the tech industry? (2023)
+    score: 31
+    comment_cnt: 97
+    comment_url: https://news.ycombinator.com/item?id=48919242
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://fortune.com/2026/07/13/us-worst-oecd-fair-pay-score/
     title: America pays workers just 27% of what its wealth allows – the worst in
       the OECD
