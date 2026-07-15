@@ -1,10 +1,71 @@
 date: '2026-07-15'
-generated_at: 2026-07-15 06:03 UTC
+generated_at: 2026-07-15 08:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://fabiensanglard.net/jurrasic_park_computers/index.html
+    title: Jurassic Park computers in excruciating detail
+    score: 334
+    comment_cnt: 82
+    comment_url: https://news.ycombinator.com/item?id=48915709
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.alexedwards.net/blog/how-i-use-htmx-with-go
+    title: How I use HTMX with Go
+    score: 215
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48912175
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://tailscale.com/security-bulletins
+    title: 'TS-2026-009: Insecure argument handling in Tailscale SSH permitted root
+      access'
+    score: 129
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=48915004
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.starfleetmath.com/
+    title: Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel
+    score: 118
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48914646
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ryanjk5.github.io/posts/rjk-duck/
+    title: 'Show HN: Beautiful Type Erasure with C++26 Reflection'
+    score: 112
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48905914
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/
+    title: Microsoft has released software updates to plug at least 570 security holes
+    score: 109
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48913190
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.cnn.com/2026/07/14/tech/ibm-stock-worst-day-ever
     title: IBM is on pace for its worst day ever
     score: 44
