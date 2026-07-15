@@ -1,10 +1,20 @@
 date: '2026-07-15'
-generated_at: 2026-07-15 08:04 UTC
+generated_at: 2026-07-15 10:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.ayush.digital/blog/the-memory-heist
+    title: I tricked Claude into leaking your deepest, darkest secrets
+    score: 300
+    comment_cnt: 134
+    comment_url: https://news.ycombinator.com/item?id=48916975
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://fabiensanglard.net/jurrasic_park_computers/index.html
     title: Jurassic Park computers in excruciating detail
     score: 334
