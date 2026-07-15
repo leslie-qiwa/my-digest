@@ -1,10 +1,30 @@
 date: '2026-07-15'
-generated_at: 2026-07-15 20:04 UTC
+generated_at: 2026-07-15 22:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/xai-org/grok-build
+    title: Grok Build
+    score: 91
+    comment_cnt: 103
+    comment_url: https://news.ycombinator.com/item?id=48926590
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=48916375
+    title: LinkedIn is a cesspool of scammers and identity theft
+    score: 85
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48916375
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://dev.moe/en/3025
     title: Mysteries of Telegram Data Centers (2022)
     score: 196
