@@ -1,0 +1,27 @@
+date: '2026-07-16'
+generated_at: 2026-07-16 00:04 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://mass-driver.com/article/from-human-hands
+    title: We don't use AI in any of our design or production processes
+    score: 84
+    comment_cnt: 80
+    comment_url: https://news.ycombinator.com/item?id=48927373
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://hugodaniel.com/posts/the-end-of-creativity/
+    title: The End of Creativity
+    score: 33
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48927136
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
