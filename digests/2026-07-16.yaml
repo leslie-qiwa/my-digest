@@ -1,10 +1,30 @@
 date: '2026-07-16'
-generated_at: 2026-07-16 10:01 UTC
+generated_at: 2026-07-16 12:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://atproto.com/blog/at-protocol-trademark
+    title: Bluesky Trademarks ATProto
+    score: 117
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=48929351
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://pmbanugo.me/blog/why-async-await-complect-concurrency
+    title: The Tokio/Rayon Trap and Why Async/Await Fails Concurrency
+    score: 80
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48929587
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://madcampos.dev/blog/2026/07/accessibility-from-scratch/
     title: If you want to create a button from scratch, you must first create the
       universe
