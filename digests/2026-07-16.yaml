@@ -1,10 +1,40 @@
 date: '2026-07-16'
-generated_at: 2026-07-16 20:02 UTC
+generated_at: 2026-07-16 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.kimi.com/blog/kimi-k3
+    title: 'Kimi K3: Open Frontier Intelligence'
+    score: 877
+    comment_cnt: 525
+    comment_url: https://news.ycombinator.com/item?id=48935342
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html
+    title: LLM Networking with MikroTik
+    score: 100
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48927915
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://schema-harness.github.io/
+    title: Schema Harness Achieves ~99% on Arc‑AGI‑3 Public
+    score: 77
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48935905
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/
     title: Microsoft Comic Chat is now open source
     score: 301
