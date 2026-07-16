@@ -1,10 +1,20 @@
 date: '2026-07-16'
-generated_at: 2026-07-16 04:03 UTC
+generated_at: 2026-07-16 06:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/
+    title: Guerrilla London bus ads mock Kylie Jenner’s Meta glasses campaign
+    score: 154
+    comment_cnt: 85
+    comment_url: https://news.ycombinator.com/item?id=48930011
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://mort.coffee/home/sqlite-editions/
     title: SQLite should have (Rust-style) editions
     score: 153
