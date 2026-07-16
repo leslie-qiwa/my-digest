@@ -1,10 +1,41 @@
 date: '2026-07-16'
-generated_at: 2026-07-16 14:01 UTC
+generated_at: 2026-07-16 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/
+    title: Sony Deletes a Bunch More Movies from the Accounts of People Who 'Bought'
+      Them
+    score: 246
+    comment_cnt: 123
+    comment_url: https://news.ycombinator.com/item?id=48933419
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://planetscale.com/blog/making-768-servers-look-like-1
+    title: Making 768 servers look like 1
+    score: 131
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=48930075
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/c4gyg0y6yg2o
+    title: Teen hackers who live streamed cyber-attack on TfL jailed
+    score: 61
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=48933464
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading
     title: SpaceX stock erases all its gains and slides below IPO price in intraday
       trading
