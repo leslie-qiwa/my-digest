@@ -1,10 +1,20 @@
 date: '2026-07-16'
-generated_at: 2026-07-16 00:04 UTC
+generated_at: 2026-07-16 04:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://mort.coffee/home/sqlite-editions/
+    title: SQLite should have (Rust-style) editions
+    score: 153
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=48928135
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://mass-driver.com/article/from-human-hands
     title: We don't use AI in any of our design or production processes
     score: 84
