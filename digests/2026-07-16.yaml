@@ -1,10 +1,40 @@
 date: '2026-07-16'
-generated_at: 2026-07-16 06:03 UTC
+generated_at: 2026-07-16 08:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming
+    title: The lost joy of music piracy
+    score: 191
+    comment_cnt: 94
+    comment_url: https://news.ycombinator.com/item?id=48930454
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.frank.computer/blog/2025/05/just-a-tool.html
+    title: Stop saying that AI is just a tool and it only matters how it is used
+    score: 74
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=48930363
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.anthropic.com/research/claude-values-models-languages
+    title: 'Societal Impacts: Claude''s values across models and languages'
+    score: 32
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48918956
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/
     title: Guerrilla London bus ads mock Kylie Jenner’s Meta glasses campaign
     score: 154
