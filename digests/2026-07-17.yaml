@@ -1,10 +1,31 @@
 date: '2026-07-17'
-generated_at: 2026-07-17 06:00 UTC
+generated_at: 2026-07-17 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/
+    title: GrapheneOS recommended for domestic abuse victims
+    score: 119
+    comment_cnt: 89
+    comment_url: https://news.ycombinator.com/item?id=48942454
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/
+    title: How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers
+      Clues
+    score: 98
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=48943142
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://pydantic.dev/articles/the-human-in-the-loop-is-tired
     title: The human-in-the-loop is tired
     score: 132
