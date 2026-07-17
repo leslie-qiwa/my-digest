@@ -1,10 +1,20 @@
 date: '2026-07-17'
-generated_at: 2026-07-17 02:00 UTC
+generated_at: 2026-07-17 06:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://pydantic.dev/articles/the-human-in-the-loop-is-tired
+    title: The human-in-the-loop is tired
+    score: 132
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=48942000
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://lmstudio.ai/blog/introducing-lm-studio-bionic
     title: 'LM Studio Bionic: the AI agent for open models'
     score: 161
