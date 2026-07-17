@@ -1,10 +1,51 @@
 date: '2026-07-17'
-generated_at: 2026-07-17 18:01 UTC
+generated_at: 2026-07-17 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://simonwillison.net/2026/Jul/16/kimi-k3/
+    title: Kimi K3, and what we can still learn from the pelican benchmark
+    score: 175
+    comment_cnt: 102
+    comment_url: https://news.ycombinator.com/item?id=48947717
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://improvesomething.today/responses-to-problems/
+    title: Three ways people respond to a problem (other than solving it)
+    score: 144
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=48947490
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://isene.org/2026/07/Frame.html
+    title: Frame – Linux X server in Assembly
+    score: 93
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48948597
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=48950477
+    title: 'Ask HN: Did Fable disappear from your Claude usage and requires credits
+      now?'
+    score: 80
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=48950477
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://stateofopensource.ai/
     title: 'Mozilla: The state of open source AI'
     score: 216
