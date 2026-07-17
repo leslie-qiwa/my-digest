@@ -1,10 +1,31 @@
 date: '2026-07-17'
-generated_at: 2026-07-17 14:01 UTC
+generated_at: 2026-07-17 16:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64
+    title: I Owe My Life to the Commodore 64
+    score: 80
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=48945260
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/cy4kdd1e0ejo
+    title: First atmosphere found on Earth-like planet in habitable zone of distant
+      star
+    score: 72
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=48947560
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://news.ycombinator.com/item?id=48945681
     title: 'Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars'
     score: 129
@@ -126,3 +147,93 @@ feeds:
     summary_zh: ''
     content_file: ''
     summary: ''
+- id: golang-weekly
+  label: Golang Weekly
+  provider: rss_newsletter
+  items:
+  - url: https://golangweekly.com/link/188127/rss
+    title: How I Use HTMX to Build Go Webapps
+    summary: A practical walkthrough of using htmx (think AJAX-style updates driven
+      by HTML attributes) with Go. Opinionated, super Go-specific, and honest about
+      the tricky bits. A good starter on building server-rendered interfaces with
+      incremental interactivity.
+    score: 0
+    tags: []
+    source: www.alexedwards.net
+    domain: www.alexedwards.net
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/188129/rss
+    title: Compile-Time OpenTelemetry Instrumentation for Go
+    summary: No more hand-written instrumentation or eBPF agents needed, as OpenTelemetry's
+      compile-time instrumentation for Go is now stable. It uses -toolexec to inject
+      telemetry automatically, but v1's library coverage has some limits worth noting.
+    score: 0
+    tags: []
+    source: opentelemetry.io
+    domain: opentelemetry.io
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/188138/rss
+    title: My Thoughts on the Future of Go in the AI Era
+    summary: Akin to Steve Francia's recent piece, Alex argues that "AI might actually
+      make boring languages more valuable, not less."
+    score: 0
+    tags: []
+    source: packagemain.tech
+    domain: packagemain.tech
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/188145/rss
+    title: 'Fyne 2.8: A Big Update for the Popular GUI Toolkit'
+    summary: The cross-platform GUI toolkit lands its biggest release in years, adding
+      GPU-accelerated shapes, shadows and custom GLSL shaders, richer Markdown rendering,
+      multi-monitor window APIs, and more.
+    score: 0
+    tags: []
+    source: fyne.io
+    domain: fyne.io
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/188147/rss
+    title: GoLand 2026.2 Released
+    summary: The latest release of the commercial Go IDE now integrates with the go
+      fix tool and introduces a new 'Go optimization' tool that brings profiling,
+      escape analysis, and struct optimization into one place.
+    score: 0
+    tags: []
+    source: blog.jetbrains.com
+    domain: blog.jetbrains.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/188148/rss
+    title: Microsoft Agent Framework for Go in Public Preview
+    summary: 🤖 — Microsoft follows in Google ADK Go's footsteps with its own framework
+      for building, orchestrating and deploying AI agents and workflows. GitHub repo.
+    score: 0
+    tags: []
+    source: devblogs.microsoft.com
+    domain: devblogs.microsoft.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/188152/rss
+    title: 'Chatto: A Go-Powered Group/Team Chat App'
+    summary: 💬 — A complete, self-hostable Slack-like (except fast and doesn't nag
+      about AI features constantly) group chat with a Go backend and SvelteKit frontend.
+      GitHub repo.
+    score: 0
+    tags: []
+    source: www.hmans.dev
+    domain: www.hmans.dev
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/188154/rss
+    title: 'Sketchy: A Framework for Creating Generative Art in Go'
+    summary: 🎨 — This is pretty slick. Powered by Ebitengine and canvas behind the
+      scenes.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
