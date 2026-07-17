@@ -1,0 +1,27 @@
+date: '2026-07-17'
+generated_at: 2026-07-17 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6
+    title: '$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol'
+    score: 92
+    comment_cnt: 98
+    comment_url: https://news.ycombinator.com/item?id=48939524
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/
+    title: CD sales growth outpaced vinyl in the first half of 2026
+    score: 49
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=48937398
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
