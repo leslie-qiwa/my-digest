@@ -1,10 +1,20 @@
 date: '2026-07-18'
-generated_at: 2026-07-18 12:00 UTC
+generated_at: 2026-07-18 14:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://velvetshark.com/ai-company-logos-that-look-like-buttholes
+    title: Why do AI company logos look like buttholes? (2025)
+    score: 304
+    comment_cnt: 95
+    comment_url: https://news.ycombinator.com/item?id=48956924
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md
     title: TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years
     score: 151
