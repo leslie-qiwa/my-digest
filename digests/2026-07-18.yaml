@@ -1,10 +1,21 @@
 date: '2026-07-18'
-generated_at: 2026-07-18 00:01 UTC
+generated_at: 2026-07-18 02:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and
+    title: Texas wins court order to suspend domain name for violating age-verification
+      law
+    score: 123
+    comment_cnt: 142
+    comment_url: https://news.ycombinator.com/item?id=48952939
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/
     title: Kaiser nurses say AI, workplace surveillance are making their jobs, care
       worse
