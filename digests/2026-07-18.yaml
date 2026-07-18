@@ -1,0 +1,48 @@
+date: '2026-07-18'
+generated_at: 2026-07-18 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/
+    title: Kaiser nurses say AI, workplace surveillance are making their jobs, care
+      worse
+    score: 150
+    comment_cnt: 114
+    comment_url: https://news.ycombinator.com/item?id=48952880
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bain.com/insights/the-us-grocery-slowdown-is-real-snap-chart/
+    title: The US grocery slowdown is real
+    score: 60
+    comment_cnt: 88
+    comment_url: https://news.ycombinator.com/item?id=48952773
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us
+    title: Everybody's Weirded Out by AI–Except the People Who Foist It on Us
+    score: 58
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=48952445
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026/
+    title: Multi-Primary Color Display Emerges as Next-Gen Color Reproduction Technology
+    score: 54
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48946895
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
