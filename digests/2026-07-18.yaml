@@ -1,10 +1,30 @@
 date: '2026-07-18'
-generated_at: 2026-07-18 02:00 UTC
+generated_at: 2026-07-18 04:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://goliath32.com/blog/z80.html
+    title: The Zilog Z80 has turned 50
+    score: 182
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=48951461
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://sam.sutch.net/posts/a-grumpy-ai-screed
+    title: A grumpy screed about AI in software engineering
+    score: 50
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48953924
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and
     title: Texas wins court order to suspend domain name for violating age-verification
       law
