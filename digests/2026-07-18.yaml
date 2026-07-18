@@ -1,10 +1,40 @@
 date: '2026-07-18'
-generated_at: 2026-07-18 18:01 UTC
+generated_at: 2026-07-18 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://ykdojo.github.io/claude-controls-mac/
+    title: Setting up your spare Mac for Claude Code to control, a step-by-step guide
+    score: 108
+    comment_cnt: 78
+    comment_url: https://news.ycombinator.com/item?id=48959392
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/
+    title: The Kimi K3 Moment
+    score: 84
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=48960218
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://reotrucks.com
+    title: REO Trucks I4 4WD Pickup Truck Starts at $21,500
+    score: 52
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=48960607
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://maurycyz.com/projects/bad_jpeg/
     title: Regressive JPEGs
     score: 570
