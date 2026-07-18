@@ -1,10 +1,40 @@
 date: '2026-07-18'
-generated_at: 2026-07-18 16:03 UTC
+generated_at: 2026-07-18 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://maurycyz.com/projects/bad_jpeg/
+    title: Regressive JPEGs
+    score: 570
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=48954851
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en
+    title: EU ban on destruction of unsold clothes and shoes enters into application
+    score: 170
+    comment_cnt: 144
+    comment_url: https://news.ycombinator.com/item?id=48958269
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/
+    title: 'Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?'
+    score: 153
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=48956879
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/
     title: GPT-5.6 used a prompt to close a 30-year gap in convex optimization
     score: 226
