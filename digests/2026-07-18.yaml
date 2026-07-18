@@ -1,10 +1,20 @@
 date: '2026-07-18'
-generated_at: 2026-07-18 10:00 UTC
+generated_at: 2026-07-18 12:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md
+    title: TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years
+    score: 151
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48952565
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.up.com/news/safety/Tracking-Rail-Heat-260608
     title: Painting the sides of railroad rails white to reduce derailment
     score: 98
