@@ -1,10 +1,40 @@
 date: '2026-07-18'
-generated_at: 2026-07-18 04:00 UTC
+generated_at: 2026-07-18 06:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/
+    title: Learning a few things about running SQLite
+    score: 206
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48950122
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://mceglowski.substack.com/p/more-bounce-to-the-ounce
+    title: More Bounce to the Ounce
+    score: 125
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48947201
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.usatoday.com/story/money/personalfinance/2026/07/16/social-security-cut-2033/90941392007/
+    title: Newly retired couples may lose $16,900/year in Social Security in 2033
+    score: 22
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48954115
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://goliath32.com/blog/z80.html
     title: The Zilog Z80 has turned 50
     score: 182
