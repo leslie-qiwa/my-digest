@@ -1,10 +1,40 @@
 date: '2026-07-19'
-generated_at: 2026-07-19 16:03 UTC
+generated_at: 2026-07-19 18:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/
+    title: I joined the IndieWeb, here's what I learned
+    score: 85
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=48966984
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://sgt.hootr.club/blog/home-server-rebirth/
+    title: The death and rebirth of my home server
+    score: 80
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48966769
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://veganfta.com/articles/2026/07/17/european-court-confirms-ethical-veganism-is-a-protected-philosophical-belief-in-europe/
+    title: ECHR confirms ethical veganism is a protected philosophical belief
+    score: 35
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48963402
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://quesma.com/blog/custom-deep-research-pipeline/
     title: I burned all my tokens researching how to save tokens
     score: 72
