@@ -1,10 +1,20 @@
 date: '2026-07-19'
-generated_at: 2026-07-19 02:02 UTC
+generated_at: 2026-07-19 06:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3
+    title: AI Mania Is Eviscerating Global Decision-Making
+    score: 130
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48964185
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/
     title: Mayor Mamdani Says Landlords Can't Use AI Images to Advertise
     score: 209
