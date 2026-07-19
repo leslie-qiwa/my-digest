@@ -1,10 +1,20 @@
 date: '2026-07-19'
-generated_at: 2026-07-19 14:02 UTC
+generated_at: 2026-07-19 16:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://quesma.com/blog/custom-deep-research-pipeline/
+    title: I burned all my tokens researching how to save tokens
+    score: 72
+    comment_cnt: 91
+    comment_url: https://news.ycombinator.com/item?id=48967355
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard
     title: 'What I learned selling 2,500 MIDI recorders: Hardware is not so hard'
     score: 127
