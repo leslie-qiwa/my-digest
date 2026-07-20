@@ -1,10 +1,40 @@
 date: '2026-07-20'
-generated_at: 2026-07-20 14:02 UTC
+generated_at: 2026-07-20 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/
+    title: Hacker wipes Romania's land registry database
+    score: 261
+    comment_cnt: 163
+    comment_url: https://news.ycombinator.com/item?id=48978605
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://spectrum.ieee.org/led-light-pollution
+    title: We're Squandering LEDs' Potential to Save Our Night Skies
+    score: 95
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48978350
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/
+    title: American AI is locked down and proprietary. It's losing
+    score: 80
+    comment_cnt: 88
+    comment_url: https://news.ycombinator.com/item?id=48979269
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/
     title: The EU is about to sell our most sensitive data to the US for visa-free
       travel
