@@ -1,10 +1,41 @@
 date: '2026-07-20'
-generated_at: 2026-07-20 20:04 UTC
+generated_at: 2026-07-20 22:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.phoronix.com/news/Firefox-153-Downloads
+    title: Firefox 153 available with support for Vulkan video decoding, JPEG-XL
+    score: 217
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48978835
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://nothings.org/gamedev/ssao/
+    title: 'Corners Don''t Look Like That: Regarding Screenspace Ambient Occlusion
+      (2012)'
+    score: 138
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=48979931
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google
+    title: The Voice of Google
+    score: 135
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=48980053
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.expats.cz/czech-news/article/czech-news-in-brief-for-july-20-2026-monday-top-afternoon-headlines
     title: Czechia moves to ban mobile phones in schools from September 2027
     score: 132
