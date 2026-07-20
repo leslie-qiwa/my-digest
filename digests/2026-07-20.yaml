@@ -1,10 +1,71 @@
 date: '2026-07-20'
-generated_at: 2026-07-20 18:02 UTC
+generated_at: 2026-07-20 20:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.expats.cz/czech-news/article/czech-news-in-brief-for-july-20-2026-monday-top-afternoon-headlines
+    title: Czechia moves to ban mobile phones in schools from September 2027
+    score: 132
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=48980700
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://refactoringenglish.com/blog/why-i-stopped-creating-content/
+    title: I Stopped "Creating Content"
+    score: 101
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=48980520
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.statnews.com/2026/07/20/psychiatric-insurance-coverage-suicide-denial-personal-essay/
+    title: My husbands suicide shows theres something very wrong with US insurance
+      industry
+    score: 93
+    comment_cnt: 108
+    comment_url: https://news.ycombinator.com/item?id=48981496
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://hypr.land/news/update55/
+    title: Hyprland 0.55 announced the switch to Lua for its config files
+    score: 80
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=48982011
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://apnews.com/article/gas-prices-iran-war-4-gallon-4b82825734ec3ded192351e53a4be69e
+    title: US gas prices hit an average of $4 a gallon again
+    score: 63
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=48976172
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=48981136
+    title: 'Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12'
+    score: 34
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=48981136
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.emergingtrajectories.com/lh/frontier-lab-economics/
     title: Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling
     score: 152
