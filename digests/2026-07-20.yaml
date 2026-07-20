@@ -1,10 +1,51 @@
 date: '2026-07-20'
-generated_at: 2026-07-20 12:02 UTC
+generated_at: 2026-07-20 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/
+    title: The EU is about to sell our most sensitive data to the US for visa-free
+      travel
+    score: 158
+    comment_cnt: 93
+    comment_url: https://news.ycombinator.com/item?id=48977711
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109
+    title: Airbus Takes Flight from AWS
+    score: 156
+    comment_cnt: 114
+    comment_url: https://news.ycombinator.com/item?id=48976682
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://wren.wtf/shower-thoughts/stop-using-opencode/
+    title: Stop Using OpenCode
+    score: 118
+    comment_cnt: 80
+    comment_url: https://news.ycombinator.com/item?id=48978112
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars
+    title: Why is it so hard for the U.S. to win wars?
+    score: 31
+    comment_cnt: 99
+    comment_url: https://news.ycombinator.com/item?id=48977270
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/
     title: Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and
       $25
