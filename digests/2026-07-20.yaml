@@ -1,10 +1,30 @@
 date: '2026-07-20'
-generated_at: 2026-07-20 06:03 UTC
+generated_at: 2026-07-20 08:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/hgaiser/moonshine
+    title: 'Moonshine: Lets you stream games from your PC to any device running Moonlight'
+    score: 141
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=48972970
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://robotics.xiaomi.com/xiaomi-robotics-1.html
+    title: Xiaomi-Robotics-1
+    score: 116
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48974454
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://ollama.com/blog/all-aboard-open-models
     title: 'Ollama: All Aboard Open Models'
     score: 132
