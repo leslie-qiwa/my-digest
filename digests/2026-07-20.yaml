@@ -1,10 +1,40 @@
 date: '2026-07-20'
-generated_at: 2026-07-20 08:03 UTC
+generated_at: 2026-07-20 10:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/
+    title: Power companies are using eminent domain to seize land for data centers
+    score: 103
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=48974292
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/
+    title: How proprietary formats have become Microsoft’s main tool for lock-in
+    score: 88
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=48974476
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://moonwriting.blog/i-m-done-with-mullvad
+    title: I'm Done with Mullvad
+    score: 37
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=48975428
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/hgaiser/moonshine
     title: 'Moonshine: Lets you stream games from your PC to any device running Moonlight'
     score: 141
