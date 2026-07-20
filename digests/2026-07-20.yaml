@@ -1,0 +1,67 @@
+date: '2026-07-20'
+generated_at: 2026-07-20 02:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://justsomebody.dev/blog/mikrotik-home-router
+    title: 'HomeLab #1: MikroTik as a Home Router'
+    score: 67
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48970772
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study
+    title: AI advice made people 3x less accurate but 2x confident, researchers found
+    score: 212
+    comment_cnt: 100
+    comment_url: https://news.ycombinator.com/item?id=48971738
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes
+    title: Texas Police Spent $4.5M on Four Chevy Tahoes
+    score: 114
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48969582
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/
+    title: Heavy TV watching associated with smaller brain structures, study finds
+    score: 84
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48971418
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.hmd.com/en_int/hmd-touch-4g
+    title: HMD Touch 4G
+    score: 56
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=48969983
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://orionbrowser.com/
+    title: Orion Browser by Kagi
+    score: 51
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=48970894
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
