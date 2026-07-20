@@ -1,10 +1,41 @@
 date: '2026-07-20'
-generated_at: 2026-07-20 10:03 UTC
+generated_at: 2026-07-20 12:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/
+    title: Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and
+      $25
+    score: 172
+    comment_cnt: 88
+    comment_url: https://news.ycombinator.com/item?id=48975665
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061
+    title: When can a power company take your land for data center infrastructure?
+    score: 121
+    comment_cnt: 92
+    comment_url: https://news.ycombinator.com/item?id=48974292
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://mjtsai.com/blog/2026/07/17/eu-exempts-apple-watch-and-airpods-from-battery-removal-requirement/
+    title: EU Exempts Apple Watch and AirPods from Battery Removal Requirements
+    score: 35
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=48975245
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/
     title: Power companies are using eminent domain to seize land for data centers
     score: 103
