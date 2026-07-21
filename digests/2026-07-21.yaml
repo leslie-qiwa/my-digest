@@ -1,10 +1,20 @@
 date: '2026-07-21'
-generated_at: 2026-07-21 06:02 UTC
+generated_at: 2026-07-21 08:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://news.ycombinator.com/item?id=48987634
+    title: Is surveillance risk chilling your online speech?
+    score: 62
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48987634
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country
     title: Flock Credibility Lost as It Repeatedly Lies to City Councils, Police,
       & Public
