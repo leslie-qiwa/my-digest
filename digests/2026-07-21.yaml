@@ -1,10 +1,20 @@
 date: '2026-07-21'
-generated_at: 2026-07-21 00:03 UTC
+generated_at: 2026-07-21 02:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://cursor.com/blog/agent-swarm-model-economics
+    title: Agent swarms and the new model economics
+    score: 124
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48982535
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/
     title: Human mathematicians are being outcounterexampled
     score: 161
