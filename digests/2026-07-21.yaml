@@ -1,10 +1,20 @@
 date: '2026-07-21'
-generated_at: 2026-07-21 02:02 UTC
+generated_at: 2026-07-21 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://forum.jellyfin.org/t-project-leadership-changes
+    title: Jellyfin founder Andrew leaves team
+    score: 143
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=48986091
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://cursor.com/blog/agent-swarm-model-economics
     title: Agent swarms and the new model economics
     score: 124
