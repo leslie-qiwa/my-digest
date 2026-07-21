@@ -1,0 +1,47 @@
+date: '2026-07-21'
+generated_at: 2026-07-21 00:03 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/
+    title: Human mathematicians are being outcounterexampled
+    score: 161
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=48983382
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blaizzy.github.io/nativ/
+    title: 'Nativ: Run frontier open models locally on your Mac'
+    score: 154
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=48982681
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://stratechery.com/2026/whos-afraid-of-chinese-models/
+    title: Who's Afraid of Chinese Models?
+    score: 131
+    comment_cnt: 92
+    comment_url: https://news.ycombinator.com/item?id=48977128
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lcamtuf.substack.com/p/my-falling-out-with-the-rationalist
+    title: My falling-out with the rationalist community
+    score: 70
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=48985140
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
