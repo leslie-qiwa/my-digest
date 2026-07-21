@@ -1,10 +1,20 @@
 date: '2026-07-21'
-generated_at: 2026-07-21 20:01 UTC
+generated_at: 2026-07-21 22:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1
+    title: Meta's AI models are powering the first wave of Genesis Mission projects
+    score: 83
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=48995074
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git
     title: Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting
     score: 88
