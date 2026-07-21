@@ -1,10 +1,40 @@
 date: '2026-07-21'
-generated_at: 2026-07-21 16:02 UTC
+generated_at: 2026-07-21 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://thecastlemap.com/
+    title: The World's 2,400 Castles
+    score: 89
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=48994178
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.outv.im/2026/npm-cooldown-security-theater/
+    title: NPM's release cooldown is security theater
+    score: 41
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=48993885
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://text.npr.org/nx-s1-5869813
+    title: Amid nurse shortage, a university rolls out the welcome mat for men
+    score: 31
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=48994103
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/
     title: Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber
     score: 127
