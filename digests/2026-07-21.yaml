@@ -1,10 +1,50 @@
 date: '2026-07-21'
-generated_at: 2026-07-21 14:02 UTC
+generated_at: 2026-07-21 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/
+    title: Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber
+    score: 127
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=48993414
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm
+    title: Apple Defeats Liability for Not Scanning iCloud for CSAM
+    score: 98
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=48992870
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of
+    title: Linux kernel will support $ORIGIN, sort of
+    score: 80
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=48988793
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.exe.dev/claude-is-not-a-compiler
+    title: Claude Is Not a Compiler
+    score: 67
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=48993059
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first
     title: New US homeownership measure puts people first
     score: 113
