@@ -1,10 +1,31 @@
 date: '2026-07-21'
-generated_at: 2026-07-21 08:02 UTC
+generated_at: 2026-07-21 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first
+    title: New US homeownership measure puts people first
+    score: 113
+    comment_cnt: 109
+    comment_url: https://news.ycombinator.com/item?id=48991139
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://boilingsteam.com/the-great-steam-deck-volume-crash/
+    title: 'The Great Steam Deck Crash of 2026: How the New Pricing Decreased Demand
+      by 80%'
+    score: 31
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48991815
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://news.ycombinator.com/item?id=48987634
     title: Is surveillance risk chilling your online speech?
     score: 62
