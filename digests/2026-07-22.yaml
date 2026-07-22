@@ -1,10 +1,50 @@
 date: '2026-07-22'
-generated_at: 2026-07-22 10:00 UTC
+generated_at: 2026-07-22 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://overpaid.lol
+    title: OverpAId – Fire your CEO. Hire the future
+    score: 407
+    comment_cnt: 185
+    comment_url: https://news.ycombinator.com/item?id=49004663
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cole-k.com/2026/07/21/reddit/
+    title: So Reddit has decided that plain HTML is unsafe
+    score: 111
+    comment_cnt: 115
+    comment_url: https://news.ycombinator.com/item?id=49005747
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/c3ek3gvdnj3o
+    title: OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack
+    score: 62
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=49005398
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://codeberg.org/Codeberg/org/pulls/1253
+    title: 'Codeberg: ToU extension to prohibit LLM-extrusions'
+    score: 41
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49003465
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://late.sh/
     title: Late.sh – a command-line Clubhouse for computer people
     score: 171
