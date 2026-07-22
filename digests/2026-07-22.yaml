@@ -1,10 +1,40 @@
 date: '2026-07-22'
-generated_at: 2026-07-22 04:00 UTC
+generated_at: 2026-07-22 06:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://poolside.ai/blog/introducing-laguna-s-2-1
+    title: Laguna S 2.1
+    score: 275
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=48995261
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/
+    title: LG to ban residential proxies from smart TV apps
+    score: 165
+    comment_cnt: 123
+    comment_url: https://news.ycombinator.com/item?id=49000864
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/
+    title: It's a shame what's happened to radio
+    score: 72
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=48999825
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok
     title: '"Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok'
     score: 141
