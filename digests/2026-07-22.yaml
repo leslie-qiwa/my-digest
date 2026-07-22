@@ -1,0 +1,38 @@
+date: '2026-07-22'
+generated_at: 2026-07-22 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling
+    title: '''VPNs are lawful technical tools,'' says EU Court in landmark copyright
+      ruling'
+    score: 326
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=48997221
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://e360.yale.edu/digest/benin-coral-reef
+    title: Long presumed dead, a thriving coral reef is discovered in West Africa
+    score: 285
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=48993816
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://fireworks.ai/blog/kimik3-fable
+    title: Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA
+    score: 161
+    comment_cnt: 87
+    comment_url: https://news.ycombinator.com/item?id=48999291
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
