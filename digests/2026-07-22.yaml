@@ -1,10 +1,20 @@
 date: '2026-07-22'
-generated_at: 2026-07-22 02:01 UTC
+generated_at: 2026-07-22 04:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok
+    title: '"Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok'
+    score: 141
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=48998404
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/
     title: A digestion of the Jacobian conjecture counterexample
     score: 170
