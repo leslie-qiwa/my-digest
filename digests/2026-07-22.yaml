@@ -1,10 +1,40 @@
 date: '2026-07-22'
-generated_at: 2026-07-22 20:02 UTC
+generated_at: 2026-07-22 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/marcelroed/gigatoken/
+    title: 'GigaToken: ~1000x faster Language model tokenization'
+    score: 274
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49010167
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow
+    title: Full Scale Foldable Wing Extensions
+    score: 58
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49007831
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.timwehrle.de/blog/which-streaming-service-was-that-on-again/
+    title: Which streaming service was that on again?
+    score: 32
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49007671
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://beej.us/blog/data/ai-making/
     title: Making
     score: 195
