@@ -1,10 +1,30 @@
 date: '2026-07-22'
-generated_at: 2026-07-22 08:00 UTC
+generated_at: 2026-07-22 10:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://late.sh/
+    title: Late.sh – a command-line Clubhouse for computer people
+    score: 171
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49001127
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://codeberg.org/Codeberg/org/pulls/1253#issuecomment-19820434
+    title: Codeberg bans vibe coded projects
+    score: 76
+    comment_cnt: 98
+    comment_url: https://news.ycombinator.com/item?id=49003386
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web
     title: Apple Private Cloud Compute SoC 3 audit reports
     score: 126
