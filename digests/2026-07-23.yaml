@@ -1,10 +1,40 @@
 date: '2026-07-23'
-generated_at: 2026-07-23 14:02 UTC
+generated_at: 2026-07-23 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet
+    title: AI Companies Are Trying to Hide a Staggering Amount of Debt
+    score: 250
+    comment_cnt: 124
+    comment_url: https://news.ycombinator.com/item?id=49020999
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your
+    title: Writing by hand is good for your brain
+    score: 166
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49022152
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://werd.io/private-healthcare-makes-industries-less-innovative-its-time-for-change/
+    title: Private healthcare makes industries less innovative. It's time for change
+    score: 126
+    comment_cnt: 106
+    comment_url: https://news.ycombinator.com/item?id=49021571
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/
     title: Fairphone 6 wide camera experimental Linux support
     score: 141
