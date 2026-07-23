@@ -1,10 +1,31 @@
 date: '2026-07-23'
-generated_at: 2026-07-23 20:03 UTC
+generated_at: 2026-07-23 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://news.ycombinator.com/item?id=49026810
+    title: 'Show HN: Echo – Fable-level results at 1/3 the cost using open-weight
+      models'
+    score: 133
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49026810
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://openjdk.org/jeps/540
+    title: 'JEP 540: Simple JSON API (Now in Incubator)'
+    score: 85
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49023809
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all
     title: What happened to TheNumbers.com
     score: 176
