@@ -1,10 +1,41 @@
 date: '2026-07-23'
-generated_at: 2026-07-23 02:00 UTC
+generated_at: 2026-07-23 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://codeberg.org/Codeberg/org/pulls/1254
+    title: Codeberg Bans Cryptocurrency Projects
+    score: 155
+    comment_cnt: 198
+    comment_url: https://news.ycombinator.com/item?id=49015588
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/
+    title: Safari Technology Preview 248 Released
+    score: 86
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49013356
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://simonwillison.net/2026/Jul/22/openai-cyberattack/
+    title: OpenAI’s accidental attack against Hugging Face is science fiction that
+      happened
+    score: 61
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49015639
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://resobscura.substack.com/p/quality-non-fiction-books-are-the
     title: Quality non-fiction books are the antithesis of AI slop
     score: 159
