@@ -1,10 +1,20 @@
 date: '2026-07-23'
-generated_at: 2026-07-23 10:00 UTC
+generated_at: 2026-07-23 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps
+    title: EU fines Google €890M for competition breaches over search and apps
+    score: 61
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49019220
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/
     title: 'Amiga 1000: Ten years ahead of its time'
     score: 81
