@@ -1,10 +1,70 @@
 date: '2026-07-23'
-generated_at: 2026-07-23 12:01 UTC
+generated_at: 2026-07-23 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/
+    title: Fairphone 6 wide camera experimental Linux support
+    score: 141
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49012777
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html
+    title: Protecting our FLOSS commons from LLMs
+    score: 130
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=49015635
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734
+    title: 'Cruller: Bun''s Zig Runtime, Continued on Zig 0.16'
+    score: 112
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=49017344
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html
+    title: Clarity didn't work, trying mysterianism (2012)
+    score: 78
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49011687
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/
+    title: Understanding the AI Economy
+    score: 66
+    comment_cnt: 111
+    comment_url: https://news.ycombinator.com/item?id=49020335
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.agent-swarm.dev/blog/code-mode-token-savings
+    title: Code mode yields a 99.2% cost reduction in our systems
+    score: 60
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=49019301
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps
     title: EU fines Google €890M for competition breaches over search and apps
     score: 61
