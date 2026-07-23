@@ -1,0 +1,37 @@
+date: '2026-07-23'
+generated_at: 2026-07-23 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/
+    title: I Inspected My Take-Home Interview Project. It Was a Whole Operation
+    score: 233
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49013036
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://mitchellh.com/writing/everyone-should-know-simd
+    title: Everyone Should Know SIMD
+    score: 208
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=49010648
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://cruciblebench.ai/
+    title: Can a MUD evaluate LLMs? A $99 proof of concept
+    score: 97
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49008538
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
