@@ -1,10 +1,30 @@
 date: '2026-07-24'
-generated_at: 2026-07-24 06:02 UTC
+generated_at: 2026-07-24 10:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://bfl.ai/blog/flux-3
+    title: Flux 3
+    score: 256
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49031796
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/cvg9n2y61w6o
+    title: Russia's businesses under strain from Ukraine's attacks on Wildberries
+    score: 47
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=49031917
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman
     title: Why Sony can't bring back its classic Walkman models
     score: 70
