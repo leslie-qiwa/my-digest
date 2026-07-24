@@ -1,10 +1,122 @@
 date: '2026-07-24'
-generated_at: 2026-07-24 14:02 UTC
+generated_at: 2026-07-24 18:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece
+    title: 'Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack
+      Dorsey'
+    score: 229
+    comment_cnt: 133
+    comment_url: https://news.ycombinator.com/item?id=49036433
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://openjdk.org/jeps/541
+    title: As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64
+      port
+    score: 63
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=49038352
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times
+    title: The case for MUDs in modern times
+    score: 59
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49034217
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lucumr.pocoo.org/2026/7/24/codeberg-divides/
+    title: Codeberg Divides
+    score: 54
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49036765
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://gagliardoni.net/#20260724_codeberg_drama
+    title: Ah, the Codeberg Drama
+    score: 38
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49034928
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://hhh.hn/hanwha-github-token/
+    title: My security camera shipped a GitHub admin token in its login page
+    score: 243
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=49034292
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://sive.rs/itunes
+    title: The day Steve Jobs dissed me in a keynote (2010)
+    score: 171
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49033001
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/
+    title: IRGC Claims It Destroyed Amazon's Bahrain Data Center
+    score: 157
+    comment_cnt: 105
+    comment_url: https://news.ycombinator.com/item?id=49033240
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://sliplane.io/blog/hetzner-inference
+    title: Hetzner is working on LLM Inference
+    score: 129
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49033087
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/
+    title: I Tried Building a Real App with AI. It Took a Year
+    score: 67
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=49034342
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://alexklos.ca/blog/how-do-we-stop-vibe-coding
+    title: How Do We Stop Vibe Coding?
+    score: 50
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49033388
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://platform.claude.com/cookbook/
     title: Claude Cookbook
     score: 167
@@ -227,3 +339,70 @@ feeds:
     summary_zh: ''
     content_file: ''
     summary: ''
+- id: golang-weekly
+  label: Golang Weekly
+  provider: rss_newsletter
+  items:
+  - url: https://golangweekly.com/link/188440/rss
+    title: 'httpretty 0.2: Pretty-Print HTTP Requests Made from Go'
+    summary: Inspired by curl's --verbose, this could be handy when debugging. We
+      first linked this 7 years ago(!) and it's been rounded out with support for
+      multipart bodies, HTTP trailers, and http.Flusher/http.ResponseController.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/188441/rss
+    title: 'oapi-codegen 2.8.0: Now with OpenAPI 3.1 Support'
+    summary: A long-standing way to generate idiomatic Go client and server boilerplate
+      code from OpenAPI 3 specifications, and now OpenAPI 3.1 too. Specs are now validated
+      prior to generation too, Fiber v3 is supported, and Go 1.25+ is now required.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/188431/rss
+    title: Storing Passkeys Like Password Hashes, and a Go API to Match
+    summary: A proposal for storing WebAuthn credentials as opaque strings, a la password
+      hashes, plus a draft stateless crypto/passkey API that could reach the standard
+      library in Go 1.28. Filippo wants feedback on both now.
+    score: 0
+    tags: []
+    source: words.filippo.io
+    domain: words.filippo.io
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/188432/rss
+    title: Go's Stuck Goroutine Problem (And Why to Let It Fail)
+    summary: How goroutines get stuck, why Go can't kill them, and River v0.40's Erlang-inspired
+      'let it crash' answer for background jobs that ignore cancellation.
+    score: 0
+    tags: []
+    source: riverqueue.com
+    domain: riverqueue.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/188433/rss
+    title: 'Escape Analysis in Go: Stack vs. Heap Allocations Explained'
+    summary: An approachable intro to Go's escape analysis and reading -gcflags="-m"
+      output that doubles as a demo of GoLand 2026.2's new tooling for it.
+    score: 0
+    tags: []
+    source: blog.jetbrains.com
+    domain: blog.jetbrains.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/188442/rss
+    title: 'go-diskfs: Manipulate Disks and Disk Images from Go'
+    summary: For tasks that you might otherwise use fdisk, mkfs.vfat, or mtools for
+      – partitioning, making filesystems, etc.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
