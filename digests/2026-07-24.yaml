@@ -1,10 +1,50 @@
 date: '2026-07-24'
-generated_at: 2026-07-24 10:02 UTC
+generated_at: 2026-07-24 12:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://glyphack.com/attention/
+    title: It's getting harder to focus every day
+    score: 153
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=49032660
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/
+    title: Nothing works and everyone is euphoric
+    score: 121
+    comment_cnt: 108
+    comment_url: https://news.ycombinator.com/item?id=49033004
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html
+    title: Future euro banknote design proposals
+    score: 68
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=49033110
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/
+    title: The PImpl idiom and the C++26 std:indirect type
+    score: 54
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49032095
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://bfl.ai/blog/flux-3
     title: Flux 3
     score: 256
