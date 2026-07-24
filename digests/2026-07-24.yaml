@@ -1,0 +1,48 @@
+date: '2026-07-24'
+generated_at: 2026-07-24 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://news.ycombinator.com/item?id=49028037
+    title: 'Tell HN: Namecheap gave my account to an unverified third party'
+    score: 320
+    comment_cnt: 114
+    comment_url: https://news.ycombinator.com/item?id=49028037
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lukekanies.com/writing/building-on-atproto/
+    title: Building on ATProto
+    score: 117
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49025984
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/money/2026/jul/23/uk-households-free-install-plug-in-balcony-solar-panels
+    title: UK households free to install plug-in balcony solar panels from end of
+      August
+    score: 79
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49023291
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/
+    title: 'Introducing selfie for sign-in: a new way to access your Google Account'
+    score: 68
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49026482
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
