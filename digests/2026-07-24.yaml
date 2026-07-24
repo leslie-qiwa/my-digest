@@ -1,10 +1,30 @@
 date: '2026-07-24'
-generated_at: 2026-07-24 04:02 UTC
+generated_at: 2026-07-24 06:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman
+    title: Why Sony can't bring back its classic Walkman models
+    score: 70
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49025766
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/
+    title: 'The Corporate Creep of Plex: Why it may be time to move to Jellyfin'
+    score: 55
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49030547
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://jdan.github.io/98.css/#status-bar
     title: 98.css
     score: 326
