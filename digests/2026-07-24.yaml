@@ -1,10 +1,61 @@
 date: '2026-07-24'
-generated_at: 2026-07-24 02:01 UTC
+generated_at: 2026-07-24 04:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://jdan.github.io/98.css/#status-bar
+    title: 98.css
+    score: 326
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=49028927
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://haqr.eu/tinyrenderer/
+    title: Software rendering in 500 lines of bare C++
+    score: 259
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49022038
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://en.andros.dev/blog/06bfd107/emacs-is-a-lispboard/
+    title: Emacs Is a Lispboard
+    score: 101
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49021786
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/us-news/2026/jul/23/cop-city-protester-phone
+    title: US Government targets Cop City protester over phone operating system
+    score: 87
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49024436
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=49024620
+    title: 'Launch HN: Screenpipe (YC S26) – Record how you work and turn that into
+      agents'
+    score: 62
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49024620
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/izeigerman/claude-thermos
     title: 'Show HN: Claude-thermos keeps your Claude session warm for you'
     score: 70
