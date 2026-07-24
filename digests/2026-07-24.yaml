@@ -1,10 +1,50 @@
 date: '2026-07-24'
-generated_at: 2026-07-24 12:02 UTC
+generated_at: 2026-07-24 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://platform.claude.com/cookbook/
+    title: Claude Cookbook
+    score: 167
+    comment_cnt: 82
+    comment_url: https://news.ycombinator.com/item?id=49031409
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891
+    title: Buz – A fork of Bun using modern Zig, with sub-1s incremental builds
+    score: 108
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=49033099
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.patreon.com/jackconte/posts/painful-update-164628951
+    title: Patreon laying off 20% of staff
+    score: 86
+    comment_cnt: 104
+    comment_url: https://news.ycombinator.com/item?id=49034948
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing
+    title: Em dashes are fucking amazing
+    score: 67
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49034747
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://glyphack.com/attention/
     title: It's getting harder to focus every day
     score: 153
