@@ -1,10 +1,60 @@
 date: '2026-07-24'
-generated_at: 2026-07-24 18:03 UTC
+generated_at: 2026-07-24 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.anthropic.com/news/claude-opus-5
+    title: Claude Opus 5
+    score: 841
+    comment_cnt: 471
+    comment_url: https://news.ycombinator.com/item?id=49038433
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker
+    title: Be skeptical of OpenAI's rogue hacker agent story
+    score: 263
+    comment_cnt: 120
+    comment_url: https://news.ycombinator.com/item?id=49038060
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html
+    title: Nvidia, Microsoft, Meta warn against overregulating open-weight models
+    score: 237
+    comment_cnt: 145
+    comment_url: https://news.ycombinator.com/item?id=49035303
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://adriengonin.com/writing/service-with-a-software/
+    title: Micro-SaaS Is Dead. Service With A Software Replaces It
+    score: 51
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49037971
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://gjtorikian.online/posts/proving-a-human-wrote-something/
+    title: Proving a Human Wrote Something
+    score: 40
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49038059
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece
     title: 'Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack
       Dorsey'
