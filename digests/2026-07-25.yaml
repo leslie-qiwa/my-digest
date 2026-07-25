@@ -1,10 +1,20 @@
 date: '2026-07-25'
-generated_at: 2026-07-25 12:00 UTC
+generated_at: 2026-07-25 14:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize
+    title: Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach
+    score: 382
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49043724
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing
     title: Why is programming so captivating, yet so agonizing?
     score: 55
