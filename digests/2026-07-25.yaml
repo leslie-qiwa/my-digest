@@ -1,10 +1,20 @@
 date: '2026-07-25'
-generated_at: 2026-07-25 10:00 UTC
+generated_at: 2026-07-25 12:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing
+    title: Why is programming so captivating, yet so agonizing?
+    score: 55
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49034468
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/
     title: Android May Soon Restrict On-Device ADB
     score: 203
