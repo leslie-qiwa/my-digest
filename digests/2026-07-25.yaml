@@ -1,10 +1,20 @@
 date: '2026-07-25'
-generated_at: 2026-07-25 18:01 UTC
+generated_at: 2026-07-25 20:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics
+    title: The Dark Night of Mathematics
+    score: 85
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=49048681
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/
     title: Open-weight AI is having its Kubernetes moment. Let's not ruin it
     score: 94
