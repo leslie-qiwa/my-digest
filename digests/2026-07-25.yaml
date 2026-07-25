@@ -1,10 +1,30 @@
 date: '2026-07-25'
-generated_at: 2026-07-25 04:00 UTC
+generated_at: 2026-07-25 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.dbos.dev/blog/postgres-listen-notify-scalability
+    title: Postgres LISTEN/NOTIFY actually scales
+    score: 292
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49040296
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.unitree.com/As2-W/
+    title: Unitree As2-W
+    score: 119
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49038045
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://simone.org/advertising/
     title: What if we made advertising illegal?
     score: 62
