@@ -1,10 +1,20 @@
 date: '2026-07-25'
-generated_at: 2026-07-25 02:00 UTC
+generated_at: 2026-07-25 04:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://simone.org/advertising/
+    title: What if we made advertising illegal?
+    score: 62
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49040989
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18
     title: Half-Life 2 running natively on HaikuOS
     score: 273
