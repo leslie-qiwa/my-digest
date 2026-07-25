@@ -1,10 +1,60 @@
 date: '2026-07-25'
-generated_at: 2026-07-25 14:00 UTC
+generated_at: 2026-07-25 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/
+    title: Open-weight AI is having its Kubernetes moment. Let's not ruin it
+    score: 94
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=49048034
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/
+    title: Wind turbine is being used to produce zero-carbon "green ammonia" fertilizer
+    score: 62
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49048819
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://karimjedda.com/engineering-management-after-cost-of-code-collapse/
+    title: Engineering management after the cost of code collapsed
+    score: 49
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=49048212
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor
+    title: The AI jobs apocalypse probably isn't coming anytime soon
+    score: 37
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49047969
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://mohammedshehu.com/checking-for-human-writing-is-daft/
+    title: The whole premise of checking for human writing is daft
+    score: 36
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=49048584
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize
     title: Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach
     score: 382
