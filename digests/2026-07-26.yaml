@@ -1,10 +1,20 @@
 date: '2026-07-26'
-generated_at: 2026-07-26 12:01 UTC
+generated_at: 2026-07-26 14:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://astral.sh/blog/ruff-v0.16.0
+    title: Ruff v0.16.0 – Significant new updates – 413 default rules up from 59
+    score: 189
+    comment_cnt: 102
+    comment_url: https://news.ycombinator.com/item?id=49056112
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/slvDev/esp32-ai
     title: Running a 28.9M parameter LLM on an $8 microcontroller
     score: 208
