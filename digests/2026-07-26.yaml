@@ -1,0 +1,67 @@
+date: '2026-07-26'
+generated_at: 2026-07-26 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras
+    title: The growing vigilante movement to knock out Flock surveillance cameras
+    score: 165
+    comment_cnt: 89
+    comment_url: https://news.ycombinator.com/item?id=49050538
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://fly.io/blog/kurt-scott-money-sprites/
+    title: Turn And Face The Strange
+    score: 125
+    comment_cnt: 86
+    comment_url: https://news.ycombinator.com/item?id=49051369
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/
+    title: A 77-year-old Republican man is staging a solo protest against Flock cameras
+    score: 119
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=49051816
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models
+    title: The new rules of context engineering for Claude 5 generation models
+    score: 118
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=49051361
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://itsallaboutthebit.com/memory-safety-absolutists/
+    title: Memory Safety Absolutists
+    score: 48
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49050058
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop
+    title: Who does Anubis actually stop?
+    score: 37
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49051505
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
