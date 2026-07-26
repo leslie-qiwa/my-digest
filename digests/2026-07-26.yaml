@@ -1,10 +1,50 @@
 date: '2026-07-26'
-generated_at: 2026-07-26 16:00 UTC
+generated_at: 2026-07-26 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://killthecookiebanner.eu/
+    title: Kill The Cookie Banner
+    score: 310
+    comment_cnt: 175
+    comment_url: https://news.ycombinator.com/item?id=49057175
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.ktz.me/esp32-plane-radar/
+    title: An ESP32 based plane radar for my desk
+    score: 234
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49054107
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/
+    title: Park by Robot at London Gatwick Airport
+    score: 171
+    comment_cnt: 99
+    comment_url: https://news.ycombinator.com/item?id=49058669
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/
+    title: Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home
+    score: 148
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49053708
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://etbe.coker.com.au/2026/07/24/systemd-linger/
     title: Systemd Linger
     score: 44
