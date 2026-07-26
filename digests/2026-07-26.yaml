@@ -1,10 +1,20 @@
 date: '2026-07-26'
-generated_at: 2026-07-26 04:00 UTC
+generated_at: 2026-07-26 06:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.cloudflare.com/content-independence-day-ai-options/
+    title: Cloudflare's new AI traffic options for customers
+    score: 84
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49052564
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://spectrum.ieee.org/sodium-ion-battery-peak-energy
     title: GM Backs Sodium Ion Batteries for U.S. Grid Storage
     score: 149
