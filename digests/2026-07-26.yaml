@@ -1,10 +1,20 @@
 date: '2026-07-26'
-generated_at: 2026-07-26 14:00 UTC
+generated_at: 2026-07-26 16:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://etbe.coker.com.au/2026/07/24/systemd-linger/
+    title: Systemd Linger
+    score: 44
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49056351
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://astral.sh/blog/ruff-v0.16.0
     title: Ruff v0.16.0 – Significant new updates – 413 default rules up from 59
     score: 189
