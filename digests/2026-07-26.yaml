@@ -1,10 +1,30 @@
 date: '2026-07-26'
-generated_at: 2026-07-26 10:02 UTC
+generated_at: 2026-07-26 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/slvDev/esp32-ai
+    title: Running a 28.9M parameter LLM on an $8 microcontroller
+    score: 208
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49050512
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices
+    title: GrapheneOS protections against data extraction from locked devices
+    score: 124
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=49055169
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://refp.se/articles/your-shell-and-the-magic-colon
     title: A shell colon does nothing. Use it anyway
     score: 194
