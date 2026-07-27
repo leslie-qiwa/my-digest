@@ -1,10 +1,50 @@
 date: '2026-07-27'
-generated_at: 2026-07-27 16:02 UTC
+generated_at: 2026-07-27 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/
+    title: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts
+    score: 196
+    comment_cnt: 217
+    comment_url: https://news.ycombinator.com/item?id=49070427
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/
+    title: Modern email can be built from borrowed parts
+    score: 115
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49066639
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article
+    title: Decathlon Germany adds Wero payment option to decathlon.de website
+    score: 72
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=49072310
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://unslop.run/blog/political-compass-of-llms
+    title: All major LLMs are lib-left. Even Grok, half the time
+    score: 36
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49071441
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://huggingface.co/moonshotai/Kimi-K3
     title: Kimi-K3 Releases on HuggingFace 7/27
     score: 840
