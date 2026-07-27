@@ -1,10 +1,30 @@
 date: '2026-07-27'
-generated_at: 2026-07-27 18:02 UTC
+generated_at: 2026-07-27 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/
+    title: MAI-Cyber-1-Flash inside MDASH
+    score: 177
+    comment_cnt: 91
+    comment_url: https://news.ycombinator.com/item?id=49072361
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://gracefulliberty.com/articles/teaching-kids-forth/
+    title: Teaching Kids Forth
+    score: 100
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49062700
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/
     title: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts
     score: 196
