@@ -1,10 +1,20 @@
 date: '2026-07-27'
-generated_at: 2026-07-27 08:00 UTC
+generated_at: 2026-07-27 10:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.imperialviolet.org/2026/07/26/zstd-lean.html
+    title: We have proof automation now
+    score: 169
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49062291
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/vercel-labs/scriptc
     title: 'Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine
       in binary'
