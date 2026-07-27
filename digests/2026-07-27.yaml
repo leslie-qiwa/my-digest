@@ -1,10 +1,30 @@
 date: '2026-07-27'
-generated_at: 2026-07-27 10:00 UTC
+generated_at: 2026-07-27 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.bbc.com/news/articles/c9q9w3x9qn2o
+    title: Chinese chipmaker shares surge 470%
+    score: 82
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=49066962
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://monocle.com/design/architecture/keeping-your-home-cool-without-air-conditioning/
+    title: The old-school way of keeping the summer heat out of your home
+    score: 24
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49064588
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.imperialviolet.org/2026/07/26/zstd-lean.html
     title: We have proof automation now
     score: 169
