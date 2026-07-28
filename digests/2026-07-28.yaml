@@ -1,0 +1,37 @@
+date: '2026-07-28'
+generated_at: 2026-07-28 00:03 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://www.anthropic.com/news/position-open-weights-models
+    title: Our position on open-weights models
+    score: 315
+    comment_cnt: 376
+    comment_url: https://news.ycombinator.com/item?id=49076057
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/
+    title: A missing underscore sent innocent man to prison for 18 months
+    score: 78
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49076116
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.npr.org/2026/07/23/nx-s1-5900901/bike-lanes-dot-websites
+    title: US DOT deleting bike lane references
+    score: 72
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=49075350
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
