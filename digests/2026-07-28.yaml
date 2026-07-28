@@ -1,10 +1,20 @@
 date: '2026-07-28'
-generated_at: 2026-07-28 00:03 UTC
+generated_at: 2026-07-28 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://echoed.gg/
+    title: A Discord Alternative – Echoed
+    score: 36
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49076497
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.anthropic.com/news/position-open-weights-models
     title: Our position on open-weights models
     score: 315
