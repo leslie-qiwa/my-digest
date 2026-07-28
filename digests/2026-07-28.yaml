@@ -1,10 +1,70 @@
 date: '2026-07-28'
-generated_at: 2026-07-28 18:01 UTC
+generated_at: 2026-07-28 20:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention
+    title: A walk through of the DeltaNet family of linear attention variants
+    score: 262
+    comment_cnt: 110
+    comment_url: https://news.ycombinator.com/item?id=49085909
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/
+    title: Substack writers, you need a website
+    score: 157
+    comment_cnt: 111
+    comment_url: https://news.ycombinator.com/item?id=49086788
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://mlugg.co.uk/posts/incremental-compilation-internals/
+    title: Zig's Incremental Compilation Internals
+    score: 124
+    comment_cnt: 76
+    comment_url: https://news.ycombinator.com/item?id=49085666
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arxiv.org/abs/1202.4212
+    title: 'Harmony Explained: Progress Towards a Scientific Theory of Music (2012)'
+    score: 69
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49085280
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link
+    title: 'Show HN: tale.fyi, we deserve a home for fiction'
+    score: 69
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49083389
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.socialeurope.eu/europes-ultra-rich-could-fund-a-substantial-part-of-the-eus-budget
+    title: Europe's Ultra-Rich Could Fund a Substantial Part of the EU's Budget
+    score: 39
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49084515
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search
     title: GrapheneOS Defends Data-Wiping Function That Blocked US Border Search
     score: 112
