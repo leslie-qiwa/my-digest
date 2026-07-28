@@ -1,10 +1,21 @@
 date: '2026-07-28'
-generated_at: 2026-07-28 10:02 UTC
+generated_at: 2026-07-28 12:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://fermisense.com/when-machines-take-the-wheel/
+    title: A $500 RL fine-tune of a 9B open model beat frontier models on catalog
+      review
+    score: 220
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=49078454
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://eaton-works.com/2026/07/27/my-eicher-hack/
     title: Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles
     score: 158
