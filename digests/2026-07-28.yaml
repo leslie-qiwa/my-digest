@@ -1,10 +1,40 @@
 date: '2026-07-28'
-generated_at: 2026-07-28 20:03 UTC
+generated_at: 2026-07-28 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://grapheneos.org/donate
+    title: Donate to GrapheneOS
+    score: 205
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49088451
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://sbcl.org/all-news.html?2.6.7
+    title: Steel Bank Common Lisp version 2.6.7
+    score: 156
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49086971
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.anthropic.com/research/discovering-cryptographic-weaknesses
+    title: Discovering Cryptographic Weaknesses with Claude
+    score: 126
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=49087091
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention
     title: A walk through of the DeltaNet family of linear attention variants
     score: 262
