@@ -1,10 +1,51 @@
 date: '2026-07-28'
-generated_at: 2026-07-28 06:01 UTC
+generated_at: 2026-07-28 10:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://eaton-works.com/2026/07/27/my-eicher-hack/
+    title: Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles
+    score: 158
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49070756
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios
+    title: Vehicle Motion Cues
+    score: 117
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49077999
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man
+    title: An Uncomplicated Man – A review of The Odyssey, directed by Christopher
+      Nolan
+    score: 94
+    comment_cnt: 89
+    comment_url: https://news.ycombinator.com/item?id=49078575
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth
+    title: Why do we think we understand the world more than we actually do?
+    score: 69
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49079175
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md
     title: Benchmarking Opus 5 on SlopCodeBench
     score: 216
