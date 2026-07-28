@@ -1,10 +1,71 @@
 date: '2026-07-28'
-generated_at: 2026-07-28 14:02 UTC
+generated_at: 2026-07-28 16:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/
+    title: New HIV vaccine shows unprecedented success in preclinical study
+    score: 263
+    comment_cnt: 122
+    comment_url: https://news.ycombinator.com/item?id=49083314
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arxiv.org/abs/2510.26692
+    title: 'Kimi Linear: An Expressive, Efficient Attention Architecture'
+    score: 145
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49082022
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://fortune.com/2026/07/27/shopify-ceo-voting-rights-stripping-americans-19th-century/
+    title: Why a $154B CEO just endorsed stripping most Americans of voting rights
+    score: 115
+    comment_cnt: 222
+    comment_url: https://news.ycombinator.com/item?id=49084031
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://dconf.org/2026/index.html
+    title: DConf 2026 in London
+    score: 113
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49076840
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026
+    title: DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce
+      It
+    score: 82
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=49081783
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://simpleflying.com/over-150000-flights-airlines-busiest-day-recorded-history/
+    title: 'Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History'
+    score: 35
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49083364
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://support.apple.com/en-us/128067
     title: About the security content of macOS Tahoe 26.6
     score: 138
