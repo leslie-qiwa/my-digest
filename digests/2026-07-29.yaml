@@ -1,10 +1,30 @@
 date: '2026-07-29'
-generated_at: 2026-07-29 02:04 UTC
+generated_at: 2026-07-29 04:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html
+    title: Kimi K3 Architecture Overview and Notes
+    score: 342
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49085698
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://beko.famkos.net/2026/07/27/id-not-buy-a-lg-monitor/
+    title: I'd not buy a LG monitor
+    score: 104
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49084787
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn
     title: Underwater oxygen loss threatens earth's stability, researchers warn
     score: 124
