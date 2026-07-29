@@ -1,10 +1,30 @@
 date: '2026-07-29'
-generated_at: 2026-07-29 10:03 UTC
+generated_at: 2026-07-29 12:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.bbc.co.uk/news/articles/c2el319vzr3o
+    title: ChatGPT claims rogue AI attacked more companies
+    score: 36
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49094996
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lzon.ca/posts/other/llm-fantasy/
+    title: What if useful AI is a fantasy?
+    score: 28
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49088595
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://mac-classic.com/news/half-life-ported-to-mac-os-9/
     title: Half-Life ported to Mac OS 9
     score: 243
