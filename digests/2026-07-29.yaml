@@ -1,10 +1,20 @@
 date: '2026-07-29'
-generated_at: 2026-07-29 06:03 UTC
+generated_at: 2026-07-29 08:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blinry.org/multi-seat-wayland/
+    title: Multiple Mouse Cursors in Wayland
+    score: 109
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49092112
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://learnvector.ai/
     title: LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences
     score: 125
