@@ -1,10 +1,50 @@
 date: '2026-07-29'
-generated_at: 2026-07-29 12:03 UTC
+generated_at: 2026-07-29 14:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers
+    title: 'SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers'
+    score: 136
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49094346
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/
+    title: Document-borne AI worms can self-propagate through Copilot for Word
+    score: 132
+    comment_cnt: 106
+    comment_url: https://news.ycombinator.com/item?id=49096188
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theregister.com/security/2026/07/28/def-con-bans-meta-style-pervert-glasses/5279763
+    title: DEF CON bans Meta-style 'pervert glasses'
+    score: 67
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49089171
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://moai.studio/blog/posts/they-stole-your-attention.html
+    title: They Stole Your Attention
+    score: 37
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49096043
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.bbc.co.uk/news/articles/c2el319vzr3o
     title: ChatGPT claims rogue AI attacked more companies
     score: 36
