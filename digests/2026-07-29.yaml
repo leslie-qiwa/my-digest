@@ -1,0 +1,37 @@
+date: '2026-07-29'
+generated_at: 2026-07-29 02:04 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn
+    title: Underwater oxygen loss threatens earth's stability, researchers warn
+    score: 124
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=49090867
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/gavamedia/deltafin
+    title: Running Kimi K3 on a M1 Max
+    score: 96
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=49090233
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.pacingthefrontier.com/
+    title: Pacing the frontier
+    score: 83
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=49089240
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
