@@ -1,10 +1,30 @@
 date: '2026-07-29'
-generated_at: 2026-07-29 08:04 UTC
+generated_at: 2026-07-29 10:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://mac-classic.com/news/half-life-ported-to-mac-os-9/
+    title: Half-Life ported to Mac OS 9
+    score: 243
+    comment_cnt: 116
+    comment_url: https://news.ycombinator.com/item?id=49089814
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes
+    title: More Tailscale tricks for your jailbroken Kindle
+    score: 180
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49093569
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blinry.org/multi-seat-wayland/
     title: Multiple Mouse Cursors in Wayland
     score: 109
