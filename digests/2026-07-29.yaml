@@ -1,10 +1,40 @@
 date: '2026-07-29'
-generated_at: 2026-07-29 14:04 UTC
+generated_at: 2026-07-29 16:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://arxiv.org/abs/2607.25398
+    title: Handbook.md shows that long policy documents do not reliably govern agents
+    score: 151
+    comment_cnt: 92
+    comment_url: https://news.ycombinator.com/item?id=49096969
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/
+    title: After the AI Crash
+    score: 70
+    comment_cnt: 136
+    comment_url: https://news.ycombinator.com/item?id=49096953
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/SerhiiKorniienko/bullshit-detector
+    title: 'Show HN: Bullshit Detector – agent skills that fact-check videos and articles'
+    score: 51
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49096917
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers
     title: 'SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers'
     score: 136
