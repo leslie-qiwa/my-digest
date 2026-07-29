@@ -1,10 +1,61 @@
 date: '2026-07-29'
-generated_at: 2026-07-29 18:05 UTC
+generated_at: 2026-07-29 20:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice
+    title: Keychron announces first open-source firmware for gaming mice
+    score: 145
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=49099715
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://huggingface.co/blog/agent-intrusion-technical-timeline
+    title: 'Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the
+      Incident'
+    score: 137
+    comment_cnt: 77
+    comment_url: https://news.ycombinator.com/item?id=49089500
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://tracewayapp.com/blog/sqlite-vs-duckdb
+    title: Choose DuckDB rather than SQLite
+    score: 82
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49097730
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets
+    title: Kalshi attacks a Wisconsin law banning election bets as 'voter suppression'
+    score: 77
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49097209
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/
+    title: Hooray for the Sockets Interface
+    score: 55
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49092754
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/drumih/turbo-fieldfare
     title: 'Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series
       Mac'
