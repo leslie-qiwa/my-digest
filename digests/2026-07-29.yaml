@@ -1,10 +1,20 @@
 date: '2026-07-29'
-generated_at: 2026-07-29 04:04 UTC
+generated_at: 2026-07-29 06:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://learnvector.ai/
+    title: LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences
+    score: 125
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=49092499
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html
     title: Kimi K3 Architecture Overview and Notes
     score: 342
