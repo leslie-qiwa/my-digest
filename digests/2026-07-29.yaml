@@ -1,10 +1,71 @@
 date: '2026-07-29'
-generated_at: 2026-07-29 16:04 UTC
+generated_at: 2026-07-29 18:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/drumih/turbo-fieldfare
+    title: 'Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series
+      Mac'
+    score: 317
+    comment_cnt: 92
+    comment_url: https://news.ycombinator.com/item?id=49098510
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.superlogical.com/
+    title: Superlogical
+    score: 174
+    comment_cnt: 134
+    comment_url: https://news.ycombinator.com/item?id=49098965
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.eff.org/deeplinks/2026/07/san-francisco-dont-fall-industry-defense-surveillance-pricing
+    title: 'San Francisco: Don''t Fall for Industry Defense of Surveillance Pricing'
+    score: 110
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49096885
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=49099021
+    title: 'Ask HN: My domain registrar (Hover) rug-pulled me for $3000'
+    score: 56
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49099021
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lapcatsoftware.com/articles/2026/7/14.html
+    title: Apple's hostile App Store rating system
+    score: 46
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=49098803
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://drewdevault.com/blog/AI-in-Linux/
+    title: AI in Linux
+    score: 39
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=49097649
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://arxiv.org/abs/2607.25398
     title: Handbook.md shows that long policy documents do not reliably govern agents
     score: 151
