@@ -1,10 +1,31 @@
 date: '2026-07-30'
-generated_at: 2026-07-30 10:00 UTC
+generated_at: 2026-07-30 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html
+    title: Google will expand age checks on Android worldwide till the end of the
+      year
+    score: 111
+    comment_cnt: 133
+    comment_url: https://news.ycombinator.com/item?id=49107950
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://getapps.cafe/blog/why-the-future-is-local-app
+    title: Why the future is local app
+    score: 36
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49105924
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://christianselig.com/2026/07/iphone-air-review/
     title: I Have Thoughts on the iPhone Air
     score: 40
