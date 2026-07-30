@@ -1,10 +1,70 @@
 date: '2026-07-30'
-generated_at: 2026-07-30 14:00 UTC
+generated_at: 2026-07-30 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.grumpygamer.com/twp2_announce/
+    title: Ron Gilbert started production on Thimbleweed Park 2
+    score: 160
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=49107246
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/
+    title: Gemini Robotics 2 brings whole body intelligence to robots
+    score: 92
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49111237
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/
+    title: Why Don't People Use Formal Methods? (2019)
+    score: 78
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49109026
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a
+    title: Why Is Everyone Trying to Build a Solid-State Battery?
+    score: 77
+    comment_cnt: 82
+    comment_url: https://news.ycombinator.com/item?id=49109193
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/YoanWai/agent-manager
+    title: 'Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode'
+    score: 76
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49107749
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://openjdk.org/legal/ai
+    title: OpenJDK Interim Policy on Generative AI
+    score: 51
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49109165
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.eunews.it/en/2026/07/29/eu-now-fears-us-interference-in-european-elections/
     title: EU now fears US interference in European elections
     score: 78
