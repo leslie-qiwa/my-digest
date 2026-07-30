@@ -1,10 +1,90 @@
 date: '2026-07-30'
-generated_at: 2026-07-30 18:01 UTC
+generated_at: 2026-07-30 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/
+    title: UEFA and its national associations will not participate in FIFA competitions
+    score: 277
+    comment_cnt: 171
+    comment_url: https://news.ycombinator.com/item?id=49113929
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/
+    title: Read this before you buy that TV streaming stick
+    score: 237
+    comment_cnt: 106
+    comment_url: https://news.ycombinator.com/item?id=49112744
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/
+    title: Stacked PRs are now live on GitHub
+    score: 186
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=49112232
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bottlenecklabs.com/blog/autonomously-run-businesses
+    title: We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447
+    score: 168
+    comment_cnt: 100
+    comment_url: https://news.ycombinator.com/item?id=49113059
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html
+    title: The Economic Benefit of Refactoring
+    score: 138
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49111176
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/
+    title: Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up
+    score: 120
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49111305
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://mathoverflow.net/questions/513742/are-we-stuck-with-lean
+    title: Are We Stuck with Lean?
+    score: 116
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49108678
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2
+    title: Toot.community is shutting down
+    score: 35
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=49112327
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://docs.carolinacloud.io/organizations/prepaid-interest/
     title: Carolina Cloud pays SOFR on unused prepaid credits
     score: 55
