@@ -1,10 +1,30 @@
 date: '2026-07-30'
-generated_at: 2026-07-30 20:02 UTC
+generated_at: 2026-07-30 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://dynomight.net/plants/
+    title: So you want to use plants to reduce CO₂
+    score: 96
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=49113801
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/
+    title: A pharmacy chain in Vermont implemented AI for efficiency
+    score: 39
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49105190
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/
     title: UEFA and its national associations will not participate in FIFA competitions
     score: 277
