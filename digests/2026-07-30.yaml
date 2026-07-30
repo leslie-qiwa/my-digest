@@ -1,10 +1,30 @@
 date: '2026-07-30'
-generated_at: 2026-07-30 04:00 UTC
+generated_at: 2026-07-30 06:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four
+    title: NSF pilots 4-year PhDs with industry research placements
+    score: 61
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49105642
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://usetokenless.com/
+    title: 'Launch HN: Tokenless (YC S26) – Automatic model switching to save money'
+    score: 58
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49099143
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://zachholman.com/posts/cold-email
     title: The Cold Email
     score: 125
