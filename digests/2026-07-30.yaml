@@ -1,10 +1,30 @@
 date: '2026-07-30'
-generated_at: 2026-07-30 16:02 UTC
+generated_at: 2026-07-30 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://docs.carolinacloud.io/organizations/prepaid-interest/
+    title: Carolina Cloud pays SOFR on unused prepaid credits
+    score: 55
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49107713
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/
+    title: How old is Ann?
+    score: 49
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49108971
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.grumpygamer.com/twp2_announce/
     title: Ron Gilbert started production on Thimbleweed Park 2
     score: 160
