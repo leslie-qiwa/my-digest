@@ -1,0 +1,47 @@
+date: '2026-07-30'
+generated_at: 2026-07-30 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/
+    title: Some thoughts about Anthropic's new cryptanalysis results
+    score: 94
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49099804
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/cly8zng43npo
+    title: Chip stocks slide in US and Asia as AI jitters rattle investors
+    score: 72
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49092549
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://unplannedobsolescence.com/blog/buttons-vs-links/
+    title: The Difference Between a Button and a Link
+    score: 65
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49091738
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/
+    title: Who the welfare state protects shapes a country’s financial openness
+    score: 38
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49101460
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
