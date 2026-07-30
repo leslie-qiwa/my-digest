@@ -1,10 +1,20 @@
 date: '2026-07-30'
-generated_at: 2026-07-30 00:02 UTC
+generated_at: 2026-07-30 04:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://zachholman.com/posts/cold-email
+    title: The Cold Email
+    score: 125
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49103089
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/
     title: Some thoughts about Anthropic's new cryptanalysis results
     score: 94
