@@ -1,10 +1,40 @@
 date: '2026-07-31'
-generated_at: 2026-07-31 10:03 UTC
+generated_at: 2026-07-31 12:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/openjdk/jdk/pull/31120
+    title: 'JEP 401: Value Objects (Preview) merged to OpenJDK master'
+    score: 143
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=49119063
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/cn0nqv05g0do
+    title: Danube's record low levels force shutdown of Hungary's only nuclear plant
+    score: 51
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=49120120
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://twitter.com/lemire/status/2082851447499088173
+    title: '"the very foundation of modern academia has been blown to bits"'
+    score: 46
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49118474
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://earendil.com/posts/session-portability/
     title: The session you cannot take with you
     score: 336
@@ -123,6 +153,17 @@ feeds:
   label: Golang Weekly
   provider: rss_newsletter
   items:
+  - url: https://golangweekly.com/link/188687/rss
+    title: Adding Go to a Browser Code Runner
+    summary: A look at adding Go to a browser code runner, why the usual GOOS=js approach
+      didn't work in a V8 isolate, and how compiling the Yaegi interpreter to WASI
+      got it working cleanly.
+    score: 0
+    tags: []
+    source: blog.lvmbdv.dev
+    domain: blog.lvmbdv.dev
+    summary_zh: ''
+    content_file: ''
   - url: https://golangweekly.com/link/188678/rss
     title: Go's Plan for Generic Collection Types in Go 1.28
     summary: An umbrella proposal from Go's Collections working group covering several
