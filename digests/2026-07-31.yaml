@@ -1,10 +1,80 @@
 date: '2026-07-31'
-generated_at: 2026-07-31 18:02 UTC
+generated_at: 2026-07-31 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.lighthousereports.com/investigation/big-food-vs-the-people/
+    title: Big Food vs. the People
+    score: 124
+    comment_cnt: 77
+    comment_url: https://news.ycombinator.com/item?id=49124858
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/
+    title: Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio
+    score: 81
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49125034
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/
+    title: The most official water costs $120k a gallon
+    score: 79
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49124042
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://broadbandbreakfast.com/how-to-fight-back-against-fraudulent-robocalls/
+    title: Anti-fraud tools can't keep pace with robocall scammers
+    score: 47
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49122882
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/
+    title: AI companies destroy rare and non recoverable physical books
+    score: 41
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49127284
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://usa.visa.com/partner-with-us/visa-consulting-analytics/economic-insights/great-wealth-transfer-reality-check.html
+    title: The great wealth transfer reality check
+    score: 39
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49125237
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/c0jl4np49w1o
+    title: Puberty blockers trial can start recruiting children
+    score: 13
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49124367
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://artificialanalysis.ai/models/deepseek-v4-flash
     title: DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis
     score: 428
