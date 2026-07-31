@@ -1,0 +1,28 @@
+date: '2026-07-31'
+generated_at: 2026-07-31 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://github.com/AminBlg/SimpleEnglish
+    title: Agent Skill to Force Docs in ASD-STE100 Simplified Technical English
+    score: 147
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49114639
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.ctgt.ai/research/distillation-censorship-transfer
+    title: 'Show HN: Distilling DeepSeek into GPT-OSS doesn''t transfer censorship.
+      Try it'
+    score: 76
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49113599
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
