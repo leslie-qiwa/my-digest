@@ -1,10 +1,40 @@
 date: '2026-07-31'
-generated_at: 2026-07-31 00:01 UTC
+generated_at: 2026-07-31 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.jim-nielsen.com/2026/ai-aesthetic/
+    title: The AI Aesthetic
+    score: 111
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49117099
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals
+    title: Investigating three real-world incidents in our cybersecurity evaluations
+    score: 93
+    comment_cnt: 79
+    comment_url: https://news.ycombinator.com/item?id=49116922
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle
+    title: How Olinia Turns Mexico's EV Ambition into Reality
+    score: 39
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49112368
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/AminBlg/SimpleEnglish
     title: Agent Skill to Force Docs in ASD-STE100 Simplified Technical English
     score: 147
