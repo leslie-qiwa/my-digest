@@ -1,10 +1,50 @@
 date: '2026-07-31'
-generated_at: 2026-07-31 20:02 UTC
+generated_at: 2026-07-31 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/yc-software/qm
+    title: qm
+    score: 302
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=49126604
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://tailscale.com/blog/hugging-face-intrusion
+    title: Tailscale didn't stop the Hugging Face intrusion
+    score: 254
+    comment_cnt: 101
+    comment_url: https://news.ycombinator.com/item?id=49127306
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/
+    title: Apple Will 'Watch Everything Burn' When AI Bubble Bursts
+    score: 31
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49128539
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.worksinprogress.news/p/why-ugly-buildings-create-nimbyism
+    title: Why ugly buildings create NIMBYism
+    score: 20
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49123977
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.lighthousereports.com/investigation/big-food-vs-the-people/
     title: Big Food vs. the People
     score: 124
