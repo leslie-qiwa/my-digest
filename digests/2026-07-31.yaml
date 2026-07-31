@@ -1,10 +1,41 @@
 date: '2026-07-31'
-generated_at: 2026-07-31 08:00 UTC
+generated_at: 2026-07-31 10:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://earendil.com/posts/session-portability/
+    title: The session you cannot take with you
+    score: 336
+    comment_cnt: 77
+    comment_url: https://news.ycombinator.com/item?id=49118781
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://api-docs.deepseek.com/updates/
+    title: DeepSeek-V4-Flash Update
+    score: 266
+    comment_cnt: 112
+    comment_url: https://news.ycombinator.com/item?id=49119559
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.google/security/chrome-stronger-with-every-update/
+    title: Google fixed more Chrome bugs in June than over the past two years, thanks
+      to AI
+    score: 62
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=49120097
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://prized.dev
     title: 'Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal
       tools'
@@ -88,3 +119,95 @@ feeds:
     summary_zh: ''
     content_file: ''
     summary: ''
+- id: golang-weekly
+  label: Golang Weekly
+  provider: rss_newsletter
+  items:
+  - url: https://golangweekly.com/link/188678/rss
+    title: Go's Plan for Generic Collection Types in Go 1.28
+    summary: An umbrella proposal from Go's Collections working group covering several
+      collection data structures intended for the eventual Go 1.28 standard library.
+      Includes a canonical set.Set type, hash-based maps and sets with custom hashers,
+      an ordered map, and a new generic binary heap.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/188679/rss
+    title: Watching Go's New Garbage Collector Move Through the Heap
+    summary: Green Tea became the default GC in Go 1.26, and Phil goes looking with
+      perf and an ASCII map of the heap. Go lays objects out in size-segregated spans
+      and never moves them, which can mean freeing 90% of your objects frees almost
+      no memory.
+    score: 0
+    tags: []
+    source: theconsensus.dev
+    domain: theconsensus.dev
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/188686/rss
+    title: Supervised Fire-and-Forget Tasks in Go
+    summary: How to run 'fire and forget' tasks with bounded concurrency, panic recovery,
+      and graceful shutdown, instead of bare go func() calls.
+    score: 0
+    tags: []
+    source: rednafi.com
+    domain: rednafi.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/188689/rss
+    title: pgx.CollectRows or Why Nice APIs Don't Have To Be Slow
+    summary: pgx's CollectRows and RowToStructByName helpers were much slower than
+      handwritten loops. The author got caching fixes into pgx 5.6 (released in 2024)
+      and shows how a rethought abstraction closes the gap almost entirely.
+    score: 0
+    tags: []
+    source: zolstein.substack.com
+    domain: zolstein.substack.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/188694/rss
+    title: 'Gore 0.7: A Full-Featured Go REPL Environment'
+    summary: Has all the niceties you'd expect like line editing, history, multi-line
+      input, expression evaluation, the ability to import packages (and, in v0.7,
+      you can create import aliases too) and gopls-powered code completion.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/188696/rss
+    title: 'Goph 2.0: A Native Go SSH Client Library'
+    summary: Supports connections using passwords, private keys, keys with passphrases,
+      doing file transfers, etc. v2 brings a functional options API, context-aware
+      commands, SOCKS5 proxy, jump hosts, and more.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/188697/rss
+    title: 'webp-go-pure: Pure Go WebP Encoding and Decoding'
+    summary: 🖼️ — A pure Go WebP encoder/decoder for when you want to avoid cgo and
+      libwebp.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/188706/rss
+    title: 'soup 2.0: A Beautiful Soup-Inspired Web Scraper'
+    summary: Takes inspiration from Python's popular Beautiful Soup and provides functions
+      for loading and parsing pages and then navigating or reading the elements on
+      them.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
