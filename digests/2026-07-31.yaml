@@ -1,10 +1,41 @@
 date: '2026-07-31'
-generated_at: 2026-07-31 12:02 UTC
+generated_at: 2026-07-31 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://hughhowey.com/the-end-of-an-era/
+    title: The End of an Era
+    score: 184
+    comment_cnt: 178
+    comment_url: https://news.ycombinator.com/item?id=49121980
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://chriscoyier.net/2026/07/30/codepen-2-0/
+    title: CodePen 2.0
+    score: 177
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49113338
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/mokshablr/gander
+    title: 'Show HN: Gander, an Android file viewer that asks for no permissions at
+      all'
+    score: 124
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49119425
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/openjdk/jdk/pull/31120
     title: 'JEP 401: Value Objects (Preview) merged to OpenJDK master'
     score: 143
