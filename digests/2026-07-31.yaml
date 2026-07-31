@@ -1,10 +1,50 @@
 date: '2026-07-31'
-generated_at: 2026-07-31 16:00 UTC
+generated_at: 2026-07-31 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://artificialanalysis.ai/models/deepseek-v4-flash
+    title: DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis
+    score: 428
+    comment_cnt: 229
+    comment_url: https://news.ycombinator.com/item?id=49120299
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://john.fun/elevators
+    title: Elevators
+    score: 373
+    comment_cnt: 128
+    comment_url: https://news.ycombinator.com/item?id=49124218
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/
+    title: Is AI reasoning right for the wrong reasons?
+    score: 80
+    comment_cnt: 93
+    comment_url: https://news.ycombinator.com/item?id=49124358
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol
+    title: Dubious research tied to Red Bull has shaped energy drink policy
+    score: 59
+    comment_cnt: 100
+    comment_url: https://news.ycombinator.com/item?id=49124738
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.footyheadlines.com/2646571793/betting-ban-takes-effect-no-more-gambling-sponsors-in-the-premier-league.html
     title: Premier league bans gambling sponsors
     score: 204
