@@ -1,10 +1,50 @@
 date: '2026-08-01'
-generated_at: 2026-08-01 20:01 UTC
+generated_at: 2026-08-01 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds
+    title: How Google helped destroy adoption of RSS feeds (2023)
+    score: 201
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49136821
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.netbsd.org/tnf/entry/netbsd_11_0_released
+    title: NetBSD 11.0
+    score: 164
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49136736
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/
+    title: The Silicon Valley Founder Meat Grinder
+    score: 116
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49138045
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026
+    title: Oil companies report sky-high profits thanks to wartime crude prices
+    score: 50
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=49137024
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/
     title: BMW Is Showing Commercials on Their Car's Dash Screens as a Treat
     score: 76
