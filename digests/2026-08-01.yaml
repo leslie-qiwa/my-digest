@@ -1,10 +1,20 @@
 date: '2026-08-01'
-generated_at: 2026-08-01 18:02 UTC
+generated_at: 2026-08-01 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/
+    title: BMW Is Showing Commercials on Their Car's Dash Screens as a Treat
+    score: 76
+    comment_cnt: 79
+    comment_url: https://news.ycombinator.com/item?id=49135511
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/
     title: 'A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention'
     score: 162
