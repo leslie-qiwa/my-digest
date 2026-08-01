@@ -1,10 +1,61 @@
 date: '2026-08-01'
-generated_at: 2026-08-01 10:00 UTC
+generated_at: 2026-08-01 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://weeraman.com/the-prototype-isnt-the-product/
+    title: AI doesn't generate working products, that's still your job
+    score: 161
+    comment_cnt: 129
+    comment_url: https://news.ycombinator.com/item?id=49132130
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://servo.org/blog/2026/07/31/june-in-servo/
+    title: 'June in Servo: real world compat, media queries, SharedWorker, and more'
+    score: 161
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49126765
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://piegames.de/dumps/a-week-in-matrix/
+    title: A week in Matrix
+    score: 76
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49130295
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/
+    title: EU will mandate labels on authentic-looking AI content starting August
+      2
+    score: 57
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49132341
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://innig.net/teaching/liberal-arts-manifesto
+    title: What liberal arts education is for (2024)
+    score: 41
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49131034
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/
     title: Ten Ways NAS Is Getting Enshitified
     score: 90
