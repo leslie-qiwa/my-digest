@@ -1,10 +1,20 @@
 date: '2026-08-01'
-generated_at: 2026-08-01 00:02 UTC
+generated_at: 2026-08-01 02:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://manifest.build/blog/why-we-deprecated-our-llm-router/
+    title: Everyone is building LLM routers, we deprecated ours
+    score: 92
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49126630
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://lcamtuf.substack.com/p/severance
     title: Severance
     score: 190
