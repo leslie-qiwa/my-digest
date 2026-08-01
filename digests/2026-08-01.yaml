@@ -1,0 +1,47 @@
+date: '2026-08-01'
+generated_at: 2026-08-01 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://lcamtuf.substack.com/p/severance
+    title: Severance
+    score: 190
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49125971
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/sqliteai/waste
+    title: Run Kimi K3 using 29 GB of RAM at 0.50 tok/s
+    score: 130
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49123386
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/golang/go/issues/80590
+    title: 'Golang proposal: container/: generic collection types'
+    score: 110
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=49127031
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://maurycyz.com/misc/tungsten/
+    title: Increasing the lifespan of a bulb makes it worse in every other way
+    score: 48
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=49121849
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
