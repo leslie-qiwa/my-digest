@@ -1,10 +1,30 @@
 date: '2026-08-02'
-generated_at: 2026-08-02 18:01 UTC
+generated_at: 2026-08-02 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://pudding.cool/2026/07/essential-words/
+    title: How the words we teach English language learners changed
+    score: 155
+    comment_cnt: 87
+    comment_url: https://news.ycombinator.com/item?id=49145590
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/
+    title: Linux Desktop Market Share Surpasses 10% in North America
+    score: 88
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=49146122
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://twitter.com/karpathy/status/2083749667410727319
     title: Karpathy’s Pelican
     score: 116
