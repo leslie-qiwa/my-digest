@@ -1,10 +1,40 @@
 date: '2026-08-02'
-generated_at: 2026-08-02 06:01 UTC
+generated_at: 2026-08-02 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://victoriametrics.com/blog/go-1-27/index.html
+    title: Go 1.27 Interactive Tour
+    score: 177
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49140218
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/
+    title: Linux desktop market share has hit over 10% in North America
+    score: 160
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=49140696
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/
+    title: 'Postmortem for Kernel Soundness Bug #14576'
+    score: 143
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49137060
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow
     title: Plug-in solar is coming. Plug-in batteries should follow
     score: 81
