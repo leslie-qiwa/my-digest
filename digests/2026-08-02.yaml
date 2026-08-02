@@ -1,10 +1,50 @@
 date: '2026-08-02'
-generated_at: 2026-08-02 20:01 UTC
+generated_at: 2026-08-02 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://fstar-lang.org/
+    title: 'F*: A general-purpose proof-oriented programming language'
+    score: 133
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49143925
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/
+    title: SwiftUI After 7 Years
+    score: 108
+    comment_cnt: 97
+    comment_url: https://news.ycombinator.com/item?id=49147263
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/
+    title: Europe EV Sales BEVs Jump 50% & Reach 26% Market Share
+    score: 73
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49147450
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change
+    title: EU rules on AI models become enforceable. What's going to change?
+    score: 40
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49147606
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://pudding.cool/2026/07/essential-words/
     title: How the words we teach English language learners changed
     score: 155
