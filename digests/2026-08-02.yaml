@@ -1,10 +1,20 @@
 date: '2026-08-02'
-generated_at: 2026-08-02 00:01 UTC
+generated_at: 2026-08-02 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5
+    title: Seedance 2.5
+    score: 178
+    comment_cnt: 77
+    comment_url: https://news.ycombinator.com/item?id=49138302
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/
     title: YC founder asks desperate job seekers to tattoo themselves for an interview
     score: 88
