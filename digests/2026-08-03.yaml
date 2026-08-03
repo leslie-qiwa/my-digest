@@ -1,10 +1,82 @@
 date: '2026-08-03'
-generated_at: 2026-08-03 14:02 UTC
+generated_at: 2026-08-03 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.exe.dev/devtools-must-be-open-source
+    title: Devtools must be open source
+    score: 241
+    comment_cnt: 80
+    comment_url: https://news.ycombinator.com/item?id=49156111
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/
+    title: Taylor Farms has rewritten its cyclospora statement four times in sixteen
+      days
+    score: 211
+    comment_cnt: 121
+    comment_url: https://news.ycombinator.com/item?id=49157128
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui
+    title: 'MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K
+      Video'
+    score: 167
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49155629
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/
+    title: Wind and solar overtake fossil fuels in Germany for the first time
+    score: 136
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49155359
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first
+    title: Flock's CEO Faced Me After Its Cameras Led to My Wrongful Stop
+    score: 78
+    comment_cnt: 95
+    comment_url: https://news.ycombinator.com/item?id=49156650
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html
+    title: The true power of regular expressions (2012)
+    score: 69
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49152973
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.newyorker.com/magazine/2026/08/10/the-future-made-in-china
+    title: The Future, Made in China
+    score: 51
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=49155940
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/
     title: Critical CVE issued for hallucinated SQLite vulnerability
     score: 298
