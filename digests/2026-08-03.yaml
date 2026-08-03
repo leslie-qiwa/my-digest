@@ -1,10 +1,50 @@
 date: '2026-08-03'
-generated_at: 2026-08-03 18:02 UTC
+generated_at: 2026-08-03 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/lyogavin/airllm
+    title: AirLLM 70B inference with single 4GB GPU
+    score: 154
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49154228
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/
+    title: Situational Awareness and the Impending Stock Market Volatility
+    score: 61
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49151871
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://epoch.ai/MirrorCode
+    title: What's the largest software project AI can complete on its own?
+    score: 52
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49157786
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks/
+    title: SpaceX wins $1.6B Space Force contract for 18 Falcon 9 launches
+    score: 21
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49155606
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.exe.dev/devtools-must-be-open-source
     title: Devtools must be open source
     score: 241
