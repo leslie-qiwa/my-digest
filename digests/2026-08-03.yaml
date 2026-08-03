@@ -1,10 +1,40 @@
 date: '2026-08-03'
-generated_at: 2026-08-03 08:01 UTC
+generated_at: 2026-08-03 10:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://mertbulan.com/more-german-than-many-germans/
+    title: More German than many Germans
+    score: 266
+    comment_cnt: 187
+    comment_url: https://news.ycombinator.com/item?id=49151734
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arxiv.org/abs/2607.28271
+    title: AI migrated legacy COBOL programs to Java, bugs included
+    score: 65
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49150773
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://plato.stanford.edu/entries/computational-mind/
+    title: The Computational Theory of Mind (2015)
+    score: 61
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49149125
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/wie-project/kakehashi
     title: 'Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux
       ARM'
