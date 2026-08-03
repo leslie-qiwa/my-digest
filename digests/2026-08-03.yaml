@@ -1,10 +1,70 @@
 date: '2026-08-03'
-generated_at: 2026-08-03 12:01 UTC
+generated_at: 2026-08-03 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/
+    title: Critical CVE issued for hallucinated SQLite vulnerability
+    score: 298
+    comment_cnt: 91
+    comment_url: https://news.ycombinator.com/item?id=49154332
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.wired.com/story/ice-dna-collection-fbi-codis/
+    title: ICE Collected Nearly 1M People's DNA Last Year–Including Young Children
+    score: 155
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49154237
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md
+    title: 'Rust project goals: Immobile types and guaranteed destructors'
+    score: 140
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49152023
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/janestreet/bonsai
+    title: 'Bonsai: Janestreet''s UI Library'
+    score: 132
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49152842
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004
+    title: The AI bubble is popping; we just don't know it yet
+    score: 50
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=49154601
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://yegge.ai/essays/the-shape-of-things-to-come/
+    title: The Shape of Things to Come
+    score: 43
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49152316
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/
     title: Prevent cognitive debt by manually retyping LLM-generated code
     score: 105
