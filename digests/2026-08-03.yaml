@@ -1,10 +1,42 @@
 date: '2026-08-03'
-generated_at: 2026-08-03 06:01 UTC
+generated_at: 2026-08-03 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/wie-project/kakehashi
+    title: 'Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux
+      ARM'
+    score: 210
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49145937
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda
+    title: OpenAI's super PAC is funding AI-generated news site attacking industry
+      critics
+    score: 175
+    comment_cnt: 76
+    comment_url: https://news.ycombinator.com/item?id=49150561
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/
+    title: Why Book Corners won't sync contributions back to OpenStreetMap
+    score: 84
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49149746
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/
     title: Californians' data deletion requests, DROP, become enforceable Aug. 1
     score: 132
