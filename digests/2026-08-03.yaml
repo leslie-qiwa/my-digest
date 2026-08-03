@@ -1,10 +1,30 @@
 date: '2026-08-03'
-generated_at: 2026-08-03 00:01 UTC
+generated_at: 2026-08-03 02:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/pg83/shitty
+    title: 'Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours'
+    score: 87
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=49149326
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://seanhelvey.com/tools-and-their-tools/
+    title: 'AI Mania: From Tulips to Tokens'
+    score: 47
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49148159
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/
     title: EU Age Verification Project Mandates Hardware-Bound Attestation
     score: 106
