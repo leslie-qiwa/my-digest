@@ -1,0 +1,17 @@
+date: '2026-08-03'
+generated_at: 2026-08-03 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/
+    title: EU Age Verification Project Mandates Hardware-Bound Attestation
+    score: 106
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49148128
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
