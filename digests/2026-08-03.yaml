@@ -1,10 +1,30 @@
 date: '2026-08-03'
-generated_at: 2026-08-03 02:00 UTC
+generated_at: 2026-08-03 04:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://frogs.vaguespac.es/
+    title: 'My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”'
+    score: 120
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49147622
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.rubenerd.au/the-myth-of-snow-leopard/
+    title: The myth of Snow Leopard
+    score: 56
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49146960
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/pg83/shitty
     title: 'Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours'
     score: 87
