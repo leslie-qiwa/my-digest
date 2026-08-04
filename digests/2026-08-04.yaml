@@ -1,10 +1,30 @@
 date: '2026-08-04'
-generated_at: 2026-08-04 12:01 UTC
+generated_at: 2026-08-04 14:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/
+    title: Xbox goes down. You can't play games you own on disc
+    score: 166
+    comment_cnt: 162
+    comment_url: https://news.ycombinator.com/item?id=49167448
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/
+    title: An Honest Review of AI Programming
+    score: 34
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49166230
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html
     title: U.S. used 'virtually all' of its long-range precision missiles during Iran
       war
