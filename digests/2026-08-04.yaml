@@ -1,10 +1,60 @@
 date: '2026-08-04'
-generated_at: 2026-08-04 16:02 UTC
+generated_at: 2026-08-04 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://toneyalexander.github.io/inclusive-color-space/
+    title: 'Show HN: Simple algorithm and color space to generate diverse skin tones'
+    score: 222
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49170165
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack
+    title: Keyv and friends compromised in active Shai-Hulud supply chain attack
+    score: 167
+    comment_cnt: 82
+    comment_url: https://news.ycombinator.com/item?id=49166874
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/
+    title: Apple says more ex-employees may have taken confidential data to OpenAI
+    score: 135
+    comment_cnt: 98
+    comment_url: https://news.ycombinator.com/item?id=49170479
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://solarquarter.com/2026/08/03/germany-records-historic-12-billion-kwh-solar-feed-in-in-july-2026/
+    title: Germany Records Historic 12B KWh Solar Feed-In in July 2026
+    score: 109
+    comment_cnt: 122
+    comment_url: https://news.ycombinator.com/item?id=49168886
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.computerenhance.com/p/clean-code-horrible-performance
+    title: '"Clean" Code, Horrible Performance (2023)'
+    score: 85
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=49166331
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES
     title: FFmpeg 9.0
     score: 376
