@@ -1,10 +1,30 @@
 date: '2026-08-04'
-generated_at: 2026-08-04 00:01 UTC
+generated_at: 2026-08-04 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.cloudflare.com/smaller-faster-safer-models/
+    title: 'Smaller, faster, safer: running Kimi and GLM at scale'
+    score: 205
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49158581
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/leonickson1/Swiftlet
+    title: 'Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone'
+    score: 143
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49158333
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.seangoedecke.com/llms-reward-expertise/
     title: LLMs reward expertise
     score: 316
