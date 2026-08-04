@@ -1,10 +1,70 @@
 date: '2026-08-04'
-generated_at: 2026-08-04 14:00 UTC
+generated_at: 2026-08-04 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES
+    title: FFmpeg 9.0
+    score: 376
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=49166202
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj
+    title: Ray Bradbury's "There Will Come Soft Rains" is set today (2026-08-04)
+    score: 367
+    comment_cnt: 156
+    comment_url: https://news.ycombinator.com/item?id=49166491
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/ryanzhou/deepseek-v4-flash-mi300x
+    title: DeepSeek V4 Flash on a Single AMD MI300X
+    score: 244
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49166386
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://en.wikipedia.org/wiki/Nobel_disease
+    title: Nobel Disease
+    score: 60
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=49166918
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle
+    title: Why did we wait so long for the bicycle? (2019)
+    score: 60
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49162787
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.ssp.sh/brain/mini-retirements/
+    title: 'Mini retirements: like a sabbatical, but much smaller'
+    score: 26
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49166749
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/
     title: Xbox goes down. You can't play games you own on disc
     score: 166
