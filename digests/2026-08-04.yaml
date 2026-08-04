@@ -1,10 +1,30 @@
 date: '2026-08-04'
-generated_at: 2026-08-04 08:01 UTC
+generated_at: 2026-08-04 10:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/
+    title: 'Windows XP 2002 for the Itanium: Unbridled rage'
+    score: 105
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=49162086
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ing.dk/artikel/ny-rekord-maaned-elbilsalget-private-koeb-ligger-paa-97-procent
+    title: 'Denmark: EVs Make Up 97% of New Private Car Sales in July'
+    score: 46
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49164775
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.cloudflare.com/smaller-faster-safer-models/
     title: 'Smaller, faster, safer: running Kimi and GLM at scale'
     score: 205
