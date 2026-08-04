@@ -1,0 +1,37 @@
+date: '2026-08-04'
+generated_at: 2026-08-04 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://www.seangoedecke.com/llms-reward-expertise/
+    title: LLMs reward expertise
+    score: 316
+    comment_cnt: 135
+    comment_url: https://news.ycombinator.com/item?id=49161518
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://clickhouse.com/blog/andy-pavlo-joins-clickhouse
+    title: Andy Pavlo joins ClickHouse to establish ClickHouse Labs
+    score: 256
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49156011
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/johnsonjh/cpm386
+    title: CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K
+    score: 93
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49149898
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
