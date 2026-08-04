@@ -1,10 +1,141 @@
 date: '2026-08-04'
-generated_at: 2026-08-04 18:02 UTC
+generated_at: 2026-08-04 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://mistral.ai/news/shieldstral/
+    title: 'Mistral''s Shieldstral: 3B open-weights model for multimodal moderation'
+    score: 216
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49171268
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://textslashplain.com/2026/08/04/security-is-hard-yall/
+    title: Web Security is Too Hard
+    score: 179
+    comment_cnt: 90
+    comment_url: https://news.ycombinator.com/item?id=49172834
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent
+    title: The Warp Agent CLI
+    score: 84
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49171766
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.stlouisfed.org/on-the-economy/2026/aug/what-is-behind-sharp-drop-labor-force-participation
+    title: What's Behind the Sharp Drop in Labor Force Participation?
+    score: 29
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49172159
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/
+    title: Waymo CEO explains why Tesla’s camera-only self-driving falls short
+    score: 29
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49174369
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.valleynewslive.com/2026/08/04/every-flock-camera-winona-minnesota-cut-down-stolen-coordinated-theft/
+    title: All of Winona Police Department's Flock cameras cut down and stolen
+    score: 315
+    comment_cnt: 187
+    comment_url: https://news.ycombinator.com/item?id=49171656
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lilianweng.github.io/posts/2026-07-04-harness/
+    title: Harness engineering for self-improvement
+    score: 263
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49164896
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/
+    title: Online ad giant Adform was hacked, proving once again why ad blockers are
+      needed
+    score: 173
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=49170001
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.wheresyoured.at/the-ai-demand-bubble/
+    title: The AI Demand Bubble
+    score: 97
+    comment_cnt: 88
+    comment_url: https://news.ycombinator.com/item?id=49170648
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://pudding.cool/2026/06/mow/
+    title: Why some people mow a lawn better than others
+    score: 80
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=49172550
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html
+    title: It's not a fear of "AI communism"; it's a fear of competitive market capitalism
+    score: 61
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49169227
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.not-ship.com/not-ship-summer-vacation/
+    title: Most countries provide between 20 and 40 paid days off
+    score: 53
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49170859
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arxiv.org/abs/2602.16763
+    title: 'When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation'
+    score: 43
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49170915
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://toneyalexander.github.io/inclusive-color-space/
     title: 'Show HN: Simple algorithm and color space to generate diverse skin tones'
     score: 222
