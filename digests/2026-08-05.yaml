@@ -1,10 +1,30 @@
 date: '2026-08-05'
-generated_at: 2026-08-05 12:02 UTC
+generated_at: 2026-08-05 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/
+    title: Civilian plane crash in New Mexico tied to military GPS blocking
+    score: 208
+    comment_cnt: 92
+    comment_url: https://news.ycombinator.com/item?id=49181099
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://divingintheshallowend.com/three-six-mafia/
+    title: Three Six Mafia – Data about "6/6/6 dating" (2024)
+    score: 98
+    comment_cnt: 97
+    comment_url: https://news.ycombinator.com/item?id=49181678
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/
     title: Rust-lang/rust is adopting an LLM policy
     score: 74
