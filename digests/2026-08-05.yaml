@@ -1,10 +1,91 @@
 date: '2026-08-05'
-generated_at: 2026-08-05 18:03 UTC
+generated_at: 2026-08-05 20:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/
+    title: 'Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean
+      departs'
+    score: 216
+    comment_cnt: 383
+    comment_url: https://news.ycombinator.com/item?id=49184755
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.qwencloud.com/models/qwen-image-3.0-pro
+    title: Qwen Image 3.0 Pro
+    score: 188
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49183850
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/
+    title: Aristotle quotes on virtue, knowledge, and happiness
+    score: 129
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49183115
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://en.wikipedia.org/wiki/Western_Sahara
+    title: Western Sahara
+    score: 84
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49176192
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.fogus.me/llm/born-against.html
+    title: Born Against, or why hobby programming communities are against LLM usage
+    score: 61
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49187061
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://observer.co.uk/news/science-technology/article/silicon-valley-sees-ai-as-the-solution-for-everyone-else-its-the-problem
+    title: Silicon Valley sees AI as the solution – for everyone else
+    score: 45
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49182985
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://naomibashkansky.com/blog/telepathy/
+    title: I’m leaving OpenAI to build telepathy
+    score: 42
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=49185370
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://dylan.blog/2026/08/03/im-scared-a-stranger-will.html
+    title: I'm Scared a Stranger Will Call My Novel AI, So I Built GitHub for Words
+    score: 18
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49185556
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/
     title: Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed
       Search
