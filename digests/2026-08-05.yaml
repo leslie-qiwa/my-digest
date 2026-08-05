@@ -1,10 +1,40 @@
 date: '2026-08-05'
-generated_at: 2026-08-05 20:03 UTC
+generated_at: 2026-08-05 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/
+    title: Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery
+    score: 154
+    comment_cnt: 106
+    comment_url: https://news.ycombinator.com/item?id=49187977
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://weli.dev/blog/the-valley-of-webhooks/
+    title: The Valley of Webhooks
+    score: 125
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49184216
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2
+    title: Muse Code and Muse Spark 1.2
+    score: 107
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49187575
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/
     title: 'Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean
       departs'
