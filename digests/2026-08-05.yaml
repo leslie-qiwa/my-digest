@@ -1,0 +1,27 @@
+date: '2026-08-05'
+generated_at: 2026-08-05 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/
+    title: AI fuels more than half of cybercrime in Africa as scams surge – Interpol
+    score: 108
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49175826
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.thisandthat.chat/blog/most-tech-revolutions-made-work-worse-for-employees/
+    title: Most tech revolutions made work worse for employees
+    score: 89
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49170076
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
