@@ -1,10 +1,61 @@
 date: '2026-08-05'
-generated_at: 2026-08-05 16:03 UTC
+generated_at: 2026-08-05 18:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/
+    title: Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed
+      Search
+    score: 266
+    comment_cnt: 131
+    comment_url: https://news.ycombinator.com/item?id=49184190
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.discoveryloop.com/
+    title: Discovery Loop
+    score: 183
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=49184960
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://sightlessscribbles.com/disability-dongle/
+    title: 'The "Disability Dongle": Why Silicon Valley Hates Me and You'
+    score: 110
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=49183665
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/
+    title: Oracle Just Halved Its Always Free ARM Limits
+    score: 107
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=49183750
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck
+    title: Intelligence Is Not the Main Bottleneck
+    score: 95
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=49183076
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.cloudflare.com/cloudflare-os/
     title: 'Cloudflare OS: an open platform for agents, apps, and work'
     score: 220
