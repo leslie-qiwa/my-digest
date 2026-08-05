@@ -1,10 +1,30 @@
 date: '2026-08-05'
-generated_at: 2026-08-05 02:01 UTC
+generated_at: 2026-08-05 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://earendil.com/posts/pi-autoresearch-and-databricks/
+    title: Pi's Minimalism Is Its Advantage
+    score: 170
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49176038
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://seg6.space/posts/center-div/
+    title: We finally learned to center a div, then browsers added sidebars
+    score: 79
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=49176055
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/
     title: Thanks FedEx, This Is Why We Keep Getting Phished (2024)
     score: 228
