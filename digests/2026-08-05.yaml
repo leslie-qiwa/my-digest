@@ -1,10 +1,31 @@
 date: '2026-08-05'
-generated_at: 2026-08-05 06:02 UTC
+generated_at: 2026-08-05 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://arxiv.org/abs/2603.04221
+    title: Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in
+      Practice
+    score: 78
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49176983
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/cjejyl34345o
+    title: The sale of Electronic Arts has been finalized
+    score: 63
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49178702
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.asiae.co.kr/en/article/2026080416131786841
     title: After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted
     score: 69
