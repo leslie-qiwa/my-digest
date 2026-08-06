@@ -1,10 +1,20 @@
 date: '2026-08-06'
-generated_at: 2026-08-06 08:00 UTC
+generated_at: 2026-08-06 10:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.crimepaysbutbotanydoesnt.com/reading-list
+    title: Crime Pays but Botany Doesn't
+    score: 196
+    comment_cnt: 80
+    comment_url: https://news.ycombinator.com/item?id=49192566
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://norbertkozsir.com/posts/work-in-the-second-dimension/
     title: What happens if you put work into the second dimension?
     score: 61
