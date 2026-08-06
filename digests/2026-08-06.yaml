@@ -1,10 +1,40 @@
 date: '2026-08-06'
-generated_at: 2026-08-06 02:01 UTC
+generated_at: 2026-08-06 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency
+    title: Beating GPT-5.6 Sol on retrieval with 100x cheaper open models
+    score: 246
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49186762
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://tson.io/
+    title: TSON – A JSON superset with immutable, hash-pinned schemas
+    score: 51
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49183069
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cnbc.com/2026/08/05/feds-kashkari-says-now-is-the-time-to-start-slowly-moving-rates-up.html
+    title: Fed's Kashkari says 'now is the time to start slowly moving' rates up
+    score: 41
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49184251
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://randsinrepose.com/archives/blade-runner-title-cards/
     title: The title cards in Blade Runner are amazing
     score: 144
