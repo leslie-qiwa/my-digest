@@ -1,10 +1,30 @@
 date: '2026-08-06'
-generated_at: 2026-08-06 00:01 UTC
+generated_at: 2026-08-06 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://randsinrepose.com/archives/blade-runner-title-cards/
+    title: The title cards in Blade Runner are amazing
+    score: 144
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49189287
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arxiv.org/abs/2510.01395
+    title: Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)
+    score: 74
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49186720
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data
     title: Atlassian Rovo Exfiltrates Data, Bypassing Controls
     score: 154
