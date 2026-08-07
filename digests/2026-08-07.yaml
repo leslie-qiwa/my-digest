@@ -1,10 +1,20 @@
 date: '2026-08-07'
-generated_at: 2026-08-07 00:06 UTC
+generated_at: 2026-08-07 04:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/
+    title: New Orleans will use AI to answer 911 calls instead of a human
+    score: 43
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49204546
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.mayerowitz.io/blog/mario-meets-pareto
     title: Mario Meets Pareto
     score: 843
