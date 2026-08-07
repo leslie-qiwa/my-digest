@@ -1,10 +1,20 @@
 date: '2026-08-07'
-generated_at: 2026-08-07 04:00 UTC
+generated_at: 2026-08-07 06:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.janestreet.com/can-you-reverse-engineer-an-asic/
+    title: Can you reverse engineer an ASIC?
+    score: 80
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49200933
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/
     title: New Orleans will use AI to answer 911 calls instead of a human
     score: 43
