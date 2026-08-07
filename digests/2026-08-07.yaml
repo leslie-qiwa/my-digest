@@ -1,10 +1,30 @@
 date: '2026-08-07'
-generated_at: 2026-08-07 12:02 UTC
+generated_at: 2026-08-07 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization
+    title: The Gargantuan Lie That Is Collapsing the Climate
+    score: 115
+    comment_cnt: 117
+    comment_url: https://news.ycombinator.com/item?id=49208686
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://roge.onwrite.app/what-is-a-product
+    title: What is a product?
+    score: 80
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49202690
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.bbc.com/news/articles/c1e1vg0gjl5o
     title: US strikes $1.2B deal to pay German firm to halt offshore wind projects
     score: 226
