@@ -1,10 +1,30 @@
 date: '2026-08-07'
-generated_at: 2026-08-07 10:01 UTC
+generated_at: 2026-08-07 12:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.bbc.com/news/articles/c1e1vg0gjl5o
+    title: US strikes $1.2B deal to pay German firm to halt offshore wind projects
+    score: 226
+    comment_cnt: 185
+    comment_url: https://news.ycombinator.com/item?id=49208314
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out
+    title: 2027 memory capacity is reportedly sold out
+    score: 76
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=49207236
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction
     title: I won't read LLM authored fiction
     score: 53
@@ -270,3 +290,64 @@ feeds:
     summary_zh: ''
     content_file: ''
     summary: ''
+- id: golang-weekly
+  label: Golang Weekly
+  provider: rss_newsletter
+  items:
+  - url: https://golangweekly.com/link/188988/rss
+    title: An Interactive Tour of Go 1.27
+    summary: Anton Zhiyanov made interactive tours for Go 1.22 through 1.26 but decided
+      to stop. Jesús Espino has picked up the baton and tackles Go 1.27's huge array
+      of features here, from generic methods and the goroutineleak profile to the
+      new uuid package and experimental portable SIMD.
+    score: 0
+    tags: []
+    source: victoriametrics.com
+    domain: victoriametrics.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/188992/rss
+    title: A Proposal to Fix Go's Proposal Backlog
+    summary: The backlog is growing 23% a year with the median item over two years
+      old. Austin Clements proposes a formal triage group, review tracks, and weighted
+      community emoji voting to decide what gets reviewed next (though not what gets
+      accepted).
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/188993/rss
+    title: Going Backward (or Why slices.Backward Looks So Complicated)
+    summary: slices.Backward's signature is intimidating at first glance, so Anton
+      reinvents it step-by-step, from a naive slice copy to callback iterators, iter.Seq2,
+      and the ~[]E constraint. Then, fingers crossed… it clicks?
+    score: 0
+    tags: []
+    source: antonz.org
+    domain: antonz.org
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/188994/rss
+    title: Adding Go's defer to the TypeScript Compiler
+    summary: Since tsc is now written in Go, hacking on it is unusually friendly territory
+      for a Gopher. Andrew adds a working defer statement to the compiler, but concludes
+      it probably shouldn't exist.
+    score: 0
+    tags: []
+    source: healeycodes.com
+    domain: healeycodes.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/188999/rss
+    title: 'Wireblast: A 100Gbps Packet Generator in Go'
+    summary: A Go app that uses AF_XDP to hit 14.88 million packets per second on
+      10G (and 138 Mpps on 100G) with no DPDK or hugepages needed. Where iperf3 tops
+      out, this is just getting started! GitHub repo.
+    score: 0
+    tags: []
+    source: toonk.io
+    domain: toonk.io
+    summary_zh: ''
+    content_file: ''
