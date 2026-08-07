@@ -1,0 +1,221 @@
+date: '2026-08-07'
+generated_at: 2026-08-07 00:06 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://www.mayerowitz.io/blog/mario-meets-pareto
+    title: Mario Meets Pareto
+    score: 843
+    comment_cnt: 147
+    comment_url: https://news.ycombinator.com/item?id=49195231
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://artificialanalysis.ai/?intelligence=agentic-index
+    title: Qwen3.8 Max now ranked as the best overall model by agentic index
+    score: 399
+    comment_cnt: 258
+    comment_url: https://news.ycombinator.com/item?id=49200652
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.githubstatus.com/incidents/qcvjkzcs7j74
+    title: GitHub Actions and Pages are experiencing degraded availability
+    score: 300
+    comment_cnt: 254
+    comment_url: https://news.ycombinator.com/item?id=49198302
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344
+    title: AMD acquires Taalas to boost inference performance by etching models in
+      silicon
+    score: 295
+    comment_cnt: 230
+    comment_url: https://news.ycombinator.com/item?id=49201970
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/
+    title: Almost no skill required to cook a steak
+    score: 259
+    comment_cnt: 300
+    comment_url: https://news.ycombinator.com/item?id=49198069
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://electronicmaterialsoffice.com/
+    title: 'Show HN: I spent 2 years designing a mechanical Magic Keyboard'
+    score: 255
+    comment_cnt: 212
+    comment_url: https://news.ycombinator.com/item?id=49197137
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://scalex.dev/blog/ai-agent-permissions-stats/
+    title: Humans missed 1 in 3 threats approving AI agent commands across 40k game
+      runs
+    score: 239
+    comment_cnt: 186
+    comment_url: https://news.ycombinator.com/item?id=49195468
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update
+    title: Quake – 30th Anniversary Update
+    score: 189
+    comment_cnt: 87
+    comment_url: https://news.ycombinator.com/item?id=49201930
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://provenmetal.com
+    title: 'Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead
+      of weeks'
+    score: 180
+    comment_cnt: 127
+    comment_url: https://news.ycombinator.com/item?id=49198464
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://notashelf.dev/posts/taste-is-all-thats-left
+    title: Taste Is All That's Left
+    score: 162
+    comment_cnt: 121
+    comment_url: https://news.ycombinator.com/item?id=49199346
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://illegal.solutions/posts/xai_pollution
+    title: xAI, SpaceX, and the Race for AI Buildout
+    score: 129
+    comment_cnt: 106
+    comment_url: https://news.ycombinator.com/item?id=49201342
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.nbcnews.com/business/media/federal-communications-commission-scraps-limit-broadcast-tv-ownership-rcna587641
+    title: Federal Communications Commission scraps limit on broadcast TV ownership
+    score: 123
+    comment_cnt: 91
+    comment_url: https://news.ycombinator.com/item?id=49200390
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://herdr.dev/blog/herdr-is-joining-y-combinator/
+    title: Herdr is joining Y Combinator. The runtime stays open
+    score: 122
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=49201003
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://apnews.com/article/france-unsolicited-telemarketing-ban-4c946192a1e0d611fd80eacc708aa7da
+    title: France is banning unsolicited telemarketing calls starting next week
+    score: 115
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49192829
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.pbs.org/newshour/world/civilians-that-were-under-siege-by-a-mexican-cartel-fight-back-with-ak-47s-and-grenades
+    title: Civilians under siege by Mexican cartel fight back with AK-47s, grenades
+    score: 87
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=49202321
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/travel/article/20260805-four-simple-rules-behind-japans-most-liveable-cities
+    title: Four simple rules behind Japan's most liveable cities
+    score: 76
+    comment_cnt: 88
+    comment_url: https://news.ycombinator.com/item?id=49196174
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://jacobin.com/2026/08/uc-upte-tech-workers-union
+    title: Unions Can Save Tech Workers and Tech Work
+    score: 71
+    comment_cnt: 109
+    comment_url: https://news.ycombinator.com/item?id=49200510
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/
+    title: I added a real-time chat to my blog, people used it to attack me
+    score: 67
+    comment_cnt: 94
+    comment_url: https://news.ycombinator.com/item?id=49196745
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://jaapgrolleman.com/degrees-of-wealth/
+    title: Degrees of Wealth
+    score: 57
+    comment_cnt: 79
+    comment_url: https://news.ycombinator.com/item?id=49197109
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/cdrv0k0j662o
+    title: US beef prices have soared but farmers aren't making more money
+    score: 50
+    comment_cnt: 108
+    comment_url: https://news.ycombinator.com/item?id=49196510
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cnn.com/2026/08/06/business/ai-data-center-construction
+    title: Americans are rallying against data centers. Surprisingly few are getting
+      built
+    score: 46
+    comment_cnt: 134
+    comment_url: https://news.ycombinator.com/item?id=49197546
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
