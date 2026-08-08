@@ -1,10 +1,20 @@
 date: '2026-08-08'
-generated_at: 2026-08-08 04:01 UTC
+generated_at: 2026-08-08 10:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.cloudflare.com/kitesurf/
+    title: 'Kitesurf: Agent-first browser that runs in V8 isolates'
+    score: 193
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49208393
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413
     title: The Nixpkgs core team has disbanded
     score: 163
