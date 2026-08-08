@@ -1,10 +1,41 @@
 date: '2026-08-08'
-generated_at: 2026-08-08 18:01 UTC
+generated_at: 2026-08-08 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers
+    title: '"Code was never the hard part" is an insult to all programmers'
+    score: 244
+    comment_cnt: 170
+    comment_url: https://news.ycombinator.com/item?id=49222189
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/
+    title: Denmark Requires Oral Defenses for Students' Written Work to Counter AI
+      Cheating
+    score: 196
+    comment_cnt: 94
+    comment_url: https://news.ycombinator.com/item?id=49224294
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/
+    title: Fastmail offers EU data region
+    score: 179
+    comment_cnt: 91
+    comment_url: https://news.ycombinator.com/item?id=49223082
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://specification.website/spec/foundations/for-sale-dns/
     title: A domain can now say it is for sale, in DNS
     score: 205
