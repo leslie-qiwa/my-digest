@@ -1,10 +1,42 @@
 date: '2026-08-08'
-generated_at: 2026-08-08 14:01 UTC
+generated_at: 2026-08-08 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/
+    title: DeepMind's WeatherNext model achieves breakthrough forecasting cyclones
+    score: 216
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=49220126
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3
+    title: Microsoft Edge is about to lock out older ad blockers, just like Chrome
+      did
+    score: 96
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=49220392
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://theclaudyssey.com/
+    title: 'The Claudyssey: A line-for-line translation of Homer''s Odyssey by Claude
+      Fable 5'
+    score: 41
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49213985
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year
     title: NASA figured out how to keep its Voyager 2 probe running for another year
     score: 291
