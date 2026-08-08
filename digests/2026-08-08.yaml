@@ -1,0 +1,17 @@
+date: '2026-08-08'
+generated_at: 2026-08-08 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070
+    title: Water system controllers don't belong on the internet, says ex-NSA chief
+    score: 95
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49216362
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
