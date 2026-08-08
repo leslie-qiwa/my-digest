@@ -1,10 +1,41 @@
 date: '2026-08-08'
-generated_at: 2026-08-08 10:00 UTC
+generated_at: 2026-08-08 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year
+    title: NASA figured out how to keep its Voyager 2 probe running for another year
+    score: 291
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49218179
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/xoreaxeaxeax/rosenbridge
+    title: Hardware backdoors in some x86 CPUs
+    score: 200
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=49219508
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://simonwillison.net/2026/Aug/7/openai-timeline/
+    title: Now we have a timeline of the OpenAI accidental attack against Hugging
+      Face
+    score: 89
+    comment_cnt: 103
+    comment_url: https://news.ycombinator.com/item?id=49220609
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.cloudflare.com/kitesurf/
     title: 'Kitesurf: Agent-first browser that runs in V8 isolates'
     score: 193
