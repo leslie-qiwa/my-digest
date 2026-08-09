@@ -1,0 +1,17 @@
+date: '2026-08-09'
+generated_at: 2026-08-09 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/
+    title: Can Intel finally beat ARM on performance per Watt?
+    score: 143
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=49223079
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
