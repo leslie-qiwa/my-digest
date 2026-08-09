@@ -1,10 +1,50 @@
 date: '2026-08-09'
-generated_at: 2026-08-09 18:01 UTC
+generated_at: 2026-08-09 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://news.ycombinator.com/item?id=49233423
+    title: 'Ask HN: What are you working on? (August 2026)'
+    score: 81
+    comment_cnt: 301
+    comment_url: https://news.ycombinator.com/item?id=49233423
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650
+    title: Taxi drivers rarely die of Alzheimer's
+    score: 65
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49232253
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/
+    title: An OpenAI Strategist Says AI Labs Should Rival Government Power
+    score: 37
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49232778
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.co.uk/news/articles/cx2vnny7j5zo
+    title: Banksy works cost public almost £150k
+    score: 21
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=49232942
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/
     title: Silicon Valley misreads science fiction and undermines democracy
     score: 145
