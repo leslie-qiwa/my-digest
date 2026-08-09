@@ -1,10 +1,20 @@
 date: '2026-08-09'
-generated_at: 2026-08-09 04:00 UTC
+generated_at: 2026-08-09 06:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://shopify.engineering/scaling-inventory-reservations
+    title: Shopify replaced Redis with MySQL for inventory reservations–and it scaled
+    score: 127
+    comment_cnt: 76
+    comment_url: https://news.ycombinator.com/item?id=49226536
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://seg6.space/posts/phone-server/
     title: My server is a phone now
     score: 166
