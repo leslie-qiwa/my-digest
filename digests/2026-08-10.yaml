@@ -1,10 +1,30 @@
 date: '2026-08-10'
-generated_at: 2026-08-10 12:00 UTC
+generated_at: 2026-08-10 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough
+    title: 'Because It''s Not Fun Enough: why languages fail'
+    score: 68
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49242245
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/
+    title: A 'bananas' order for 5000 obscure book titles fuels suspicion
+    score: 60
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49242213
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model
     title: Meta Muse Glimmer – open weights 30B local coding model
     score: 190
