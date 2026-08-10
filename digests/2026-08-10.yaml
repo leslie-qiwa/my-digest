@@ -1,10 +1,41 @@
 date: '2026-08-10'
-generated_at: 2026-08-10 04:00 UTC
+generated_at: 2026-08-10 06:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.w3.org/Provider/Style/URI
+    title: Cool URIs Don't Change (1998)
+    score: 216
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49231809
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://claude.com/blog/auto-mode-default-in-claude-code
+    title: Auto mode is now the default in Claude Code
+    score: 101
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49239021
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986
+    title: AI assistant hacks gym website in first known Australian autonomous cyber
+      attack
+    score: 59
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49236439
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media
     title: New Zealand lost its music media, and what we're building to replace it
     score: 92
