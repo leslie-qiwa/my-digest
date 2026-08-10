@@ -1,10 +1,20 @@
 date: '2026-08-10'
-generated_at: 2026-08-10 10:00 UTC
+generated_at: 2026-08-10 12:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model
+    title: Meta Muse Glimmer – open weights 30B local coding model
+    score: 190
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=49241679
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/yegors/deGDID
     title: Deletes all instances of Microsoft's GDID and prevents minting of new ones
     score: 62
