@@ -1,0 +1,47 @@
+date: '2026-08-10'
+generated_at: 2026-08-10 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://openchamber.dev/
+    title: 'OpenChamber: An Agentic Development Environment'
+    score: 95
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49233448
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn
+    title: The main way I've seen people turn ideologically crazy (2025)
+    score: 84
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49235349
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://phrack.org/issues/72/19#article
+    title: The Hacker's Renaissance
+    score: 77
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49235378
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/
+    title: The AI Apocalypse Is Here
+    score: 47
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49227521
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
