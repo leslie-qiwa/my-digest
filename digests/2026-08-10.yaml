@@ -1,10 +1,20 @@
 date: '2026-08-10'
-generated_at: 2026-08-10 02:00 UTC
+generated_at: 2026-08-10 04:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media
+    title: New Zealand lost its music media, and what we're building to replace it
+    score: 92
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49235641
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/
     title: Georgia police officers fired after Flock camera misuse
     score: 99
