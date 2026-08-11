@@ -1,10 +1,50 @@
 date: '2026-08-11'
-generated_at: 2026-08-11 18:02 UTC
+generated_at: 2026-08-11 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/
+    title: Woman pulled over twice after Flock-linked software connected her to homicide
+    score: 232
+    comment_cnt: 204
+    comment_url: https://news.ycombinator.com/item?id=49261218
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/
+    title: Go is an ideal language for AI-assisted software engineering
+    score: 157
+    comment_cnt: 184
+    comment_url: https://news.ycombinator.com/item?id=49261133
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here
+    title: Mojo 1.0
+    score: 117
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49261128
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/TheRealYT/git-knife
+    title: 'Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet'
+    score: 90
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=49259611
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://stolen-thoughts.com/
     title: Stealing Reasoning Traces from Proprietary LLM APIs
     score: 254
