@@ -1,10 +1,50 @@
 date: '2026-08-11'
-generated_at: 2026-08-11 16:01 UTC
+generated_at: 2026-08-11 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://stolen-thoughts.com/
+    title: Stealing Reasoning Traces from Proprietary LLM APIs
+    score: 254
+    comment_cnt: 88
+    comment_url: https://news.ycombinator.com/item?id=49257876
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://stratechery.com/2026/nvidias-risky-business/
+    title: Nvidia's Risky Business
+    score: 190
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=49255710
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/us-news/2026/aug/11/us-mexico-border-area-money-transfer-rule-change-small-businesses
+    title: The US tried to stop cartel money-laundering; devastated mom-and-pop businesses
+    score: 74
+    comment_cnt: 123
+    comment_url: https://news.ycombinator.com/item?id=49258970
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site
+    title: $580M undersea cable rerouted to avoid the grave of Dobby the House Elf
+    score: 71
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=49258202
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.bbc.com/news/articles/c75gk620r22o
     title: England set to be one of the first countries to eliminate hepatitis C
     score: 250
