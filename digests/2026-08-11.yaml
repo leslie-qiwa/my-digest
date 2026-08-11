@@ -1,0 +1,48 @@
+date: '2026-08-11'
+generated_at: 2026-08-11 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/
+    title: Amazon backs power plant that may become top source of US climate pollution
+    score: 135
+    comment_cnt: 82
+    comment_url: https://news.ycombinator.com/item?id=49249971
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://cactuscompute.com/needle
+    title: 'Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and
+      robots'
+    score: 110
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49246804
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.vectorware.com/blog/simd-on-gpu/
+    title: Rust SIMD on the GPU
+    score: 110
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49247477
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content
+    title: How Claude marks AI-generated content
+    score: 71
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=49250109
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
