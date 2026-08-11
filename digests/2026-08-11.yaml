@@ -1,10 +1,61 @@
 date: '2026-08-11'
-generated_at: 2026-08-11 20:01 UTC
+generated_at: 2026-08-11 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://ngrok.com/blog/compression-is-prediction
+    title: Compression is prediction
+    score: 124
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49263497
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://manus.im/blog/a-note-to-our-users
+    title: Manus will return to operating as an independent company
+    score: 116
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49258764
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/
+    title: Nvidia Nemotron 3.5 Lightning and NeMo Switchyard
+    score: 115
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49263340
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ironicsans.ghost.io/how-we-used-to-get-jobs/
+    title: 'How we used to get jobs: A newspaper classifieds story'
+    score: 69
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49262211
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/
+    title: Bluesky's active user base is shrinking as its focus expands beyond the
+      app
+    score: 36
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49263461
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/
     title: Woman pulled over twice after Flock-linked software connected her to homicide
     score: 232
