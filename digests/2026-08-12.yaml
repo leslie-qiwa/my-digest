@@ -1,10 +1,41 @@
 date: '2026-08-12'
-generated_at: 2026-08-12 12:01 UTC
+generated_at: 2026-08-12 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/
+    title: What sort of maths are LLMs good at?
+    score: 149
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49270022
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/
+    title: Facebook ads are so hard to block that uBlock Origin stopped filtering
+      them
+    score: 100
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=49271126
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://getfresh.dev/docs/blog/packaging-for-linux/
+    title: I hate packaging my software for Linux
+    score: 66
+    comment_cnt: 99
+    comment_url: https://news.ycombinator.com/item?id=49270764
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696
     title: Facebook is paying controversial creators to produce rage-bait content
     score: 159
