@@ -1,10 +1,50 @@
 date: '2026-08-12'
-generated_at: 2026-08-12 20:01 UTC
+generated_at: 2026-08-12 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://guillaumetech.github.io/posts/jpg-scaling-chrome/
+    title: Why tiny JPEGs look different in Chrome
+    score: 222
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49272549
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/
+    title: People who grew up with high economic connectedness earn more
+    score: 101
+    comment_cnt: 88
+    comment_url: https://news.ycombinator.com/item?id=49276534
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/
+    title: 'HTML over WebSockets: real-time SPAs with barely any JavaScript'
+    score: 93
+    comment_cnt: 85
+    comment_url: https://news.ycombinator.com/item?id=49275335
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lovable.dev/blog/series-c
+    title: Lovable raises $400M Series C
+    score: 71
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49274858
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis
     title: Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index
     score: 201
