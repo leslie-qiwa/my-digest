@@ -1,10 +1,70 @@
 date: '2026-08-12'
-generated_at: 2026-08-12 16:02 UTC
+generated_at: 2026-08-12 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://tailscale.com/blog/sqlite-wal-reset-bug
+    title: Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug
+    score: 423
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=49272832
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B
+    title: Qwen/Qwen3.8-2.4T-A95B
+    score: 200
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49273478
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://x.ai/news/grok-4-6
+    title: Grok 4.6
+    score: 153
+    comment_cnt: 157
+    comment_url: https://news.ycombinator.com/item?id=49274027
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://knownagents.com/insights
+    title: Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot
+    score: 127
+    comment_cnt: 76
+    comment_url: https://news.ycombinator.com/item?id=49272569
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://spoorkaart.zaza.dev
+    title: Dutch Train Map Simulator
+    score: 76
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49269641
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/
+    title: Google launches Pixel 11 Pro Fold
+    score: 54
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=49273330
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html
     title: AI is removing the middle class of software engineering
     score: 239
