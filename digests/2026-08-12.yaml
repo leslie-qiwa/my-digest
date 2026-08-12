@@ -1,10 +1,40 @@
 date: '2026-08-12'
-generated_at: 2026-08-12 10:00 UTC
+generated_at: 2026-08-12 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696
+    title: Facebook is paying controversial creators to produce rage-bait content
+    score: 159
+    comment_cnt: 88
+    comment_url: https://news.ycombinator.com/item?id=49269818
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://brentfitzgerald.com/posts/the-human-is-the-loop/
+    title: The Human Is the Loop
+    score: 129
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49267108
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland
+    title: Beef and dairy drive 41% of biodiversity damage linked to global farmland
+    score: 97
+    comment_cnt: 144
+    comment_url: https://news.ycombinator.com/item?id=49269789
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.bbc.com/news/articles/cn0nww2qlp7o
     title: AI agent hacks gym to get its user a spot in pilates class
     score: 30
