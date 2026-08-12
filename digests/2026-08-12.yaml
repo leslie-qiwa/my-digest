@@ -1,10 +1,40 @@
 date: '2026-08-12'
-generated_at: 2026-08-12 18:02 UTC
+generated_at: 2026-08-12 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis
+    title: Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index
+    score: 201
+    comment_cnt: 188
+    comment_url: https://news.ycombinator.com/item?id=49275385
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://zed.dev/blog/introducing-delta
+    title: 'Zed: Delta'
+    score: 143
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49276574
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/
+    title: Pixel Watch 5
+    score: 43
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49274757
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://tailscale.com/blog/sqlite-wal-reset-bug
     title: Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug
     score: 423
