@@ -1,10 +1,20 @@
 date: '2026-08-12'
-generated_at: 2026-08-12 08:00 UTC
+generated_at: 2026-08-12 10:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.bbc.com/news/articles/cn0nww2qlp7o
+    title: AI agent hacks gym to get its user a spot in pilates class
+    score: 30
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=49268697
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/
     title: Dropbox is an obvious PE Target?
     score: 48
