@@ -1,10 +1,31 @@
 date: '2026-08-12'
-generated_at: 2026-08-12 00:01 UTC
+generated_at: 2026-08-12 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.cftc.gov/PressRoom/PressReleases/9281-26
+    title: CFTC declares market emergency, orders Kalshi to continue to operate in
+      New York
+    score: 112
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=49266277
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/
+    title: US hires over 2k video gamers as air traffic controllers
+    score: 76
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=49265879
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://rapha.land/closing-canario-terminal-source-code/
     title: Closing Canario Terminal source code
     score: 43
