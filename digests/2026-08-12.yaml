@@ -1,10 +1,20 @@
 date: '2026-08-12'
-generated_at: 2026-08-12 06:01 UTC
+generated_at: 2026-08-12 08:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/
+    title: Dropbox is an obvious PE Target?
+    score: 48
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=49267818
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/
     title: New Bedford police officer accused of using Flock cameras to track ex-partner
     score: 135
