@@ -1,10 +1,30 @@
 date: '2026-08-13'
-generated_at: 2026-08-13 04:01 UTC
+generated_at: 2026-08-13 06:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html
+    title: Principia Mathematica is modern and insightful
+    score: 110
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49279928
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html
+    title: Why Target Common Lisp for Code Generation?
+    score: 76
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49269429
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://chad.cm/posts/2026-8-11-my-agent-setup
     title: My Agent Setup
     score: 98
