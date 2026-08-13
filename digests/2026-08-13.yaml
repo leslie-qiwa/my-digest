@@ -1,10 +1,100 @@
 date: '2026-08-13'
-generated_at: 2026-08-13 16:01 UTC
+generated_at: 2026-08-13 18:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://deepseek.com/harness/en/
+    title: DeepSeek Harness developer preview
+    score: 421
+    comment_cnt: 197
+    comment_url: https://news.ycombinator.com/item?id=49285244
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027
+    title: Codex in ChatGPT desktop app for Linux is now in preview
+    score: 394
+    comment_cnt: 269
+    comment_url: https://news.ycombinator.com/item?id=49281916
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/xoreaxeaxeax/skitter-creek-bath-salts
+    title: Spaghettifying DRAM
+    score: 285
+    comment_cnt: 82
+    comment_url: https://news.ycombinator.com/item?id=49286341
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/
+    title: I requested a copy of my data from McDonald’s loyalty program
+    score: 135
+    comment_cnt: 157
+    comment_url: https://news.ycombinator.com/item?id=49286662
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation
+    title: Nine PBS could lose 70 years of archives after cloud vendor goes defunct
+    score: 131
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49285418
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.netlify.com/blog/one-prompt-11-models-very-different-results/
+    title: 'Choosing an AI model: one prompt, 11 models, different results'
+    score: 115
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49285327
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft
+    title: Heart aerospace completes first flight of largest electric aircraft
+    score: 103
+    comment_cnt: 91
+    comment_url: https://news.ycombinator.com/item?id=49286270
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.seangoedecke.com/text-ai-watermarks/
+    title: Text AI watermarks will always be trivial to remove
+    score: 54
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49287153
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency
+    title: Flock updates privacy, accountability, security, and transparency safeguards
+    score: 28
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49286654
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://antithesis.com/blog/2026/wal-reset-bug/
     title: Breaking the WAL
     score: 149
