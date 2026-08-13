@@ -1,10 +1,60 @@
 date: '2026-08-13'
-generated_at: 2026-08-13 20:03 UTC
+generated_at: 2026-08-13 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/
+    title: Nine PBS sues Iron Mountain over blocked access to archival data
+    score: 165
+    comment_cnt: 79
+    comment_url: https://news.ycombinator.com/item?id=49285418
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://0.mk/blog/link-rot
+    title: Where did the old web go? We followed 657,607 links to find out
+    score: 96
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49289532
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck
+    title: Understanding is the new bottleneck
+    score: 87
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49290299
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://alignment.anthropic.com/2026/conceptual-reasoning-index/
+    title: 'Anthropic: Introducing The Conceptual Reasoning Index'
+    score: 67
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49285909
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/
+    title: My Rules for Using Spreadsheets
+    score: 52
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49285268
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/
     title: Gemini 3.7 Flash
     score: 352
