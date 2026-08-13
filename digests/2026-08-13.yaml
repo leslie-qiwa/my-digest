@@ -1,10 +1,30 @@
 date: '2026-08-13'
-generated_at: 2026-08-13 00:01 UTC
+generated_at: 2026-08-13 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://chad.cm/posts/2026-8-11-my-agent-setup
+    title: My Agent Setup
+    score: 98
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49272484
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://flutter.dev/blog/whats-new-in-flutter-3-47
+    title: What's New in Flutter 3.47
+    score: 63
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49280061
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://loudbicycle.com/bb
     title: 'Bike Bureau: Report Bike Lane Obstructions'
     score: 59
