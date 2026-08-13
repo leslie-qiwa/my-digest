@@ -1,10 +1,80 @@
 date: '2026-08-13'
-generated_at: 2026-08-13 18:04 UTC
+generated_at: 2026-08-13 20:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/
+    title: Gemini 3.7 Flash
+    score: 352
+    comment_cnt: 224
+    comment_url: https://news.ycombinator.com/item?id=49289112
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai
+    title: Accelerating GPT-5.6 Sol Ultrafast
+    score: 176
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49289844
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ordinaryabundance.com/
+    title: Ordinary abundance
+    score: 138
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49285770
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://mcfunley.com/choose-boring-technology
+    title: Choose Boring Technology (2015)
+    score: 122
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=49289512
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://oxide.computer/blog/kubernetes-on-oxide
+    title: 'Kubernetes on Oxide: How customer needs shaped our integrations'
+    score: 114
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49286485
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html
+    title: I built a 500k-domain search engine for makers in a weekend for $10
+    score: 107
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49285718
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/
+    title: Mozilla says stricter antitrust measures against Google 'threaten Firefox'
+    score: 28
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=49288324
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://deepseek.com/harness/en/
     title: DeepSeek Harness developer preview
     score: 421
