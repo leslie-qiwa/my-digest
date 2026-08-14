@@ -1,10 +1,20 @@
 date: '2026-08-14'
-generated_at: 2026-08-14 06:01 UTC
+generated_at: 2026-08-14 10:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters
+    title: US conducted mass spying campaign against leftwing and anti-ICE protesters
+    score: 187
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49294199
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://earendil.com/posts/compaction-in-pi/
     title: How Compaction Works in Pi
     score: 137
