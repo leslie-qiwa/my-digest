@@ -1,10 +1,60 @@
 date: '2026-08-14'
-generated_at: 2026-08-14 20:01 UTC
+generated_at: 2026-08-14 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.mixedbread.com/blog/toast-1
+    title: Introducing Toast 1
+    score: 152
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49299746
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://heyjonny.dev/posts/rss-to-eink-newspaper/
+    title: I turned my RSS feeds into an e-ink newspaper to stop reading on my phone
+    score: 109
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49299081
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo
+    title: CEO who fired 900 people on Zoom just before Christmas wants his job back
+    score: 81
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49303592
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention
+    title: Private prisons announce $1.4B in revenue as immigration detentions climb
+    score: 63
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49299870
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.anthropic.com/news/claude-text-watermark
+    title: How Claude's text watermarking works
+    score: 40
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49303350
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.bbc.com/news/articles/ce97mm3vvemo
     title: Count Binface receives over a quarter of votes in Clacton by-election
     score: 346
