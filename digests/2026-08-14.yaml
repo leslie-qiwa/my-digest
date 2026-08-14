@@ -1,10 +1,30 @@
 date: '2026-08-14'
-generated_at: 2026-08-14 10:00 UTC
+generated_at: 2026-08-14 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://mun-logadan.github.io/why-does-opus-5-feel-worse/
+    title: Why does Opus 5 feel worse to work with?
+    score: 99
+    comment_cnt: 98
+    comment_url: https://news.ycombinator.com/item?id=49296740
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil
+    title: 'Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun'
+    score: 72
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49295515
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters
     title: US conducted mass spying campaign against leftwing and anti-ICE protesters
     score: 187
@@ -86,3 +106,30 @@ feeds:
     summary_zh: ''
     content_file: ''
     summary: ''
+- id: golang-weekly
+  label: Golang Weekly
+  provider: rss_newsletter
+  items:
+  - url: https://golangweekly.com/link/189284/rss
+    title: Why Go is an Ideal Language for AI-Assisted Software Engineering
+    summary: Two Googlers, including Go lead Cameron Balahan, make the case that Go's
+      features, like standardized formatting, a solid standard library, and the compatibility
+      promise, make it a particularly good language for agents.
+    score: 0
+    tags: []
+    source: developers.googleblog.com
+    domain: developers.googleblog.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/189291/rss
+    title: Profile-Guided Optimization in Go
+    summary: 📊 — Turning PGO on for encoding/json parsing yielded up to 4.7% more
+      throughput in Daniel's experiment. He also trained profiles on three different
+      JSON documents and measured each build against all three, so you can see how
+      well a profile transfers to previously unseen workloads.
+    score: 0
+    tags: []
+    source: lemire.me
+    domain: lemire.me
+    summary_zh: ''
+    content_file: ''
