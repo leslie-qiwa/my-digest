@@ -1,10 +1,40 @@
 date: '2026-08-14'
-generated_at: 2026-08-14 18:02 UTC
+generated_at: 2026-08-14 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.bbc.com/news/articles/ce97mm3vvemo
+    title: Count Binface receives over a quarter of votes in Clacton by-election
+    score: 346
+    comment_cnt: 243
+    comment_url: https://news.ycombinator.com/item?id=49301260
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions
+    title: Maximizing the value of your Claude Code sessions
+    score: 80
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49300800
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://goonhost.rocks/blog/implementing-ipv8-internet-draft
+    title: 'Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP'
+    score: 66
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49297996
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://huggingface.co/Qwen/Qwen3.8-27B-FP8
     title: Qwen 3.8 27B
     score: 327
