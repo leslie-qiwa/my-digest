@@ -1,0 +1,38 @@
+date: '2026-08-14'
+generated_at: 2026-08-14 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://github.com/systemd/systemd/issues/40262
+    title: Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk
+      writes
+    score: 133
+    comment_cnt: 82
+    comment_url: https://news.ycombinator.com/item?id=49290215
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://gruhn.me/blog/2026-08-13/
+    title: NP-Overrated
+    score: 109
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49291268
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/
+    title: AI Is Threatening Natural Resources for Billions
+    score: 52
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49290062
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
