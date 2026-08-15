@@ -1,10 +1,50 @@
 date: '2026-08-15'
-generated_at: 2026-08-15 16:02 UTC
+generated_at: 2026-08-15 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://sina.bio/posts/costco-hotdog.html
+    title: The price of a Costco hot dog has gone up
+    score: 61
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49311685
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.co.uk/news/articles/cp3rprx2wl4o
+    title: Secondhand book sales are booming. Is it because of AI?
+    score: 58
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=49310725
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://spectrum.ieee.org/ai-designed-virus
+    title: AI Can Now Design Functional Viruses. Should We Worry?
+    score: 50
+    comment_cnt: 86
+    comment_url: https://news.ycombinator.com/item?id=49311445
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://srikanth.ch/posts/the-ai-situation/
+    title: The AI Situation in Software Development
+    score: 36
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49310755
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/
     title: Working with AI Feels More Like Leadership Than Coding
     score: 92
