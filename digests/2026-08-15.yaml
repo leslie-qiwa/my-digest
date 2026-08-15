@@ -1,10 +1,20 @@
 date: '2026-08-15'
-generated_at: 2026-08-15 00:02 UTC
+generated_at: 2026-08-15 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/
+    title: Apple proposes to take a 15% cut of purchases made outside the App Store
+    score: 61
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49302468
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/
     title: Going Dark, and the era of law enforcement hacking
     score: 143
