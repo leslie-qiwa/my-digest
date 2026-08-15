@@ -1,10 +1,50 @@
 date: '2026-08-15'
-generated_at: 2026-08-15 18:02 UTC
+generated_at: 2026-08-15 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians
+    title: AI Isn't Outthinking Mathematicians. It's Out-Remembering Them
+    score: 201
+    comment_cnt: 153
+    comment_url: https://news.ycombinator.com/item?id=49312845
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/
+    title: The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis
+    score: 154
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49310682
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/c4gxy0wqqd9o
+    title: Europe's scorched landscapes seen from space after summer heatwaves
+    score: 77
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49312413
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://intelligence.org/the-problem/
+    title: The Problem
+    score: 32
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49309963
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://sina.bio/posts/costco-hotdog.html
     title: The price of a Costco hot dog has gone up
     score: 61
