@@ -1,10 +1,40 @@
 date: '2026-08-16'
-generated_at: 2026-08-16 14:00 UTC
+generated_at: 2026-08-16 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://scholar.google.com/scholar?q=%22kidney+disappointment%22
+    title: Research papers using "kidney disappointment" instead of "kidney failure"
+    score: 179
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=49319389
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=49318906
+    title: 'Ask HN: Do you know of any company that went back to hand-written code?'
+    score: 69
+    comment_cnt: 92
+    comment_url: https://news.ycombinator.com/item?id=49318906
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out
+    title: Is the industry ready for tokens-constrained work?
+    score: 29
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49319582
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.henrikkarlsson.xyz/p/good-ideas
     title: Cultivating a state of mind where new ideas are born (2023)
     score: 206
