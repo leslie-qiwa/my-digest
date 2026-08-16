@@ -1,10 +1,61 @@
 date: '2026-08-16'
-generated_at: 2026-08-16 20:01 UTC
+generated_at: 2026-08-16 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://rvembedded.com/blog_post/12/
+    title: A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known
+      Better"
+    score: 251
+    comment_cnt: 137
+    comment_url: https://news.ycombinator.com/item?id=49321717
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=49322107
+    title: 'Tell HN: Cloudflare silently injects its analytics when you switch nameservers'
+    score: 193
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49322107
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose
+    title: Models Are Getting Dumber on Purpose
+    score: 181
+    comment_cnt: 112
+    comment_url: https://news.ycombinator.com/item?id=49322695
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost
+    title: GPS and the Lost Art of Getting Lost
+    score: 65
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49320673
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.sciencedaily.com/releases/2026/08/260811052857.htm
+    title: Ordinary WiFi can now identify you with near-perfect accuracy
+    score: 30
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49321783
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it
     title: The weekend is 100 years old
     score: 121
