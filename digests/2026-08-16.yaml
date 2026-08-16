@@ -1,10 +1,31 @@
 date: '2026-08-16'
-generated_at: 2026-08-16 02:00 UTC
+generated_at: 2026-08-16 04:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/
+    title: Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead
+      Winter
+    score: 123
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=49313428
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.jsbarretto.com/post/i-remain-a-skeptic
+    title: I Remain a Skeptic
+    score: 90
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=49312053
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.dampfkraft.com/ghost-characters.html
     title: A spectre is haunting Unicode
     score: 171
