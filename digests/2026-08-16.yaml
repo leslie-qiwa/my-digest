@@ -1,10 +1,20 @@
 date: '2026-08-16'
-generated_at: 2026-08-16 12:00 UTC
+generated_at: 2026-08-16 14:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.henrikkarlsson.xyz/p/good-ideas
+    title: Cultivating a state of mind where new ideas are born (2023)
+    score: 206
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49314235
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.anthropic.com/research/multiagent-systems
     title: Patterns and problems in emerging multi-agent systems
     score: 117
