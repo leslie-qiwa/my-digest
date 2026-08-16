@@ -1,10 +1,50 @@
 date: '2026-08-16'
-generated_at: 2026-08-16 04:00 UTC
+generated_at: 2026-08-16 10:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/
+    title: Software Engineering fundamentals matter more
+    score: 138
+    comment_cnt: 80
+    comment_url: https://news.ycombinator.com/item?id=49314902
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://littlelearner-ll.github.io/
+    title: What happens when an LLM never sees material beyond fifth grade?
+    score: 109
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=49317760
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/jitpass/jit
+    title: 'Show HN: Laptop is the last place your secrets are still in plaintext'
+    score: 44
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=49317546
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://nntaleb.substack.com/p/have-another-drink
+    title: Government sponsored study on alcohol doesn't stand up to scrutiny
+    score: 43
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49316611
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/
     title: Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead
       Winter
