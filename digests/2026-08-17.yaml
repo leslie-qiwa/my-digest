@@ -1,10 +1,30 @@
 date: '2026-08-17'
-generated_at: 2026-08-17 12:00 UTC
+generated_at: 2026-08-17 14:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://linear.axler.net/
+    title: Linear algebra done right
+    score: 142
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49326816
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/
+    title: Self hosted email continues to steeply decline
+    score: 91
+    comment_cnt: 128
+    comment_url: https://news.ycombinator.com/item?id=49328911
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://duti.dev/blog/2026/spr/
     title: 'HackEurope 2026: A short rant on AI and hackathons'
     score: 51
