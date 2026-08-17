@@ -1,0 +1,38 @@
+date: '2026-08-17'
+generated_at: 2026-08-17 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing
+    title: Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of
+      Writing
+    score: 100
+    comment_cnt: 82
+    comment_url: https://news.ycombinator.com/item?id=49324087
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://buf.build/blog/protobuf-lsp
+    title: Protobuf has LSP support. You're welcome
+    score: 97
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=49322573
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ivan-gavran.github.io/0-social-processes-paper
+    title: The Case Against Formal Verification, 50 Years Later
+    score: 72
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49323459
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
