@@ -1,10 +1,71 @@
 date: '2026-08-17'
-generated_at: 2026-08-17 16:01 UTC
+generated_at: 2026-08-17 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/
+    title: Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study
+    score: 291
+    comment_cnt: 391
+    comment_url: https://news.ycombinator.com/item?id=49332981
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html
+    title: Apple's App Tracking Transparency treated its own apps better than rivals
+    score: 195
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=49331222
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug
+    title: AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's
+      Jira
+    score: 168
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=49331423
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.librarian.net/notoai/
+    title: How to disable or avoid intrusive AI
+    score: 130
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49331220
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health
+    title: Online clinics and influencers are promoting Cialis as a longevity drug
+    score: 79
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49330456
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://domenkozar.com/2026/08/17/buy-your-friends-batteries/
+    title: Buy Your Friends Batteries
+    score: 60
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49333932
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.githubstatus.com/incidents/zkxwbgr0cnmx
     title: Incident with Github.com
     score: 620
