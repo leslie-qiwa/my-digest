@@ -1,10 +1,60 @@
 date: '2026-08-17'
-generated_at: 2026-08-17 14:00 UTC
+generated_at: 2026-08-17 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.githubstatus.com/incidents/zkxwbgr0cnmx
+    title: Incident with Github.com
+    score: 620
+    comment_cnt: 459
+    comment_url: https://news.ycombinator.com/item?id=49330684
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=49330632
+    title: GitHub down again? no PR access
+    score: 244
+    comment_cnt: 80
+    comment_url: https://news.ycombinator.com/item?id=49330632
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=49331033
+    title: 'Ask HN: Alternatives to GitHub'
+    score: 160
+    comment_cnt: 107
+    comment_url: https://news.ycombinator.com/item?id=49331033
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.roboflow.com/openai-gpt-5-6/
+    title: GPT 5.6 Sol is the best "vision" model OpenAI ever released
+    score: 160
+    comment_cnt: 90
+    comment_url: https://news.ycombinator.com/item?id=49329575
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://1667.ai/
+    title: 'Show HN: 1667, a terminal UI for writing fiction with language models'
+    score: 30
+    comment_cnt: 82
+    comment_url: https://news.ycombinator.com/item?id=49330604
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://linear.axler.net/
     title: Linear algebra done right
     score: 142
