@@ -1,10 +1,52 @@
 date: '2026-08-17'
-generated_at: 2026-08-17 18:02 UTC
+generated_at: 2026-08-17 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://duckdb.org/2026/08/17/duckdb-20-highlights
+    title: A Preview of DuckDB v2.0
+    score: 412
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=49330781
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://artificialanalysis.ai/models/qwen3-8-27b
+    title: Qwen3.8 27B scores 52 on Artificial Analysis
+    score: 176
+    comment_cnt: 87
+    comment_url: https://news.ycombinator.com/item?id=49334544
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399
+    title: Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked
+      prices
+    score: 70
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49334960
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html
+    title: Meta faces 'astronomical' consequences as legal fight reaches critical
+      moment
+    score: 52
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49335163
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/
     title: Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study
     score: 291
