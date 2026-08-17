@@ -1,10 +1,30 @@
 date: '2026-08-17'
-generated_at: 2026-08-17 08:00 UTC
+generated_at: 2026-08-17 10:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.gimp.org/news/2026/08/16/dev-update-august-2026/
+    title: GIMP Development Update
+    score: 172
+    comment_cnt: 112
+    comment_url: https://news.ycombinator.com/item?id=49326156
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://twitter.com/DarioAmodei/status/2088758816376807762
+    title: On A.I. regulation and messaging
+    score: 52
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=49325789
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://peterbloem.nl/blog/craft-coding
     title: AI Coding Without the Vibes
     score: 82
