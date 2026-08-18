@@ -1,10 +1,40 @@
 date: '2026-08-18'
-generated_at: 2026-08-18 10:00 UTC
+generated_at: 2026-08-18 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://pixelcluster.dev/VRAM-Overcommit/
+    title: Linux 7.3 improves performance when running out of vRAM
+    score: 230
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49342719
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera
+    title: Fairphone 6 and PostmarketOS working main camera
+    score: 228
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49338285
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962
+    title: Google buys crashed airline Spirit's data at auction, because AI
+    score: 107
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49343559
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world
     title: Los Puesteros, solitary men who look after ranches and livestock in Patagonia
     score: 146
