@@ -1,0 +1,47 @@
+date: '2026-08-18'
+generated_at: 2026-08-18 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://sunclock.net/
+    title: Sun Clock
+    score: 160
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49333824
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://timmarinin.net/2026/bluesky-screenshots/
+    title: How Bluesky draws its logo on screenshots
+    score: 130
+    comment_cnt: 95
+    comment_url: https://news.ycombinator.com/item?id=49338459
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/
+    title: An update on leaving Gmail for Fastmail
+    score: 99
+    comment_cnt: 78
+    comment_url: https://news.ycombinator.com/item?id=49334409
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.plover.com/brain/Jaynes.html
+    title: The Origin of Consciousness (2008)
+    score: 52
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49336909
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
