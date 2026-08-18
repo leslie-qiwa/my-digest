@@ -1,10 +1,50 @@
 date: '2026-08-18'
-generated_at: 2026-08-18 00:02 UTC
+generated_at: 2026-08-18 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://fabiensanglard.net/quake_shareware_cd/index.html
+    title: Quake Shareware, a CD-ROM just a little too full
+    score: 145
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=49338328
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/
+    title: Judge sets framework for Nine PBS to retrieve archival data
+    score: 136
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49333344
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://openrouter.ai/openai/gpt-5.6-sol
+    title: GPT-5.6 Sol Pricing Cut by 50%
+    score: 126
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49337602
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.fast.ai/posts/2026-08-18-returning-to-AI/
+    title: My friends all hate AI; I just joined an AI startup
+    score: 27
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=49338139
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://sunclock.net/
     title: Sun Clock
     score: 160
