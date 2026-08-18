@@ -1,10 +1,50 @@
 date: '2026-08-18'
-generated_at: 2026-08-18 16:03 UTC
+generated_at: 2026-08-18 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://danluu.com/benchpocalypse/
+    title: The Benchmarkpocalypse
+    score: 159
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49340299
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://status.claude.com/incidents/q7txxvbsftgq
+    title: Degraded performance for multiple models
+    score: 133
+    comment_cnt: 117
+    comment_url: https://news.ycombinator.com/item?id=49348163
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/
+    title: Apple announces changes for apps in the European Union
+    score: 69
+    comment_cnt: 109
+    comment_url: https://news.ycombinator.com/item?id=49348055
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/
+    title: California's new tire efficiency rules could save drivers $1B a year
+    score: 68
+    comment_cnt: 98
+    comment_url: https://news.ycombinator.com/item?id=49340710
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://seths.blog/2026/08/the-amazon-tax/
     title: The Amazon Tax
     score: 309
