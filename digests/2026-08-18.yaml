@@ -1,10 +1,20 @@
 date: '2026-08-18'
-generated_at: 2026-08-18 04:00 UTC
+generated_at: 2026-08-18 08:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/
+    title: I don't enjoy the Internet any more
+    score: 87
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=49341551
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://responsiblestatecraft.org/israel-influence-chatgpt/
     title: Israel creates fake think tank in likely attempt to dupe AI chatbots
     score: 202
