@@ -1,10 +1,30 @@
 date: '2026-08-19'
-generated_at: 2026-08-19 18:03 UTC
+generated_at: 2026-08-19 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/
+    title: OpenRouter is joining Stripe
+    score: 280
+    comment_cnt: 181
+    comment_url: https://news.ycombinator.com/item?id=49364559
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/anthropics/claude-code/issues/77136
+    title: Opus 5.0 drives incoherence into the stratosphere
+    score: 143
+    comment_cnt: 125
+    comment_url: https://news.ycombinator.com/item?id=49364658
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/
     title: A joke domain purchase turned in geopolitical warfare
     score: 417
