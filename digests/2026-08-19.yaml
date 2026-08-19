@@ -1,10 +1,51 @@
 date: '2026-08-19'
-generated_at: 2026-08-19 16:02 UTC
+generated_at: 2026-08-19 18:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/
+    title: A joke domain purchase turned in geopolitical warfare
+    score: 417
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49360015
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://shkspr.mobi/blog/2013/11/civic-hygiene/
+    title: Civic Hygiene – avoid building technologies that could be used by a police
+      state (2013)
+    score: 323
+    comment_cnt: 203
+    comment_url: https://news.ycombinator.com/item?id=49363433
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://yassa9.github.io/osint/gralhix-004/
+    title: Geolocating a random island using geometry and CUDA programming
+    score: 283
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49360545
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees
+    title: Remote workers report the highest well-being in study of 7,700 employees
+    score: 198
+    comment_cnt: 96
+    comment_url: https://news.ycombinator.com/item?id=49362934
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/katiahayati/lucasartsifier/
     title: 'Show HN: Automatically detect and patch walking-dead states in Sierra
       games'
