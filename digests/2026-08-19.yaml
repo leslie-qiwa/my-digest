@@ -1,10 +1,20 @@
 date: '2026-08-19'
-generated_at: 2026-08-19 12:02 UTC
+generated_at: 2026-08-19 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.modular.com/blog/modcon-announcements
+    title: The Mojo language (by Modular, now Qualcomm) is now open-source
+    score: 138
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49358327
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://artificialanalysis.ai/models/glm-5-3
     title: GLM-5.3 Artificial Analysis Benchmarks
     score: 130
