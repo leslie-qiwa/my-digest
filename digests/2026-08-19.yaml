@@ -1,10 +1,20 @@
 date: '2026-08-19'
-generated_at: 2026-08-19 00:03 UTC
+generated_at: 2026-08-19 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/pg83/solo
+    title: Solo – a .so loader for static Linux binaries
+    score: 41
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49354613
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873
     title: Babies born under sugar rationing grew into adults with lower cancer risk
     score: 257
