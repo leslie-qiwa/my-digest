@@ -1,10 +1,40 @@
 date: '2026-08-19'
-generated_at: 2026-08-19 02:01 UTC
+generated_at: 2026-08-19 04:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/DenisSergeevitch/desktop-fly
+    title: A 3D fruit fly on macOS desktop powered by the real FlyWire connectome
+    score: 195
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49353221
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cerebras.ai/cs4
+    title: Cerebras CS-4
+    score: 129
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=49354949
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://albertogalca.com/5-things-that-used-to-be-normal-and-are-now-a-luxury
+    title: Things That Used to Be Normal and Are Now a Luxury
+    score: 28
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49345013
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/pg83/solo
     title: Solo – a .so loader for static Linux binaries
     score: 41
