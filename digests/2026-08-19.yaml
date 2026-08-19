@@ -1,10 +1,31 @@
 date: '2026-08-19'
-generated_at: 2026-08-19 14:01 UTC
+generated_at: 2026-08-19 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/katiahayati/lucasartsifier/
+    title: 'Show HN: Automatically detect and patch walking-dead states in Sierra
+      games'
+    score: 131
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49355607
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.raphaelbauer.com:443/posts/postgresql-everything/
+    title: PostgreSQL for Everything
+    score: 128
+    comment_cnt: 93
+    comment_url: https://news.ycombinator.com/item?id=49361279
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.modular.com/blog/modcon-announcements
     title: The Mojo language (by Modular, now Qualcomm) is now open-source
     score: 138
