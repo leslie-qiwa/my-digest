@@ -1,10 +1,30 @@
 date: '2026-08-19'
-generated_at: 2026-08-19 04:02 UTC
+generated_at: 2026-08-19 06:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.bbc.com/news/articles/c1l1r1zne1ro
+    title: Scientists stunned by children's lung recovery in ultra low emission zone
+    score: 122
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=49355105
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://linear.app/data
+    title: AI usage patterns in software teams
+    score: 95
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49353432
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/DenisSergeevitch/desktop-fly
     title: A 3D fruit fly on macOS desktop powered by the real FlyWire connectome
     score: 195
