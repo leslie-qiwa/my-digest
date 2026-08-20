@@ -1,10 +1,30 @@
 date: '2026-08-20'
-generated_at: 2026-08-20 04:02 UTC
+generated_at: 2026-08-20 06:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.computerenhance.com/p/turns-are-better-than-radians
+    title: Turns are Better than Radians (2022)
+    score: 108
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49369408
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/
+    title: Rules of good social skills (2025)
+    score: 100
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49365419
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/
     title: Extensible Software in the age of LLMs
     score: 120
