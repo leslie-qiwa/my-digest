@@ -1,10 +1,70 @@
 date: '2026-08-20'
-generated_at: 2026-08-20 20:01 UTC
+generated_at: 2026-08-20 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.igalia.com/2026/08/19/Linux-72-Released.html
+    title: Linux 7.2
+    score: 164
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49376265
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.danielvaughn.dev/posts/huzzah/
+    title: 'Show HN: Huzzah – a novel approach to coding with AI'
+    score: 158
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=49378768
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos
+    title: Stop eating Lady Gaga's Oreos
+    score: 157
+    comment_cnt: 94
+    comment_url: https://news.ycombinator.com/item?id=49379253
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://jsomers.net/i-should-have-loved-biology/
+    title: I should have loved biology (2020)
+    score: 153
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49377853
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/
+    title: The August 17 outage, and the work ahead
+    score: 140
+    comment_cnt: 151
+    comment_url: https://news.ycombinator.com/item?id=49378957
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.experimental-history.com/p/why-arent-smart-people-happier
+    title: Why aren't smart people happier? (2022)
+    score: 46
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49378446
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/
     title: Scientific study reveals TikTok videos deactivate key cognitive brain regions
     score: 132
