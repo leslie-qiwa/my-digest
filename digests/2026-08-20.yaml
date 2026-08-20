@@ -1,10 +1,30 @@
 date: '2026-08-20'
-generated_at: 2026-08-20 16:02 UTC
+generated_at: 2026-08-20 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://bun.com/blog/bun-v1.4
+    title: Bun 1.4
+    score: 176
+    comment_cnt: 108
+    comment_url: https://news.ycombinator.com/item?id=49374797
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/
+    title: Why the Ocean Cleanup hasn't solved the plastic pollution crisis
+    score: 78
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=49374036
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://simedw.com/2026/08/20/midi-autocomplete/
     title: 'Show HN: I trained a 125M model to autocomplete piano on-device'
     score: 256
