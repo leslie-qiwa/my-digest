@@ -1,10 +1,61 @@
 date: '2026-08-20'
-generated_at: 2026-08-20 14:02 UTC
+generated_at: 2026-08-20 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://simedw.com/2026/08/20/midi-autocomplete/
+    title: 'Show HN: I trained a 125M model to autocomplete piano on-device'
+    score: 256
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=49373456
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/
+    title: Malicious Rust crate Arrayref runs a build-time payload
+    score: 216
+    comment_cnt: 158
+    comment_url: https://news.ycombinator.com/item?id=49374269
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://os8088.com/spotlight/
+    title: 'Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS
+      Word 1.1a'
+    score: 118
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49367256
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/clyq011414eo
+    title: Harvest hikes bills by 1500% after purchased by Bending Spoons
+    score: 84
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=49374920
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.salesforce.com/introducing-slack-code/?bc=HL
+    title: Slack Code
+    score: 41
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49374965
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html
     title: AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint
     score: 294
