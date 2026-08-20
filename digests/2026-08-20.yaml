@@ -1,10 +1,40 @@
 date: '2026-08-20'
-generated_at: 2026-08-20 06:03 UTC
+generated_at: 2026-08-20 10:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/
+    title: Unlocking a locked/deactivated e-waste Cricut Maker
+    score: 208
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49365841
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://dontpastetheai.com/
+    title: Don't Paste the AI, please
+    score: 196
+    comment_cnt: 103
+    comment_url: https://news.ycombinator.com/item?id=49371857
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803
+    title: Windows brings out the Rorschach test in everyone
+    score: 166
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=49371006
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.computerenhance.com/p/turns-are-better-than-radians
     title: Turns are Better than Radians (2022)
     score: 108
