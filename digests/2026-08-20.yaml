@@ -1,10 +1,40 @@
 date: '2026-08-20'
-generated_at: 2026-08-20 10:02 UTC
+generated_at: 2026-08-20 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html
+    title: AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint
+    score: 294
+    comment_cnt: 96
+    comment_url: https://news.ycombinator.com/item?id=49372583
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://franciscotrindade.me/blog/the-kids-are-really-alright/
+    title: AI didn't erase the junior engineer's value, it increased it it
+    score: 42
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=49373269
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers
+    title: If this is true, the hyperscalers are toast
+    score: 35
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=49372792
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/
     title: Unlocking a locked/deactivated e-waste Cricut Maker
     score: 208
