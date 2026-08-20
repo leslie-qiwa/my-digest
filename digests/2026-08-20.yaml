@@ -1,0 +1,17 @@
+date: '2026-08-20'
+generated_at: 2026-08-20 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://unsloth.ai/docs/basics/dynamic-3.0-ggufs
+    title: Unsloth Dynamic 3.0 GGUFs
+    score: 165
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49365443
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
