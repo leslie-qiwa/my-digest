@@ -1,10 +1,21 @@
 date: '2026-08-20'
-generated_at: 2026-08-20 00:02 UTC
+generated_at: 2026-08-20 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724
+    title: Gardner police discontinue Flock cameras as license plate readers face
+      scrutiny
+    score: 100
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49368625
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://unsloth.ai/docs/basics/dynamic-3.0-ggufs
     title: Unsloth Dynamic 3.0 GGUFs
     score: 165
