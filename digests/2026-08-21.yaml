@@ -1,10 +1,121 @@
 date: '2026-08-21'
-generated_at: 2026-08-21 12:02 UTC
+generated_at: 2026-08-21 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://kagi.com/changelog#11296
+    title: Kagi added a setting for removing paywalled links from search results
+    score: 407
+    comment_cnt: 152
+    comment_url: https://news.ycombinator.com/item?id=49388154
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/
+    title: Grand jury declines to indict Ohio man charged with destroying Flock camera
+    score: 359
+    comment_cnt: 198
+    comment_url: https://news.ycombinator.com/item?id=49387497
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://cymerys.com/w/im-becoming-ai-blind
+    title: I'm Becoming AI-Blind
+    score: 94
+    comment_cnt: 94
+    comment_url: https://news.ycombinator.com/item?id=49386699
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/
+    title: What Happens When the Cost of Intelligence Drops 100x
+    score: 78
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49387735
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/
+    title: The Religious Experience of Philip K. Dick by R. Crumb (1986)
+    score: 75
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49384224
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://bactra.org/notebooks/cybersyn.html
+    title: Project Cybersyn (2022)
+    score: 64
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49377739
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/adnanakil/nobuzz/blob/main/README.md
+    title: 'Claudette: Make Claude Stop Talking Like a BuzzFeed Article'
+    score: 56
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49388752
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/c9d8z72nn02o
+    title: US debt has hit $40tn - Will that be a wake-up call?
+    score: 51
+    comment_cnt: 91
+    comment_url: https://news.ycombinator.com/item?id=49388067
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://annas-archive.pk/blog/physical-destruction.html
+    title: AI companies destroy physical books – let's scan rare books before it's
+      too late
+    score: 282
+    comment_cnt: 211
+    comment_url: https://news.ycombinator.com/item?id=49385994
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://api-docs.deepseek.com/guides/vision/
+    title: DeepSeek-v4-flash-vision-exp
+    score: 247
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49386163
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://encore.dev/blog/firecracker-apple-silicon
+    title: We Rebuilt the Linux MicroVM Stack on Apple Silicon
+    score: 119
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49384716
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/openai/codex/issues/37674
     title: Codex on AWS bedrock bug causing 10x charges
     score: 137
