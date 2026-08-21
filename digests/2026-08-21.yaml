@@ -1,0 +1,27 @@
+date: '2026-08-21'
+generated_at: 2026-08-21 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/
+    title: Every Model Cheats
+    score: 75
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49374635
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.massdriver.cloud/blogs/the-citizen-developer
+    title: 'Citizen Devs: Everyone is an engineer now'
+    score: 35
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49380491
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
