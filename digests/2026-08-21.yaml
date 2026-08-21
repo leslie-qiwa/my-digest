@@ -1,10 +1,40 @@
 date: '2026-08-21'
-generated_at: 2026-08-21 00:01 UTC
+generated_at: 2026-08-21 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html
+    title: It is a sign of the times that Amazon gets to call this fair use
+    score: 103
+    comment_cnt: 78
+    comment_url: https://news.ycombinator.com/item?id=49382200
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621
+    title: Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?
+    score: 75
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49370440
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/
+    title: There's no such thing as a small software team anymore
+    score: 40
+    comment_cnt: 79
+    comment_url: https://news.ycombinator.com/item?id=49382152
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/
     title: Every Model Cheats
     score: 75
