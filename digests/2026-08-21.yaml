@@ -1,10 +1,40 @@
 date: '2026-08-21'
-generated_at: 2026-08-21 16:02 UTC
+generated_at: 2026-08-21 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://canews24.online/?p=71
+    title: 'AI boosted homework scores, then exam scores dropped: Study'
+    score: 163
+    comment_cnt: 118
+    comment_url: https://news.ycombinator.com/item?id=49389565
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://precastreinforced.co.uk/2026/08/16/new-worlds/
+    title: 'New Worlds: We are living in the future of J.G. Ballard or William Gibson'
+    score: 130
+    comment_cnt: 77
+    comment_url: https://news.ycombinator.com/item?id=49387525
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://martin.kleppmann.com/2007/07/19/yes-no-cancel-causes-aspirin-sales-to-soar.html
+    title: Yes/No/Cancel causes Aspirin sales to soar (2007)
+    score: 62
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49387433
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://kagi.com/changelog#11296
     title: Kagi added a setting for removing paywalled links from search results
     score: 407
