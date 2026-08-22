@@ -1,10 +1,30 @@
 date: '2026-08-22'
-generated_at: 2026-08-22 08:02 UTC
+generated_at: 2026-08-22 10:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.0xsid.com/blog/just-want-to-search
+    title: I Just Want to Search
+    score: 107
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49390099
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/cvgvyy4x2mvo
+    title: Canada will match US tariffs 'dollar for dollar' as trade talks break down
+    score: 92
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49397074
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/
     title: Three important steps in my maturation process
     score: 126
