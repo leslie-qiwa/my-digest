@@ -1,10 +1,30 @@
 date: '2026-08-22'
-generated_at: 2026-08-22 18:01 UTC
+generated_at: 2026-08-22 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record
+    title: Chinese robot runs 100M sprint quicker than Usain Bolt's world record
+    score: 47
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49399642
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html
+    title: Anthropic IPO filing will show AI backlash as a risk factor, sources say
+    score: 32
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49401229
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/
     title: A Kantian Critique of "Sorry" by Justin Bieber
     score: 167
