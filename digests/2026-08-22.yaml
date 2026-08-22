@@ -1,0 +1,28 @@
+date: '2026-08-22'
+generated_at: 2026-08-22 02:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://lina.sh/blog/hijacking-e164-arpa
+    title: I accidentally logged hundreds of thousands of phone calls to military
+      bases
+    score: 451
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49387570
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/
+    title: Building an (almost) fully self-hosted, sandboxed, agentic software factory
+    score: 87
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49390463
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
