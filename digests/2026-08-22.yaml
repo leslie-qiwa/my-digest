@@ -1,10 +1,52 @@
 date: '2026-08-22'
-generated_at: 2026-08-22 14:01 UTC
+generated_at: 2026-08-22 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://munderdiffl.in/
+    title: Munder Difflin – Agent harness to run an office of your clones
+    score: 167
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=49398152
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy
+    title: 'Hook, hold, harvest and hide: Meta''s alleged strategy laid out in first
+      week'
+    score: 132
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=49398904
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.modelcontextprotocol.io/posts/mcp-roadmap/
+    title: The New MCP Roadmap
+    score: 74
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49399591
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://zaksa.zip/blog/formal-education-is-the-answer/
+    title: A formal degree and algorithmic problem-solving is the answer. Always has
+      been
+    score: 32
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49398710
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://matklad.github.io/2026/08/06/neat-io-threaded.html
     title: Zig’s io.threaded is neat
     score: 104
