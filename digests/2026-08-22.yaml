@@ -1,10 +1,50 @@
 date: '2026-08-22'
-generated_at: 2026-08-22 02:01 UTC
+generated_at: 2026-08-22 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/
+    title: Scientists release biggest 2D map of the universe
+    score: 162
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49392200
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://danluu.com/perf-opt/
+    title: There's no reason for software to be slow anymore
+    score: 141
+    comment_cnt: 128
+    comment_url: https://news.ycombinator.com/item?id=49395628
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders
+    title: Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders
+    score: 44
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49392331
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://nebraskapublicmedia.org/en/news/news-articles/electric-shock-gloves-already-in-use-by-police-departments-in-bellevue-omaha/
+    title: Electric shock gloves in use by police departments in Bellevue, Omaha
+    score: 37
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49394985
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://lina.sh/blog/hijacking-e164-arpa
     title: I accidentally logged hundreds of thousands of phone calls to military
       bases
