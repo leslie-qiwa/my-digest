@@ -1,10 +1,20 @@
 date: '2026-08-23'
-generated_at: 2026-08-23 08:00 UTC
+generated_at: 2026-08-23 10:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/
+    title: Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed
+    score: 98
+    comment_cnt: 78
+    comment_url: https://news.ycombinator.com/item?id=49406539
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/
     title: The Golden Rule for Becoming a Better Writer
     score: 91
