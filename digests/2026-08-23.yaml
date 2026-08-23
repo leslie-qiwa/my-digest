@@ -1,10 +1,30 @@
 date: '2026-08-23'
-generated_at: 2026-08-23 14:02 UTC
+generated_at: 2026-08-23 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.bbc.com/news/articles/cvg92y1wzn8o
+    title: Sydney Marathon medal mistakenly depicts Munich stadium
+    score: 90
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=49407576
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://henryaj.substack.com/p/the-sloppification-of-peptides
+    title: The Sloppification of Peptides
+    score: 74
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=49407341
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: http://www.os2museum.com/wp/the-end-of-an-athlon/
     title: The End of an Athlon
     score: 133
