@@ -1,10 +1,20 @@
 date: '2026-08-23'
-generated_at: 2026-08-23 10:00 UTC
+generated_at: 2026-08-23 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://erikengdahl.se/autism/isnt/
+    title: Tragically, as many as 9625 out of every 10k individuals may be neurotypical
+    score: 75
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=49407143
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/
     title: Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed
     score: 98
