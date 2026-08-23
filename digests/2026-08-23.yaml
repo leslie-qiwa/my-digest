@@ -1,10 +1,20 @@
 date: '2026-08-23'
-generated_at: 2026-08-23 00:01 UTC
+generated_at: 2026-08-23 02:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917
+    title: Why your local LLM feels dumber than it is
+    score: 184
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=49402232
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://lapcatsoftware.com/articles/2026/8/7.html
     title: hdiutil is deprecated in macOS 27 Golden Gate
     score: 151
