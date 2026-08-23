@@ -1,0 +1,27 @@
+date: '2026-08-23'
+generated_at: 2026-08-23 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://lapcatsoftware.com/articles/2026/8/7.html
+    title: hdiutil is deprecated in macOS 27 Golden Gate
+    score: 151
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49402741
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.soverybright.com/
+    title: 'Show HN: Make your logo extra bright on HDR screens'
+    score: 44
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49402521
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
