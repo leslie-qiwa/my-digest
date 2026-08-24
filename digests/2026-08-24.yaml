@@ -1,10 +1,40 @@
 date: '2026-08-24'
-generated_at: 2026-08-24 20:08 UTC
+generated_at: 2026-08-24 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.bbc.com/news/articles/c62m4gpnp78o
+    title: Oceans hit highest temperature on record
+    score: 265
+    comment_cnt: 136
+    comment_url: https://news.ycombinator.com/item?id=49424606
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/
+    title: Anger, Anxiety and Agency
+    score: 64
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=49424082
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.adafruit.com/product/6323
+    title: Adafruit USB Type C CC Resistor Fixer
+    score: 60
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49420832
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://schlarp.com/posts/everything-i-own-owned/
     title: Everything I own, owned
     score: 1324
