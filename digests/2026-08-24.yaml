@@ -1,0 +1,289 @@
+date: '2026-08-24'
+generated_at: 2026-08-24 20:08 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://schlarp.com/posts/everything-i-own-owned/
+    title: Everything I own, owned
+    score: 1324
+    comment_cnt: 331
+    comment_url: https://news.ycombinator.com/item?id=49413320
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs
+    title: How Europe is killing makers and micro-entrepreneurs
+    score: 819
+    comment_cnt: 550
+    comment_url: https://news.ycombinator.com/item?id=49419237
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.modelrepublic.org/articles/a16z-portfolio
+    title: Andreessen Horowitz is investing billions into a bleak future
+    score: 614
+    comment_cnt: 319
+    comment_url: https://news.ycombinator.com/item?id=49416055
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database
+    title: Executable Is a SQLite Database
+    score: 412
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=49415271
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/
+    title: MS Paint and Photos inivisibly watermark even locally generated output
+      with GUID
+    score: 359
+    comment_cnt: 147
+    comment_url: https://news.ycombinator.com/item?id=49421158
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://pantel.is/projects/ai-gaming-companion/
+    title: I built a low-latency AI companion that plays Skyrim with me
+    score: 321
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=49413561
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://larsfaye.com/articles/ai-coding-will-prevent-expertise
+    title: Coding expertise is going to collapse from AI reliance
+    score: 296
+    comment_cnt: 330
+    comment_url: https://news.ycombinator.com/item?id=49421554
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/
+    title: IPFS Maintainers Winding Down
+    score: 244
+    comment_cnt: 116
+    comment_url: https://news.ycombinator.com/item?id=49421489
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/
+    title: New EU-wide product repair rules come into force
+    score: 238
+    comment_cnt: 132
+    comment_url: https://news.ycombinator.com/item?id=49415621
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/
+    title: Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still
+      Online
+    score: 218
+    comment_cnt: 133
+    comment_url: https://news.ycombinator.com/item?id=49420902
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://developers.openai.com/api/docs/pricing
+    title: 'OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)'
+    score: 213
+    comment_cnt: 189
+    comment_url: https://news.ycombinator.com/item?id=49421074
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister
+    title: Woman stranded in Spain after UK's eVisa system mistakes her for twin sister
+    score: 172
+    comment_cnt: 128
+    comment_url: https://news.ycombinator.com/item?id=49417394
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/
+    title: FDA clears blood test to aid evaluation for Alzheimer's disease
+    score: 163
+    comment_cnt: 76
+    comment_url: https://news.ycombinator.com/item?id=49415893
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration
+    title: Over 5,200 Ebola cases recorded in Congo
+    score: 120
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49416097
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/c4g6ggdg030o
+    title: Nearly 3M Teslas recalled in China over hidden door handles
+    score: 114
+    comment_cnt: 137
+    comment_url: https://news.ycombinator.com/item?id=49415187
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt
+    title: 'The treasury bond mess: is this the demise of the US as a safe haven?'
+    score: 113
+    comment_cnt: 151
+    comment_url: https://news.ycombinator.com/item?id=49417941
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=49418675
+    title: 'Ask HN: Why do corporate failures always seem to punish the wrong people?'
+    score: 110
+    comment_cnt: 108
+    comment_url: https://news.ycombinator.com/item?id=49418675
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms
+    title: Rural Village in Spain Is Welcoming Digital Nomads with Open Arms
+    score: 106
+    comment_cnt: 124
+    comment_url: https://news.ycombinator.com/item?id=49412328
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://essays.georgestrakhov.com/weird/
+    title: The Future Belongs to the Weird
+    score: 94
+    comment_cnt: 82
+    comment_url: https://news.ycombinator.com/item?id=49416953
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/
+    title: The planet now has more trees than it did 35 years ago (2018)
+    score: 91
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49413004
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/future/article/20260821-why-older-tech-is-sometimes-safer-from-hackers
+    title: Why older tech is sometimes safer from hackers
+    score: 83
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=49418184
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://corkmac.app/our-ai-stance/
+    title: We never use AI. For anything
+    score: 77
+    comment_cnt: 94
+    comment_url: https://news.ycombinator.com/item?id=49417313
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://cmart.blog/claude-writing/
+    title: Why is Anthropic's public writing style so unlike Claude's?
+    score: 69
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49414934
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps
+    title: Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel
+    score: 67
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49414338
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html
+    title: Your Open Source Model Could Have a Hidden Time-Release Backdoor
+    score: 60
+    comment_cnt: 78
+    comment_url: https://news.ycombinator.com/item?id=49415854
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arxiv.org/abs/2608.16603
+    title: Public services are increasingly strained by LLM-written appeals for benefits
+    score: 57
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49422227
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/
+    title: Omacom Foundation funding hits $10M
+    score: 55
+    comment_cnt: 95
+    comment_url: https://news.ycombinator.com/item?id=49418032
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/
+    title: Where Did All the Public Bathrooms Go?
+    score: 52
+    comment_cnt: 86
+    comment_url: https://news.ycombinator.com/item?id=49422800
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
