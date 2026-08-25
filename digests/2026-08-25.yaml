@@ -1,10 +1,40 @@
 date: '2026-08-25'
-generated_at: 2026-08-25 02:01 UTC
+generated_at: 2026-08-25 06:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://paulgraham.com/prepare.html
+    title: How Universities Should Prepare Founders
+    score: 76
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=49428121
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/
+    title: Was modern art a CIA psy-op? (2020)
+    score: 50
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49428080
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels
+    title: Could we dredge the Netherlands without fossil fuels? (2018)
+    score: 48
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49420861
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines
     title: LLMs could control their host machines by exploiting inference engines
     score: 95
