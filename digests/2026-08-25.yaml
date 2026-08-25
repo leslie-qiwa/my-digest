@@ -1,10 +1,30 @@
 date: '2026-08-25'
-generated_at: 2026-08-25 08:00 UTC
+generated_at: 2026-08-25 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.bbc.com/news/articles/c4g36yze692o
+    title: Why some US restaurants are banning tips
+    score: 144
+    comment_cnt: 232
+    comment_url: https://news.ycombinator.com/item?id=49431364
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model
+    title: Thomson Reuters Launches Its Own Frontier Model
+    score: 122
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49428318
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://dejan.ai/blog/ox-alpha/
     title: Ox-Alpha Is GLM?
     score: 76
