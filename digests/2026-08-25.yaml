@@ -1,10 +1,40 @@
 date: '2026-08-25'
-generated_at: 2026-08-25 00:02 UTC
+generated_at: 2026-08-25 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines
+    title: LLMs could control their host machines by exploiting inference engines
+    score: 95
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49424387
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/
+    title: Octopus intelligence may be related to never-before-seen mutation
+    score: 83
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49423539
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://yegge.ai/essays/fences-not-sandboxes/
+    title: Fences, Not Sandboxes
+    score: 56
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49423146
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://gultsch.de/posts/25-years-of-digital-independence/
     title: 'Jabber/XMPP: 25 Years of Digital Independence'
     score: 153
