@@ -1,10 +1,50 @@
 date: '2026-08-25'
-generated_at: 2026-08-25 16:02 UTC
+generated_at: 2026-08-25 18:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.coredump.cx/p/how-much-of-hn-is-ai
+    title: How much of HN is AI?
+    score: 190
+    comment_cnt: 177
+    comment_url: https://news.ycombinator.com/item?id=49435728
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown
+    title: Building a backyard office, the build and cost breakdown
+    score: 133
+    comment_cnt: 100
+    comment_url: https://news.ycombinator.com/item?id=49434645
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents
+    title: 'Headlong: A Microharness for Persistent Agents'
+    score: 111
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49428882
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/
+    title: France's tax agency got hacked (in French)
+    score: 110
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49433064
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/
     title: New Mac mini, featuring M6 and M5 Pro
     score: 174
