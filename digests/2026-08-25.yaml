@@ -1,10 +1,60 @@
 date: '2026-08-25'
-generated_at: 2026-08-25 12:01 UTC
+generated_at: 2026-08-25 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/
+    title: Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute
+    score: 229
+    comment_cnt: 161
+    comment_url: https://news.ycombinator.com/item?id=49433292
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/
+    title: Apple Introduces New Mac Studio with M5 Max and M5 Ultra
+    score: 147
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=49433316
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/murerkinn/bookshelf
+    title: Bookshelf – Self-hosted eBook library that runs on object storage
+    score: 135
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49427001
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer
+    title: Credit Card Rewards Became a $9.2B Wealth Transfer
+    score: 120
+    comment_cnt: 241
+    comment_url: https://news.ycombinator.com/item?id=49432201
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets
+    title: Quantum battery upends the rules of charging
+    score: 48
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49431560
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.bbc.com/news/articles/c4g36yze692o
     title: Why some US restaurants are banning tips
     score: 144
