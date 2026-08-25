@@ -1,10 +1,40 @@
 date: '2026-08-25'
-generated_at: 2026-08-25 18:04 UTC
+generated_at: 2026-08-25 20:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead
+    title: Dolly Parton has died
+    score: 596
+    comment_cnt: 91
+    comment_url: https://news.ycombinator.com/item?id=49438052
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
+    title: 'OpenAI Jalapeño: Better than Nvidia Blackwell'
+    score: 145
+    comment_cnt: 92
+    comment_url: https://news.ycombinator.com/item?id=49434378
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://dfarq.homeip.net/happy-20th-birthday-to-windows-95/
+    title: Windows 95 released August 24, 1995
+    score: 101
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=49430007
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.coredump.cx/p/how-much-of-hn-is-ai
     title: How much of HN is AI?
     score: 190
