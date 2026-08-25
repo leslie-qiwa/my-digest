@@ -1,10 +1,31 @@
 date: '2026-08-25'
-generated_at: 2026-08-25 20:04 UTC
+generated_at: 2026-08-25 22:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar
+    title: FDA authorizes first wearable device that monitors ketone and blood sugar
+      levels
+    score: 145
+    comment_cnt: 97
+    comment_url: https://news.ycombinator.com/item?id=49439017
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arxiv.org/abs/2608.21590
+    title: Black hole singularity is a surface not a point
+    score: 143
+    comment_cnt: 100
+    comment_url: https://news.ycombinator.com/item?id=49437210
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead
     title: Dolly Parton has died
     score: 596
