@@ -1,10 +1,42 @@
 date: '2026-08-26'
-generated_at: 2026-08-26 18:02 UTC
+generated_at: 2026-08-26 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/
+    title: VMs won't contain cyber-capable agents
+    score: 112
+    comment_cnt: 80
+    comment_url: https://news.ycombinator.com/item?id=49450188
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.ssp.sh/brain/using-obsidian-with-ai/
+    title: It’s so hard to finish an idea that is not yours and is just suggested
+      by AI
+    score: 104
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49450898
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://home.treasury.gov/news/press-releases/sb0616
+    title: US sanctions Italian hosting provider for encrypted email to Antifa and
+      PKK
+    score: 87
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49451343
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://cartefibre.arcep.fr
     title: France reaches 94.9% fiber coverage in 2026
     score: 247
