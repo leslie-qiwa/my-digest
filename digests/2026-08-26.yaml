@@ -1,10 +1,40 @@
 date: '2026-08-26'
-generated_at: 2026-08-26 10:04 UTC
+generated_at: 2026-08-26 12:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think
+    title: RAG Is Simpler Than You Think
+    score: 129
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49445727
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/runetes/maiao
+    title: 'Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others'
+    score: 95
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49441666
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them
+    title: U.S. gov't moves to suppress pushback on data centers
+    score: 71
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49446748
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://fzakaria.com/2026/08/24/actually-queryable-executables
     title: Queryable Executables
     score: 187
