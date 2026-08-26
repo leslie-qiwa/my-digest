@@ -1,10 +1,50 @@
 date: '2026-08-26'
-generated_at: 2026-08-26 08:04 UTC
+generated_at: 2026-08-26 10:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://fzakaria.com/2026/08/24/actually-queryable-executables
+    title: Queryable Executables
+    score: 187
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49442589
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/
+    title: Tooltips need a delay, and then they need to skip it
+    score: 177
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49436786
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability
+    title: When str.lower() is a security vulnerability in Python
+    score: 127
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49440410
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://pauldix.com/the-end-of-programming
+    title: The End of Programming
+    score: 56
+    comment_cnt: 92
+    comment_url: https://news.ycombinator.com/item?id=49445717
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding
     title: More than half of adults in U.S. say they lack basic statistical understanding
     score: 69
