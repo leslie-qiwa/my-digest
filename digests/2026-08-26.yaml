@@ -1,10 +1,30 @@
 date: '2026-08-26'
-generated_at: 2026-08-26 06:03 UTC
+generated_at: 2026-08-26 08:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding
+    title: More than half of adults in U.S. say they lack basic statistical understanding
+    score: 69
+    comment_cnt: 97
+    comment_url: https://news.ycombinator.com/item?id=49444514
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026
+    title: Analyzing student votes across AI models for college essay help
+    score: 40
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=49443871
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://news.ycombinator.com/item?id=49443820
     title: 'Ask HN: What is one simple thing LLMs are insanely bad at?'
     score: 25
