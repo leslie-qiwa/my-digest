@@ -1,0 +1,27 @@
+date: '2026-08-26'
+generated_at: 2026-08-26 00:04 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1
+    title: Firefox 157 will include JPEG XL by default on all platforms
+    score: 245
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49437946
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/
+    title: Run OpenBSD on DigitalOcean for $4/month
+    score: 109
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49437483
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
