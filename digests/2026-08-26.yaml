@@ -1,10 +1,40 @@
 date: '2026-08-26'
-generated_at: 2026-08-26 12:04 UTC
+generated_at: 2026-08-26 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws
+    title: AWS Acquires DuckDB
+    score: 273
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49448321
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://climatecasino.substack.com/p/more-fucked-today-than-yesterday
+    title: More Fucked Today Than Yesterday
+    score: 84
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49441781
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270
+    title: 'Debian polls its developers on AI: permit or ban?'
+    score: 35
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49446653
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think
     title: RAG Is Simpler Than You Think
     score: 129
