@@ -1,10 +1,61 @@
 date: '2026-08-26'
-generated_at: 2026-08-26 20:01 UTC
+generated_at: 2026-08-26 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/tailscale/tailcat
+    title: Tailcat – Like netcat, but over Tailscale’s data plane
+    score: 380
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=49452990
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lwn.net/SubscriberLink/1089390/46116614cc74b814/
+    title: An ongoing 3D-printer AGPL violation
+    score: 218
+    comment_cnt: 104
+    comment_url: https://news.ycombinator.com/item?id=49452980
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://thetariffcost.com/
+    title: 'The Tariff Cost: analysis of the costs to Americans from new tariffs on
+      Canada'
+    score: 136
+    comment_cnt: 127
+    comment_url: https://news.ycombinator.com/item?id=49453161
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://artificialanalysis.ai/models/glm-5-3-flash
+    title: GLM-5.3-Flash Intelligence, Performance and Price Analysis
+    score: 128
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49450353
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.betonit.ai/p/cds-vs-nimby
+    title: CDs vs. NIMBY
+    score: 28
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49452822
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/
     title: VMs won't contain cyber-capable agents
     score: 112
