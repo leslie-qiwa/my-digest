@@ -1,10 +1,70 @@
 date: '2026-08-27'
-generated_at: 2026-08-27 18:01 UTC
+generated_at: 2026-08-27 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://calv.info/small-models-have-arrived
+    title: Small Models Have Arrived
+    score: 240
+    comment_cnt: 106
+    comment_url: https://news.ycombinator.com/item?id=49466917
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.cloudflare.com/dns-cache-memory-optimization-1111/
+    title: Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache
+    score: 229
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=49468083
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31
+    title: 'Emacs 31: An unofficial guide to Markdown-ts-mode'
+    score: 125
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49464543
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/cz6zwgg9y8go
+    title: Two German airport workers die of malaria after 'mosquito arrives on plane'
+    score: 113
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49468315
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://aiandeducation.mit.edu/report/
+    title: MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training
+    score: 84
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=49464314
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.statsignificant.com/p/hollywoods-video-game-era-is-here
+    title: Hollywood's Video Game Era Is Here. Will It Be Any Good?
+    score: 24
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49465784
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://hack8s.com/422/once-again-software-engineering-is-about-managing-complexity
     title: Software engineering is about managing complexity
     score: 100
