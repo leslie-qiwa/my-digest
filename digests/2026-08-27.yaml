@@ -1,10 +1,40 @@
 date: '2026-08-27'
-generated_at: 2026-08-27 12:01 UTC
+generated_at: 2026-08-27 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://news.ycombinator.com/item?id=49462253
+    title: 'Tell HN: PayPal Blocks GrapheneOS'
+    score: 230
+    comment_cnt: 137
+    comment_url: https://news.ycombinator.com/item?id=49462253
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=49462427
+    title: Xcancel and Nitter have been taken down
+    score: 122
+    comment_cnt: 95
+    comment_url: https://news.ycombinator.com/item?id=49462427
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://humanprogress.org/ac-is-not-a-luxury-it-is-a-necessity/
+    title: Air Conditioning Is Not a Luxury, It Is a Necessity
+    score: 95
+    comment_cnt: 195
+    comment_url: https://news.ycombinator.com/item?id=49463367
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://scott-fryxell.github.io/blog/the-harness-is-the-thing/
     title: The Harness Is the Thing
     score: 139
