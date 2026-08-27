@@ -1,10 +1,60 @@
 date: '2026-08-27'
-generated_at: 2026-08-27 14:01 UTC
+generated_at: 2026-08-27 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://pollen-robotics.com/microduck/
+    title: Pollen Robotics (Hugging Face) Microduck
+    score: 253
+    comment_cnt: 106
+    comment_url: https://news.ycombinator.com/item?id=49462763
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.clerky.com/blog/clerky-is-joining-stripe
+    title: Stripe acquires Clerky
+    score: 235
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49455956
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://crimethinc.com/2026/08/27/us-government-designates-host-of-noblogsorg-a-global-terrorist
+    title: US Government Designates Host of Noblogs.org a "Global Terrorist"
+    score: 147
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=49464391
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.exe.dev/engineering-with-ai
+    title: Six Months of Writing Code Exclusively with Agents
+    score: 55
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49465119
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://aphantasia.com/guide
+    title: Aphantasia Beginner's Guide
+    score: 37
+    comment_cnt: 78
+    comment_url: https://news.ycombinator.com/item?id=49464414
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://news.ycombinator.com/item?id=49462253
     title: 'Tell HN: PayPal Blocks GrapheneOS'
     score: 230
