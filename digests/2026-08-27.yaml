@@ -1,10 +1,41 @@
 date: '2026-08-27'
-generated_at: 2026-08-27 04:02 UTC
+generated_at: 2026-08-27 06:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/
+    title: 'CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela'
+    score: 237
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49452671
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html
+    title: Worst-case glacial lake flood scenarios in a transboundary Himalayan basin
+      2022
+    score: 117
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49456929
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://entropicthoughts.com/curmudgeon-tries-language-server
+    title: A curmudgeon tries a language server
+    score: 73
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49448150
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8
     title: Nvidia agrees to acquire Hugging Face for $13B
     score: 453
