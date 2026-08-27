@@ -1,10 +1,20 @@
 date: '2026-08-27'
-generated_at: 2026-08-27 00:02 UTC
+generated_at: 2026-08-27 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://gist.github.com/MartinEesmaa/2f4b261cb90a47e9c41ba115a011a4aa
+    title: YouTube Format IDs
+    score: 106
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49452789
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu
     title: Actinide is first startup to produce high-assay low-enriched uranium (HALEU)
     score: 132
