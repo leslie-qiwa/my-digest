@@ -1,10 +1,30 @@
 date: '2026-08-28'
-generated_at: 2026-08-28 10:03 UTC
+generated_at: 2026-08-28 12:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://noyaml.com/
+    title: That's a Lot of YAML
+    score: 58
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=49475301
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/czxq0wgkkdjo
+    title: Overcooked? Why robotic pizza makers are failing
+    score: 25
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49475993
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects
     title: M5Stack Launches PaperMono
     score: 140
