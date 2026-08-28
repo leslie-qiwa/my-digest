@@ -1,0 +1,28 @@
+date: '2026-08-28'
+generated_at: 2026-08-28 02:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://github.com/kelviq/tare
+    title: 'Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find
+      out why'
+    score: 67
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49467551
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/
+    title: Doctors are finally learning to manage antidepressant withdrawal
+    score: 61
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=49472090
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
