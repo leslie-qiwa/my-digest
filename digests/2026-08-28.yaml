@@ -1,10 +1,30 @@
 date: '2026-08-28'
-generated_at: 2026-08-28 04:02 UTC
+generated_at: 2026-08-28 08:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://neilalexander.dev/2026/06/30/flooding-contributions
+    title: Please stop flooding our projects with AI slop to furnish your CV
+    score: 157
+    comment_cnt: 106
+    comment_url: https://news.ycombinator.com/item?id=49474143
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://bankstatementconverter.com/blog/posts/2026-08-28-business-is-dying/
+    title: My Business Is Dying
+    score: 75
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49474776
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/
     title: Gemini-3.5-Transcribe
     score: 181
