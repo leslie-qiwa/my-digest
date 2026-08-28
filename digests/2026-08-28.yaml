@@ -1,10 +1,100 @@
 date: '2026-08-28'
-generated_at: 2026-08-28 14:04 UTC
+generated_at: 2026-08-28 16:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/
+    title: '"IT WoRKs BeTter in the App "'
+    score: 454
+    comment_cnt: 244
+    comment_url: https://news.ycombinator.com/item?id=49477600
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/
+    title: Luanti removed from Google Play due to baseless AI copyright notice
+    score: 225
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49475079
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://en.refund4freedom.org/
+    title: Get your Windows license refund
+    score: 209
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=49478340
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/elyosh/OpenTIE/
+    title: 'Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance'
+    score: 207
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49471965
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.epa.gov/newsreleases/epa-issues-permitting-guidance-further-president-trumps-agenda-promoting-data-centers
+    title: EPA says power for data centers can sidestep pollution laws
+    score: 192
+    comment_cnt: 169
+    comment_url: https://news.ycombinator.com/item?id=49478103
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/openai/openai-python/blob/main/httpx2.md
+    title: 'OpenAI: Migrating to HTTPX2'
+    score: 127
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49477212
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://pfrazee.leaflet.pub/3mu3p2smmis22
+    title: Select * from Internet.blogposts
+    score: 120
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49472161
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/
+    title: I Used AWS Cognito for a Startup. I Wouldn't Do It Again
+    score: 96
+    comment_cnt: 76
+    comment_url: https://news.ycombinator.com/item?id=49478091
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lwn.net/Articles/1088279/
+    title: 'Bootstrappable Builds: How and Why'
+    score: 46
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49473868
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.anthropic.com/news/model-hardware-standard-research-preview
     title: Previewing the Model Hardware Standard
     score: 128
