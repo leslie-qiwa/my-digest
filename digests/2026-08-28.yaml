@@ -1,10 +1,40 @@
 date: '2026-08-28'
-generated_at: 2026-08-28 08:03 UTC
+generated_at: 2026-08-28 10:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects
+    title: M5Stack Launches PaperMono
+    score: 140
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49468593
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://modal.cx/blog/announcing-flatpak-sta/
+    title: Sovereign Tech Agency invests €500k in Flatpak
+    score: 115
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=49474786
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://cbsaustin.com/news/local/usda-recalls-30000-pounds-of-argentine-beef-sold-in-texas-and-florida
+    title: USDA recalls 30k pounds of Argentine beef sold in Texas and Florida
+    score: 91
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49473536
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://neilalexander.dev/2026/06/30/flooding-contributions
     title: Please stop flooding our projects with AI slop to furnish your CV
     score: 157
