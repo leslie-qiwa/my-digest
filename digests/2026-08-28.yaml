@@ -1,10 +1,50 @@
 date: '2026-08-28'
-generated_at: 2026-08-28 16:04 UTC
+generated_at: 2026-08-28 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html
+    title: Hilariously Fast Volume Computation with the Divergence Theorem (2018)
+    score: 204
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49476143
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html
+    title: GUIs should be fully keyboard-driven
+    score: 113
+    comment_cnt: 80
+    comment_url: https://news.ycombinator.com/item?id=49479837
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://terminalbytes.com/run-qwen-3-8-27b-locally/
+    title: 'Run Qwen3.8 27B locally: real numbers from my Mac Studio'
+    score: 59
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49479951
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.amediaoperator.com/news/advertisers-could-soon-demand-verified-clicks/
+    title: Advertisers Could Soon Demand 'Verified Clicks'
+    score: 34
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49477231
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/
     title: '"IT WoRKs BeTter in the App "'
     score: 454
