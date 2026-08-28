@@ -1,10 +1,30 @@
 date: '2026-08-28'
-generated_at: 2026-08-28 12:03 UTC
+generated_at: 2026-08-28 14:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.anthropic.com/news/model-hardware-standard-research-preview
+    title: Previewing the Model Hardware Standard
+    score: 128
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49468834
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://infernalcode.com/posts/your-ai-agent-has-root/
+    title: AI Agent Has Root
+    score: 33
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49477311
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://noyaml.com/
     title: That's a Lot of YAML
     score: 58
@@ -106,3 +126,62 @@ feeds:
     summary_zh: ''
     content_file: ''
     summary: ''
+- id: golang-weekly
+  label: Golang Weekly
+  provider: rss_newsletter
+  items:
+  - url: https://golangweekly.com/link/189571/rss
+    title: Go 1.27 Released
+    summary: ⭐ — We spent much of the previous issue anticipating this release, so
+      we'll let it speak for itself, but 1.27 is now ready to go with the final release
+      notes and Jesús Espino's Go 1.27 interactive tour covering the full details
+      and practical updates respectively.
+    score: 0
+    tags: []
+    source: go.dev
+    domain: go.dev
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/189574/rss
+    title: Introducing Generic Methods
+    summary: A full explainer of the Go 1.27 feature that's caused the most excitement,
+      at least in terms of Go Weekly clicks! Concrete methods can now take type parameters,
+      though interface methods still cannot, and Mark explains the reason why.
+    score: 0
+    tags: []
+    source: go.dev
+    domain: go.dev
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/189590/rss
+    title: 'Goldmark 2.0: A Markdown Parser Written in Go'
+    summary: The first breaking release in seven years for Go's de facto CommonMark-compliant
+      Markdown parser. Along come generics, a cleaner split between parser and renderer
+      for non-HTML output, and position info on every AST node.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/189597/rss
+    title: 'shortuuid 5.0: Generate Concise, Unambiguous URL-Safe UUIDs'
+    summary: Think short, user-facing IDs (e.g. KwSysDpxcBU9FNhGkn2dCf) where UUIDs
+      are encoded into base57. v5.0 adds UUIDv4, v5, and v7 generators and drops its
+      last dependency by using Go 1.27's stdlib uuid package.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/189599/rss
+    title: 'Sloc, Cloc and Code (scc) 4.0: A Fast Accurate ''Code Counter'''
+    summary: Tool to count lines of code and estimate code complexity across many
+      programming languages.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
