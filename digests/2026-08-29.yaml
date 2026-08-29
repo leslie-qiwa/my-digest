@@ -1,10 +1,30 @@
 date: '2026-08-29'
-generated_at: 2026-08-29 18:00 UTC
+generated_at: 2026-08-29 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.stephendiehl.com/posts/internet_predatory_cesspit/
+    title: The Internet Is Kind of a Predatory Cesspit Now
+    score: 208
+    comment_cnt: 108
+    comment_url: https://news.ycombinator.com/item?id=49492193
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/stemdeckapp/stemdeck
+    title: StemDeck, a free, open-source and local AI stem separator
+    score: 186
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49486081
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.inventati.org/who/manifesto
     title: 'Autistici/inventati: Manifesto – who we are and what do we want (2002)'
     score: 80
