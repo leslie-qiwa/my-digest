@@ -1,0 +1,47 @@
+date: '2026-08-29'
+generated_at: 2026-08-29 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://2026.stateofthemap.org/
+    title: State of the Map 2026
+    score: 136
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49478401
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/
+    title: Stopping the smart TV from being used against you
+    score: 135
+    comment_cnt: 104
+    comment_url: https://news.ycombinator.com/item?id=49483816
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.brokk.ai/dont-use-musl-if-you-care-about-performance/
+    title: Don't use musl if you care about performance
+    score: 87
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49479826
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://log.ozgur.works/bye-bye-github.html
+    title: Bye, Bye GitHub
+    score: 61
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49483020
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
