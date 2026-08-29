@@ -1,10 +1,30 @@
 date: '2026-08-29'
-generated_at: 2026-08-29 00:02 UTC
+generated_at: 2026-08-29 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.gadgetreview.com/flock-ceos-address-spread-online-as-surveillance-backlash-explodes
+    title: Flock CEO's Address Spread Online as Surveillance Backlash Explodes
+    score: 74
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49483052
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://subsmith.app
+    title: 'Show HN: SubSmith – Turn your own videos into language-learning material'
+    score: 64
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49476894
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://2026.stateofthemap.org/
     title: State of the Map 2026
     score: 136
