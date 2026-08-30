@@ -1,10 +1,31 @@
 date: '2026-08-30'
-generated_at: 2026-08-30 06:00 UTC
+generated_at: 2026-08-30 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt
+    title: California lawmakers unanimously pass Linux exemption from age-verification
+      law
+    score: 201
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49495372
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://uecker.codeberg.page/2026-08-29.html
+    title: Indirect Calling of Nested Functions on GCC Without Executable Stack
+    score: 74
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49490138
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://danluu.com/bug-blind/
     title: Bug Blindness
     score: 162
