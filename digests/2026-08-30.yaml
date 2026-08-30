@@ -1,10 +1,41 @@
 date: '2026-08-30'
-generated_at: 2026-08-30 02:00 UTC
+generated_at: 2026-08-30 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits
+    title: DHS is using obscure law to snoop on journalists, non-profits, unions
+    score: 349
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49492219
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/
+    title: Lawmakers added $1 to car insurance policies. That money paid for Flock
+      cameras
+    score: 174
+    comment_cnt: 77
+    comment_url: https://news.ycombinator.com/item?id=49494182
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://tucker.wales/writing/bias-towards-action/
+    title: 'Calibrate Before You Accelerate: Bias Toward Action in a New Role'
+    score: 130
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49491714
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity
     title: Good Culture Is the Biggest Productivity Hack, Not AI
     score: 251
