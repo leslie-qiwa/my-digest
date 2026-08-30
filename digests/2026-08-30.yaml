@@ -1,10 +1,20 @@
 date: '2026-08-30'
-generated_at: 2026-08-30 04:01 UTC
+generated_at: 2026-08-30 06:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://danluu.com/bug-blind/
+    title: Bug Blindness
+    score: 162
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=49494520
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits
     title: DHS is using obscure law to snoop on journalists, non-profits, unions
     score: 349
