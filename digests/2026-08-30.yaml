@@ -1,10 +1,30 @@
 date: '2026-08-30'
-generated_at: 2026-08-30 12:01 UTC
+generated_at: 2026-08-30 14:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/anthropics/claude-code/issues/66504
+    title: Claude Session URL appended to commit messages and PR descriptions by default
+    score: 71
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=49498201
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.lyc8503.net/en/post/dn42-2-dnet/
+    title: Everyone Should Build Their Own Network Stack
+    score: 60
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49497200
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994
     title: Brits would quite like their private messages to stay private
     score: 114
