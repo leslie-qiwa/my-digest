@@ -1,10 +1,41 @@
 date: '2026-08-30'
-generated_at: 2026-08-30 18:00 UTC
+generated_at: 2026-08-30 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement
+    title: European Commission Revives Push for Encryption Backdoors in ProtectEU
+      Strategy
+    score: 240
+    comment_cnt: 90
+    comment_url: https://news.ycombinator.com/item?id=49499394
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arxiv.org/abs/1804.07389
+    title: Longest Straight Line Paths on Water or Land on the Earth (2018)
+    score: 176
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49496782
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/
+    title: METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack
+    score: 125
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49498787
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://0xcc.io/posts/omarchy-root-creds/
     title: 'Omarchy: Any User Process Can Escalate to Root'
     score: 176
