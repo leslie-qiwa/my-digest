@@ -1,10 +1,30 @@
 date: '2026-08-30'
-generated_at: 2026-08-30 10:01 UTC
+generated_at: 2026-08-30 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994
+    title: Brits would quite like their private messages to stay private
+    score: 114
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=49497063
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws
+    title: Algorithmic rent-pricing litigation expands under new state and local laws
+    score: 86
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49495127
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.dwarkesh.com/p/openai-huggingface
     title: The Rise and Fall of Agent Civilizations
     score: 113
