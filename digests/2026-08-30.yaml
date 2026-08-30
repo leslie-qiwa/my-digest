@@ -1,0 +1,47 @@
+date: '2026-08-30'
+generated_at: 2026-08-30 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/
+    title: Tencent Releases and Open-Sources Tencent Hy4 Preview
+    score: 158
+    comment_cnt: 97
+    comment_url: https://news.ycombinator.com/item?id=49492632
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude
+    title: Warp builds self-improving agents on Claude
+    score: 55
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49492432
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer
+    title: What we want is a hunter gatherer lifestyle with space age tools
+    score: 53
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49493244
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://pgaleone.eu/ai/2026/08/29/losing-savviness/
+    title: LLMs are making me lose my savviness
+    score: 51
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=49492184
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
