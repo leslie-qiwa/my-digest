@@ -1,10 +1,30 @@
 date: '2026-08-31'
-generated_at: 2026-08-31 06:01 UTC
+generated_at: 2026-08-31 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/
+    title: Understanding ChatGPT Work
+    score: 152
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49504625
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://openclaw.ai/blog/openclaw-2-accidentally
+    title: OpenClaw 2.0, Accidentally
+    score: 71
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=49505310
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html
     title: UC Berkeley indefinitely suspends international student work authorizations
     score: 83
