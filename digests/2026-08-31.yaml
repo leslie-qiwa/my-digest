@@ -1,10 +1,70 @@
 date: '2026-08-31'
-generated_at: 2026-08-31 14:02 UTC
+generated_at: 2026-08-31 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/
+    title: A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history
+    score: 298
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49506182
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/astral-sh/uv/pull/21327
+    title: 'uv: Deduplicate all files in the wheel cache'
+    score: 156
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=49506142
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://calpaterson.com/memoryfields.html
+    title: Agent Memory as a File Format
+    score: 102
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49508317
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary
+    title: I Think the Military Commissary's Freezers Were Hacked
+    score: 77
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49508506
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/
+    title: Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio
+    score: 64
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=49508982
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lukaszkups.net/notes/early-2000s-were-peak-of-humanity/
+    title: Early 2000s were peak of humanity
+    score: 38
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49507334
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/
     title: 'OpenShot 4.0: Record, Edit, and Color Like Never Before'
     score: 259
