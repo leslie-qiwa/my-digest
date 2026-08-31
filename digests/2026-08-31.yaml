@@ -1,10 +1,30 @@
 date: '2026-08-31'
-generated_at: 2026-08-31 08:01 UTC
+generated_at: 2026-08-31 10:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names
+    title: P99 0 ms* autocomplete for 240M domain names
+    score: 125
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49505219
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://maurycyz.com/misc/etherfiles/
+    title: Transfer files over an Ethernet patch cable
+    score: 95
+    comment_cnt: 76
+    comment_url: https://news.ycombinator.com/item?id=49505217
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/
     title: Understanding ChatGPT Work
     score: 152
