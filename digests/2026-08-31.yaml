@@ -1,10 +1,92 @@
 date: '2026-08-31'
-generated_at: 2026-08-31 18:01 UTC
+generated_at: 2026-08-31 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/
+    title: I turned my security cameras into an automatic bird identification system
+    score: 208
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49511856
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/
+    title: 'Study: Blue light impairs the eye''s ability to distinguish fine detail
+      most'
+    score: 84
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49507121
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.gadgetreview.com/student-teacher-sent-a-private-snapchat-complaining-about-her-workday-an-hour-later-police-pulled-up-to-her-school
+    title: Student teacher arrested for private Snapchat message
+    score: 75
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49512789
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.olafalders.com/2026/08/31/you-rename-my-lake-i-move-my-hosting/
+    title: You Rename My Lake – I Move My Hosting
+    score: 73
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49512574
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.thenewatlantis.com/publications/you-probably-own-this-7-eleven
+    title: You probably own this 7-Eleven (and that's why it looks so sad)
+    score: 69
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=49511720
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.unpopularfront.news/p/marx-keynes-and-ai
+    title: Marx, Keynes, and AI
+    score: 54
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49510302
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html
+    title: The safest job from AI may be writing
+    score: 43
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49512856
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake
+    title: Since it was stripped of planetary status, Pluto’s defenders have been
+      fighting
+    score: 22
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=49506148
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/101053-rakuten-kobo-re-enters-u-s-retail-as-sales-double.html
     title: Rakuten Kobo returns to U.S. retail as sales double
     score: 80
