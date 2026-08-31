@@ -1,10 +1,20 @@
 date: '2026-08-31'
-generated_at: 2026-08-31 02:01 UTC
+generated_at: 2026-08-31 04:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/
+    title: Startup Anti-Patterns
+    score: 106
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49499831
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://unsung.aresluna.org/i-just-chose-words-carefully/
     title: “I just chose words carefully”
     score: 288
