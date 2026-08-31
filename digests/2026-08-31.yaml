@@ -1,0 +1,37 @@
+date: '2026-08-31'
+generated_at: 2026-08-31 02:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://unsung.aresluna.org/i-just-chose-words-carefully/
+    title: “I just chose words carefully”
+    score: 288
+    comment_cnt: 78
+    comment_url: https://news.ycombinator.com/item?id=49503601
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ziglang.org/devlog/2026/#2026-08-27
+    title: 'Zig: Pointer Stability for ArrayLists'
+    score: 84
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49499095
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://adropincalm.com/blog/thoughts-on-magnifica-humanitas/
+    title: Thoughts on Pope Leo XIV's Magnifica Humanitas
+    score: 51
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49503587
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
