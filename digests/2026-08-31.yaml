@@ -1,10 +1,40 @@
 date: '2026-08-31'
-generated_at: 2026-08-31 04:00 UTC
+generated_at: 2026-08-31 06:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html
+    title: UC Berkeley indefinitely suspends international student work authorizations
+    score: 83
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=49505288
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=49505014
+    title: Why do I lose my passion and want to do nothing?
+    score: 68
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49505014
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis
+    title: 'The EU has begun enforcing the AI Act: first RFIs to model providers'
+    score: 37
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49505351
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/
     title: Startup Anti-Patterns
     score: 106
