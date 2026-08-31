@@ -1,10 +1,70 @@
 date: '2026-08-31'
-generated_at: 2026-08-31 10:01 UTC
+generated_at: 2026-08-31 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/
+    title: 'OpenShot 4.0: Record, Edit, and Color Like Never Before'
+    score: 259
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=49507822
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/
+    title: Breaking Claude Code Opus 5 Auto Mode
+    score: 192
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49506819
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.abortretry.fail/p/matrox
+    title: 'Matrox: Graphics for Professionals'
+    score: 152
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49503934
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://dreamstation.systems/personal/ntppost.html
+    title: Internet centralization and the original sin of NAT
+    score: 64
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49504905
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails
+    title: Meta Security Researcher's AI Agent Accidentally Deleted Her Emails
+    score: 56
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49506655
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://martiansoftware.com/articles/ai-written-code-is-still-yours
+    title: AI-Written Code Is Still *Your* Code. Are You OK with That?
+    score: 45
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=49508664
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names
     title: P99 0 ms* autocomplete for 240M domain names
     score: 125
