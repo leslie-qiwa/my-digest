@@ -1,10 +1,20 @@
 date: '2026-08-31'
-generated_at: 2026-08-31 20:02 UTC
+generated_at: 2026-08-31 22:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://smallpotatoes.paulbloom.net/p/kids-these-days
+    title: Kids These Days
+    score: 51
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49512618
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/
     title: I turned my security cameras into an automatic bird identification system
     score: 208
