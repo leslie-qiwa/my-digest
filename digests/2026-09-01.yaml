@@ -1,10 +1,61 @@
 date: '2026-09-01'
-generated_at: 2026-09-01 18:01 UTC
+generated_at: 2026-09-01 20:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.anthropic.com/claude-fable-and-mythos-5-1
+    title: Claude Fable 5.1 and Claude Mythos 5.1
+    score: 521
+    comment_cnt: 470
+    comment_url: https://news.ycombinator.com/item?id=49525378
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/
+    title: Dwarf Fortress' creator says the industry's in shambles over AI
+    score: 137
+    comment_cnt: 117
+    comment_url: https://news.ycombinator.com/item?id=49523720
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ersc.io/blog/martin-joins-ersc
+    title: The creator of Jujutsu has joined ERSC
+    score: 104
+    comment_cnt: 89
+    comment_url: https://news.ycombinator.com/item?id=49525297
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/carloslfu/slotstream
+    title: 'Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s'
+    score: 81
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49524447
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.dolthub.com/blog/2026-08-31-doltlite-beta/
+    title: 'DoltLite: A SQLite fork with Git-style version control, built with 2k
+      agent PRs'
+    score: 60
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49516848
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/
     title: Introducing Ad Blocker for Firefox on iOS
     score: 148
