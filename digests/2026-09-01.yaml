@@ -1,10 +1,50 @@
 date: '2026-09-01'
-generated_at: 2026-09-01 12:01 UTC
+generated_at: 2026-09-01 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/ankidroid/Anki-Android/issues/21656
+    title: 'AnkiDroid: Google Play no longer allowing Open Collective donation link'
+    score: 374
+    comment_cnt: 80
+    comment_url: https://news.ycombinator.com/item?id=49520022
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.anildash.com/2025/09/09/how-tim-cook-sold-out-steve-jobs/
+    title: Tim Cook Sold Out Steve Jobs
+    score: 124
+    comment_cnt: 145
+    comment_url: https://news.ycombinator.com/item?id=49520896
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype
+    title: 'EFF to Courts: Don''t Rewrite Copyright over AI Hype'
+    score: 70
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49521315
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://community.openstreetmap.org/t/lake-ontario-lake-america/146975
+    title: Lake Ontario ("Lake America")
+    score: 43
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=49520270
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://antigravity.google/docs/boost/
     title: Google Antigravity introduces Boost deep reasoning (/boost)
     score: 70
