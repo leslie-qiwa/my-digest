@@ -1,10 +1,40 @@
 date: '2026-09-01'
-generated_at: 2026-09-01 02:01 UTC
+generated_at: 2026-09-01 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.darlinghq.org/
+    title: Run macOS Software on Linux
+    score: 153
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49515830
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cppstories.com/2026/hardening-experiments/
+    title: 'C++26: Standard Library Hardening Experiments'
+    score: 79
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49510511
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=49510066
+    title: 'Ask HN: What would happen if your company stopped using all AI tomorrow?'
+    score: 30
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49510066
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://codex-tool-reference.simonw.chatgpt.site/
     title: ChatGPT Work Tool and Skill Reference
     score: 183
