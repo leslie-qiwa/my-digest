@@ -1,10 +1,30 @@
 date: '2026-09-01'
-generated_at: 2026-09-01 10:00 UTC
+generated_at: 2026-09-01 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://antigravity.google/docs/boost/
+    title: Google Antigravity introduces Boost deep reasoning (/boost)
+    score: 70
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49517537
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://serverbox.stupidlabs.lol/
+    title: 'Show HN: Linux server management over SSH – written in Rust and Tauri'
+    score: 47
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49509679
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide
     title: Develop Cross-Platform CLI and GUI Tools with Tcl/Tk
     score: 104
