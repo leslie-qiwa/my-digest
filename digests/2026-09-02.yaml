@@ -1,10 +1,40 @@
 date: '2026-09-02'
-generated_at: 2026-09-02 06:03 UTC
+generated_at: 2026-09-02 08:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/
+    title: FBI Probes Service Selling 153M+ Drivers Licenses
+    score: 178
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=49529621
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://dbushell.com/2026/09/01/text-editor/
+    title: Fine, I'll build my own text editor
+    score: 76
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=49524863
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.texasmonthly.com/culture/mike-judge-idiocracy-turns-20/
+    title: '''Idiocracy'' Predicted All of This'
+    score: 71
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49530972
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://lws.io/blog/my-local-model-setup/
     title: My local model setup on an M4 Pro Mac Mini
     score: 132
