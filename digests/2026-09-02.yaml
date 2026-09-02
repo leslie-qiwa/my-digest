@@ -1,10 +1,81 @@
 date: '2026-09-02'
-generated_at: 2026-09-02 14:03 UTC
+generated_at: 2026-09-02 16:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://lwn.net/Articles/1090585/
+    title: A Note from LWN
+    score: 413
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=49535752
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training
+    title: Mistral now trains on user input by default, except on enterprise tier
+    score: 151
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49535284
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability
+    title: Dutch central bank moves share of gold from U.S., Canada to London
+    score: 147
+    comment_cnt: 129
+    comment_url: https://news.ycombinator.com/item?id=49535526
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://deepmind.google/models/model-cards/gemini-3-8-flash/
+    title: Gemini 3.8 Flash
+    score: 136
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=49537553
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/
+    title: Three sites made 215,128 “best software” pages for AI. Perplexity cites
+      them
+    score: 122
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=49536375
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.worksinprogress.news/p/just-bury-your-trash
+    title: Just Bury Your Trash
+    score: 90
+    comment_cnt: 136
+    comment_url: https://news.ycombinator.com/item?id=49535835
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/
+    title: Sweden pauses Denmark power cable over EU grid rules
+    score: 50
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49533809
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://dfarq.homeip.net/commodore-64-released-september-1-1982/
     title: Commodore 64 released September 1, 1982
     score: 194
