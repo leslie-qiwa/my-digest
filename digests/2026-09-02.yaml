@@ -1,10 +1,30 @@
 date: '2026-09-02'
-generated_at: 2026-09-02 00:03 UTC
+generated_at: 2026-09-02 02:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://news.ycombinator.com/item?id=49522897
+    title: 'Ask HN: Who is hiring? (September 2026)'
+    score: 183
+    comment_cnt: 204
+    comment_url: https://news.ycombinator.com/item?id=49522897
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/fregacmols/RotaryCell
+    title: 'RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3'
+    score: 143
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49517297
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/
     title: Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI
       suit
