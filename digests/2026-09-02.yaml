@@ -1,10 +1,40 @@
 date: '2026-09-02'
-generated_at: 2026-09-02 08:03 UTC
+generated_at: 2026-09-02 10:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.worldlabs.ai/blog/atlas
+    title: 'Atlas: A World Model for Spatial Intelligence'
+    score: 223
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49525160
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=49522896
+    title: 'Ask HN: Who wants to be hired? (September 2026)'
+    score: 89
+    comment_cnt: 287
+    comment_url: https://news.ycombinator.com/item?id=49522896
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://iurii.net/en/blog/posts/software-engineering/i-used-fable-to-rewrite-65kloc-to-rust/
+    title: I used Fable to rewrite 65kLoC of Go in Rust. It cost $400
+    score: 62
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49526131
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/
     title: FBI Probes Service Selling 153M+ Drivers Licenses
     score: 178
