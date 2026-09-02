@@ -1,10 +1,30 @@
 date: '2026-09-02'
-generated_at: 2026-09-02 16:04 UTC
+generated_at: 2026-09-02 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/
+    title: Gemini 3.8 Flash and 3.8 Flash Cyber
+    score: 464
+    comment_cnt: 267
+    comment_url: https://news.ycombinator.com/item?id=49537553
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up
+    title: Why humanoid robots won't catch up to human workers any time soon
+    score: 33
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49535506
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://lwn.net/Articles/1090585/
     title: A Note from LWN
     score: 413
