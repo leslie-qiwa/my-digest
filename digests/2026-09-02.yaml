@@ -1,10 +1,30 @@
 date: '2026-09-02'
-generated_at: 2026-09-02 02:03 UTC
+generated_at: 2026-09-02 06:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://lws.io/blog/my-local-model-setup/
+    title: My local model setup on an M4 Pro Mac Mini
+    score: 132
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49529132
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html
+    title: Refurbishing a Tektronix TDS7104 Oscilloscope
+    score: 107
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49527232
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://news.ycombinator.com/item?id=49522897
     title: 'Ask HN: Who is hiring? (September 2026)'
     score: 183
