@@ -1,10 +1,50 @@
 date: '2026-09-02'
-generated_at: 2026-09-02 20:02 UTC
+generated_at: 2026-09-02 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://turtlespace.blog/p/exit-the-cave
+    title: Exit the Cave
+    score: 182
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49536606
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://coyotetracks.org/blog/stay-in-tech/
+    title: I Don't Think I Can Stay in Tech
+    score: 64
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49540138
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.marginallycompelling.com/p/the-american-worker-vs-the-most-qualified
+    title: The American Worker vs. the Most Qualified
+    score: 63
+    comment_cnt: 96
+    comment_url: https://news.ycombinator.com/item?id=49540575
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://worksinprogress.co/issue/just-bury-your-trash/
+    title: 'Just bury your trash: What if everything we know about recycling is wrong?'
+    score: 42
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49536536
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/
     title: Aging Brains Blend Memories Together Instead of Just Forgetting Them
     score: 150
