@@ -1,10 +1,30 @@
 date: '2026-09-03'
-generated_at: 2026-09-03 20:02 UTC
+generated_at: 2026-09-03 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://arcprize.org/blog/astra
+    title: OpenAI's GPT-6 Astra on ARC-AGI-3
+    score: 107
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49555691
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.noahpinion.blog/p/the-death-of-market-street
+    title: The death of San Francisco's Market Street
+    score: 38
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49555478
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html
     title: Nvidia to acquire Hugging Face
     score: 286
