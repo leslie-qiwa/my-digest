@@ -1,0 +1,17 @@
+date: '2026-09-03'
+generated_at: 2026-09-03 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://www.uber.com/us/en/newsroom/simplerfasteruber/
+    title: Uber is laying off 10% of staff
+    score: 111
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49535246
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
