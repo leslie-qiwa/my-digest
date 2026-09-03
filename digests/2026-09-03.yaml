@@ -1,10 +1,70 @@
 date: '2026-09-03'
-generated_at: 2026-09-03 16:02 UTC
+generated_at: 2026-09-03 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://neil.fraser.name/news/2026/09/03/
+    title: .name Termination
+    score: 600
+    comment_cnt: 155
+    comment_url: https://news.ycombinator.com/item?id=49550772
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=49551096
+    title: 'Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?'
+    score: 168
+    comment_cnt: 136
+    comment_url: https://news.ycombinator.com/item?id=49551096
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/
+    title: Sony makes bold claim about game ownership
+    score: 137
+    comment_cnt: 167
+    comment_url: https://news.ycombinator.com/item?id=49551925
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.yahoo.com/news/16-old-girls-win-google-science-fair-simple-194434703.html
+    title: Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2014)
+    score: 135
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49546800
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.military.com/ice-has-a-2-million-contract-for-spyware-that-can-hack-phones-without-a-click
+    title: ICE Has a $2M Contract for Spyware That Can Hack Phones Without a Click
+    score: 76
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49549762
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://claude.com/blog/claude-for-commerce-agents
+    title: Claude for Commerce Agents
+    score: 51
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49547888
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/
     title: Nvidia to Acquire Hugging Face
     score: 171
