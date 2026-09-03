@@ -1,10 +1,70 @@
 date: '2026-09-03'
-generated_at: 2026-09-03 00:01 UTC
+generated_at: 2026-09-03 02:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/PhiloLabs/fable51-worlds
+    title: Fable 5.1 World Modeling
+    score: 145
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49541458
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/c86xpv8l9y9o
+    title: Uber shuts operations in Nigeria and Uganda with immediate effect
+    score: 97
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49543007
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident
+    title: METR Report on OpenAI / Hugging Face Hacking Incident
+    score: 87
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=49543841
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.smithsonianmag.com/science-nature/earths-organisms-developed-via-evolution-some-theorists-wonder-what-if-the-entire-cosmos-did-too-180989338/
+    title: Earth's organisms developed via evolution. What if the cosmos did, too?
+    score: 66
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49539805
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/
+    title: AI Agents and the Refactoring That Never Happens
+    score: 41
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49541496
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://martinfowler.com/rachels-ramblings/code-review.html
+    title: Maybe We Shouldn't Be Reviewing All This Code
+    score: 36
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=49543535
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.uber.com/us/en/newsroom/simplerfasteruber/
     title: Uber is laying off 10% of staff
     score: 111
