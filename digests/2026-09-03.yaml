@@ -1,10 +1,61 @@
 date: '2026-09-03'
-generated_at: 2026-09-03 10:01 UTC
+generated_at: 2026-09-03 12:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://pola.rs/posts/announcing-polars-2/
+    title: Pre-Release of Polars 2.0
+    score: 215
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49546753
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/
+    title: Async Rust vs RTOS showdown (2022)
+    score: 100
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49540415
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets
+    title: Japan halves speed limit to 30km/h on all narrow city streets
+    score: 63
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=49547763
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest
+    title: Dutch central bank moves 86 tonnes of gold from US citing 'geopolitical
+      unrest'
+    score: 63
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49545747
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.betonit.ai/p/reflections-on-americans-net-worth
+    title: Reflections on Americans' Net Worth
+    score: 36
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49544226
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://secondthoughts.ai/p/14-reasons-robotics-is-hard
     title: Reasons robotics is hard
     score: 95
