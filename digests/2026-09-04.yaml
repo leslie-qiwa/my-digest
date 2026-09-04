@@ -1,10 +1,60 @@
 date: '2026-09-04'
-generated_at: 2026-09-04 14:01 UTC
+generated_at: 2026-09-04 16:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://bob.ibm.com/
+    title: IBM Bob
+    score: 101
+    comment_cnt: 98
+    comment_url: https://news.ycombinator.com/item?id=49563851
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.oo-software.com/en/shutup10
+    title: O&O ShutUp10 – The antispy tool for Windows 10 and 11
+    score: 80
+    comment_cnt: 78
+    comment_url: https://news.ycombinator.com/item?id=49562895
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://support.google.com/mail/answer/22370?hl=en
+    title: GMails custom domain "send as" discontinues January 2027
+    score: 63
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49565693
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://jennywanger.com/articles/burnt-out-on-a-three-day-week/
+    title: Burnt out on a three-day week
+    score: 59
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49564960
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline
+    title: The Raspberry Pi Interactive Timeline · 2006–2026
+    score: 49
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49562062
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://collusion.wiki/
     title: Discovery of a new OpenAI agent message board
     score: 322
@@ -139,3 +189,86 @@ feeds:
     summary_zh: ''
     content_file: ''
     summary: ''
+- id: golang-weekly
+  label: Golang Weekly
+  provider: rss_newsletter
+  items:
+  - url: https://golangweekly.com/link/189902/rss
+    title: Go 1.27 Can Now Find Leaked Goroutines
+    summary: Go 1.27 added a goroutineleak profile that spots goroutines permanently
+      blocked on channels or sync primitives, even in production. It piggybacks on
+      the GC's reachability tracing and is quite precise. Unusually for a Go feature,
+      this began life as an academic paper (of which Vlad was lead author) fr
+    score: 0
+    tags: []
+    source: go.dev
+    domain: go.dev
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/189903/rss
+    title: 'TinyGo 0.42: recover Works, and Go Can Now Boot Your PC'
+    summary: A big one for the Go compiler for microcontrollers and WebAssembly, which
+      can now recover from runtime panics (like nil dereferences) as standard Go does.
+      Go 1.27 support also arrives and, curiously, a UEFI target (in early form) so
+      Go code can run before the OS does.
+    score: 0
+    tags: []
+    source: tinygo.org
+    domain: tinygo.org
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/189907/rss
+    title: How Swiss Tables Work in Go’s Built-in Map
+    summary: If you've wondered what happens when you write m[key] = value in Go,
+      this illustrated tour of the new (as of 1.24) Swiss Table implementation is
+      fantastic. It also covers 1.27's mapsplitgroup experiment that separates keys
+      from values in memory.
+    score: 0
+    tags: []
+    source: victoriametrics.com
+    domain: victoriametrics.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/189908/rss
+    title: 'The New Go JSON API: Twice As Fast, or 1.5x Slower?'
+    summary: 📊 — A quick benchmark of Go 1.27's JSON packages, including encoding/json/v2.
+      Unmarshalling is faster with v2, but Daniel finds marshalling a slice of typed
+      structs is 1.5x slower, counter to the performance claims in the release notes.
+    score: 0
+    tags: []
+    source: lemire.me
+    domain: lemire.me
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/189909/rss
+    title: Rewriting a Node.js Service in Go with AI Agents
+    summary: 🤖 — A truly 2026 tale of an overnight porting run, with a focus on doing
+      agentic engineering well, like building a solid test harness first.
+    score: 0
+    tags: []
+    source: www.checklyhq.com
+    domain: www.checklyhq.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/189910/rss
+    title: 'purego 0.11: Call C Functions from Go without Cgo'
+    summary: Born from porting Ebitengine off Cgo, this lets you Dlopen a shared library
+      and register C functions as Go functions. v0.11 requires Go 1.25+ but adds struct
+      passing on Windows, Android, and iOS and supports structs in callbacks.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/189913/rss
+    title: 'Tailcat: Tailscale''s WireGuard, NAT Traversal and DERP as a Go Library'
+    summary: Brad's netcat over Tailscale's WireGuard, NAT traversal and DERP data
+      plane (minus the control plane). Anyone fancy creating hole-punched net.Conns
+      between any two machines?
+    score: 0
+    tags: []
+    source: tailscale.com
+    domain: tailscale.com
+    summary_zh: ''
+    content_file: ''
