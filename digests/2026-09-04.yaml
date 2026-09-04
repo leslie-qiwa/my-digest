@@ -1,10 +1,21 @@
 date: '2026-09-04'
-generated_at: 2026-09-04 10:01 UTC
+generated_at: 2026-09-04 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/
+    title: Hackers Had a Live Feed of Every ID Verification Company Scanned for over
+      a Year
+    score: 228
+    comment_cnt: 85
+    comment_url: https://news.ycombinator.com/item?id=49561320
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.agentconnect.md/blog/grep-beat-lsp-harness/
     title: Grep beats LSP? Why coding agents ignore your fancier tools
     score: 76
