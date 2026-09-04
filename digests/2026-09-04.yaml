@@ -1,10 +1,61 @@
 date: '2026-09-04'
-generated_at: 2026-09-04 18:02 UTC
+generated_at: 2026-09-04 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.anthropic.com/research/formalizing-fermats-last-theorem
+    title: Formalizing Fermat's Last Theorem
+    score: 164
+    comment_cnt: 92
+    comment_url: https://news.ycombinator.com/item?id=49568506
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/
+    title: Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta
+      Executive
+    score: 164
+    comment_cnt: 90
+    comment_url: https://news.ycombinator.com/item?id=49567053
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/
+    title: Nobody Is Saying Why OpenAI and Anthropic Had Outages
+    score: 163
+    comment_cnt: 111
+    comment_url: https://news.ycombinator.com/item?id=49567594
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/
+    title: Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal
+    score: 129
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=49564714
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html
+    title: Stop Thinking of LLMs as Next-Token Predictors
+    score: 19
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49567310
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products
     title: Google AI Mode shows same products 21.6% more expensive than traditional
       search
