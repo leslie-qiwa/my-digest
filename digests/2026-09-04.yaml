@@ -1,10 +1,20 @@
 date: '2026-09-04'
-generated_at: 2026-09-04 06:02 UTC
+generated_at: 2026-09-04 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/
+    title: A mysterious kidney disease has arrived in Texas
+    score: 75
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49559992
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://armature.tech/blog/which-tools-coding-agents-install
     title: Which tools do Claude, Codex and Cursor choose? We measured 17k runs to
       find out
