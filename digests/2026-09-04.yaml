@@ -1,0 +1,37 @@
+date: '2026-09-04'
+generated_at: 2026-09-04 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/
+    title: Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly
+    score: 171
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49550375
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92
+    title: Gloria Steinem has died
+    score: 132
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49548256
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/
+    title: The asteroid currently hitting front end web development
+    score: 61
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49555233
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
