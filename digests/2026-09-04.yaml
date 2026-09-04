@@ -1,10 +1,51 @@
 date: '2026-09-04'
-generated_at: 2026-09-04 16:04 UTC
+generated_at: 2026-09-04 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products
+    title: Google AI Mode shows same products 21.6% more expensive than traditional
+      search
+    score: 310
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49563386
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers
+    title: US Military disables ad trackers on troops' phones
+    score: 117
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49564555
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://spacetimedb.com/blog/how-does-spacetime-scale
+    title: Ok, but does it scale?
+    score: 88
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49563772
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/hawshemi/lg-c5-webos25-region-change
+    title: Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region
+    score: 40
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49563839
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://bob.ibm.com/
     title: IBM Bob
     score: 101
