@@ -1,10 +1,41 @@
 date: '2026-09-04'
-generated_at: 2026-09-04 12:01 UTC
+generated_at: 2026-09-04 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://collusion.wiki/
+    title: Discovery of a new OpenAI agent message board
+    score: 322
+    comment_cnt: 215
+    comment_url: https://news.ycombinator.com/item?id=49563355
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://tuta.com/blog/android-side-load-apps-google
+    title: 120 days until Google restricts side-loading, declaring war on Android
+      freedom
+    score: 147
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49554372
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://apnews.com/article/gas-diesel-prices-us-iran-war-ebd01b9773365ee40550dcfd7d3ebf87
+    title: US diesel prices hit a record high of $5.85 on average
+    score: 50
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=49562814
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/
     title: Hackers Had a Live Feed of Every ID Verification Company Scanned for over
       a Year
