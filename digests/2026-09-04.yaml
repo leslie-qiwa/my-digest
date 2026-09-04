@@ -1,10 +1,21 @@
 date: '2026-09-04'
-generated_at: 2026-09-04 00:02 UTC
+generated_at: 2026-09-04 02:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california
+    title: Artificial beaver dams saw juvenile coho salmon survival rates go from
+      8% to 60%
+    score: 157
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49552572
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/
     title: Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly
     score: 171
