@@ -1,10 +1,60 @@
 date: '2026-09-05'
-generated_at: 2026-09-05 18:01 UTC
+generated_at: 2026-09-05 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen
+    title: How the Disaster of "Forever Chemicals" Was Kept Secret
+    score: 241
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=49576986
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/
+    title: The "$60 Gaming PC" – AMD BC-250 (2025)
+    score: 200
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49576386
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/
+    title: Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA
+    score: 186
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=49577975
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods
+    title: How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)
+    score: 120
+    comment_cnt: 82
+    comment_url: https://news.ycombinator.com/item?id=49577985
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://marco.org/2026/09/04/bob-and-van
+    title: Bob and Van
+    score: 34
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=49578136
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/
     title: Flock used >100 times to track veteran who recorded traffic stop
     score: 248
