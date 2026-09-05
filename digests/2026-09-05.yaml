@@ -1,10 +1,40 @@
 date: '2026-09-05'
-generated_at: 2026-09-05 10:02 UTC
+generated_at: 2026-09-05 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990
+    title: Netherlands pulls gold out of the US for fears of 'geopolitical unrest'
+    score: 143
+    comment_cnt: 89
+    comment_url: https://news.ycombinator.com/item?id=49575034
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2
+    title: Artificial Analysis Intelligence Index v4.2
+    score: 130
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49571632
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation
+    title: 'GPT-6 Astra in code review: Gains, privacy, and cost'
+    score: 66
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49572875
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems
     title: AI handles incidents, engineers lose touch with their systems
     score: 92
