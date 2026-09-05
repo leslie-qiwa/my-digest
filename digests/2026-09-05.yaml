@@ -1,10 +1,30 @@
 date: '2026-09-05'
-generated_at: 2026-09-05 02:01 UTC
+generated_at: 2026-09-05 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.bbc.com/news/articles/cvgyn8q8gqxo
+    title: Why are European countries moving their gold out of North America?
+    score: 109
+    comment_cnt: 140
+    comment_url: https://news.ycombinator.com/item?id=49573455
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90
+    title: Portal by Spotify cut my Claude Code token usage by 90%
+    score: 105
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49571465
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx
     title: Record-High 89% in U.S. Say Government Corruption Widespread
     score: 189
