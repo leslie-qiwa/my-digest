@@ -1,10 +1,30 @@
 date: '2026-09-05'
-generated_at: 2026-09-05 14:02 UTC
+generated_at: 2026-09-05 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone
+    title: Global warming will exceed 1.5-degree limit, UN says
+    score: 201
+    comment_cnt: 172
+    comment_url: https://news.ycombinator.com/item?id=49576124
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/
+    title: There's No Limit to How Bad Code Can Get
+    score: 75
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49576704
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990
     title: Netherlands pulls gold out of the US for fears of 'geopolitical unrest'
     score: 143
