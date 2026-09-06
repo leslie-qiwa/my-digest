@@ -1,10 +1,40 @@
 date: '2026-09-06'
-generated_at: 2026-09-06 10:00 UTC
+generated_at: 2026-09-06 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight
+    title: Isar Aerospace reaches orbit and deploys payloads on second flight
+    score: 253
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49584083
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/
+    title: You Don't Have a Right to Safe Drinking Water, US Court Rules
+    score: 165
+    comment_cnt: 98
+    comment_url: https://news.ycombinator.com/item?id=49584637
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://bergie.iki.fi/blog/eupl/
+    title: I Changed My License
+    score: 58
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49585161
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://lapcatsoftware.com/articles/2026/9/1.html
     title: Chrome again exempts Google from user site data settings
     score: 403
