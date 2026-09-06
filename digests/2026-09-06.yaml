@@ -1,10 +1,50 @@
 date: '2026-09-06'
-generated_at: 2026-09-06 20:01 UTC
+generated_at: 2026-09-06 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://asahilinux.org/2026/09/m2-episode-1/
+    title: Asahi Linux on M3
+    score: 268
+    comment_cnt: 153
+    comment_url: https://news.ycombinator.com/item?id=49586698
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/
+    title: The car industry A/B tested selling a car with and without CarPlay
+    score: 82
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=49590225
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark
+    title: Recreating Minecraft Is Not a Benchmark
+    score: 66
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49587040
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://out-of-hell.xylon.me.uk/shortage.html
+    title: There Gonna Be a Shortage of Everything
+    score: 32
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49590129
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/zedeus/nitter
     title: Following legal advice, the Nitter project will continue
     score: 224
