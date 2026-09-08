@@ -1,10 +1,40 @@
 date: '2026-09-08'
-generated_at: 2026-09-08 18:03 UTC
+generated_at: 2026-09-08 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person
+    title: We Must Return to the Office to Use AI in Person
+    score: 347
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49610229
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/
+    title: The two Christian saints who are the Buddha
+    score: 157
+    comment_cnt: 88
+    comment_url: https://news.ycombinator.com/item?id=49611051
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.openui.com/blog/oui-1
+    title: 'OUI-1: world''s first model for Generative UI'
+    score: 46
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49613182
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/
     title: Google DeepMind Releases AlphaGenome Atlas
     score: 247
