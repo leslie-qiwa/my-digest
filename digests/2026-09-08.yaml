@@ -1,10 +1,60 @@
 date: '2026-09-08'
-generated_at: 2026-09-08 04:01 UTC
+generated_at: 2026-09-08 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/
+    title: Mistral raises €3B
+    score: 313
+    comment_cnt: 187
+    comment_url: https://news.ycombinator.com/item?id=49605767
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://jyn.dev/a-year-to-fix-security/
+    title: We have a year to fix security everywhere
+    score: 170
+    comment_cnt: 107
+    comment_url: https://news.ycombinator.com/item?id=49605691
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus
+    title: Speculative Decoding in vLLM on AMD GPUs
+    score: 136
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49596054
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.pm.gov.au/media/my-feed-my-way
+    title: My Feed, My Way
+    score: 83
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49605782
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://leaflet.pub/p/did:plc:yhgc5rlqhoezrx6fbawajxlh/3muwrqenzfk2n
+    title: 'GamersNexus and LG: Or why rooting your TV is a bad idea'
+    score: 74
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49605424
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://jellyfin.org/posts/jellyfin-release-12.0/
     title: Jellyfin 12.0
     score: 145
