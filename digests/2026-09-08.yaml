@@ -1,10 +1,40 @@
 date: '2026-09-08'
-generated_at: 2026-09-08 02:00 UTC
+generated_at: 2026-09-08 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://jellyfin.org/posts/jellyfin-release-12.0/
+    title: Jellyfin 12.0
+    score: 145
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49604861
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/
+    title: Leaving VMware just got harder after Broadcom pulled VDDK downloads
+    score: 129
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49602699
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/
+    title: Working on Economics with Fable 5
+    score: 66
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49603086
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://borretti.me/article/the-education-of-a-doomer
     title: The Education of a Doomer
     score: 56
