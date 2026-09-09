@@ -1,10 +1,60 @@
 date: '2026-09-09'
-generated_at: 2026-09-09 12:02 UTC
+generated_at: 2026-09-09 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit
+    title: Flock Wants a Closely Surveilled World with No Exit
+    score: 381
+    comment_cnt: 303
+    comment_url: https://news.ycombinator.com/item?id=49624394
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://xlii.space/eng/malicious-software-on-google-ads/
+    title: I advertise malicious software on Google Ads
+    score: 150
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49624856
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://buttondown.com/blog/lotus-notes-email
+    title: Lotus Notes and the dangers of starting from scratch
+    score: 89
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49623937
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://gwern.net/on-really-trying
+    title: On Really Trying (2009)
+    score: 86
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49622305
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://finance.yahoo.com/news/teen-reading-slumps-worst-century-111013754.html
+    title: Teen reading slumps to worst this century due to surge in screen time
+    score: 31
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49625461
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm
     title: “Tweet” and the bird logo apparently enter the public domain
     score: 122
