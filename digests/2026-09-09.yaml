@@ -1,10 +1,50 @@
 date: '2026-09-09'
-generated_at: 2026-09-09 14:02 UTC
+generated_at: 2026-09-09 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://tailwindcss.com/blog/tailwind-is-joining-shopify
+    title: Tailwind Labs is joining Shopify
+    score: 406
+    comment_cnt: 154
+    comment_url: https://news.ycombinator.com/item?id=49626190
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://desertant.com/blog/introducing-desert-ant-labs/
+    title: 'Desert Ant Labs: local, fast models that run on device'
+    score: 228
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49624823
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.anthropic.com/institute/econ-scenarios
+    title: What will our economic future look like?
+    score: 100
+    comment_cnt: 150
+    comment_url: https://news.ycombinator.com/item?id=49626373
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/
+    title: Anthropic researcher says more than 10% chance AI "could kill all humans"
+    score: 35
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=49627887
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit
     title: Flock Wants a Closely Surveilled World with No Exit
     score: 381
