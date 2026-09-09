@@ -1,10 +1,60 @@
 date: '2026-09-09'
-generated_at: 2026-09-09 16:01 UTC
+generated_at: 2026-09-09 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.inceptionlabs.ai/blog/introducing-mercury-2-5
+    title: Mercury 2.5
+    score: 241
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49616354
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/
+    title: Anthropic Is Building a Predictive Surveillance System to Monitor Activists
+    score: 225
+    comment_cnt: 97
+    comment_url: https://news.ycombinator.com/item?id=49628704
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and
+    title: GPT-6 Astra, looped transformers, and hidden reasoning
+    score: 162
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=49627370
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.nber.org/papers/w35514
+    title: Investing in mothers? The long-run impact of a universal child care
+    score: 76
+    comment_cnt: 99
+    comment_url: https://news.ycombinator.com/item?id=49627655
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://spectrum.ieee.org/are-self-driving-cars-safe
+    title: Growing proof that autonomous cars save lives
+    score: 46
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49629886
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://tailwindcss.com/blog/tailwind-is-joining-shopify
     title: Tailwind Labs is joining Shopify
     score: 406
