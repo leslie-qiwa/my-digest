@@ -1,10 +1,20 @@
 date: '2026-09-09'
-generated_at: 2026-09-09 20:02 UTC
+generated_at: 2026-09-09 22:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3
+    title: Qwen 3.8 follows GPT-5.5 Pro reasoning prefills
+    score: 130
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49630026
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.apple.com/iphone-duo/
     title: iPhone Duo
     score: 367
