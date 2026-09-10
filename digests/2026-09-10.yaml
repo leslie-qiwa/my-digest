@@ -1,10 +1,41 @@
 date: '2026-09-10'
-generated_at: 2026-09-10 12:02 UTC
+generated_at: 2026-09-10 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683
+    title: What algorithm did Windows XP use to choose your initial user picture?
+    score: 188
+    comment_cnt: 90
+    comment_url: https://news.ycombinator.com/item?id=49640646
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/
+    title: Hitachi launches CO2 heat pump water heaters with solar-friendly tariff
+      controls
+    score: 102
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=49627634
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash
+    title: Thanks to Siri Recaps, your Apple Watch is always listening
+    score: 97
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49641401
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://honestlyranked.com/guides/streaming-price-increases/
     title: 'Show HN: The same nine streaming subscriptions cost $702/year more than
       in 2021'
