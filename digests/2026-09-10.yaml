@@ -1,10 +1,30 @@
 date: '2026-09-10'
-generated_at: 2026-09-10 18:01 UTC
+generated_at: 2026-09-10 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://planetscale.com/blog/introducing-neki
+    title: Neki
+    score: 149
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49645686
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex
+    title: Silicon Valley Is Transforming the Military-Industrial Complex
+    score: 95
+    comment_cnt: 140
+    comment_url: https://news.ycombinator.com/item?id=49645754
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://cognition.com/blog/swe-2
     title: Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra
     score: 124
