@@ -1,0 +1,37 @@
+date: '2026-09-10'
+generated_at: 2026-09-10 02:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/
+    title: Understanding the recent DDoS attack against Read the Docs
+    score: 159
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49628614
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/
+    title: Automattic's board forces CEO Matt Mullenweg into leave of absence
+    score: 29
+    comment_cnt: 100
+    comment_url: https://news.ycombinator.com/item?id=49636283
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.the-independent.com/arts-entertainment/music/news/muse-band-meta-ai-tool-handle-b3047291.html
+    title: Rock band Muse lose social media handles to Meta’s new AI tool
+    score: 26
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=49629382
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
