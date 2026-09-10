@@ -1,10 +1,90 @@
 date: '2026-09-10'
-generated_at: 2026-09-10 14:02 UTC
+generated_at: 2026-09-10 16:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://news.ycombinator.com/item?id=49643556
+    title: 'Tell HN: OpenAI keeps re-enabling the ''allow training'' setting'
+    score: 321
+    comment_cnt: 122
+    comment_url: https://news.ycombinator.com/item?id=49643556
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://shopify.engineering/back-to-native
+    title: Shopify moves back to Native from React Native
+    score: 274
+    comment_cnt: 184
+    comment_url: https://news.ycombinator.com/item?id=49643982
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/
+    title: Rust Is Tier-1 Language at Microsoft
+    score: 207
+    comment_cnt: 96
+    comment_url: https://news.ycombinator.com/item?id=49643546
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit
+    title: List of references on Sony websites to players "owning" their digital games
+    score: 191
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49642531
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/
+    title: Amazon pilots ad services in ChatGPT
+    score: 73
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=49644047
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-miro
+    title: Bending Spoons buying Miro for $1.355B
+    score: 66
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49643848
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific
+    title: 'Defining AI Psychosis. Part 2: "Prolific AI Psychosis"'
+    score: 60
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49628880
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling
+    title: Who People Talk to When They're Struggling
+    score: 55
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49643027
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683
     title: What algorithm did Windows XP use to choose your initial user picture?
     score: 188
