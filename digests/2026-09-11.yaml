@@ -1,10 +1,71 @@
 date: '2026-09-11'
-generated_at: 2026-09-11 14:02 UTC
+generated_at: 2026-09-11 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://earendil.com/posts/measuring-code-sloppiness/
+    title: 'If coding is solved, what now?: Measuring the sloppiness of code'
+    score: 111
+    comment_cnt: 139
+    comment_url: https://news.ycombinator.com/item?id=49658311
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://openjdk.org/jeps/544
+    title: 'JEP 544: Ahead-of-Time Code Compilation'
+    score: 99
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49647404
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/
+    title: RTK reports token savings, but our cost benchmarks disagree
+    score: 89
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49656471
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cbsnews.com/news/rising-diesel-prices-consumer-impact/
+    title: Diesel prices in U.S. top $6 a gallon for first time
+    score: 85
+    comment_cnt: 163
+    comment_url: https://news.ycombinator.com/item?id=49658192
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.thenextmove.org/p/remember-hong-kong
+    title: Remember Hong Kong
+    score: 60
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=49657361
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://twitter.com/DavidAgranovich/status/2098168522862215449
+    title: Moonshot serves Claude instead of Kimi and collects exchanges for model
+      training
+    score: 45
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49656698
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.researchagenda.news/articles/the-waymo-effect.html
     title: 'The Waymo effect: how AI is quietly making research less collaborative'
     score: 191
