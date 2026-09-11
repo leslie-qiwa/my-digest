@@ -1,10 +1,50 @@
 date: '2026-09-11'
-generated_at: 2026-09-11 18:02 UTC
+generated_at: 2026-09-11 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://mathandai.org/
+    title: A misalignment of AI in mathematics
+    score: 184
+    comment_cnt: 272
+    comment_url: https://news.ycombinator.com/item?id=49662371
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://capitalbnews.org/data-centers-permit-rules-epa/
+    title: The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution
+    score: 149
+    comment_cnt: 91
+    comment_url: https://news.ycombinator.com/item?id=49662672
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.unslop.news/
+    title: 'Show HN: Hacker News, Without AI'
+    score: 125
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49660783
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/paradise-runner/toast
+    title: 'Show HN: Toast, a beautiful by default in terminal IDE'
+    score: 65
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49662496
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/
     title: Feeling Sad about AI
     score: 134
