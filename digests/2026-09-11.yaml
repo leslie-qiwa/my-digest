@@ -1,0 +1,58 @@
+date: '2026-09-11'
+generated_at: 2026-09-11 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/
+    title: OpenAI’s Navier-Stokes release included a Lean 4 formal proof
+    score: 123
+    comment_cnt: 121
+    comment_url: https://news.ycombinator.com/item?id=49650326
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat
+    title: Creativity is the new moat
+    score: 121
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49648732
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://developers.openai.com/api/docs/guides/agents-api/overview
+    title: OpenAI Agents API
+    score: 90
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49649213
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.anthropic.com/threat-intelligence-report-september-2026
+    title: 'Detecting and countering misuse of AI: September 2026'
+    score: 70
+    comment_cnt: 135
+    comment_url: https://news.ycombinator.com/item?id=49647300
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx
+    title: NTSB Issues Investigative Update on B-767 Runway Excursion Accident in
+      Miami
+    score: 40
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49650418
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
