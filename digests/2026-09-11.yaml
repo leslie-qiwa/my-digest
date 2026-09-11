@@ -1,10 +1,61 @@
 date: '2026-09-11'
-generated_at: 2026-09-11 20:02 UTC
+generated_at: 2026-09-11 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/GrapheneOS/Messaging/releases/tag/13
+    title: GrapheneOS' rewritten Messages app is released
+    score: 130
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=49663373
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://dayzlegame.com/blog/google-ads-bot-farm/
+    title: I spent $220 on Google app ads and 60% of the installs were robots
+    score: 110
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49662990
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://vale.rocks/posts/css-relics
+    title: CSS Curiosities of the Past
+    score: 84
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49654962
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://tante.cc/2026/09/11/power-grab/
+    title: Omarchy Is a Power Grab
+    score: 80
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49658869
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/
+    title: Copying login keychains between Macs fails on Secure Enclave Macs with
+      Tahoe
+    score: 66
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49651046
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://mathandai.org/
     title: A misalignment of AI in mathematics
     score: 184
