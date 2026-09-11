@@ -1,10 +1,41 @@
 date: '2026-09-11'
-generated_at: 2026-09-11 16:02 UTC
+generated_at: 2026-09-11 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/
+    title: Feeling Sad about AI
+    score: 134
+    comment_cnt: 167
+    comment_url: https://news.ycombinator.com/item?id=49661506
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/
+    title: Matt Mullenweg tells Automattic staff in Slack he's back in control after
+      ouster
+    score: 107
+    comment_cnt: 95
+    comment_url: https://news.ycombinator.com/item?id=49660104
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.honest-broker.com/p/the-last-24-hours-are-the-opening
+    title: The Last 24 Hours Are the Opening Scene in a Horror Movie
+    score: 46
+    comment_cnt: 105
+    comment_url: https://news.ycombinator.com/item?id=49660707
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://earendil.com/posts/measuring-code-sloppiness/
     title: 'If coding is solved, what now?: Measuring the sloppiness of code'
     score: 111
