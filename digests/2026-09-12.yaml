@@ -1,10 +1,30 @@
 date: '2026-09-12'
-generated_at: 2026-09-12 14:01 UTC
+generated_at: 2026-09-12 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://darioamodei.com/post/we-must-pace-the-frontier
+    title: We Must Pace the Frontier
+    score: 137
+    comment_cnt: 157
+    comment_url: https://news.ycombinator.com/item?id=49672510
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun
+    title: Waymo pulls over, calls cops on juvenile riders who had 'ghost gun"
+    score: 51
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=49672549
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.joelotter.com/posts/2026/09/make-it-anyway/
     title: Fuck it, make it anyway
     score: 211
