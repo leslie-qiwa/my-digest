@@ -1,10 +1,20 @@
 date: '2026-09-12'
-generated_at: 2026-09-12 06:02 UTC
+generated_at: 2026-09-12 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.claymath.org/news/navier-stokes-announcement/
+    title: Navier-Stokes Announcement
+    score: 115
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49668706
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.autom.dev/blog/google-search-goto-links
     title: Google no longer provides direct URLs in search results
     score: 240
