@@ -1,10 +1,50 @@
 date: '2026-09-12'
-generated_at: 2026-09-12 20:00 UTC
+generated_at: 2026-09-12 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/
+    title: 'An open letter to Dario: if you mean it, open the weights'
+    score: 241
+    comment_cnt: 86
+    comment_url: https://news.ycombinator.com/item?id=49676085
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://high5apps.github.io/josm-plugin-website-wizard/
+    title: Make your first edit to OpenStreetMap
+    score: 224
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49674050
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://prydt.xyz/blog/a-few-good-ideas-in-pl/
+    title: A few good ideas in programming languages
+    score: 73
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49671972
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://davidbombal.com/your-compiler-can-undo-your-security-checks/
+    title: Compiler Can Undo Your Security Checks
+    score: 27
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49672474
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/nefarius/vd_agent/
     title: I refuse to let SPICE die
     score: 61
