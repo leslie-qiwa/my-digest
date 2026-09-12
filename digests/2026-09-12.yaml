@@ -1,10 +1,30 @@
 date: '2026-09-12'
-generated_at: 2026-09-12 00:02 UTC
+generated_at: 2026-09-12 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.rubyhack.ai/
+    title: OpenAI agents carried out an undisclosed attack on RubyGems
+    score: 332
+    comment_cnt: 197
+    comment_url: https://news.ycombinator.com/item?id=49666735
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://glacierextinction.com
+    title: Global Glacier Extinction Explorer
+    score: 149
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49660576
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://en.wikipedia.org/wiki/Room_641A
     title: Room 641A
     score: 153
