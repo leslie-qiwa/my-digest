@@ -1,10 +1,40 @@
 date: '2026-09-13'
-generated_at: 2026-09-13 12:03 UTC
+generated_at: 2026-09-13 14:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://brew.sh/2026/09/13/homebrew-7.0.0/
+    title: Homebrew 7.0.0
+    score: 225
+    comment_cnt: 95
+    comment_url: https://news.ycombinator.com/item?id=49681545
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://hyperbo.la/w/aligned-to-whom/
+    title: Aligned to whom?
+    score: 100
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49679643
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/
+    title: Revolut confirms customer data breach through fake government requests
+    score: 86
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=49682087
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://modelrift.com/blog/cadquery-vs-openscad/
     title: 'Benchmark: CadQuery vs. OpenSCAD for agentic CAD work'
     score: 36
