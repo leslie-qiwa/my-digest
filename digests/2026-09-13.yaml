@@ -1,10 +1,41 @@
 date: '2026-09-13'
-generated_at: 2026-09-13 16:03 UTC
+generated_at: 2026-09-13 18:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/
+    title: Garry Tan wants US open-weight AI labs to 'distill' frontier models, too
+    score: 141
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=49685253
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo
+    title: 'Houthis used Claude Code to develop missile guidance software: Anthropic'
+    score: 77
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=49684266
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return
+    title: Matt Mullenweg reportedly returns as Automattic CEO 2 days after getting
+      booted
+    score: 37
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49683265
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/
     title: Flock worker calls police on reporter filming public camera installation
     score: 307
