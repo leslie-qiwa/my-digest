@@ -1,10 +1,50 @@
 date: '2026-09-13'
-generated_at: 2026-09-13 20:04 UTC
+generated_at: 2026-09-13 22:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/
+    title: Global Shortage Has Led to Motor Oil Rationing at Costco
+    score: 163
+    comment_cnt: 118
+    comment_url: https://news.ycombinator.com/item?id=49686697
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://paulgraham.com/powerful.html
+    title: Making Startups Powerful
+    score: 112
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49684196
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://phys.org/news/2026-08-black-hole-caught.html
+    title: A wandering black hole caught feeding on the run
+    score: 61
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49679734
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/
+    title: There Is No AI (It's Just People) with Jaron Lanier
+    score: 43
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49687869
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://dreamstation.systems/personal/tesla.html
     title: I'm being cyberattacked by Tesla, Inc
     score: 288
