@@ -1,10 +1,61 @@
 date: '2026-09-13'
-generated_at: 2026-09-13 18:04 UTC
+generated_at: 2026-09-13 20:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://dreamstation.systems/personal/tesla.html
+    title: I'm being cyberattacked by Tesla, Inc
+    score: 288
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=49686766
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads
+    title: Why is Google still serving dodgy ads?
+    score: 241
+    comment_cnt: 106
+    comment_url: https://news.ycombinator.com/item?id=49686445
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://twitter.com/DavidSacks/status/2098973625252708460
+    title: 'David Sacks: OpenAI and Anthropic Don''t Need Regulations to Pace Frontier
+      Models'
+    score: 144
+    comment_cnt: 103
+    comment_url: https://news.ycombinator.com/item?id=49685991
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/Speedstu/CUDA-for-AMD-Windows
+    title: CUDA for AMD on Windows
+    score: 101
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49684356
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=49686380
+    title: 'Ask HN: What are you working on? (September 2026)'
+    score: 27
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49686380
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/
     title: Garry Tan wants US open-weight AI labs to 'distill' frontier models, too
     score: 141
