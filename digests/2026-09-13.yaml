@@ -1,10 +1,30 @@
 date: '2026-09-13'
-generated_at: 2026-09-13 10:03 UTC
+generated_at: 2026-09-13 12:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://modelrift.com/blog/cadquery-vs-openscad/
+    title: 'Benchmark: CadQuery vs. OpenSCAD for agentic CAD work'
+    score: 36
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49676577
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.co.uk/news/articles/cq635037g18o
+    title: Dramatic insider warnings over AI fall flat with some in Silicon Valley
+    score: 23
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49681276
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://lucumr.pocoo.org/2026/9/12/pdoom/
     title: P(doom)
     score: 88
