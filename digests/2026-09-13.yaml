@@ -1,10 +1,30 @@
 date: '2026-09-13'
-generated_at: 2026-09-13 02:00 UTC
+generated_at: 2026-09-13 06:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html
+    title: Europe's "Less" Is Doing More Than Anyone Gives It Credit For
+    score: 100
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49672557
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating
+    title: Why are AI agents lying, cheating and coordinating?
+    score: 57
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49678969
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/
     title: 'The worst spam emails: iLands AI agent hustle'
     score: 107
