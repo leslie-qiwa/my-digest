@@ -1,10 +1,51 @@
 date: '2026-09-13'
-generated_at: 2026-09-13 14:03 UTC
+generated_at: 2026-09-13 16:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/
+    title: Flock worker calls police on reporter filming public camera installation
+    score: 307
+    comment_cnt: 198
+    comment_url: https://news.ycombinator.com/item?id=49683853
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg
+    title: US Customs supervisor busted for stealing hardware from Homeland Security
+      PCs
+    score: 70
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49683729
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theverge.com/column/994172/your-car-is-selling-your-data
+    title: Your car is selling your data
+    score: 62
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49683953
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368
+    title: AI models don't kill people – people kill people
+    score: 40
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49683834
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://brew.sh/2026/09/13/homebrew-7.0.0/
     title: Homebrew 7.0.0
     score: 225
