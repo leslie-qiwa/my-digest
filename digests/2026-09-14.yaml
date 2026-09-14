@@ -1,10 +1,20 @@
 date: '2026-09-14'
-generated_at: 2026-09-14 06:01 UTC
+generated_at: 2026-09-14 10:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/
+    title: 'Writing a better reality: The case for optimistic sci-fi (2022)'
+    score: 76
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49690279
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/
     title: Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout
     score: 61
