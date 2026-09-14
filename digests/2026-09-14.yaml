@@ -1,10 +1,71 @@
 date: '2026-09-14'
-generated_at: 2026-09-14 20:02 UTC
+generated_at: 2026-09-14 22:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085
+    title: Microsoft patches Windows and Excel – breaks audio, remote access, and
+      paste
+    score: 161
+    comment_cnt: 80
+    comment_url: https://news.ycombinator.com/item?id=49699297
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/
+    title: A Beginning for Mathematics
+    score: 138
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=49698699
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676
+    title: Oracle’s 6am layoff emails hit staff amid new wave of cuts
+    score: 117
+    comment_cnt: 90
+    comment_url: https://news.ycombinator.com/item?id=49702239
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://pop.rdi.sh/dario-please/
+    title: Dario, Please
+    score: 110
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49697893
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit
+    title: Why don't machine learning research agents overfit?
+    score: 89
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49699648
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review
+    title: 'GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?'
+    score: 63
+    comment_cnt: 77
+    comment_url: https://news.ycombinator.com/item?id=49703003
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/
     title: iOS 27, iPadOS 27, and macOS 27
     score: 215
