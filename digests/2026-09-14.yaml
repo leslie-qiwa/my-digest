@@ -1,10 +1,30 @@
 date: '2026-09-14'
-generated_at: 2026-09-14 02:01 UTC
+generated_at: 2026-09-14 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689
+    title: Why is the x86 undefined instruction called ud2? Why 2?
+    score: 224
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49683262
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://giannirosato.com/blog/post/case-against-jxl/
+    title: The case against JPEG XL
+    score: 58
+    comment_cnt: 79
+    comment_url: https://news.ycombinator.com/item?id=49690554
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/
     title: The contagion of fear
     score: 135
