@@ -1,10 +1,30 @@
 date: '2026-09-14'
-generated_at: 2026-09-14 00:02 UTC
+generated_at: 2026-09-14 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/
+    title: The contagion of fear
+    score: 135
+    comment_cnt: 94
+    comment_url: https://news.ycombinator.com/item?id=49689460
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/
+    title: Mullenweg has returned as CEO after attempted board ouster
+    score: 44
+    comment_cnt: 93
+    comment_url: https://news.ycombinator.com/item?id=49688259
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.vals.ai/blogs/fable-solves-cyphral-distich
     title: Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
     score: 334
