@@ -1,10 +1,80 @@
 date: '2026-09-14'
-generated_at: 2026-09-14 14:03 UTC
+generated_at: 2026-09-14 16:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://refactoringenglish.com/excerpts/write-an-effective-design-doc/
+    title: How to Write an Effective Software Design Document
+    score: 193
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=49696125
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.eurobirdportal.org/ebp/en/
+    title: EuroBirdPortal – Live bird movements across Europe
+    score: 187
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49693610
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/
+    title: Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows
+    score: 174
+    comment_cnt: 99
+    comment_url: https://news.ycombinator.com/item?id=49695409
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://spectrum.ieee.org/h-1b-visa-us-government
+    title: New $100K H-1B Visa Fee Pushes Tech Jobs Offshore
+    score: 128
+    comment_cnt: 231
+    comment_url: https://news.ycombinator.com/item?id=49697171
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067
+    title: Big AI sets out its terms for regulatory capture
+    score: 90
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49694596
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.ilinmaks.com/blog/en/ai-jobs-market-2026
+    title: The AI job market in 2026
+    score: 57
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49696867
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://dailyneuron.com/aphantasia-mental-imagery-brain-network/
+    title: People Who Can't Picture Anything Are Rewriting the Science of Imagination
+    score: 45
+    comment_cnt: 117
+    comment_url: https://news.ycombinator.com/item?id=49696453
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://calif.io/research/oempocalypse
     title: 'OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others'
     score: 94
