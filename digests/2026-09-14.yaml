@@ -1,10 +1,40 @@
 date: '2026-09-14'
-generated_at: 2026-09-14 18:03 UTC
+generated_at: 2026-09-14 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/
+    title: iOS 27, iPadOS 27, and macOS 27
+    score: 215
+    comment_cnt: 211
+    comment_url: https://news.ycombinator.com/item?id=49701004
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://andonlabs.com/blog/why-we-built-pion
+    title: Pion, an agent designed to run any company autonomously
+    score: 167
+    comment_cnt: 158
+    comment_url: https://news.ycombinator.com/item?id=49700477
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.decryption.net.au/posts/cars_suck.html
+    title: Things That Annoy Me About Cars
+    score: 57
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49698423
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/rh1tech/frank-386
     title: A 386 PC for Your RP2350
     score: 177
