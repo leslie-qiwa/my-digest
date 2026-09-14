@@ -1,0 +1,27 @@
+date: '2026-09-14'
+generated_at: 2026-09-14 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://www.vals.ai/blogs/fable-solves-cyphral-distich
+    title: Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
+    score: 334
+    comment_cnt: 127
+    comment_url: https://news.ycombinator.com/item?id=49688695
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/
+    title: AI recursive self-improvement might not come so quickly after all
+    score: 60
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49687334
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
