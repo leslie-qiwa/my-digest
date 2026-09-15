@@ -1,10 +1,70 @@
 date: '2026-09-15'
-generated_at: 2026-09-15 16:02 UTC
+generated_at: 2026-09-15 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://withcapsule.app/
+    title: 'Show HN: Capsule – Single-file web apps that save their data into SQLite'
+    score: 176
+    comment_cnt: 91
+    comment_url: https://news.ycombinator.com/item?id=49712278
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.effort.news/irregular
+    title: A single firm is behind OpenAI, Anthropic, and Meta hacking scandals
+    score: 156
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49704132
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/
+    title: There's a 100% Chance AI Agents Are Ruining the Internet
+    score: 142
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=49715113
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.swift.org/blog/swift-6.4-released/
+    title: Swift 6.4 Released
+    score: 107
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49714239
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.techtimes.co.uk/police-flock-search-licence-plate-lmao-1808683
+    title: 'A Cop Searched 19,000 Flock Cameras Across 1,558 Cities. His Reason: ''LMAO'''
+    score: 106
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49713395
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/
+    title: AI is breaking our proxies for expertise
+    score: 71
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49712416
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/arnegiacomo/fugleramme
     title: 'Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations'
     score: 498
