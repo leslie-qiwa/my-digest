@@ -1,10 +1,20 @@
 date: '2026-09-15'
-generated_at: 2026-09-15 06:02 UTC
+generated_at: 2026-09-15 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/
+    title: Principles for Fast Tokio Applications
+    score: 198
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49698607
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://dbtcharts.com/blog/charts-built-for-chat/
     title: Charts built for Chat
     score: 181
