@@ -1,10 +1,20 @@
 date: '2026-09-15'
-generated_at: 2026-09-15 12:02 UTC
+generated_at: 2026-09-15 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/
+    title: Alternatives to MinIO for single-node local S3
+    score: 114
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49709381
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.bbc.com/news/articles/c8ly49w9g1edo
     title: Suspected sabotage causes major Netherlands rail disruption
     score: 151
