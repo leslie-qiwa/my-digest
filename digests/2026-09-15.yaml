@@ -1,10 +1,40 @@
 date: '2026-09-15'
-generated_at: 2026-09-15 18:02 UTC
+generated_at: 2026-09-15 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster
+    title: America's Driver's License Breach Is a National Security Disaster
+    score: 143
+    comment_cnt: 85
+    comment_url: https://news.ycombinator.com/item?id=49714547
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality
+    title: Dystopian Surveillance Is Becoming a Reality
+    score: 143
+    comment_cnt: 77
+    comment_url: https://news.ycombinator.com/item?id=49715934
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/
+    title: Gemini 3.8 Live and 3.8 Live Extended Thinking
+    score: 119
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=49715947
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://withcapsule.app/
     title: 'Show HN: Capsule – Single-file web apps that save their data into SQLite'
     score: 176
