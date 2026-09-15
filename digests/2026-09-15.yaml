@@ -1,10 +1,61 @@
 date: '2026-09-15'
-generated_at: 2026-09-15 20:01 UTC
+generated_at: 2026-09-15 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://typesafe.ai/blog/introducing-system-one-models-and-jev
+    title: Introducing System One Models and Jev
+    score: 439
+    comment_cnt: 165
+    comment_url: https://news.ycombinator.com/item?id=49717558
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.strix.ai/blog/baseten-harbor-github-pat-takeover
+    title: We got admin access to Baseten's production GitHub in 25 minutes
+    score: 158
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=49716476
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html
+    title: Chopping up books when they're physically too big
+    score: 74
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49716953
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.depletion.org
+    title: How much oil-market buffer is left?
+    score: 72
+    comment_cnt: 107
+    comment_url: https://news.ycombinator.com/item?id=49718025
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://whats-left-over.pages.dev/#s=50_40_10&c=1&u=person&t=0&tm=cbo&b=0&ts=100&k=0&cc=12201&im=nominal&by=2000&ir=2.5&ao=0&ar=20&at=200000&ip=10&rm=sp500&rr=8&pv=portfolio&p=1&iv=left&hp=1&e=food.housing.transport.health.insurance
+    title: 'Show HN: The bottom 50% of U.S. households are short after essentials
+      (BLS data)'
+    score: 36
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49713953
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster
     title: America's Driver's License Breach Is a National Security Disaster
     score: 143
