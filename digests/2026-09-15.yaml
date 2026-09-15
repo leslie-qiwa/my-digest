@@ -1,10 +1,40 @@
 date: '2026-09-15'
-generated_at: 2026-09-15 10:01 UTC
+generated_at: 2026-09-15 12:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.bbc.com/news/articles/c8ly49w9g1edo
+    title: Suspected sabotage causes major Netherlands rail disruption
+    score: 151
+    comment_cnt: 119
+    comment_url: https://news.ycombinator.com/item?id=49710253
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/ck790xg41ygro
+    title: US confirms for first time it has deployed space weapons
+    score: 81
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49707473
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://tintotint.eu/whacky-corner/f-droid_slop/
+    title: How much of F-Droid is LLM generated?
+    score: 66
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49710015
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua
     title: I can't stop thinking about Papua New Guinea
     score: 166
