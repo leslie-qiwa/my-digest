@@ -1,10 +1,50 @@
 date: '2026-09-15'
-generated_at: 2026-09-15 14:01 UTC
+generated_at: 2026-09-15 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/arnegiacomo/fugleramme
+    title: 'Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations'
+    score: 498
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=49711544
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html
+    title: 25 Years of Mass Surveillance Is Enough
+    score: 420
+    comment_cnt: 125
+    comment_url: https://news.ycombinator.com/item?id=49710883
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://vale.rocks/micros/20260915-0135
+    title: CSS-Tricks in Limbo
+    score: 182
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=49708993
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/cqgk5e2j0gg8o
+    title: AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC
+    score: 30
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=49712409
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/
     title: Alternatives to MinIO for single-node local S3
     score: 114
