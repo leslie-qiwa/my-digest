@@ -1,10 +1,40 @@
 date: '2026-09-16'
-generated_at: 2026-09-16 08:01 UTC
+generated_at: 2026-09-16 12:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.bbc.com/news/articles/cjwyzrr9d3dko
+    title: EU chief opens door for Canada to become 'associate member'
+    score: 260
+    comment_cnt: 239
+    comment_url: https://news.ycombinator.com/item?id=49724141
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html
+    title: Saving Jet Fuel
+    score: 105
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49720164
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/
+    title: Learning Programming in an Age of LLMs
+    score: 81
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49723873
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/GraafHenk/numberwang
     title: WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages
     score: 145
