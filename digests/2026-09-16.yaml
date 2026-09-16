@@ -1,10 +1,20 @@
 date: '2026-09-16'
-generated_at: 2026-09-16 02:02 UTC
+generated_at: 2026-09-16 06:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://security.apple.com/blog/apple-reference-image/
+    title: 'Apple Reference Image: A New Approach for Verified Photography'
+    score: 134
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=49721322
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://dank.systems/posts/2026-09-15-ai-bear.html
     title: Why I'm still bearish on LLMs after Navier-Stokes
     score: 148
