@@ -1,10 +1,20 @@
 date: '2026-09-16'
-generated_at: 2026-09-16 06:01 UTC
+generated_at: 2026-09-16 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/GraafHenk/numberwang
+    title: WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages
+    score: 145
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49717605
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://security.apple.com/blog/apple-reference-image/
     title: 'Apple Reference Image: A New Approach for Verified Photography'
     score: 134
