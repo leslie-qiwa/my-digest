@@ -1,10 +1,51 @@
 date: '2026-09-16'
-generated_at: 2026-09-16 18:03 UTC
+generated_at: 2026-09-16 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model
+    title: DeepSeek v4.1 Flash Is Now Our Best Hacking Model
+    score: 140
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49725800
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market
+    title: ER visits for gambling disorders doubled after expanded online gambling
+      market
+    score: 105
+    comment_cnt: 89
+    comment_url: https://news.ycombinator.com/item?id=49730239
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/
+    title: Stay discoverable in search while disallowing AI training
+    score: 84
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49721435
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=49729849
+    title: 'Ask HN: AI Panic, you buying it?'
+    score: 21
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49729849
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/
     title: 'PS5 Linux lead quits: "a bunch of noobs using LLMs" that "they don''t
       understand"'
