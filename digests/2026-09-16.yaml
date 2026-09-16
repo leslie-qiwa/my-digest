@@ -1,10 +1,30 @@
 date: '2026-09-16'
-generated_at: 2026-09-16 12:02 UTC
+generated_at: 2026-09-16 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://mistral.ai/news/mistral-x-mozilla/
+    title: 'Mistral X Mozilla: Private, Multilingual AI Browsing'
+    score: 222
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=49723408
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion
+    title: Devastated father says his 9-year-old son spent $118,000 on YouTube ads
+    score: 46
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49724849
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.bbc.com/news/articles/cjwyzrr9d3dko
     title: EU chief opens door for Canada to become 'associate member'
     score: 260
