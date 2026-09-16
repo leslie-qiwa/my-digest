@@ -1,0 +1,37 @@
+date: '2026-09-16'
+generated_at: 2026-09-16 02:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://dank.systems/posts/2026-09-15-ai-bear.html
+    title: Why I'm still bearish on LLMs after Navier-Stokes
+    score: 148
+    comment_cnt: 127
+    comment_url: https://news.ycombinator.com/item?id=49715927
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/
+    title: The CSS Zen Garden dream, finally shipped
+    score: 128
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=49713262
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://marc.info/?l=openbsd-tech&m=178948744271633&w=2
+    title: 'GEFS on OpenBSD: A Early Preview'
+    score: 108
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49715590
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
