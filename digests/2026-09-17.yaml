@@ -1,10 +1,30 @@
 date: '2026-09-17'
-generated_at: 2026-09-17 16:02 UTC
+generated_at: 2026-09-17 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://mysetup.ai/
+    title: 'Show HN: Share your AI Setup, Learn from others'
+    score: 89
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49740105
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://about.gitlab.com/blog/rate-limit-change-2026/
+    title: Rate limits on GitLab.com are changing
+    score: 76
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49742353
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.bbc.com/news/articles/cwly7vkke4jxo
     title: Canada welcomes EU proposal to become 'associate member'
     score: 229
