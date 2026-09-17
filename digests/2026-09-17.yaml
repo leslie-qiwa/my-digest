@@ -1,10 +1,60 @@
 date: '2026-09-17'
-generated_at: 2026-09-17 20:02 UTC
+generated_at: 2026-09-17 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.netmeister.org/blog/everybodys-lost-their-minds.html
+    title: Everybody's Lost Their Minds
+    score: 206
+    comment_cnt: 104
+    comment_url: https://news.ycombinator.com/item?id=49745570
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://bend-lang.com/
+    title: Bend – A language that blocks AI mistakes via proof and runs on GPUs
+    score: 139
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49746163
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.slashdot.org/story/01/09/17/1758231/stallman-thousands-dead-millions-deprived-of-liberties
+    title: 'Stallman: Thousands Dead, Millions Deprived of Liberties (2001)'
+    score: 130
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49743756
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://vinix-os.org/
+    title: Vinix – A modern operating system written in V
+    score: 83
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49742439
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://institute.deepmind.com/essays/economic-policy-for-agi/
+    title: Economic policy for AGI
+    score: 56
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49743685
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/asciimoo/hister
     title: 'Hister: A private search engine for the pages you visit and the files
       you keep'
