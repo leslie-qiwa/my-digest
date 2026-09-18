@@ -1,10 +1,32 @@
 date: '2026-09-18'
-generated_at: 2026-09-18 02:02 UTC
+generated_at: 2026-09-18 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://news.ycombinator.com/item?id=49743049
+    title: 'Launch HN: Skillsync (YC W26) – AI chat sessions made portable across
+      agents'
+    score: 53
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49743049
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/aardappel/goose/tree/master
+    title: Goose:experimental lang 1.16x faster than C++ and 1.12x than safe Rust,
+      mem safe
+    score: 47
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49748954
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://prismml.com/news/bonsai-2-27b
     title: 'Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint'
     score: 229
