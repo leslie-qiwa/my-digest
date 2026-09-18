@@ -1,10 +1,51 @@
 date: '2026-09-18'
-generated_at: 2026-09-18 08:01 UTC
+generated_at: 2026-09-18 12:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/
+    title: Microsoft exec called AI scraping 'the largest theft of labor in human
+      history'
+    score: 235
+    comment_cnt: 157
+    comment_url: https://news.ycombinator.com/item?id=49752056
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/jemalloc/jemalloc/releases/tag/5.4.0
+    title: Jemalloc 5.4.0
+    score: 192
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49750152
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://openjev.com/
+    title: OpenJev
+    score: 170
+    comment_cnt: 92
+    comment_url: https://news.ycombinator.com/item?id=49752041
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://minimalcompany.com/
+    title: Minimal Phone 2
+    score: 56
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49749369
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://flet.dev/
     title: Flet 1.0 – Build cross-platform apps in Python
     score: 107
