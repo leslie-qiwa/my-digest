@@ -1,10 +1,40 @@
 date: '2026-09-18'
-generated_at: 2026-09-18 00:02 UTC
+generated_at: 2026-09-18 02:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://prismml.com/news/bonsai-2-27b
+    title: 'Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint'
+    score: 229
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49746618
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/cmzezj5e18xxo
+    title: More than 100k people in Japan are now aged 100 or older
+    score: 122
+    comment_cnt: 113
+    comment_url: https://news.ycombinator.com/item?id=49746117
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/
+    title: How to Write with an LLM
+    score: 59
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49747070
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/
     title: Sex, AI, and the Apocalypse
     score: 106
