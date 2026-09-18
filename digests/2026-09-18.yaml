@@ -1,10 +1,20 @@
 date: '2026-09-18'
-generated_at: 2026-09-18 04:01 UTC
+generated_at: 2026-09-18 06:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.hacktron.ai/blog/hacking-openai
+    title: Hacking OpenAI
+    score: 199
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49749656
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://news.ycombinator.com/item?id=49743049
     title: 'Launch HN: Skillsync (YC W26) – AI chat sessions made portable across
       agents'
