@@ -1,0 +1,17 @@
+date: '2026-09-18'
+generated_at: 2026-09-18 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/
+    title: Sex, AI, and the Apocalypse
+    score: 106
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=49746654
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
