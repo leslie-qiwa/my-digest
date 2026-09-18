@@ -1,10 +1,60 @@
 date: '2026-09-18'
-generated_at: 2026-09-18 12:02 UTC
+generated_at: 2026-09-18 14:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://fex-emu.com/Scourge-of-emulation/
+    title: The scourge of x86 emulation
+    score: 198
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49750094
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://hawksley.dev/blog/i-dont-like-passkeys
+    title: I don't like passkeys
+    score: 188
+    comment_cnt: 158
+    comment_url: https://news.ycombinator.com/item?id=49753211
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.liampwll.com/posts/bend_vibe_coding/
+    title: Bend 2 and the Vibe-Coding Trap
+    score: 182
+    comment_cnt: 98
+    comment_url: https://news.ycombinator.com/item?id=49753179
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure
+    title: CrowdSec Source Code Leak
+    score: 156
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49742355
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://linguisticdiscovery.com/posts/pre-greek/
+    title: 'Pre-Greek: The lost language hidden within Ancient Greek'
+    score: 113
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49749771
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/
     title: Microsoft exec called AI scraping 'the largest theft of labor in human
       history'
@@ -138,3 +188,74 @@ feeds:
     summary_zh: ''
     content_file: ''
     summary: ''
+- id: golang-weekly
+  label: Golang Weekly
+  provider: rss_newsletter
+  items:
+  - url: https://golangweekly.com/link/190549/rss
+    title: Size-Specialized Memory Allocation in Go 1.27
+    summary: Small allocations (under 80 bytes) are now up to 30% faster, and you
+      can get the benefits just by rebuilding. Learn where the speedup comes from
+      and why 80 bytes was the "sweet spot". Allocation-heavy programs could see a
+      ~1% gain overall.
+    score: 0
+    tags: []
+    source: go.dev
+    domain: go.dev
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/190550/rss
+    title: Data Races and the Limits of ThreadSanitizer in C and Go
+    summary: A tour of how ThreadSanitizer (the engine behind race detection in Go)
+      works, and the easily reachable limits where it stops catching real races. Two
+      objects in unrelated sync.Pools colliding in Go's 128-slot table is enough to
+      hide a race.
+    score: 0
+    tags: []
+    source: theconsensus.dev
+    domain: theconsensus.dev
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/190557/rss
+    title: A 40ms Go GC Pause Caused by Swap
+    summary: “I’m writing this so you don’t slap your forehead like I almost did when
+      I decided to run swap in production to absorb memory spikes.”
+    score: 0
+    tags: []
+    source: frn.sh
+    domain: frn.sh
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/190558/rss
+    title: Scaling Go in CI by Replacing actions/setup-go
+    summary: How GitHub's official actions/setup-go lets parallel jobs interfere with
+      each other's caches, and why its cache goes stale until you touch go.mod. CloudX's
+      alternative gives each CI job its own isolated cache.
+    score: 0
+    tags: []
+    source: www.cloudx.ai
+    domain: www.cloudx.ai
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/190567/rss
+    title: 'golang-set 3.0: A Simple, Well-Tested, Generic Set Type'
+    summary: While a future Go release might be adding a generic set type, this is
+      a mature option for now. v3.0 improves performance, adds Filter and AppendFrom
+      methods, and removes Mongo BSON support.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/190572/rss
+    title: 'wasm2go: Translate WebAssembly Binaries into Go Code'
+    summary: A compiler to translate WASM binaries into a standalone Go package, so
+      you can ship, say, a C library built with the WASI SDK inside a Go app without
+      the added weight of a WASM engine.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
