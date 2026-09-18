@@ -1,10 +1,61 @@
 date: '2026-09-18'
-generated_at: 2026-09-18 18:01 UTC
+generated_at: 2026-09-18 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship
+    title: US Military had close call after using AI for hallucinated intelligence
+      report
+    score: 231
+    comment_cnt: 155
+    comment_url: https://news.ycombinator.com/item?id=49757520
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/
+    title: 'Inside ZCode: Silently uploading your Git history to the cloud'
+    score: 204
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=49750694
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arxiv.org/abs/2609.20804
+    title: An empirical study of harness design for coding agents
+    score: 193
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49753878
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://liamnugent.me/posts/what-you-dont-build/
+    title: The most important product decision is what you don't build
+    score: 142
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49746407
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion
+    title: Second Circuit allows government to search electronic devices at the border
+    score: 96
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=49754687
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/
     title: US Treasuries Have Become Unappetizing for Foreign Central Banks and Governments
     score: 108
