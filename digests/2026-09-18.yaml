@@ -1,10 +1,30 @@
 date: '2026-09-18'
-generated_at: 2026-09-18 06:01 UTC
+generated_at: 2026-09-18 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://flet.dev/
+    title: Flet 1.0 – Build cross-platform apps in Python
+    score: 107
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49746290
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://waymo.com/waymo-in-singapore/
+    title: Waymo in Singapore
+    score: 105
+    comment_cnt: 101
+    comment_url: https://news.ycombinator.com/item?id=49749981
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.hacktron.ai/blog/hacking-openai
     title: Hacking OpenAI
     score: 199
