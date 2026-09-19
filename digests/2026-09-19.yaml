@@ -1,10 +1,51 @@
 date: '2026-09-19'
-generated_at: 2026-09-19 16:01 UTC
+generated_at: 2026-09-19 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://jepedersen.dk/blog/202505_research/
+    title: Science Is Open Software
+    score: 142
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49762687
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://planetscale.com/blog/introducing-tin
+    title: 'Tin: full-text search for Postgres'
+    score: 103
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49766611
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/mindbox77/zxdesk
+    title: A graphical desktop for the ZX Spectrum
+    score: 94
+    comment_cnt: 76
+    comment_url: https://news.ycombinator.com/item?id=49766676
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951
+    title: Learning Another Language May Be One of the Best Ways to Keep Your Brain
+      Healthy
+    score: 50
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49766821
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://laya.convaiinnovations.com/
     title: Laya the open source version of Jev
     score: 443
