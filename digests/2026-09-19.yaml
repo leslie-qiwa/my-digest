@@ -1,10 +1,30 @@
 date: '2026-09-19'
-generated_at: 2026-09-19 00:02 UTC
+generated_at: 2026-09-19 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/
+    title: Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug
+    score: 157
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49757050
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://spectrum.ieee.org/llms-for-chip-design
+    title: How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip
+    score: 57
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49761432
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/
     title: Two parallel neural ectoderm progenitors contribute to the developing brain
     score: 100
