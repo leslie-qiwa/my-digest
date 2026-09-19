@@ -1,10 +1,30 @@
 date: '2026-09-19'
-generated_at: 2026-09-19 08:00 UTC
+generated_at: 2026-09-19 10:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html
+    title: Human brain is two separate organs, Stanford Medicine-led research finds
+    score: 218
+    comment_cnt: 94
+    comment_url: https://news.ycombinator.com/item?id=49763697
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/
+    title: If math is more than proof, we need to better celebrate the rest of it
+    score: 89
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49763928
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://onionfutures.com/
     title: San Francisco Onion Futures Company
     score: 161
