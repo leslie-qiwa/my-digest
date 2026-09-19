@@ -1,10 +1,30 @@
 date: '2026-09-19'
-generated_at: 2026-09-19 12:01 UTC
+generated_at: 2026-09-19 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://laya.convaiinnovations.com/
+    title: Laya the open source version of Jev
+    score: 443
+    comment_cnt: 102
+    comment_url: https://news.ycombinator.com/item?id=49765348
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/
+    title: What Zig felt like, coming from Rust
+    score: 82
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49766637
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://john.hartnup.uk/2026/06/07/ai-event-posters.html
     title: AI-generated posters don’t have to be horrible
     score: 245
