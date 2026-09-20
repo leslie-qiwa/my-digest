@@ -1,10 +1,50 @@
 date: '2026-09-20'
-generated_at: 2026-09-20 16:01 UTC
+generated_at: 2026-09-20 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://pirateface.co/
+    title: Pirate Face Rescues LLM Models from Deletion
+    score: 190
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=49776699
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/
+    title: ChatGPT now knows what you do on other websites via ad collector
+    score: 113
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49776729
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://toolguyd.com/sherline-tools-shutting-down-usa-production/
+    title: Sherline Tools Is Going Out of Business
+    score: 106
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49776627
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.dxomark.com/apple-iphone-18-pro-camera-test/
+    title: Apple iPhone 18 Pro Camera test
+    score: 34
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49771218
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://softwarecrisis.dev/letters/llmentalist/
     title: Chat-based Large Language Models replicate the mechanisms of a psychic's
       con
