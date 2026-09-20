@@ -1,10 +1,61 @@
 date: '2026-09-20'
-generated_at: 2026-09-20 18:01 UTC
+generated_at: 2026-09-20 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say
+    title: Samsung is expected to more than double output of its HBM4 and HBM4E DRAM
+    score: 145
+    comment_cnt: 109
+    comment_url: https://news.ycombinator.com/item?id=49778029
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books
+    title: Singapore’s National Library Board offers micropayments to build reading
+      habits
+    score: 128
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49776717
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://sunilpai.dev/posts/the-senior-engineer-death-spiral/
+    title: The senior engineer death spiral
+    score: 108
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=49776130
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://text.hrw.org/news/2026/09/17/us-revokes-limits-on-power-plants-climate-pollution
+    title: US Revokes Limits on Power Plants' Climate Pollution
+    score: 91
+    comment_cnt: 76
+    comment_url: https://news.ycombinator.com/item?id=49777841
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://en.wikipedia.org/wiki/One-electron_universe
+    title: One-Electron Universe
+    score: 69
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49776826
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://pirateface.co/
     title: Pirate Face Rescues LLM Models from Deletion
     score: 190
