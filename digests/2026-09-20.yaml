@@ -1,10 +1,20 @@
 date: '2026-09-20'
-generated_at: 2026-09-20 00:01 UTC
+generated_at: 2026-09-20 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html
+    title: 'How Hacker News ranking works: scoring, controversy, and penalties (2013)'
+    score: 152
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=49770293
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://bw.swerdlow.dev/report
     title: Brood War Bench
     score: 122
