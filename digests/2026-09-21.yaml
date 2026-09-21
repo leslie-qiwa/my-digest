@@ -1,10 +1,80 @@
 date: '2026-09-21'
-generated_at: 2026-09-21 16:01 UTC
+generated_at: 2026-09-21 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff
+    title: ZuckOff is a free app that sees Meta glasses before they see you
+    score: 306
+    comment_cnt: 302
+    comment_url: https://news.ycombinator.com/item?id=49785397
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://alicegg.tech/2026/09/21/attention
+    title: Attention is all you have
+    score: 238
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49787726
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://x.ai/news/grok-4-7
+    title: Grok 4.7
+    score: 235
+    comment_cnt: 191
+    comment_url: https://news.ycombinator.com/item?id=49788838
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/
+    title: M5 Ultra Mac Studio Review
+    score: 163
+    comment_cnt: 123
+    comment_url: https://news.ycombinator.com/item?id=49787313
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://carette.xyz/posts/good_people_refuse_to_do_bad_things/
+    title: Good people refuse to do bad things
+    score: 119
+    comment_cnt: 117
+    comment_url: https://news.ycombinator.com/item?id=49788592
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://paulbakker.io/writing/no-ai-for-writing/
+    title: Don't Use AI to Write
+    score: 114
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=49784816
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://pluralistic.net/2026/09/21/sunsetting/
+    title: The Claude Delusion
+    score: 83
+    comment_cnt: 93
+    comment_url: https://news.ycombinator.com/item?id=49787765
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/
     title: What Sun Got Wrong
     score: 180
