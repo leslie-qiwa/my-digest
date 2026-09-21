@@ -1,10 +1,40 @@
 date: '2026-09-21'
-generated_at: 2026-09-21 18:02 UTC
+generated_at: 2026-09-21 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/volotat/mini-AGI/
+    title: 'Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM'
+    score: 236
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49783133
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac
+    title: Turn off and restrict access to Apple Intelligence features on Mac
+    score: 132
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=49790409
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.multifamilydive.com/news/seattle-ban-rental-junk-fees/827816/
+    title: Seattle Bans Rental Junk Fees
+    score: 64
+    comment_cnt: 132
+    comment_url: https://news.ycombinator.com/item?id=49790501
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff
     title: ZuckOff is a free app that sees Meta glasses before they see you
     score: 306
