@@ -1,10 +1,30 @@
 date: '2026-09-22'
-generated_at: 2026-09-22 12:02 UTC
+generated_at: 2026-09-22 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/
+    title: AI Has No Wisdom and Neither Will You
+    score: 213
+    comment_cnt: 266
+    comment_url: https://news.ycombinator.com/item?id=49799965
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/
+    title: 'JetBrains Air: A System of Products for Agentic Software Development'
+    score: 57
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=49799287
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://board.flatassembler.net/topic.php?t=24261
     title: AMD's random number generator can't generate a 0?
     score: 102
