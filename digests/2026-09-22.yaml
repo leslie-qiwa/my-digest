@@ -1,10 +1,30 @@
 date: '2026-09-22'
-generated_at: 2026-09-22 18:01 UTC
+generated_at: 2026-09-22 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/
+    title: People Training OpenAI's AI Fired for Using AI to Train the AI
+    score: 67
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49800953
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://wondermark.com/socrates-vs-writing/
+    title: Socrates vs. the Written Word (2011)
+    score: 66
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49795122
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.anthropic.com/claude-opus-5-5
     title: Claude Opus 5.5
     score: 374
