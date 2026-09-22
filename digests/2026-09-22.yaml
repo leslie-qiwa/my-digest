@@ -1,0 +1,27 @@
+date: '2026-09-22'
+generated_at: 2026-09-22 02:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/
+    title: I don't want to read what you didn't write
+    score: 261
+    comment_cnt: 98
+    comment_url: https://news.ycombinator.com/item?id=49794330
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://timdettmers.com/2026/09/21/dlab-open-source-week/
+    title: Frontier AI on Your Own Hardware
+    score: 103
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49791647
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
