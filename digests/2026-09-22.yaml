@@ -1,10 +1,40 @@
 date: '2026-09-22'
-generated_at: 2026-09-22 16:02 UTC
+generated_at: 2026-09-22 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.anthropic.com/claude-opus-5-5
+    title: Claude Opus 5.5
+    score: 374
+    comment_cnt: 449
+    comment_url: https://news.ycombinator.com/item?id=49803892
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://mouse.dev/blog/muse-runtime-export/
+    title: I asked Meta’s Muse for its filesystem and it sent me 6.8GB
+    score: 204
+    comment_cnt: 109
+    comment_url: https://news.ycombinator.com/item?id=49802871
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/
+    title: Aging may be a program, not a breakdown
+    score: 41
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49804266
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.cryptocellar.org/bgac/the-mvueh-break.html
     title: OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since
       2005
