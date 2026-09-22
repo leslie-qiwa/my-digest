@@ -1,10 +1,40 @@
 date: '2026-09-22'
-generated_at: 2026-09-22 04:02 UTC
+generated_at: 2026-09-22 06:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://brand.io/article/spymarks/
+    title: Spymarks, Not Watermarks
+    score: 282
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=49794615
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://spectrum.ieee.org/hermes-shortwave-radio-digital-data
+    title: HERMES radio enables voice and data communication over vast distances
+    score: 116
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49789228
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work
+    title: How do traffic signals work? (2019)
+    score: 76
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49789081
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/
     title: The Advisory Group on Mathematics and Artificial Intelligence
     score: 104
