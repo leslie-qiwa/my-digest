@@ -1,10 +1,121 @@
 date: '2026-09-23'
-generated_at: 2026-09-23 16:04 UTC
+generated_at: 2026-09-23 18:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://drivingbench.com/
+    title: GPT-6 Astra has gained the ability to drive a car
+    score: 188
+    comment_cnt: 161
+    comment_url: https://news.ycombinator.com/item?id=49817404
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://drewdevault.com/blog/Why-is-HN-like-that/
+    title: Why is Hacker News like that?
+    score: 159
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=49817280
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/
+    title: Woman Arrested, Dragged Away After Speaking About Flock at City Council
+      Meeting
+    score: 157
+    comment_cnt: 155
+    comment_url: https://news.ycombinator.com/item?id=49817877
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/
+    title: Gemini 3.8 text-to-speech
+    score: 118
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=49817615
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.interconnects.ai/p/the-current-balance-of-power-in-open
+    title: The current balance of power in open models
+    score: 112
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49808816
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/
+    title: Seattle City Council votes to ban surveillance pricing in sale of groceries
+    score: 110
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49816374
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://strandsagents.com/blog/introducing-strands-harness/
+    title: Strands Harness
+    score: 96
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49817289
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://unlisted.careers/ghost-jobs/report/2026-09
+    title: 28% of job postings on company career sites have been open over 90 days
+    score: 78
+    comment_cnt: 89
+    comment_url: https://news.ycombinator.com/item?id=49818698
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://maroun-baydoun.com/blog/javascript-midlife-crisis/
+    title: The JavaScript Midlife Crisis
+    score: 54
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49807248
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.gallup.com/poll/714653/socialism-positive-rating-tops-first-time.aspx
+    title: Socialism's Positive Rating Tops 40% for First Time
+    score: 50
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49816143
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.alexmolas.com/2026/09/23/jev-cant-be-calibrated.html
+    title: Jev Can't Be Calibrated
+    score: 35
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49816899
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/
     title: Samsung accidentally freezes its smart fridges with a software update
     score: 169
