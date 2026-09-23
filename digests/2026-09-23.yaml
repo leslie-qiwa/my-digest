@@ -1,10 +1,60 @@
 date: '2026-09-23'
-generated_at: 2026-09-23 14:02 UTC
+generated_at: 2026-09-23 16:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/
+    title: Samsung accidentally freezes its smart fridges with a software update
+    score: 169
+    comment_cnt: 162
+    comment_url: https://news.ycombinator.com/item?id=49815381
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://michaelheap.com/i-dont-want-the-details/
+    title: I don't want the details
+    score: 167
+    comment_cnt: 102
+    comment_url: https://news.ycombinator.com/item?id=49815466
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://michaelheap.com/github-wiki-is-an-antipattern/
+    title: The GitHub wiki is an anti-pattern (2022)
+    score: 101
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=49815484
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://jyn.dev/tokens-too-cheap-to-meter/
+    title: Tokens Too Cheap to Meter
+    score: 97
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49813482
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://mihai.dinculescu.dev/posts/two-git-ignore-files-nobody-told-me-about/
+    title: Two Git ignore files nobody told me about
+    score: 68
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49814432
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/
     title: Claude Code reads AGENTS.md only when telemetry is on
     score: 192
