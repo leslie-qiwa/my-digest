@@ -1,10 +1,31 @@
 date: '2026-09-23'
-generated_at: 2026-09-23 20:03 UTC
+generated_at: 2026-09-23 22:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/
+    title: DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We
+      Know Why
+    score: 220
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=49821608
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://claude.dev/blog/how-we-made-claude-ai-faster/
+    title: Once Claude can measure something, it can make it faster
+    score: 115
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49821196
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://pointinthecloud.com/2026-04-11-211700.html
     title: Fixing the Portobello Police Station Clock
     score: 293
