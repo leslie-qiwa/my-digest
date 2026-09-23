@@ -1,10 +1,61 @@
 date: '2026-09-23'
-generated_at: 2026-09-23 12:01 UTC
+generated_at: 2026-09-23 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/
+    title: Claude Code reads AGENTS.md only when telemetry is on
+    score: 192
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=49814947
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9
+    title: OpenAI is enlisting an influencer army to make it look 'good for the world'
+    score: 93
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49815127
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.melashri.net/posts/scientific-linux-mistake/
+    title: Abandoning Scientific Linux Was a Mistake
+    score: 71
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49813286
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness
+    title: There is no epidemic of loneliness, but there is an epidemic of scurvy
+    score: 66
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49812533
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/
+    title: 'The Download: why AI''s latest breakthroughs and fears may be more hype
+      than rea'
+    score: 41
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=49814211
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.nobodywho.ai/posts/jev-in-25-lines/
     title: Jev in 25 Lines of Python
     score: 247
