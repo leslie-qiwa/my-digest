@@ -1,10 +1,20 @@
 date: '2026-09-24'
-generated_at: 2026-09-24 08:03 UTC
+generated_at: 2026-09-24 10:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://transluce.org/agent-activity
+    title: Early rogue AI agent activity and attempts to hack found on urlquery.net
+    score: 127
+    comment_cnt: 87
+    comment_url: https://news.ycombinator.com/item?id=49826565
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://tailscale.com/blog/making-tailscale-faster
     title: Making Tailscale Faster
     score: 156
