@@ -1,10 +1,51 @@
 date: '2026-09-24'
-generated_at: 2026-09-24 14:03 UTC
+generated_at: 2026-09-24 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://macanorak.com/two-tier-encryption-in-the-uk/
+    title: Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection
+    score: 216
+    comment_cnt: 193
+    comment_url: https://news.ycombinator.com/item?id=49828731
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/
+    title: The newest ESP32 can run Linux and it's getting close to a Raspberry Pi
+    score: 136
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49828969
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.votebeat.org/texas/2026/09/22/voter-registration-applications-unprocessed-dps-error/
+    title: Unknown number of Texas voter registrations went unprocessed due to DPS
+      error
+    score: 63
+    comment_cnt: 91
+    comment_url: https://news.ycombinator.com/item?id=49831175
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html
+    title: AI has no intent and no motivation
+    score: 42
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49828133
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/nestrilabs/virtio-nvgpu
     title: 'Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest'
     score: 127
