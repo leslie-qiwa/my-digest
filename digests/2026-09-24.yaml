@@ -1,10 +1,30 @@
 date: '2026-09-24'
-generated_at: 2026-09-24 02:02 UTC
+generated_at: 2026-09-24 04:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol
+    title: 'Radicle: Disclosure of Vulnerability in the Network Protocol'
+    score: 128
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49817524
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign
+    title: Feds Target AI Critics as "Foreign Agents"
+    score: 120
+    comment_cnt: 94
+    comment_url: https://news.ycombinator.com/item?id=49824686
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/
     title: A brief history of Windows scroll bar shortcuts
     score: 110
