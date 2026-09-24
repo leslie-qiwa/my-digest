@@ -1,10 +1,30 @@
 date: '2026-09-24'
-generated_at: 2026-09-24 04:03 UTC
+generated_at: 2026-09-24 06:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411
+    title: Australia says OpenAI agent hacked into government website
+    score: 95
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49825024
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://artificialanalysis.ai/models/mercury-2-5
+    title: Mercury 2.5 LLM hits 770 tokens per second
+    score: 85
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49823348
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol
     title: 'Radicle: Disclosure of Vulnerability in the Network Protocol'
     score: 128
