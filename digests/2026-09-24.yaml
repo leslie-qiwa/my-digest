@@ -1,0 +1,27 @@
+date: '2026-09-24'
+generated_at: 2026-09-24 00:04 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html
+    title: OpenAI breaches Medicare, Albanese reveals
+    score: 130
+    comment_cnt: 91
+    comment_url: https://news.ycombinator.com/item?id=49822556
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://fly.io/blog/vscode-ssh-wtf/
+    title: VSCode's SSH Agent Is Bananas (2025)
+    score: 96
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=49822555
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
