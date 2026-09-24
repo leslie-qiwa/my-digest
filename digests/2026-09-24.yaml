@@ -1,10 +1,30 @@
 date: '2026-09-24'
-generated_at: 2026-09-24 12:03 UTC
+generated_at: 2026-09-24 14:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/nestrilabs/virtio-nvgpu
+    title: 'Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest'
+    score: 127
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49824864
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us
+    title: '''That''s so AI '' What gen Alpha''s biggest insult tells us'
+    score: 70
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=49829650
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/
     title: Starlink ground station in Poland hit by fire in suspected arson attack
     score: 93
