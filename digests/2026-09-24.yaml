@@ -1,10 +1,41 @@
 date: '2026-09-24'
-generated_at: 2026-09-24 06:03 UTC
+generated_at: 2026-09-24 08:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://tailscale.com/blog/making-tailscale-faster
+    title: Making Tailscale Faster
+    score: 156
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49819880
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lwn.net/SubscriberLink/1095425/2d9f411252325784/
+    title: Ideas on modernizing the open-source desktop
+    score: 82
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49825642
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/karmanyaahm/budget-tools/tree/main/fire
+    title: 'Show HN: How long do I need to work at my salary before I can coast, or
+      retire?'
+    score: 45
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49826059
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411
     title: Australia says OpenAI agent hacked into government website
     score: 95
