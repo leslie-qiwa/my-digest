@@ -1,10 +1,40 @@
 date: '2026-09-25'
-generated_at: 2026-09-25 12:03 UTC
+generated_at: 2026-09-25 14:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://nyaa.sh/reviews/mac-mini-m6-emulation
+    title: Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini
+    score: 142
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49841285
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://jardo.dev/what-about-rails
+    title: What About Rails?
+    score: 136
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=49839664
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://matduggan.com/im-tired-of-being-on-the-network/
+    title: I'm Tired of Being on the Network
+    score: 72
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49843547
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/
     title: The Board Game of the Alpha Nerds (2014)
     score: 93
@@ -65,3 +95,84 @@ feeds:
     summary_zh: ''
     content_file: ''
     summary: ''
+- id: golang-weekly
+  label: Golang Weekly
+  provider: rss_newsletter
+  items:
+  - url: https://golangweekly.com/link/190860/rss
+    title: Platform-Independent SIMD in Go
+    summary: SIMD lets a CPU perform an operation on a vector of values at once. Go
+      1.27 brings experimental SIMD support to arm64 and wasm, plus a portable simd
+      package that emulates SIMD where unavailable, so you don't need to write a plain
+      Go fallback.
+    score: 0
+    tags: []
+    source: go.dev
+    domain: go.dev
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/190864/rss
+    title: How Do You Add a New Keyword to Go? (For Sum Types)
+    summary: Damien's design for sum types is being actively worked through. The latest
+      sticking point is figuring out how to add a union keyword without breaking existing
+      code or gofmt, with some useful input from Dart's Bob Nystrom.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/190867/rss
+    title: Is Go's FIPS 140 Code Bloating Your Binaries?
+    summary: Using crypto/rand pulls in extra crypto code even with FIPS off, so WireGuard's
+      creator wants a build-time opt-in. Filippo Valsorda has trimmed some dependencies
+      but argues separate builds would increase testing and maintenance work.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/190872/rss
+    title: 'AX: Google''s Open Agentic Orchestration Runtime'
+    summary: Designed for large-scale throughput, AX runs AI agents akin to how Kubernetes
+      runs pods. Declare tasks, workspaces, and models in YAML and AX sandboxes the
+      agents and wires it all up. GitHub repo.
+    score: 0
+    tags: []
+    source: agentexecutor.io
+    domain: agentexecutor.io
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/190875/rss
+    title: 'Hister: A Go-Powered Search Engine for Your Own Stuff'
+    summary: 🔎 — The creator of SearX (and Colly) is back with a self-hosted personal
+      search engine for re-finding your files or pages you’ve visited. GitHub repo.
+    score: 0
+    tags: []
+    source: hister.org
+    domain: hister.org
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/190879/rss
+    title: 'RobotGo 1.1: Native Cross-Platform GUI Automation'
+    summary: Provides an API to control the mouse and keyboard, read the screen, grab
+      screenshots, etc. on macOS, Windows, and Linux.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/190887/rss
+    title: The First Official TinyGo Hardware 'Starter Kit'
+    summary: If you want to do some hardware hacking with TinyGo, this official kit
+      includes a RISC-V board and a variety of modules, along with tutorials for building
+      stuff with it. If you’ve already got some boards or want to source your own,
+      TinyGo also has a list of recommended and supported boards you can u
+    score: 0
+    tags: []
+    source: tinygo.org
+    domain: tinygo.org
+    summary_zh: ''
+    content_file: ''
