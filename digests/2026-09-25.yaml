@@ -1,10 +1,40 @@
 date: '2026-09-25'
-generated_at: 2026-09-25 20:02 UTC
+generated_at: 2026-09-25 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://ollaya.dev/
+    title: Ollaya – Ollama for open-source, Jev-style decision models
+    score: 214
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=49848269
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.anthropic.com/research/yes-claude-can-do-nine-loops
+    title: Yes, Claude can do nine loops
+    score: 100
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49848033
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://cyberscoop.com/supreme-court-save-database-voter-citizenship/
+    title: Supreme Court permits states to use SAVE database for citizenship checks
+    score: 56
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=49848844
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://factorio.com/blog/post/fff-447
     title: Factorio that you can touch
     score: 240
