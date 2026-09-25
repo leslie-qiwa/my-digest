@@ -1,10 +1,60 @@
 date: '2026-09-25'
-generated_at: 2026-09-25 14:03 UTC
+generated_at: 2026-09-25 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.jefftk.com/p/allow-carriers-on-planes
+    title: Allow Carriers on Planes
+    score: 118
+    comment_cnt: 120
+    comment_url: https://news.ycombinator.com/item?id=49844786
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://tokio.rs/blog/2026-09-24-topcoat-server-applications
+    title: Topcoat is pushing the boundary of server applications with Rust
+    score: 91
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49842332
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://nypost.com/2026/09/24/tech/silicon-valley-sex-assault-list-with-over-100-names-circulated-warning-female-tech-workers-of-predators-to-avoid/
+    title: Silicon Valley 'sex assault list' with 'over 100' names circulated
+    score: 71
+    comment_cnt: 85
+    comment_url: https://news.ycombinator.com/item?id=49843321
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand
+    title: ASML says it sold 'absolutely nothing' in Europe in 2026
+    score: 63
+    comment_cnt: 103
+    comment_url: https://news.ycombinator.com/item?id=49844663
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/egma-ai/jev-code-reviewer
+    title: Jev Based Code Review
+    score: 45
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49840300
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://nyaa.sh/reviews/mac-mini-m6-emulation
     title: Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini
     score: 142
