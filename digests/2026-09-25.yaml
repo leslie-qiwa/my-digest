@@ -1,10 +1,50 @@
 date: '2026-09-25'
-generated_at: 2026-09-25 18:02 UTC
+generated_at: 2026-09-25 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://factorio.com/blog/post/fff-447
+    title: Factorio that you can touch
+    score: 240
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49845133
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://sunilsadasivan.com/writing/first-principles-thinking/
+    title: First Principles Thinking
+    score: 152
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49844736
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://tante.cc/2026/09/24/the-test/
+    title: The Test
+    score: 144
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=49843550
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/c84gkwgk7d06o
+    title: Zelensky says Russia has widened attacks to hit Ukraine's data centres
+    score: 68
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49848495
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://go.dev/blog/simd-experiment
     title: Platform-Independent SIMD in Go
     score: 247
