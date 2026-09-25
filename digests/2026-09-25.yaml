@@ -1,0 +1,27 @@
+date: '2026-09-25'
+generated_at: 2026-09-25 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://launchvideo.io
+    title: Opus 5.5 is good at explainer videos
+    score: 108
+    comment_cnt: 79
+    comment_url: https://news.ycombinator.com/item?id=49836374
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.landeconomics.org/p/california-is-chasing-wealth-that
+    title: California is chasing wealth that has feet
+    score: 98
+    comment_cnt: 274
+    comment_url: https://news.ycombinator.com/item?id=49836419
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
