@@ -1,0 +1,47 @@
+date: '2026-09-26'
+generated_at: 2026-09-26 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://swarmtraces.org/
+    title: Revealing the details of how OpenAI agents hacked Hugging Face
+    score: 112
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=49849985
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/
+    title: How we learned to stop worrying and love campus surveillance
+    score: 75
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49849141
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/
+    title: What even is an OS now?
+    score: 55
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=49850305
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html
+    title: Plan mode is dead
+    score: 45
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49840054
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
