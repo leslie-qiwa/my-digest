@@ -1,10 +1,40 @@
 date: '2026-09-26'
-generated_at: 2026-09-26 16:00 UTC
+generated_at: 2026-09-26 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip
+    title: I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband
+    score: 168
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49857899
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding
+    title: The Copilot+ PC brand is dead
+    score: 91
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49854945
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/
+    title: Automattic has a new board after failed attempt to put CEO on leave
+    score: 54
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49857572
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior
     title: Understanding the Impact of LLM Watermarking on AI Agent Behavior
     score: 54
