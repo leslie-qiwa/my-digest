@@ -1,10 +1,20 @@
 date: '2026-09-26'
-generated_at: 2026-09-26 08:01 UTC
+generated_at: 2026-09-26 10:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://shkspr.mobi/blog/2017/11/captchas-dont-prove-youre-human-they-prove-youre-american/
+    title: CAPTCHAs don't prove you're human – they prove you're American
+    score: 62
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=49854399
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide
     title: One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days
     score: 163
