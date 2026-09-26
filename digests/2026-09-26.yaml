@@ -1,10 +1,20 @@
 date: '2026-09-26'
-generated_at: 2026-09-26 06:01 UTC
+generated_at: 2026-09-26 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide
+    title: One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days
+    score: 163
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49852065
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/
     title: We're gonna need a lot more mathematicians
     score: 70
