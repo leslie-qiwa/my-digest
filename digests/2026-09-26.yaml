@@ -1,10 +1,30 @@
 date: '2026-09-26'
-generated_at: 2026-09-26 10:00 UTC
+generated_at: 2026-09-26 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/
+    title: Jury finds Facebook liable for deceiving users in Cambridge Analytica case
+    score: 258
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49852302
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705
+    title: How to keep enjoying programming in a world of LLMs
+    score: 66
+    comment_cnt: 101
+    comment_url: https://news.ycombinator.com/item?id=49854875
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://shkspr.mobi/blog/2017/11/captchas-dont-prove-youre-human-they-prove-youre-american/
     title: CAPTCHAs don't prove you're human – they prove you're American
     score: 62
