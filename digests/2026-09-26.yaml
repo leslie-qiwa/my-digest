@@ -1,10 +1,20 @@
 date: '2026-09-26'
-generated_at: 2026-09-26 02:00 UTC
+generated_at: 2026-09-26 06:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/
+    title: We're gonna need a lot more mathematicians
+    score: 70
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49852717
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://news.ycombinator.com/item?id=49848955
     title: 'Ask HN: Who''s still keeping a DOS machine up because the business depends
       on it?'
