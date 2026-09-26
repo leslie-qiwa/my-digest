@@ -1,10 +1,40 @@
 date: '2026-09-26'
-generated_at: 2026-09-26 12:01 UTC
+generated_at: 2026-09-26 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://gultsch.de/posts/breaking-up-with-google-play/
+    title: 'Breaking Up with Google Play: Why Conversations Is Now Free'
+    score: 235
+    comment_cnt: 89
+    comment_url: https://news.ycombinator.com/item?id=49855315
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html
+    title: One Month Without AI
+    score: 110
+    comment_cnt: 118
+    comment_url: https://news.ycombinator.com/item?id=49855018
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.avidfayaz.com/writings/post-agi/the-post-agi-era
+    title: The Post-AGI Era
+    score: 12
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49847359
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/
     title: Jury finds Facebook liable for deceiving users in Cambridge Analytica case
     score: 258
