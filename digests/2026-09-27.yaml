@@ -1,0 +1,28 @@
+date: '2026-09-27'
+generated_at: 2026-09-27 02:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://github.com/reladraw/reladraw
+    title: 'Show HN: Reladraw – A diagram language where you decide where to place
+      things'
+    score: 185
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49858513
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/
+    title: An agent used DNS to reach an external chatbot
+    score: 44
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49853137
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
