@@ -1,0 +1,27 @@
+date: '2026-09-28'
+generated_at: 2026-09-28 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://loficities.com/
+    title: 'Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi'
+    score: 142
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=49869574
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://iain.rocks/blog/dont-couple-your-go-code-to-github
+    title: Don't couple your Go code to GitHub
+    score: 121
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49868404
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
