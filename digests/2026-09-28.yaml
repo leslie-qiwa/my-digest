@@ -1,10 +1,20 @@
 date: '2026-09-28'
-generated_at: 2026-09-28 04:00 UTC
+generated_at: 2026-09-28 08:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/
+    title: Self-Hosting on the Dark Web
+    score: 161
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49870295
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://colo.to/nvidia-stock-narrative.html
     title: Owed a billion dollars in Nvidia stock
     score: 205
