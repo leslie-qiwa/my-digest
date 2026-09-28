@@ -1,10 +1,61 @@
 date: '2026-09-28'
-generated_at: 2026-09-28 16:02 UTC
+generated_at: 2026-09-28 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/
+    title: The problem is not AI code, but not knowing about system architecture or
+      intent
+    score: 255
+    comment_cnt: 170
+    comment_url: https://news.ycombinator.com/item?id=49880312
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.thisamericanlife.org/897/transcript
+    title: Kids turned low-traffic NPR Spotify comments into a secret group chat
+    score: 116
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=49879697
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/ahmd-sh/hntui
+    title: 'Show HN: Hntui – A TUI for Hacker News'
+    score: 98
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49876760
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://kevquirk.com/i-switched-to-brave-browser
+    title: I Switched to Brave Browser
+    score: 47
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=49878759
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/
+    title: Nvidia wants to put a watchdog chip next to every AI agent
+    score: 32
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=49879883
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.alexewerlof.com/p/coding-is-not-solved
     title: Coding Is Not Solved
     score: 201
