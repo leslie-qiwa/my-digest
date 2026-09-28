@@ -1,10 +1,91 @@
 date: '2026-09-28'
-generated_at: 2026-09-28 18:02 UTC
+generated_at: 2026-09-28 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.anthropic.com/claude-sonnet-5-5
+    title: Sonnet 5.5
+    score: 314
+    comment_cnt: 202
+    comment_url: https://news.ycombinator.com/item?id=49881850
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://definitelynotwindows.com/
+    title: Windows 11½
+    score: 265
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=49881747
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://mubi.com/en/notebook/posts/pirating-the-pirates
+    title: Pirating the Pirates
+    score: 251
+    comment_cnt: 96
+    comment_url: https://news.ycombinator.com/item?id=49880036
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/seamusc/papermono-shopping-list
+    title: 'Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web
+      page'
+    score: 105
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49875801
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/
+    title: OpenAI still doesn't seem to have a handle on all of its rogue AI activity
+    score: 85
+    comment_cnt: 82
+    comment_url: https://news.ycombinator.com/item?id=49881484
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bobbytables.io/p/13-months-sober
+    title: 13 Months Sober (2025)
+    score: 75
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=49880311
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cnbc.com/2026/09/28/nvidia-releases.html
+    title: Nvidia wants to put a watchdog chip next to every AI agent
+    score: 39
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49879883
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://paultm.nl/paren-thesis
+    title: What makes Lisp difficult to read?
+    score: 36
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49879343
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/
     title: The problem is not AI code, but not knowing about system architecture or
       intent
