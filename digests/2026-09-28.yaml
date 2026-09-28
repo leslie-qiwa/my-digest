@@ -1,10 +1,50 @@
 date: '2026-09-28'
-generated_at: 2026-09-28 12:01 UTC
+generated_at: 2026-09-28 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/
+    title: AI companies in race to demonstrate their model most threatening to humanity
+    score: 315
+    comment_cnt: 239
+    comment_url: https://news.ycombinator.com/item?id=49875148
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live
+    title: SpaceX's Starship launching to orbit for first time ever today
+    score: 226
+    comment_cnt: 157
+    comment_url: https://news.ycombinator.com/item?id=49875411
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://git.mills.io/prologic/parley
+    title: 'Parley: Federated, decentralised chat that speaks plain IRC'
+    score: 140
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49875913
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.noemamag.com/the-mars-delusion/
+    title: The Mars Delusion
+    score: 24
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49867943
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.inkandswitch.com/essay/malleable-software/
     title: 'Malleable software: Restoring user agency in a world of locked-down apps
       (2025)'
