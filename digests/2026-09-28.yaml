@@ -1,10 +1,30 @@
 date: '2026-09-28'
-generated_at: 2026-09-28 20:02 UTC
+generated_at: 2026-09-28 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://lecaro.me/20260921-google-less.html
+    title: So long Google, and thanks for all the nudes
+    score: 178
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=49881951
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/
+    title: Hijacking the PS5's RTMP stream
+    score: 160
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49879702
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.anthropic.com/claude-sonnet-5-5
     title: Sonnet 5.5
     score: 314
