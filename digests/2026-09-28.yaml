@@ -1,10 +1,52 @@
 date: '2026-09-28'
-generated_at: 2026-09-28 10:01 UTC
+generated_at: 2026-09-28 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.inkandswitch.com/essay/malleable-software/
+    title: 'Malleable software: Restoring user agency in a world of locked-down apps
+      (2025)'
+    score: 106
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49869755
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.historyofinformation.com/detail.php?entryid=4341
+    title: Was silent reading unusual during Augustine's time?
+    score: 69
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49872474
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://markmanson.substack.com/p/intellectuals-are-fcking-idiots
+    title: Intellectuals Are Fucking Idiots
+    score: 50
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=49875802
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.carbonbrief.org/analysis-evs-are-now-nine-times-cheaper-than-petrol-or-diesel-to-drive-in-the-uk
+    title: 'Analysis: EVs are now nine times cheaper than petrol or diesel to drive
+      in UK'
+    score: 45
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49875466
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5
     title: Prompting Claude Opus 5.5
     score: 79
