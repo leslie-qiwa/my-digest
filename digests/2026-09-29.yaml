@@ -1,10 +1,40 @@
 date: '2026-09-29'
-generated_at: 2026-09-29 18:03 UTC
+generated_at: 2026-09-29 20:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html
+    title: Using any C++ library in Godot
+    score: 142
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49890051
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.withouthotair.com/
+    title: Without the Hot Air
+    score: 112
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49892175
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads
+    title: Why Doesn't Anyone Want to Fix One of America's Scariest Roads?
+    score: 35
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49893850
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising
     title: DraftKings Is Using AI to Behaviorally Target Chronic Gamblers
     score: 177
