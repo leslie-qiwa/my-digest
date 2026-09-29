@@ -1,10 +1,40 @@
 date: '2026-09-29'
-generated_at: 2026-09-29 16:04 UTC
+generated_at: 2026-09-29 18:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising
+    title: DraftKings Is Using AI to Behaviorally Target Chronic Gamblers
+    score: 177
+    comment_cnt: 114
+    comment_url: https://news.ycombinator.com/item?id=49896050
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674
+    title: Google ending ChromeOS support two years early
+    score: 116
+    comment_cnt: 91
+    comment_url: https://news.ycombinator.com/item?id=49893653
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://parksb.github.io/en/article/44.html
+    title: What makes software development engineering
+    score: 43
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49892958
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/
     title: macOS Golden Gate Is a Buggy Mess
     score: 202
