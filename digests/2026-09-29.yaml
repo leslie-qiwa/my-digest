@@ -1,0 +1,77 @@
+date: '2026-09-29'
+generated_at: 2026-09-29 00:03 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://calnewport.com/its-time-to-investigate-the-ai-labs/
+    title: It's Time to Investigate the AI Labs
+    score: 213
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49883471
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/firelex/jeff
+    title: Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms
+    score: 200
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=49883844
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/
+    title: Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline
+    score: 135
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49884363
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.glyph.im/2026/09/serious-ai-product.html
+    title: What would a serious AI product look like?
+    score: 125
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49876148
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs
+    title: Pacing the Frontier is not the actual goal for AI labs
+    score: 70
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49884119
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.greenpants.net/ai-accountability/
+    title: Who should be held accountable when an AI Agent (accidentally) acts maliciously?
+    score: 31
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49885109
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops
+    title: California farmers are struggling to sell grapes as demand for wine drops
+    score: 29
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49883539
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
