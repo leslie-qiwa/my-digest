@@ -1,10 +1,50 @@
 date: '2026-09-29'
-generated_at: 2026-09-29 20:03 UTC
+generated_at: 2026-09-29 22:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/
+    title: AI needs $6T in annual revenue to justify data centre boom
+    score: 167
+    comment_cnt: 209
+    comment_url: https://news.ycombinator.com/item?id=49898952
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities
+    title: GLM-5.3 and the spread of advanced cyber capabilities
+    score: 122
+    comment_cnt: 90
+    comment_url: https://news.ycombinator.com/item?id=49897075
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/
+    title: 'The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging'
+    score: 71
+    comment_cnt: 91
+    comment_url: https://news.ycombinator.com/item?id=49897826
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=49893157
+    title: 'Ask HN: What are you reading?'
+    score: 63
+    comment_cnt: 176
+    comment_url: https://news.ycombinator.com/item?id=49893157
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html
     title: Using any C++ library in Godot
     score: 142
