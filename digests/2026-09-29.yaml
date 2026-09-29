@@ -1,10 +1,20 @@
 date: '2026-09-29'
-generated_at: 2026-09-29 04:02 UTC
+generated_at: 2026-09-29 10:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://twitter.com/thsottiaux/status/2104823812042940713
+    title: 'OpenAI: Tomorrow we are re-opening the Pro $200 subscription'
+    score: 52
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=49889306
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.cloudflare.com/cloudflare-cf-cli-launch/
     title: 'Cf: The Agentic CLI for the Cloudflare API'
     score: 131
