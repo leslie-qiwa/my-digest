@@ -1,10 +1,40 @@
 date: '2026-09-29'
-generated_at: 2026-09-29 00:03 UTC
+generated_at: 2026-09-29 04:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.cloudflare.com/cloudflare-cf-cli-launch/
+    title: 'Cf: The Agentic CLI for the Cloudflare API'
+    score: 131
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49879577
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://oilprice.com/Latest-Energy-News/World-News/US-Strategic-Petroleum-Reserve-Falls-to-Lowest-Level-Since-1982.html
+    title: U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982
+    score: 87
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=49887337
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola
+    title: Joseph Szabo’s pictures of American adolescents
+    score: 75
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49881606
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://calnewport.com/its-time-to-investigate-the-ai-labs/
     title: It's Time to Investigate the AI Labs
     score: 213
