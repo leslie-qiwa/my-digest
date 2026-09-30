@@ -1,0 +1,47 @@
+date: '2026-09-30'
+generated_at: 2026-09-30 00:04 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/
+    title: U.S. postal inspectors shut down website selling counterfeit postage labels
+    score: 152
+    comment_cnt: 79
+    comment_url: https://news.ycombinator.com/item?id=49899090
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market
+    title: Memory Companies Have Destroyed the Consumer Market
+    score: 95
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=49899051
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/ninjahawk/livenerf
+    title: 'Livenerf: Has Opus 5.5 been nerfed yet?'
+    score: 94
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49901736
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://frostyard.github.io/nsl/
+    title: 'Show HN: NSL – WSL for Linux'
+    score: 74
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49894351
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
