@@ -1,10 +1,30 @@
 date: '2026-09-30'
-generated_at: 2026-09-30 12:03 UTC
+generated_at: 2026-09-30 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use
+    title: Most data centers refusing to say how much water, electricity they use
+    score: 121
+    comment_cnt: 116
+    comment_url: https://news.ycombinator.com/item?id=49907057
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/
+    title: The last time my family was replaced by technology
+    score: 40
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49908394
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/
     title: Why Is Sam Altman a Free Man?
     score: 172
