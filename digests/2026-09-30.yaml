@@ -1,10 +1,30 @@
 date: '2026-09-30'
-generated_at: 2026-09-30 00:04 UTC
+generated_at: 2026-09-30 02:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms
+    title: Vermont replacing power plants with home batteries
+    score: 91
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49897993
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart
+    title: NASA asked several former SR-71A staffers to help secret restart
+    score: 66
+    comment_cnt: 77
+    comment_url: https://news.ycombinator.com/item?id=49890733
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/
     title: U.S. postal inspectors shut down website selling counterfeit postage labels
     score: 152
