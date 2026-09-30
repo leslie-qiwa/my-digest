@@ -1,10 +1,40 @@
 date: '2026-09-30'
-generated_at: 2026-09-30 08:03 UTC
+generated_at: 2026-09-30 10:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/
+    title: 'September 2026: The world today, as seen by one Polish guy'
+    score: 205
+    comment_cnt: 97
+    comment_url: https://news.ycombinator.com/item?id=49905487
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/
+    title: Backblaze drive stats for Q2 2026
+    score: 192
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49893002
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://agmai.org/general-sep29/
+    title: Responsible Release of AI-Generated Mathematics
+    score: 52
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49903713
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/
     title: Tesla takes on $30B in credit as it approaches unprofitability
     score: 100
