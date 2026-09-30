@@ -1,10 +1,40 @@
 date: '2026-09-30'
-generated_at: 2026-09-30 10:04 UTC
+generated_at: 2026-09-30 12:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/
+    title: Why Is Sam Altman a Free Man?
+    score: 172
+    comment_cnt: 132
+    comment_url: https://news.ycombinator.com/item?id=49905633
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://earendil.com/posts/you-said-no-mcp/
+    title: 'Pi.dev: You Said No MCP'
+    score: 146
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49906637
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence
+    title: GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence
+    score: 50
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=49906669
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/
     title: 'September 2026: The world today, as seen by one Polish guy'
     score: 205
