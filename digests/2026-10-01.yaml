@@ -1,10 +1,30 @@
 date: '2026-10-01'
-generated_at: 2026-10-01 00:02 UTC
+generated_at: 2026-10-01 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.thespacereview.com/article/4951/1
+    title: The top secret URSALA, RAQUEL, and FARRAH satellites
+    score: 132
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49915082
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.jim-nielsen.com/2026/dear-software-makers/
+    title: Dear Software Makers
+    score: 82
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49913364
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://edgcpp.org/#transition
     title: EDG C++ front-end goes public
     score: 129
