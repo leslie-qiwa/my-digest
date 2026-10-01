@@ -1,10 +1,40 @@
 date: '2026-10-01'
-generated_at: 2026-10-01 20:01 UTC
+generated_at: 2026-10-01 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://earendil.com/posts/pi-1-0/
+    title: Pi 1.0
+    score: 452
+    comment_cnt: 159
+    comment_url: https://news.ycombinator.com/item?id=49926069
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.cloudflare.com/cloudflare-k2-streams/
+    title: 'Cloudflare K2: serverless event streams'
+    score: 168
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=49921923
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://automatictransmission.khoury.northeastern.edu/index.html
+    title: Car Is a Smartphone on Wheels. Here's Who's Listening
+    score: 88
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=49926628
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://turbopuffer.com/blog/rip-vector-database
     title: RIP, vector database
     score: 201
