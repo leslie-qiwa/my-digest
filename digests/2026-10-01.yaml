@@ -1,10 +1,61 @@
 date: '2026-10-01'
-generated_at: 2026-10-01 10:01 UTC
+generated_at: 2026-10-01 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/streetcomplete/StreetComplete/issues/5421
+    title: StreetComplete on iOS is now in public beta
+    score: 338
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=49920160
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/
+    title: Google breaks promise to provide 10 years of updates to Chromebooks
+    score: 271
+    comment_cnt: 123
+    comment_url: https://news.ycombinator.com/item?id=49920997
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html
+    title: How to speed up the Rust compiler in September 2026
+    score: 127
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49920896
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design
+    title: 'GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design'
+    score: 115
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=49919910
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html
+    title: FTC is investigating OpenAI, Anthropic and other AI companies over product
+      risks
+    score: 112
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=49921050
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/
     title: Is sandboxing sufficient to contain rogue agents?
     score: 36
