@@ -1,10 +1,30 @@
 date: '2026-10-02'
-generated_at: 2026-10-02 02:01 UTC
+generated_at: 2026-10-02 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://news.ycombinator.com/item?id=49922569
+    title: 'Ask HN: Who is hiring? (October 2026)'
+    score: 167
+    comment_cnt: 178
+    comment_url: https://news.ycombinator.com/item?id=49922569
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://svelte.dev/blog/sveltekit-3-is-here
+    title: SvelteKit 3
+    score: 157
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49926536
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://lwn.net/Articles/1097401/
     title: Several vulnerabilities have been discovered in the Linux kernel
     score: 90
