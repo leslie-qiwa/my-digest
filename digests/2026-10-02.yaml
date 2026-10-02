@@ -1,10 +1,40 @@
 date: '2026-10-02'
-generated_at: 2026-10-02 14:02 UTC
+generated_at: 2026-10-02 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://inrng.com/2026/10/shimano-bicycle-museum/
+    title: Shimano Bicycle Museum Review
+    score: 239
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49930047
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://mondobe.com/ai-makes-me-sad
+    title: AI Makes Me Sad
+    score: 87
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=49934487
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/
+    title: Don't be fooled–LLMs don't reason
+    score: 56
+    comment_cnt: 98
+    comment_url: https://news.ycombinator.com/item?id=49933459
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness
     title: Using Opus 5.5 to discover a new eyewitness record of the dodo
     score: 181
