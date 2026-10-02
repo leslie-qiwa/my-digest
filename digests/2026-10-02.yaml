@@ -1,0 +1,17 @@
+date: '2026-10-02'
+generated_at: 2026-10-02 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://molily.de/web-dev-education/
+    title: The death of web development education
+    score: 134
+    comment_cnt: 102
+    comment_url: https://news.ycombinator.com/item?id=49927100
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
