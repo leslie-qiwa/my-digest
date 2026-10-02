@@ -1,10 +1,30 @@
 date: '2026-10-02'
-generated_at: 2026-10-02 18:02 UTC
+generated_at: 2026-10-02 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility
+    title: 'Court agrees with EFF: Utah''s VPN law demands a technical impossibility'
+    score: 305
+    comment_cnt: 138
+    comment_url: https://news.ycombinator.com/item?id=49927754
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost
+    title: ICC judge on what U.S. sanctions mean for her and global courts
+    score: 184
+    comment_cnt: 113
+    comment_url: https://news.ycombinator.com/item?id=49935867
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/
     title: Big Tech ruined the cloud, so we're renaming ours
     score: 197
