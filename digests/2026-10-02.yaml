@@ -1,10 +1,20 @@
 date: '2026-10-02'
-generated_at: 2026-10-02 00:02 UTC
+generated_at: 2026-10-02 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://lwn.net/Articles/1097401/
+    title: Several vulnerabilities have been discovered in the Linux kernel
+    score: 90
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49928121
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://molily.de/web-dev-education/
     title: The death of web development education
     score: 134
