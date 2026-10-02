@@ -1,10 +1,20 @@
 date: '2026-10-02'
-generated_at: 2026-10-02 08:02 UTC
+generated_at: 2026-10-02 10:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/
+    title: ArXiv's Updated Rate Limit Policy
+    score: 117
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49926512
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works
     title: How Singapore's government-run dating service works
     score: 113
