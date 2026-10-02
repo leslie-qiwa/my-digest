@@ -1,10 +1,60 @@
 date: '2026-10-02'
-generated_at: 2026-10-02 12:01 UTC
+generated_at: 2026-10-02 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness
+    title: Using Opus 5.5 to discover a new eyewitness record of the dodo
+    score: 181
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49926917
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://effect.website/blog/releases/effect/40
+    title: Effect 4.0
+    score: 73
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49925812
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl
+    title: Why media fans want to escape algorithms with CDs, DVDs and vinyl
+    score: 60
+    comment_cnt: 79
+    comment_url: https://news.ycombinator.com/item?id=49932048
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://osxdaily.com/2026/09/30/buggy-laggy-mission-control-spaces-stage-manager-in-macos-27-golden-gate-try-these-tips/
+    title: macOS 27 is so buggy
+    score: 50
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49924387
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.rte.ie/news/business/2026/1001/1593639-european-payments-group/
+    title: European payments groups join forces to challenge US dominance
+    score: 42
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49932383
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://earendil.com/posts/pi-durable/
     title: Pi Durable
     score: 409
