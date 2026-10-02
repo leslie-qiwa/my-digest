@@ -1,10 +1,40 @@
 date: '2026-10-02'
-generated_at: 2026-10-02 04:01 UTC
+generated_at: 2026-10-02 08:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works
+    title: How Singapore's government-run dating service works
+    score: 113
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49929113
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/
+    title: Meta's Muse is fantastic for web scraping
+    score: 46
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49929970
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/
+    title: Apple's smart home camera reportedly won't record video
+    score: 28
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49928054
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://news.ycombinator.com/item?id=49922569
     title: 'Ask HN: Who is hiring? (October 2026)'
     score: 167
