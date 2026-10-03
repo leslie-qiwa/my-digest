@@ -1,10 +1,30 @@
 date: '2026-10-03'
-generated_at: 2026-10-03 00:02 UTC
+generated_at: 2026-10-03 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://yuka.dev/blog-2026-10-02-linux-m4.html
+    title: The Forgetful CPU (Linux on M4)
+    score: 148
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=49933869
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer
+    title: Things that apparently cause cancer
+    score: 122
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49940219
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://ziglang.org/download/0.17.0/release-notes.html
     title: Zig v0.17.0
     score: 186
