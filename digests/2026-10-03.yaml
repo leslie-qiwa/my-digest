@@ -1,10 +1,30 @@
 date: '2026-10-03'
-generated_at: 2026-10-03 16:01 UTC
+generated_at: 2026-10-03 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2
+    title: City building games have a Soul Problem pt.2
+    score: 77
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=49945323
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/cwgkvygg5nzvo
+    title: US killer's sentence quashed because of AI video of victim shown in court
+    score: 59
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49944127
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/
     title: Cloudflare OHTTP gateway
     score: 142
