@@ -1,0 +1,37 @@
+date: '2026-10-03'
+generated_at: 2026-10-03 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://ziglang.org/download/0.17.0/release-notes.html
+    title: Zig v0.17.0
+    score: 186
+    comment_cnt: 96
+    comment_url: https://news.ycombinator.com/item?id=49938521
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/
+    title: With most information hidden, the game Stratego had stumped AI until now
+    score: 153
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=49933740
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.sshh.io/p/the-harness-is-the-company
+    title: Every SaaS business will become a harness around a model
+    score: 77
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49938616
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
