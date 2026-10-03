@@ -1,10 +1,30 @@
 date: '2026-10-03'
-generated_at: 2026-10-03 14:02 UTC
+generated_at: 2026-10-03 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/
+    title: Cloudflare OHTTP gateway
+    score: 142
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=49941091
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia
+    title: The Escalation of War in Ethiopia
+    score: 112
+    comment_cnt: 98
+    comment_url: https://news.ycombinator.com/item?id=49943451
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.kagi.com/update-orion-linux-windows
     title: An Update on Orion for Linux and Windows
     score: 109
