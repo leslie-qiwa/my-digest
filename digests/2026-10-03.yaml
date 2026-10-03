@@ -1,10 +1,40 @@
 date: '2026-10-03'
-generated_at: 2026-10-03 10:01 UTC
+generated_at: 2026-10-03 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.kagi.com/update-orion-linux-windows
+    title: An Update on Orion for Linux and Windows
+    score: 109
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49941447
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://matduggan.com/what-does-my-dream-os-ui-look-like/
+    title: Make Tmux the OS
+    score: 99
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49937540
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://tej.as/blog/aleph-alpha-kolibri
+    title: 'Show HN: Germany''s new sovereign AI model Kolibri'
+    score: 80
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49943034
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression
     title: GrapheneOS has fixed the Android 17 QPR1 kernel performance regression
     score: 120
