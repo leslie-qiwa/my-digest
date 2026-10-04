@@ -1,10 +1,40 @@
 date: '2026-10-04'
-generated_at: 2026-10-04 12:02 UTC
+generated_at: 2026-10-04 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://play.runescape.com/4
+    title: We're working on a new RuneScape MMO
+    score: 109
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49949588
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/
+    title: Surely you have ultra-wideband radios on your bins too?
+    score: 99
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49947472
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://eliocapella.com/blog/writing-code-by-hand-is-over/
+    title: Writing code by hand is over, forever
+    score: 21
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49948364
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU
     title: The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux
     score: 322
