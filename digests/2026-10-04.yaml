@@ -1,10 +1,30 @@
 date: '2026-10-04'
-generated_at: 2026-10-04 04:01 UTC
+generated_at: 2026-10-04 06:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://news.ycombinator.com/item?id=49949438
+    title: 'Tell HN: Bob Cringely has died'
+    score: 321
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49949438
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://metedata.substack.com/p/what-meta-got-right-with-muse
+    title: What Meta got right with Muse
+    score: 36
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49946526
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://ben.stolovitz.com/posts/reasons-not-emt-ranked/
     title: Reasons I didn't become an EMT, ranked
     score: 118
