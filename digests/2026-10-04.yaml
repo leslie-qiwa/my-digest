@@ -1,10 +1,41 @@
 date: '2026-10-04'
-generated_at: 2026-10-04 00:03 UTC
+generated_at: 2026-10-04 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/
+    title: We're going to need default hard budget caps on pretty much everything
+    score: 158
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=49949235
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken
+    title: OpenAI safety leader quits, warning AI company's culture is 'broken'
+    score: 151
+    comment_cnt: 101
+    comment_url: https://news.ycombinator.com/item?id=49948332
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/
+    title: LeCun has "zero concerns" about AI wiping out humanity, recent "rogue"
+      incidents
+    score: 82
+    comment_cnt: 97
+    comment_url: https://news.ycombinator.com/item?id=49946228
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/
     title: Federal judge calls Flock 'indiscriminate mass surveillance'
     score: 180
