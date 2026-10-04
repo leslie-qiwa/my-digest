@@ -1,10 +1,40 @@
 date: '2026-10-04'
-generated_at: 2026-10-04 16:01 UTC
+generated_at: 2026-10-04 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://automatictransmission.khoury.northeastern.edu/
+    title: Car is a smartphone on wheels. Here's who's listening
+    score: 157
+    comment_cnt: 77
+    comment_url: https://news.ycombinator.com/item?id=49954882
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and
+    title: Rejection Sensitivity in Gifted and Twice-Exceptional Children
+    score: 94
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49953116
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/world/2026/oct/03/spain-housing-protest
+    title: '''This can''t go on'': thousands protest against housing crisis in Spain'
+    score: 27
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49951966
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/Niko1221/Strata
     title: Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s
     score: 227
