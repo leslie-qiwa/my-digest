@@ -1,10 +1,30 @@
 date: '2026-10-04'
-generated_at: 2026-10-04 20:00 UTC
+generated_at: 2026-10-04 22:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/omlahore/RemoveMacAI
+    title: Turn off Apple Intelligence on macOS 27 and get its disk space back
+    score: 178
+    comment_cnt: 92
+    comment_url: https://news.ycombinator.com/item?id=49957116
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/
+    title: Improper redaction reveals Google Data Center water and electricity usage
+    score: 124
+    comment_cnt: 154
+    comment_url: https://news.ycombinator.com/item?id=49957068
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/allenv0/SCM
     title: 'Show HN: AI search for every photo and every frame of video on macOS'
     score: 107
