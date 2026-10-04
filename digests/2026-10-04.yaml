@@ -1,10 +1,40 @@
 date: '2026-10-04'
-generated_at: 2026-10-04 02:01 UTC
+generated_at: 2026-10-04 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://ben.stolovitz.com/posts/reasons-not-emt-ranked/
+    title: Reasons I didn't become an EMT, ranked
+    score: 118
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49947631
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict
+    title: Treachery in the Rodin Museum 3D scan verdict
+    score: 117
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=49946355
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://liao.gg/blog/agents-dont-need-memory
+    title: Agents don't need memory, they need documentation
+    score: 81
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49945933
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/
     title: We're going to need default hard budget caps on pretty much everything
     score: 158
