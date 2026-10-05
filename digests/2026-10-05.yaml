@@ -1,10 +1,121 @@
 date: '2026-10-05'
-generated_at: 2026-10-05 18:01 UTC
+generated_at: 2026-10-05 22:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://reflection.ai/blog/introducing-beam
+    title: 'Beam: Reflection''s 501B open-weight model'
+    score: 200
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=49969183
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/
+    title: Plain text is still one of the best technologies we have
+    score: 164
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=49968906
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors
+    title: Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates
+    score: 96
+    comment_cnt: 87
+    comment_url: https://news.ycombinator.com/item?id=49970667
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arslan.io/2026/10/05/the-lamps-in-my-house/
+    title: The lamps in my house
+    score: 84
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49965152
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/
+    title: OpenAI "rogue" agent activities found on Wikimedia projects
+    score: 178
+    comment_cnt: 107
+    comment_url: https://news.ycombinator.com/item?id=49968105
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk
+    title: US closely monitoring case of lab worker who possibly died of plague in
+      Siberia
+    score: 168
+    comment_cnt: 141
+    comment_url: https://news.ycombinator.com/item?id=49967444
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://onlys.ky/independence-is-interdependence/
+    title: The future of independence is interdependence
+    score: 109
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49966163
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://dosdays.co.uk/topics/Software/borland_turbo_basic.php
+    title: Borland Turbo Basic
+    score: 98
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49965894
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/
+    title: The Era of Software Quality, or the Era of Ostriches?
+    score: 62
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49964018
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election
+    title: People are asking ChatGPT to help them decide how to vote in the midterms
+    score: 43
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=49965833
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://endsdontjustifythemeans.com/p/6-questions-for-believers-in-ai-consciousness
+    title: Questions for Believers in AI Consciousness
+    score: 35
+    comment_cnt: 119
+    comment_url: https://news.ycombinator.com/item?id=49968964
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/rui314/mold/releases/tag/v3.0.0
     title: Mold Linker Version 3.0.0 Release – Rewritten in Rust
     score: 142
