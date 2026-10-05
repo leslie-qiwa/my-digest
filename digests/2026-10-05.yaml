@@ -1,10 +1,30 @@
 date: '2026-10-05'
-generated_at: 2026-10-05 08:01 UTC
+generated_at: 2026-10-05 10:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://frn.sh/go-gc/
+    title: A 40ms Go garbage collector pause caused by swap
+    score: 94
+    comment_cnt: 89
+    comment_url: https://news.ycombinator.com/item?id=49959654
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold
+    title: Sales of sub-€25,000 electric car models set to rise sevenfold
+    score: 52
+    comment_cnt: 79
+    comment_url: https://news.ycombinator.com/item?id=49961890
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html
     title: Anthropic reported diary entry to police, woman faces felony charge
     score: 62
