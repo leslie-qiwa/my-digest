@@ -1,10 +1,40 @@
 date: '2026-10-06'
-generated_at: 2026-10-06 02:03 UTC
+generated_at: 2026-10-06 06:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://dbushell.com/2026/10/03/deno-to-node/
+    title: Friendship ended with Deno, now Node is my best friend
+    score: 117
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49971719
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days
+    title: High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days
+    score: 103
+    comment_cnt: 79
+    comment_url: https://news.ycombinator.com/item?id=49972607
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.vivienhenz.com/common-lisp
+    title: Why Common Lisp is now the best programming language
+    score: 88
+    comment_cnt: 110
+    comment_url: https://news.ycombinator.com/item?id=49973598
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/
     title: The Future of Mathematics
     score: 97
