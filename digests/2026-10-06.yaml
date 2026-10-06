@@ -1,10 +1,40 @@
 date: '2026-10-06'
-generated_at: 2026-10-06 10:03 UTC
+generated_at: 2026-10-06 12:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://qlabs.sh/research/dust
+    title: 'Dust: Pretraining Transformers Without Backpropagation'
+    score: 215
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49970871
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x
+    title: Anthropic Subscriptions Offer 5x+ More Value Than OpenAI
+    score: 62
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=49975345
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html
+    title: Engineer says Claude Code has made his job "soul-sucking"
+    score: 57
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49971473
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.anildash.com/2026/10/06/kill-unalive/
     title: We are going to kill "unalive"
     score: 83
