@@ -1,10 +1,61 @@
 date: '2026-10-06'
-generated_at: 2026-10-06 18:04 UTC
+generated_at: 2026-10-06 20:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/
+    title: World's First enhanced geothermal power plant completed in just 23 months
+    score: 134
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=49976993
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ajmoon.com/posts/im-the-agi-thats-wiping-out-humanity-heres-how
+    title: I'm the AGI that's wiping out humanity
+    score: 103
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=49976751
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/storytold/photocraft
+    title: Adobe Creative Suite Cleanroom Port to Rust
+    score: 91
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49981449
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html
+    title: Utah to let AI examine patients and prescribe medication without human
+      oversight
+    score: 44
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=49981197
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole
+    title: How California Closed the Montana License Plate Loophole
+    score: 38
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49981186
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://pola.rs/posts/release-polars-2/
     title: Release of Polars 2.0
     score: 295
