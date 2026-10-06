@@ -1,10 +1,30 @@
 date: '2026-10-06'
-generated_at: 2026-10-06 06:03 UTC
+generated_at: 2026-10-06 08:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://jross.me/open-source-as-we-know-it-is-dead/
+    title: Open Source as We Know It Is Dead
+    score: 80
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49973839
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://docs.google.com/document/d/e/2PACX-1vTSh-pyNP3Gi99WMmsinnLmE9V5CDI0HEm6WGbIPMNt3V5SGlClHF8-BetotKHOImrvQDSXmFdiOw8D/pub
+    title: Is mathematics over, or just graduating?
+    score: 38
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49963382
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://dbushell.com/2026/10/03/deno-to-node/
     title: Friendship ended with Deno, now Node is my best friend
     score: 117
