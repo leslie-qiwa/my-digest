@@ -1,0 +1,48 @@
+date: '2026-10-06'
+generated_at: 2026-10-06 02:03 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/
+    title: The Future of Mathematics
+    score: 97
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49969256
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.githubstatus.com/incidents/3q1yb5m7ltvb
+    title: Incident with Actions
+    score: 94
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49969961
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.debugbear.com/blog/example-dot-com-redesign-history
+    title: Example.com Just Launched the Biggest Redesign in Decades
+    score: 86
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49971921
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.npr.org/2026/10/02/nx-s1-5981420/kalshi-betting-prediction-markets-gambling-addiction
+    title: After bankruptcy, he was banned from betting sites. Then he discovered
+      Kalshi
+    score: 59
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49969375
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
