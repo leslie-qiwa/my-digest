@@ -1,10 +1,40 @@
 date: '2026-10-06'
-generated_at: 2026-10-06 20:04 UTC
+generated_at: 2026-10-06 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/
+    title: Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol
+    score: 123
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=49978563
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/
+    title: Paramount Skydance has completed its $111B merger with Warner Bros. Discovery
+    score: 88
+    comment_cnt: 92
+    comment_url: https://news.ycombinator.com/item?id=49983703
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://dbushell.com/2026/10/07/sustainable-web-career/
+    title: A sustainable web career, for when all this blows over
+    score: 48
+    comment_cnt: 100
+    comment_url: https://news.ycombinator.com/item?id=49982921
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/
     title: World's First enhanced geothermal power plant completed in just 23 months
     score: 134
