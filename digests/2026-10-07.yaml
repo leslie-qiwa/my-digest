@@ -1,0 +1,27 @@
+date: '2026-10-07'
+generated_at: 2026-10-07 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/
+    title: What's Earth's dominant species by mass?
+    score: 132
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=49977531
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://worrydream.com/EarlyHistoryOfSmalltalk/
+    title: The Early History of Smalltalk (1993)
+    score: 109
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=49979845
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
