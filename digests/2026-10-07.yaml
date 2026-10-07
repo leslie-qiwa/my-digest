@@ -1,10 +1,61 @@
 date: '2026-10-07'
-generated_at: 2026-10-07 12:05 UTC
+generated_at: 2026-10-07 14:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://developer.chrome.com/blog/jpeg-xl-in-chrome
+    title: Shipping JPEG XL in Chrome
+    score: 187
+    comment_cnt: 92
+    comment_url: https://news.ycombinator.com/item?id=49991227
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15
+    title: How Fast is Python 3.15?
+    score: 66
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=49984652
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating
+    title: PS5 Jailbreaks Are Escalating at an Unprecedented Pace
+    score: 54
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49990763
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/
+    title: House with 15m underground tunnels for sale for 300k
+    score: 52
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=49992125
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.sci.news/medicine/permanent-daylight-saving-time-15110.html
+    title: Permanent Daylight Saving Time Could Harm Sleep and Mental Health, Analysis
+      Says
+    score: 35
+    comment_cnt: 91
+    comment_url: https://news.ycombinator.com/item?id=49991078
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://strandsagents.com/blog/introducing-strands-decider/
     title: 'Strands Decider 2B: a small, open-source, decision model'
     score: 206
