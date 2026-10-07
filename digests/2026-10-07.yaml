@@ -1,10 +1,20 @@
 date: '2026-10-07'
-generated_at: 2026-10-07 08:03 UTC
+generated_at: 2026-10-07 10:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights
+    title: Xbox has secured exclusive GTA 6 streaming rights
+    score: 34
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=49987245
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://2026.stateofdevs.com/en-US/
     title: State of Devs 2026
     score: 141
