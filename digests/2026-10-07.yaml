@@ -1,10 +1,60 @@
 date: '2026-10-07'
-generated_at: 2026-10-07 18:05 UTC
+generated_at: 2026-10-07 20:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.anthropic.com/claude-haiku-5-5
+    title: Claude Haiku 5.5
+    score: 353
+    comment_cnt: 167
+    comment_url: https://news.ycombinator.com/item?id=49996437
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://refactoringenglish.com/blog/anti-patterns-software-blogging/
+    title: Anti-Patterns in Software Blogging
+    score: 154
+    comment_cnt: 82
+    comment_url: https://news.ycombinator.com/item?id=49992257
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/snuri00/psp-web-recomp
+    title: God of War on PSP, recompiled to WebAssembly and running in the browser
+    score: 116
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49991243
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/
+    title: Meta and Microsoft Limit Employee Use of Claude AI Tools
+    score: 65
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=49997161
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://worksinprogress.co/issue/a-cops-case-for-flock/
+    title: A Cop's Case for Flock
+    score: 14
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=49994679
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/szabadkai/c64-keyboard-font/
     title: A font recreated from photographs of classic Commodore 64 keycaps
     score: 312
