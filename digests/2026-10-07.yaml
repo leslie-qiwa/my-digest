@@ -1,10 +1,40 @@
 date: '2026-10-07'
-generated_at: 2026-10-07 20:05 UTC
+generated_at: 2026-10-07 22:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.nobelprize.org/prizes/chemistry/2026/press-release/
+    title: Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai
+    score: 276
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=49990470
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://scottaaronson.blog/?p=10169
+    title: The Mathocalypse
+    score: 146
+    comment_cnt: 146
+    comment_url: https://news.ycombinator.com/item?id=49997718
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/docker/docker-agent
+    title: Docker Agent
+    score: 126
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49996259
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.anthropic.com/claude-haiku-5-5
     title: Claude Haiku 5.5
     score: 353
