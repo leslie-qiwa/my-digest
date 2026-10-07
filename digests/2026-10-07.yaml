@@ -1,10 +1,81 @@
 date: '2026-10-07'
-generated_at: 2026-10-07 16:03 UTC
+generated_at: 2026-10-07 18:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/szabadkai/c64-keyboard-font/
+    title: A font recreated from photographs of classic Commodore 64 keycaps
+    score: 312
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=49990224
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees
+    title: Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive'
+      Fees
+    score: 224
+    comment_cnt: 101
+    comment_url: https://news.ycombinator.com/item?id=49993914
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arxiv.org/abs/2610.08144
+    title: Navier–Stokes Lost in Translation
+    score: 134
+    comment_cnt: 101
+    comment_url: https://news.ycombinator.com/item?id=49994145
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://labs.google/playground
+    title: Google Playground
+    score: 106
+    comment_cnt: 89
+    comment_url: https://news.ycombinator.com/item?id=49992774
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.pewresearch.org/global/2026/10/01/across-the-globe-people-increasingly-say-social-media-is-harming-democracy/
+    title: Across the Globe, People Increasingly Say Social Media Is Harming Democracy
+    score: 89
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=49994122
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/
+    title: Why Were Victorian Elites So Effective?
+    score: 40
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=49993908
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.minut.com/features/occupancy-monitoring
+    title: Device detection and occupancy monitoring for Airbnb hosts
+    score: 17
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=49993231
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.githubstatus.com/incidents/djlmxz2zd0j7
     title: GitHub Incident with Git Operations, Pull Requests and Actions
     score: 101
