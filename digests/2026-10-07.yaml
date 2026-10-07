@@ -1,10 +1,20 @@
 date: '2026-10-07'
-generated_at: 2026-10-07 02:02 UTC
+generated_at: 2026-10-07 06:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://penguin-mail.com/
+    title: Penguin Mail – open-source Rust email client for Linux with AI
+    score: 141
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=49984716
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://developers.openai.com/api/docs/guides/decisions
     title: Decisions API is in public beta
     score: 148
