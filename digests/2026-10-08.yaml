@@ -1,10 +1,30 @@
 date: '2026-10-08'
-generated_at: 2026-10-08 04:02 UTC
+generated_at: 2026-10-08 08:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/
+    title: '''Jonathan'' is the oldest land animal on Earth'
+    score: 136
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=49998066
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/zerobrewhq/zerobrew
+    title: A 100x faster* alternative to homebrew
+    score: 73
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50001580
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/pingdotgg/ts-rust
     title: Rust Port of TypeScript (Tsc)
     score: 45
