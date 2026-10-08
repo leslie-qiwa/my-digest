@@ -1,10 +1,20 @@
 date: '2026-10-08'
-generated_at: 2026-10-08 02:03 UTC
+generated_at: 2026-10-08 04:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/pingdotgg/ts-rust
+    title: Rust Port of TypeScript (Tsc)
+    score: 45
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50000676
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007
     title: Margaret Hamilton has died
     score: 742
