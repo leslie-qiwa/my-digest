@@ -1,10 +1,31 @@
 date: '2026-10-09'
-generated_at: 2026-10-09 02:02 UTC
+generated_at: 2026-10-09 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/
+    title: What should we tell our students?
+    score: 53
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50015236
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/thesnarkitecht/rembrandt
+    title: 'Show HN: Free open source Adobe Lightroom alternative, completely local
+      with AI'
+    score: 42
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50012199
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://htmx.org/essays/yes-and/
     title: Yes, and
     score: 181
