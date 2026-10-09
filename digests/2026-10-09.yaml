@@ -1,10 +1,50 @@
 date: '2026-10-09'
-generated_at: 2026-10-09 04:01 UTC
+generated_at: 2026-10-09 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/
+    title: The value of not getting to the point (2015)
+    score: 156
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50010470
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://quake-srp.pages.dev/
+    title: 'Show HN: Quake ported to safe Rust, playable in browser'
+    score: 132
+    comment_cnt: 111
+    comment_url: https://news.ycombinator.com/item?id=50016312
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lwn.net/Articles/1095811/
+    title: Reducing undefined behavior in the C language
+    score: 101
+    comment_cnt: 82
+    comment_url: https://news.ycombinator.com/item?id=50015074
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/
+    title: Keyboard differences between Windows and Macs
+    score: 100
+    comment_cnt: 88
+    comment_url: https://news.ycombinator.com/item?id=50015515
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/
     title: What should we tell our students?
     score: 53
