@@ -1,10 +1,41 @@
 date: '2026-10-09'
-generated_at: 2026-10-09 20:03 UTC
+generated_at: 2026-10-09 22:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://borretti.me/article/no-man-is-an-island
+    title: No Man Is an Island
+    score: 174
+    comment_cnt: 78
+    comment_url: https://news.ycombinator.com/item?id=50025935
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306
+    title: YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track
+      Cops
+    score: 141
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=50026555
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/cmy0r96xygx6o
+    title: Fort Hood attacker's execution by firing squad will be livestreamed
+    score: 101
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50013637
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.python.org/downloads/release/python-3150/
     title: Python 3.15
     score: 260
