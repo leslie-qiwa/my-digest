@@ -1,10 +1,50 @@
 date: '2026-10-09'
-generated_at: 2026-10-09 10:01 UTC
+generated_at: 2026-10-09 14:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://deno.com/blog/cloudflare
+    title: Deno Is Joining Cloudflare
+    score: 206
+    comment_cnt: 94
+    comment_url: https://news.ycombinator.com/item?id=50019911
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.nobelprize.org/prizes/peace/2026/press-release/
+    title: Nobel Peace Prize for 2026 to Navanethem "NAVI" Pillay
+    score: 193
+    comment_cnt: 106
+    comment_url: https://news.ycombinator.com/item?id=50018420
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/franzenzenhofer/big-arrow-on-the-screen
+    title: Let your AI agents paint big arrows, boxes and text on your screen
+    score: 171
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=50018817
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/
+    title: OpenAI fires three safety researchers for "mishandling research information"
+    score: 101
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50018350
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/p10node/k10s
     title: 'Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)'
     score: 65
@@ -127,3 +167,83 @@ feeds:
     summary_zh: ''
     content_file: ''
     summary: ''
+- id: golang-weekly
+  label: Golang Weekly
+  provider: rss_newsletter
+  items:
+  - url: https://golangweekly.com/link/191359/rss
+    title: The Data Race That Wasn't a Bug (and the One That Was)
+    summary: Client.Do can return before net/http has finished reading your request
+      body, so reusing the buffer can trigger a data race. A walk through the transport’s
+      goroutines and why VictoriaMetrics kept one such race but fixed another.
+    score: 0
+    tags: []
+    source: victoriametrics.com
+    domain: victoriametrics.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/191360/rss
+    title: Hooking into the Go Toolchain
+    summary: A deep tour of go build -toolexec for wrapping compiler and linker runs,
+      starting with a simple timer and moving on to rewriting code mid-build, patching
+      importcfg to add new imports, and more.
+    score: 0
+    tags: []
+    source: internals-for-interns.com
+    domain: internals-for-interns.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/191367/rss
+    title: Hacking the Go Compiler to Efficiently Map IPv4 to IPv6
+    summary: A small IPv4-to-IPv6 conversion led Vincent through noder hacks, SSA
+      rewrite rules, and compiler pass ordering to close a ~8x performance gap.
+    score: 0
+    tags: []
+    source: vincent.bernat.ch
+    domain: vincent.bernat.ch
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/191368/rss
+    title: Arch-Specific SIMD in Go
+    summary: A follow-up to the Go team’s look at platform-independent SIMD in Go
+      covering the experimental archsimd package, which now supports arm64 and wasm,
+      plus tips for writing SIMD code that compiles well.
+    score: 0
+    tags: []
+    source: go.dev
+    domain: go.dev
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/191370/rss
+    title: Don't Couple Your Go Code to GitHub
+    summary: Is putting github.com in import paths a problem? Iain thinks so, and
+      makes the case for using your own domain instead, but it kicked off a lively
+      debate on Hacker News.
+    score: 0
+    tags: []
+    source: iain.rocks
+    domain: iain.rocks
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/191376/rss
+    title: 'Francis: Durable Actors, Jobs and Workflows for Go'
+    summary: Durable actors, cron jobs, background jobs with retries, rate limiting
+      and saga-style workflows, embedded in your app and backed by SQLite or Postgres,
+      with an optional standalone runtime for larger clusters.
+    score: 0
+    tags: []
+    source: withblue.ink
+    domain: withblue.ink
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/191377/rss
+    title: connect-go v2 Arrives with Simpler, gRPC-Go-Style Handlers
+    summary: Buf's Go RPC library drops its generic request and response wrappers,
+      splits HTTP out from the core, and no longer sends plain Go error messages to
+      clients. There's a migration tool, and v1/v2 can coexist in one module.
+    score: 0
+    tags: []
+    source: buf.build
+    domain: buf.build
+    summary_zh: ''
+    content_file: ''
