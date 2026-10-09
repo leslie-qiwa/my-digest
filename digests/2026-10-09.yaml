@@ -1,0 +1,48 @@
+date: '2026-10-09'
+generated_at: 2026-10-09 02:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://htmx.org/essays/yes-and/
+    title: Yes, and
+    score: 181
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=50003796
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full
+    title: 'ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy
+      (2025)'
+    score: 166
+    comment_cnt: 124
+    comment_url: https://news.ycombinator.com/item?id=50011928
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://karagila.org/2026/openai-pp/
+    title: OpenAI, the Partition Principle, and Mathematics
+    score: 85
+    comment_cnt: 100
+    comment_url: https://news.ycombinator.com/item?id=50013902
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months
+    title: Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances
+    score: 60
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50010656
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
