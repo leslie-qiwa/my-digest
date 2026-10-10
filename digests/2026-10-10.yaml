@@ -1,10 +1,30 @@
 date: '2026-10-10'
-generated_at: 2026-10-10 12:04 UTC
+generated_at: 2026-10-10 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html
+    title: Food processing influences metabolism and brain activity
+    score: 70
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=50029830
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://deadsimpletech.com/blog/llms-arent-inevitable
+    title: LLMs Aren't Inevitable
+    score: 34
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50032064
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/
     title: '`123456'' password used in Danish CPR data breach'
     score: 128
