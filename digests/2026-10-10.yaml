@@ -1,10 +1,30 @@
 date: '2026-10-10'
-generated_at: 2026-10-10 10:03 UTC
+generated_at: 2026-10-10 12:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/
+    title: '`123456'' password used in Danish CPR data breach'
+    score: 128
+    comment_cnt: 82
+    comment_url: https://news.ycombinator.com/item?id=50031269
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/
+    title: Has the Autonomous Trucking Revolution Arrived?
+    score: 26
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50028062
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/
     title: Telegram Desktop vulnerability allowed any user's file to be stolen
     score: 179
