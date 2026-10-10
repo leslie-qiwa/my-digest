@@ -1,10 +1,20 @@
 date: '2026-10-10'
-generated_at: 2026-10-10 00:03 UTC
+generated_at: 2026-10-10 02:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/
+    title: Pointing AI at archives found a forgotten meteorite, lost rhinos, and more
+    score: 106
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50019056
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find
     title: Ideas aren't getting harder to find (2022)
     score: 113
