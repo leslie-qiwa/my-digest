@@ -1,10 +1,31 @@
 date: '2026-10-10'
-generated_at: 2026-10-10 16:02 UTC
+generated_at: 2026-10-10 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html
+    title: Tanker attacks in Strait of Hormuz surge to wartime high, Iran tries choking
+      oil
+    score: 58
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50026509
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10
+    title: My personal AI agent posted my bank details on company Slack
+    score: 47
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50033517
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://carette.xyz/posts/lobbying_and_corruption/
     title: Lobbying is corruption
     score: 396
