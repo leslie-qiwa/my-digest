@@ -1,10 +1,60 @@
 date: '2026-10-10'
-generated_at: 2026-10-10 14:01 UTC
+generated_at: 2026-10-10 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://carette.xyz/posts/lobbying_and_corruption/
+    title: Lobbying is corruption
+    score: 396
+    comment_cnt: 189
+    comment_url: https://news.ycombinator.com/item?id=50032556
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/rociiu/talorys
+    title: Talorys – A self-hosted personal AI agent on Cloudflare's free tier
+    score: 124
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=50031614
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://community.bitwarden.com/t/published-version-update-in-app-stores/102750
+    title: Bitwarden Dual License Model
+    score: 114
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50033407
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/
+    title: I would like the value of my home to rise, while my property taxes fall
+    score: 54
+    comment_cnt: 101
+    comment_url: https://news.ycombinator.com/item?id=50032758
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.nber.org/papers/w35854
+    title: 'Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025'
+    score: 50
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50027234
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html
     title: Food processing influences metabolism and brain activity
     score: 70
