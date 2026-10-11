@@ -1,10 +1,51 @@
 date: '2026-10-11'
-generated_at: 2026-10-11 14:01 UTC
+generated_at: 2026-10-11 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/
+    title: The tilde in your PATH may not be your HOME
+    score: 90
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50042425
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/
+    title: I wish you the best in the Offline
+    score: 79
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50040625
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html
+    title: Scandinavia's first farmers slaughtered hunter-gatherer population, DNA
+      suggests
+    score: 44
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50042370
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://copilot.travel/tolls/europe-2026
+    title: What driving across Europe costs in tolls, vignettes, bridges and fuel
+    score: 43
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50042149
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://lineageos.org/Changelog-32/
     title: LineageOS 24.0
     score: 218
