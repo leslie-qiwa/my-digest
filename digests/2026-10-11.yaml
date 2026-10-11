@@ -1,10 +1,20 @@
 date: '2026-10-11'
-generated_at: 2026-10-11 20:02 UTC
+generated_at: 2026-10-11 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://richwhitehouse.com/index.php?postid=78
+    title: Artificial Insanity
+    score: 50
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50047071
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/
     title: I'm sorry, but you still have to think
     score: 215
