@@ -1,10 +1,40 @@
 date: '2026-10-11'
-generated_at: 2026-10-11 08:01 UTC
+generated_at: 2026-10-11 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://ircv3.net/
+    title: IRCv3
+    score: 109
+    comment_cnt: 85
+    comment_url: https://news.ycombinator.com/item?id=50041540
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://buy-european.net/en/alternatives
+    title: European Alternatives
+    score: 87
+    comment_cnt: 86
+    comment_url: https://news.ycombinator.com/item?id=50039063
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things
+    title: Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things
+    score: 36
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50041765
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://nishtahir.com/build-your-own-decision-model/
     title: Build your own decision model
     score: 257
