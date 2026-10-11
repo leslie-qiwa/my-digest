@@ -1,10 +1,40 @@
 date: '2026-10-11'
-generated_at: 2026-10-11 16:02 UTC
+generated_at: 2026-10-11 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://0xff.nu/corp-burnout/
+    title: The Corporate Happiness Treadmill and the Case for Doing Less
+    score: 52
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=50044733
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next
+    title: Open-Source Microsoft Office Excel, PowerPoint, and Word Replications
+    score: 45
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=50043110
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://a16z.com/why-texas-is-making-data-centers-wait/
+    title: Why Texas Is Making Data Centers Wait
+    score: 29
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=50043603
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/
     title: The tilde in your PATH may not be your HOME
     score: 90
