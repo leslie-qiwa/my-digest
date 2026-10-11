@@ -1,0 +1,47 @@
+date: '2026-10-11'
+generated_at: 2026-10-11 02:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://www.thomas-huehn.com/knuth-reward-check/
+    title: Knuth reward check
+    score: 147
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50034081
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://motherduck.com/blog/why-duckdb-20-is-faster/
+    title: Why DuckDB 2.0 is faster
+    score: 146
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50035530
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6
+    title: Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects
+    score: 49
+    comment_cnt: 97
+    comment_url: https://news.ycombinator.com/item?id=50038383
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=50038458
+    title: 'Ask HN: Why aren''t Americans rising up against tipping?'
+    score: 34
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=50038458
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
