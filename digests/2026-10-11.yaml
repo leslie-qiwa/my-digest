@@ -1,10 +1,60 @@
 date: '2026-10-11'
-generated_at: 2026-10-11 18:01 UTC
+generated_at: 2026-10-11 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/
+    title: I'm sorry, but you still have to think
+    score: 215
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=50043689
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://nanolathe.gg
+    title: Total Annihilation, rebuilt for modern computers
+    score: 122
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=50045984
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://verdagon.dev/blog/valen-group-borrowing
+    title: 'Valen''s Memory Safety: A New Kind of Borrow Checking'
+    score: 112
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50042362
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://betterwispr.com/
+    title: 'Show HN: BetterWispr – Free, open-source dictation for Mac'
+    score: 107
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=50042333
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/
+    title: How to Build Wealth as a Career Person
+    score: 77
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=50044715
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://0xff.nu/corp-burnout/
     title: The Corporate Happiness Treadmill and the Case for Doing Less
     score: 52
