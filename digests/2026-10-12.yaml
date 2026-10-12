@@ -1,10 +1,40 @@
 date: '2026-10-12'
-generated_at: 2026-10-12 14:02 UTC
+generated_at: 2026-10-12 16:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/
+    title: Why aren't AI companies being charged for hacking?
+    score: 215
+    comment_cnt: 182
+    comment_url: https://news.ycombinator.com/item?id=50057278
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lexontech.org/x-is-bad-though
+    title: X Is Bad, Though
+    score: 73
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50051172
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable
+    title: '"Just Ask Claude" Is a Rare and Valuable Skill'
+    score: 43
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50056063
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.bbc.com/news/articles/c64g1l5389kvo
     title: Deloitte falsified documents to evade tax on Abramovich's wealth
     score: 419
