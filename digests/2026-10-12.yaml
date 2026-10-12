@@ -1,10 +1,60 @@
 date: '2026-10-12'
-generated_at: 2026-10-12 20:03 UTC
+generated_at: 2026-10-12 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/h0m3us3r/w1700k-sdr
+    title: Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver
+    score: 211
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50055593
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/
+    title: Feds got warrants to use fake cell towers to hunt down Don Lemon's producer
+    score: 124
+    comment_cnt: 78
+    comment_url: https://news.ycombinator.com/item?id=50059446
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback
+    title: Publishers Killed the Paperback, Then Blamed Readers
+    score: 77
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50060674
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=50059096
+    title: 'Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents'
+    score: 71
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50059096
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.anthropic.com/research/self-replicating-ai
+    title: AI models may be capable of self-replicating without access to a datacenter
+    score: 64
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=50061603
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://prophitt.me/writing/a-modern-web-app-in-c
     title: A Modern Web App in C
     score: 218
