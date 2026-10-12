@@ -1,10 +1,40 @@
 date: '2026-10-12'
-generated_at: 2026-10-12 00:02 UTC
+generated_at: 2026-10-12 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment
+    title: Google is illegaly cutting forest to build data centers
+    score: 236
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50048638
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://royfish.dev/fingerprints-are-the-new-cookies
+    title: Fingerprints are the new cookies
+    score: 156
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=50048642
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/storytold/wordcraft
+    title: An open-source, clean-room reimplementation of Microsoft Word in pure Rust
+    score: 89
+    comment_cnt: 79
+    comment_url: https://news.ycombinator.com/item?id=50050370
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://twitter.com/karpathy/status/2109361546505966046
     title: The gap in shared understanding of LLM capability is widening
     score: 183
