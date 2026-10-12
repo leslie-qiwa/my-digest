@@ -1,0 +1,37 @@
+date: '2026-10-12'
+generated_at: 2026-10-12 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://twitter.com/karpathy/status/2109361546505966046
+    title: The gap in shared understanding of LLM capability is widening
+    score: 183
+    comment_cnt: 276
+    comment_url: https://news.ycombinator.com/item?id=50047422
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them
+    title: Passkeys are a trap. Do not use them
+    score: 152
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=50048312
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/
+    title: '"Robot" Is a Social Construct: Why Your Dishwasher Is Not a Robot'
+    score: 43
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50041667
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
