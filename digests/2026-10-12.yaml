@@ -1,10 +1,100 @@
 date: '2026-10-12'
-generated_at: 2026-10-12 18:02 UTC
+generated_at: 2026-10-12 20:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://prophitt.me/writing/a-modern-web-app-in-c
+    title: A Modern Web App in C
+    score: 218
+    comment_cnt: 86
+    comment_url: https://news.ycombinator.com/item?id=50058528
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/openai/codex/issues/48195
+    title: Codex CLI installs a persistent, self-updating background daemon by default
+    score: 210
+    comment_cnt: 125
+    comment_url: https://news.ycombinator.com/item?id=50060694
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/c620r33plgppo
+    title: Citroen revives the 2CV for an electric age
+    score: 189
+    comment_cnt: 213
+    comment_url: https://news.ycombinator.com/item?id=50055220
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/
+    title: AI coding agents generate more code, but not more software
+    score: 168
+    comment_cnt: 134
+    comment_url: https://news.ycombinator.com/item?id=50059523
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://micahflee.com/just-say-no-to-openai-and-anthropic/
+    title: Just say no to OpenAI and Anthropic
+    score: 141
+    comment_cnt: 121
+    comment_url: https://news.ycombinator.com/item?id=50060500
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce
+    title: I Found a $90k Remote Code Execution Vulnerability in Google
+    score: 139
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=50052638
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/crq5nzxv9q4yo
+    title: Fridges in French supermarkets hit by cyber attack
+    score: 129
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=50057551
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.spinellis.gr/blog/20261008/?li261008
+    title: Thinking will become a hobby
+    score: 118
+    comment_cnt: 144
+    comment_url: https://news.ycombinator.com/item?id=50059204
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.julik.nl/2026/10/the-weimar-of-ruby
+    title: Living in the Weimar Era of Ruby
+    score: 81
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50054474
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://research.meta.ai/blog/muse-wonder
     title: Muse Wonder
     score: 173
