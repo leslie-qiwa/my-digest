@@ -1,10 +1,81 @@
 date: '2026-10-13'
-generated_at: 2026-10-13 14:01 UTC
+generated_at: 2026-10-13 16:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://eg2.haku.sh/
+    title: We turned EmbeddingGemma 2 into a speech-to-text model
+    score: 263
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=50069971
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.thehistoryblog.com/archives/77107
+    title: Hittite royal archive found in Turkey
+    score: 251
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=50067414
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://machinelearning.apple.com/research/distributed-gpu-cloud
+    title: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon
+      Devices
+    score: 145
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50070593
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.character.ai/an-update-on-character-ai/
+    title: Character.ai has initiated voluntary Chapter 11 bankruptcy
+    score: 134
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=50068036
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/
+    title: New Apple TV 4K
+    score: 90
+    comment_cnt: 154
+    comment_url: https://news.ycombinator.com/item?id=50071310
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/
+    title: AWS Lambda Web Functions
+    score: 68
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50069318
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/
+    title: Apple's new 'Switch to Safari' campaign details why you should ditch Chrome
+    score: 35
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50072286
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney
     title: Character.ai Files for Bankruptcy
     score: 108
