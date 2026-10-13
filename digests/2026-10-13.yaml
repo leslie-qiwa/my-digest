@@ -1,0 +1,27 @@
+date: '2026-10-13'
+generated_at: 2026-10-13 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://yyhh.org/blog/2026/10/ai-is-a-tool/
+    title: AI is a tool and using it well takes skill
+    score: 178
+    comment_cnt: 166
+    comment_url: https://news.ycombinator.com/item?id=50063427
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e
+    title: '''AI'' Is Not a Tool by Rich Hickey'
+    score: 172
+    comment_cnt: 80
+    comment_url: https://news.ycombinator.com/item?id=50060269
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
