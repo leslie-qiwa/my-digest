@@ -1,10 +1,70 @@
 date: '2026-10-13'
-generated_at: 2026-10-13 16:03 UTC
+generated_at: 2026-10-13 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://deepmind.google/models/gemini/
+    title: Gemini 4 Argon
+    score: 429
+    comment_cnt: 331
+    comment_url: https://news.ycombinator.com/item?id=50073879
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/
+    title: Thunderbird for iOS
+    score: 153
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50072913
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic
+    title: I posted to HN, and then my website was flooded with AI bot traffic
+    score: 106
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=50073221
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.anthropic.com/engineering/redesigning-source-control
+    title: Redesigning Source Control at Anthropic
+    score: 94
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50073633
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers
+    title: A Visual Intro to Complex Numbers
+    score: 89
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50070287
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://commonedge.org/now-that-information-is-free-whats-a-college-campus-for/
+    title: Now That Information Is Free, What's a College Campus For?
+    score: 24
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=50073455
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://eg2.haku.sh/
     title: We turned EmbeddingGemma 2 into a speech-to-text model
     score: 263
