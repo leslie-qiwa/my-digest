@@ -1,10 +1,60 @@
 date: '2026-10-14'
-generated_at: 2026-10-14 18:02 UTC
+generated_at: 2026-10-14 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html
+    title: AI agents aren't 'going rogue.' Frontier labs are skipping security basics
+    score: 620
+    comment_cnt: 254
+    comment_url: https://news.ycombinator.com/item?id=50091788
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election
+    title: How the Military Will Hack the Election
+    score: 141
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=50092847
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/
+    title: Fire at Starlink site in Bulgaria after suspected sabotage in Poland
+    score: 128
+    comment_cnt: 76
+    comment_url: https://news.ycombinator.com/item?id=50092730
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/
+    title: Banks are now trying to offload the AI data center debt they just underwrote
+    score: 102
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=50092664
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html
+    title: Container ship sinks in Strait of Hormuz as Iran steps up attacks
+    score: 63
+    comment_cnt: 78
+    comment_url: https://news.ycombinator.com/item?id=50092415
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/
     title: ICE Planning $100M 'Nightmare' Domestic Spy Program
     score: 153
