@@ -1,10 +1,31 @@
 date: '2026-10-14'
-generated_at: 2026-10-14 14:04 UTC
+generated_at: 2026-10-14 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://scotthelme.co.uk/passkeys-are-not-a-trap/
+    title: Passkeys Are Not a Trap
+    score: 164
+    comment_cnt: 160
+    comment_url: https://news.ycombinator.com/item?id=50088935
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=50085114
+    title: 'Ask HN: Why do people say "I built it" when we should say "Claude built
+      it"?'
+    score: 27
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=50085114
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://typeof.net/Iosevka/
     title: Iosevka is an open-source, sans-serif and slab-serif, monospace font
     score: 329
