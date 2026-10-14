@@ -1,10 +1,40 @@
 date: '2026-10-14'
-generated_at: 2026-10-14 20:02 UTC
+generated_at: 2026-10-14 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/
+    title: Things to know when you get cancer – 2026 Edition
+    score: 440
+    comment_cnt: 105
+    comment_url: https://news.ycombinator.com/item?id=50093568
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it
+    title: America didn't lose its rare earth industry, it sold it
+    score: 114
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50091875
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress
+    title: US report details extent of 'devastating' dating-app scams
+    score: 45
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50091519
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html
     title: AI agents aren't 'going rogue.' Frontier labs are skipping security basics
     score: 620
