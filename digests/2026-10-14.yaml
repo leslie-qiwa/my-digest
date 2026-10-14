@@ -1,10 +1,30 @@
 date: '2026-10-14'
-generated_at: 2026-10-14 08:02 UTC
+generated_at: 2026-10-14 10:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://developers.googleblog.com/gemini-4-argon-for-robotics/
+    title: Gemini 4 Argon for Robotics
+    score: 217
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50074869
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://uk.news.yahoo.com/why-sweden-abandoning-cashless-society-070000442.html
+    title: Why Sweden is abandoning its cashless society
+    score: 52
+    comment_cnt: 93
+    comment_url: https://news.ycombinator.com/item?id=50083766
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://felixrieseberg.com/
     title: Felix Rieseberg Homepage
     score: 164
