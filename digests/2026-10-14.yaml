@@ -1,10 +1,100 @@
 date: '2026-10-14'
-generated_at: 2026-10-14 10:01 UTC
+generated_at: 2026-10-14 14:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://typeof.net/Iosevka/
+    title: Iosevka is an open-source, sans-serif and slab-serif, monospace font
+    score: 329
+    comment_cnt: 116
+    comment_url: https://news.ycombinator.com/item?id=50084240
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/
+    title: Amazon pushes up prices across the Internet
+    score: 231
+    comment_cnt: 222
+    comment_url: https://news.ycombinator.com/item?id=50084757
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex
+    title: Starlink limit hits Ukraine's drones. The battlefield depends on SpaceX
+    score: 87
+    comment_cnt: 96
+    comment_url: https://news.ycombinator.com/item?id=50084622
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://sive.rs/ss
+    title: Smart people don't think others are stupid
+    score: 74
+    comment_cnt: 78
+    comment_url: https://news.ycombinator.com/item?id=50086313
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/
+    title: Who Is Planting Backdoors in Ledger Crypto Wallets?
+    score: 72
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=50084838
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://alexwennerberg.com/blog/2026-10-13-long.html
+    title: Why is every rationalist blog post way too long?
+    score: 72
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=50083028
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/
+    title: What agents mean for Rust (and vice versa)
+    score: 50
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50084416
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://daily.tinyprojects.dev/221
+    title: I let an AI run my startup for a week
+    score: 49
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50085296
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.apple.com/safari/switch/
+    title: 'Apple: Switch to Safari (From Chrome)'
+    score: 34
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=50085112
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://developers.googleblog.com/gemini-4-argon-for-robotics/
     title: Gemini 4 Argon for Robotics
     score: 217
