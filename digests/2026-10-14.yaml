@@ -1,10 +1,60 @@
 date: '2026-10-14'
-generated_at: 2026-10-14 16:01 UTC
+generated_at: 2026-10-14 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/
+    title: ICE Planning $100M 'Nightmare' Domestic Spy Program
+    score: 153
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50090246
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960
+    title: Amsterdam police confiscates server left-wing ISP A/I at American request
+    score: 135
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=50090084
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years
+    title: Americans' Social Activity Has Steeply Declined in the Past 30 Years
+    score: 65
+    comment_cnt: 104
+    comment_url: https://news.ycombinator.com/item?id=50089921
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://brookslybrand.com/posts/do-frameworks-matter-anymore/
+    title: Do Frameworks Matter Anymore?
+    score: 60
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50081092
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/
+    title: Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work
+    score: 52
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=50089395
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://scotthelme.co.uk/passkeys-are-not-a-trap/
     title: Passkeys Are Not a Trap
     score: 164
