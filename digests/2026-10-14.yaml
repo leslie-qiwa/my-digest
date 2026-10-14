@@ -1,10 +1,72 @@
 date: '2026-10-14'
-generated_at: 2026-10-14 00:02 UTC
+generated_at: 2026-10-14 08:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://felixrieseberg.com/
+    title: Felix Rieseberg Homepage
+    score: 164
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50082470
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/android/ndk/issues/2260
+    title: AOSP Source Releases Are So Late Developers Disassemble Libraries to Report
+      Bugs
+    score: 158
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50083130
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://anitab.org/press-release
+    title: Grace Hopper Celebration Cancelled
+    score: 152
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50080007
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://pulseos.finance
+    title: 'Show HN: Pulse Local, a Mac budgeting app whose AI models run on your
+      machine'
+    score: 103
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50080275
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/
+    title: Is 'Attention' the Essence of Intelligence?
+    score: 65
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=50081930
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866
+    title: Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse
+    score: 63
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=50082962
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code
     title: How to engineer an AI harness for game development
     score: 119
