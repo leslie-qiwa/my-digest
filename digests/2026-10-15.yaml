@@ -1,10 +1,70 @@
 date: '2026-10-15'
-generated_at: 2026-10-15 14:01 UTC
+generated_at: 2026-10-15 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say
+    title: Israeli firm's digital ads enabling installation of 'zero-click' spyware
+    score: 355
+    comment_cnt: 179
+    comment_url: https://news.ycombinator.com/item?id=50103000
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/fyzugx/DEsk
+    title: Wayland desktop for Linux with skeuomorphic design
+    score: 173
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=50103338
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://libreboot.org/news/libreboot2610.html
+    title: Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support
+    score: 143
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=50102923
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep
+    title: I know why Mathematicians weep
+    score: 119
+    comment_cnt: 176
+    comment_url: https://news.ycombinator.com/item?id=50103630
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html
+    title: Ubuntu 26.10 (Stonking Stingray) released
+    score: 59
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=50102423
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cppstories.com/2026/cpp26_contracts/
+    title: 'C++26 Contracts: Introduction to Preconditions and Postconditions'
+    score: 56
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50103164
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.theregister.com/security/2026/10/15/x-purges-13000-accounts-linked-to-suspected-meddling-ahead-of-us-midterms/5303234
     title: X purges 13,000 accounts linked to suspected meddling ahead of US midterms
     score: 46
