@@ -1,0 +1,57 @@
+date: '2026-10-15'
+generated_at: 2026-10-15 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://anoma.ly/notes/opencode-2-0/
+    title: OpenCode 2.0
+    score: 221
+    comment_cnt: 87
+    comment_url: https://news.ycombinator.com/item?id=50094994
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://sunshowers.io/posts/anthropic-mononoke/
+    title: Anthropic's Scion is heavily inspired by Mononoke
+    score: 214
+    comment_cnt: 93
+    comment_url: https://news.ycombinator.com/item?id=50094694
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.cloudflare.com/yandex-outage/
+    title: 'Yandex outage: data shows that instead of going dark, malicious bots moved'
+    score: 191
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=50094673
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://typesafe.ai/blog/jev-1-14
+    title: We’re releasing Jev 1.14.0 along with experimental features for dreamers
+    score: 135
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50095353
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://clova.email/
+    title: 'Show HN: I wrote an email app that accepts only one sender per inbox'
+    score: 70
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50090932
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
