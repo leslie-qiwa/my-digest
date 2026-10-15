@@ -1,10 +1,40 @@
 date: '2026-10-15'
-generated_at: 2026-10-15 20:03 UTC
+generated_at: 2026-10-15 22:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://zachlandes.com/trolley-problem/
+    title: Jev meets the Trolley Problem
+    score: 202
+    comment_cnt: 93
+    comment_url: https://news.ycombinator.com/item?id=50106023
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/
+    title: Why are we even doing all this?
+    score: 151
+    comment_cnt: 115
+    comment_url: https://news.ycombinator.com/item?id=50109707
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/
+    title: We are entering a period of overlapping crises
+    score: 59
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=50108491
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://research.meta.ai/blog/muse-spark-open
     title: Muse Spark Open
     score: 351
