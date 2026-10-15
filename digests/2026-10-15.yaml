@@ -1,10 +1,20 @@
 date: '2026-10-15'
-generated_at: 2026-10-15 12:03 UTC
+generated_at: 2026-10-15 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.theregister.com/security/2026/10/15/x-purges-13000-accounts-linked-to-suspected-meddling-ahead-of-us-midterms/5303234
+    title: X purges 13,000 accounts linked to suspected meddling ahead of US midterms
+    score: 46
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=50102854
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.liquid.ai/blog/lfm2-5-24b-a2b
     title: 'LFM2.5-24B-A2B: Built for fast on-device agents'
     score: 231
