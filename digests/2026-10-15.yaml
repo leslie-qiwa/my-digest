@@ -1,10 +1,90 @@
 date: '2026-10-15'
-generated_at: 2026-10-15 18:02 UTC
+generated_at: 2026-10-15 20:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://research.meta.ai/blog/muse-spark-open
+    title: Muse Spark Open
+    score: 351
+    comment_cnt: 225
+    comment_url: https://news.ycombinator.com/item?id=50107379
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://already-clean.goodfire.com/
+    title: Neural networks are clean
+    score: 293
+    comment_cnt: 89
+    comment_url: https://news.ycombinator.com/item?id=50105647
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/
+    title: 'Zero-Click Spyware Delivered via Targeted Ads: AdFection'
+    score: 263
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=50101813
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware
+    title: An Israeli firm is sending zero-click spyware through online ads
+    score: 199
+    comment_cnt: 87
+    comment_url: https://news.ycombinator.com/item?id=50106676
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://sunshowers.io/posts/anthropic-mononoke-2/
+    title: More on Anthropic's Scion ripping off Mononoke
+    score: 171
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50106738
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.krea.ai/krea-3
+    title: Krea 3 – An image model built for editing at scale
+    score: 170
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=50105648
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://fortran-lang.org/news/2026/09-15-Fortran-birthday/
+    title: Celebrating 70 Years of Fortran
+    score: 156
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=50104726
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.currentaffairs.org/news/why-were-banning-ai
+    title: Why We're Banning AI
+    score: 149
+    comment_cnt: 112
+    comment_url: https://news.ycombinator.com/item?id=50108131
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://snoutcover.com/one-year
     title: I designed a nose guard for my dog and gave it away. Now 500 dogs wear
       one
