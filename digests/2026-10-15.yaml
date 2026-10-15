@@ -1,10 +1,52 @@
 date: '2026-10-15'
-generated_at: 2026-10-15 16:02 UTC
+generated_at: 2026-10-15 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://snoutcover.com/one-year
+    title: I designed a nose guard for my dog and gave it away. Now 500 dogs wear
+      one
+    score: 203
+    comment_cnt: 106
+    comment_url: https://news.ycombinator.com/item?id=50105344
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/
+    title: Simons Foundation launches $15M effort to help mathematicians navigate
+      AI era
+    score: 164
+    comment_cnt: 135
+    comment_url: https://news.ycombinator.com/item?id=50104654
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/
+    title: Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher
+    score: 142
+    comment_cnt: 172
+    comment_url: https://news.ycombinator.com/item?id=50105635
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/
+    title: Using AI to reverse engineer hardware
+    score: 53
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50104299
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say
     title: Israeli firm's digital ads enabling installation of 'zero-click' spyware
     score: 355
