@@ -1,10 +1,30 @@
 date: '2026-10-16'
-generated_at: 2026-10-16 10:01 UTC
+generated_at: 2026-10-16 12:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://coached.com/essays/the-insider-trading-youre-allowed-to-do/
+    title: The insider trading you're allowed to do
+    score: 58
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50115144
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.sciencefocus.com/news/japanese-people-sex-inactivity-inexperience
+    title: Japanese people still aren't having sex. And nobody knows why
+    score: 31
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50116367
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://ipinfo.io/blog/rpki-protects-70-internet-routes
     title: RPKI now protects 70% of internet routes
     score: 160
