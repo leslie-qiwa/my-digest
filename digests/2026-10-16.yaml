@@ -1,10 +1,31 @@
 date: '2026-10-16'
-generated_at: 2026-10-16 00:03 UTC
+generated_at: 2026-10-16 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4
+    title: E Ink Kaleido 4
+    score: 131
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=50108229
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai
+    title: Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform
+      AI
+    score: 36
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50111112
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/
     title: What I Self-Host
     score: 194
