@@ -1,10 +1,30 @@
 date: '2026-10-16'
-generated_at: 2026-10-16 12:02 UTC
+generated_at: 2026-10-16 14:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.foxbusiness.com/technology/teslas-new-roadster-makes-flying-debut-hitting-60-mph-under-second
+    title: Tesla's new Roadster makes a flying debut, hitting 60 MPH in under a second
+    score: 61
+    comment_cnt: 76
+    comment_url: https://news.ycombinator.com/item?id=50116255
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://6abc.com/post/woman-arrested-blocking-delivery-robot-center-city-philadelphia-confrontation/19941323/
+    title: Woman arrested after blocking delivery robot in Center City Philadelphia
+    score: 51
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50112963
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://coached.com/essays/the-insider-trading-youre-allowed-to-do/
     title: The insider trading you're allowed to do
     score: 58
