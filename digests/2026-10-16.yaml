@@ -1,0 +1,27 @@
+date: '2026-10-16'
+generated_at: 2026-10-16 00:03 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/
+    title: What I Self-Host
+    score: 194
+    comment_cnt: 101
+    comment_url: https://news.ycombinator.com/item?id=50109715
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup
+    title: Someone on Torrent Sites Kept Fucking with My Sonarr
+    score: 186
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=50108872
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
