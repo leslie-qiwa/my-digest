@@ -1,10 +1,30 @@
 date: '2026-10-16'
-generated_at: 2026-10-16 20:02 UTC
+generated_at: 2026-10-16 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://claude.dev/blog/solving-code-review-at-anthropic/
+    title: How the Claude Code team does code review
+    score: 136
+    comment_cnt: 128
+    comment_url: https://news.ycombinator.com/item?id=50122951
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/
+    title: 'RFC8950: Announce IPv4 with an IPv6 next-hop'
+    score: 92
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50118267
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.mercor.com/research/labor-index/benchmark-map/
     title: 90% of US working hours are spent on tasks not covered well by AI benchmarks
     score: 249
