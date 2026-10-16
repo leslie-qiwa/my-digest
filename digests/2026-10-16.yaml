@@ -1,10 +1,40 @@
 date: '2026-10-16'
-generated_at: 2026-10-16 06:01 UTC
+generated_at: 2026-10-16 10:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://ipinfo.io/blog/rpki-protects-70-internet-routes
+    title: RPKI now protects 70% of internet routes
+    score: 160
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50112330
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lwn.net/Articles/1097760/
+    title: Last rites for Gentoo's Chromium package
+    score: 58
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50114359
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://domstol.fe1.tangora.com/Domsoversigt-(H%C3%B8jesteret).31478.aspx?recordid31478=2930
+    title: Danish Supreme Court Finds That AI CSAM Is CSAM
+    score: 36
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50106285
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.bipm.org/en/cgpm-2026/resolution-5
     title: BIPM decides to stop adding leap seconds to UTC
     score: 133
