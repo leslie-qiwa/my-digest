@@ -1,0 +1,27 @@
+date: '2026-10-17'
+generated_at: 2026-10-17 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://github.com/home-assistant/home-assistant.io/issues/49314
+    title: I never authorized an integration that scans my secrets
+    score: 159
+    comment_cnt: 110
+    comment_url: https://news.ycombinator.com/item?id=50124251
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://dfarq.homeip.net/what-was-a-token-ring-network/
+    title: What was a Token Ring network?
+    score: 85
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=50118318
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
