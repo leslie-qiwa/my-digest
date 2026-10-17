@@ -1,10 +1,40 @@
 date: '2026-10-17'
-generated_at: 2026-10-17 18:01 UTC
+generated_at: 2026-10-17 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using
+    title: Making chicken transparent using Dorito dust
+    score: 193
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50131213
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/
+    title: OpenAI discloses four more rogue incidents
+    score: 104
+    comment_cnt: 111
+    comment_url: https://news.ycombinator.com/item?id=50132502
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lwn.net/Articles/1088776/
+    title: Development statistics for the 7.2 kernel
+    score: 101
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=50132950
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html
     title: US federal budget deficit jumps 12% in one year to nearly $2 Trillion
     score: 128
