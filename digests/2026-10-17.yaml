@@ -1,10 +1,20 @@
 date: '2026-10-17'
-generated_at: 2026-10-17 10:01 UTC
+generated_at: 2026-10-17 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017
+    title: 'DeepSeek: DeepSeek v4.1 Flash 1017'
+    score: 235
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=50129121
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017
     title: DeepSeek-v4.1-Flash-1017
     score: 127
