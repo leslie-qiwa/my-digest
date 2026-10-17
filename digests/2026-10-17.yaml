@@ -1,10 +1,20 @@
 date: '2026-10-17'
-generated_at: 2026-10-17 14:01 UTC
+generated_at: 2026-10-17 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/
+    title: Solar surpasses nuclear power globally for first time – pv magazine Global
+    score: 157
+    comment_cnt: 76
+    comment_url: https://news.ycombinator.com/item?id=50131256
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://bfl.ai/blog/flux-3-image-klein
     title: FLUX 3 Image Klein
     score: 180
