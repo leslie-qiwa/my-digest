@@ -1,10 +1,20 @@
 date: '2026-10-17'
-generated_at: 2026-10-17 02:01 UTC
+generated_at: 2026-10-17 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://alexwang.ai/posts/associative-memory/
+    title: You could have invented transformers from memory
+    score: 181
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50122878
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/cobanov/PS5LM
     title: 'Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console'
     score: 204
