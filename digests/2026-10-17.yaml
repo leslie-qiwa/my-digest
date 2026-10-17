@@ -1,10 +1,51 @@
 date: '2026-10-17'
-generated_at: 2026-10-17 20:01 UTC
+generated_at: 2026-10-17 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.numismaticnews.net/gold-now-top-u-s-export
+    title: Gold is now the top U.S. export
+    score: 145
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=50132870
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/
+    title: Amazon uses AI to monitor union risk in UK warehouses
+    score: 136
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50132278
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine
+    title: Israeli settlers attack olive framers & Washington Post journalist in West
+      Bank
+    score: 136
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50128297
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it
+    title: AI Can Write the Code. Who Verifies It?
+    score: 25
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50133713
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using
     title: Making chicken transparent using Dorito dust
     score: 193
