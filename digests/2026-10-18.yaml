@@ -1,10 +1,60 @@
 date: '2026-10-18'
-generated_at: 2026-10-18 18:01 UTC
+generated_at: 2026-10-18 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://karrisaarinen.com/posts/someone-behind-the-software/
+    title: Someone behind the software
+    score: 151
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50142573
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://legendofhyrule.com/
+    title: 'Show HN: The Zelda timeline to catch up before the Ocarina of Time remake'
+    score: 124
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=50140769
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/
+    title: Java sealed classes and exhaustive pattern matching
+    score: 100
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=50141579
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html
+    title: HOA's are making the home crisis worse
+    score: 93
+    comment_cnt: 126
+    comment_url: https://news.ycombinator.com/item?id=50144005
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/
+    title: 'British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled'
+    score: 81
+    comment_cnt: 133
+    comment_url: https://news.ycombinator.com/item?id=50143218
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web
     title: Websites are closing their doors to AI agents
     score: 111
