@@ -1,10 +1,40 @@
 date: '2026-10-18'
-generated_at: 2026-10-18 16:01 UTC
+generated_at: 2026-10-18 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web
+    title: Websites are closing their doors to AI agents
+    score: 111
+    comment_cnt: 97
+    comment_url: https://news.ycombinator.com/item?id=50141657
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/
+    title: Will it be a golden age or a dark age for mathematics (and science)?
+    score: 80
+    comment_cnt: 98
+    comment_url: https://news.ycombinator.com/item?id=50141681
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.vals.ai/blogs/impossible-refund
+    title: How Far Will AI Assistants Go for a Refund They Can't Get?
+    score: 60
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=50140462
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model
     title: Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in
       damages
