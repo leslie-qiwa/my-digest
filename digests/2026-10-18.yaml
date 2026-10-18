@@ -1,10 +1,30 @@
 date: '2026-10-18'
-generated_at: 2026-10-18 08:01 UTC
+generated_at: 2026-10-18 10:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://api-docs.deepseek.com/guides/search/
+    title: DeepSeek search and fetch – $0.75 per 1000 successful requests
+    score: 186
+    comment_cnt: 85
+    comment_url: https://news.ycombinator.com/item?id=50138531
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/openai/codex/issues/25921
+    title: Codex Desktop continuously generates Crashpad pending dumps
+    score: 133
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50133231
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything
     title: How the Elizabeth Holmes documentary “You Can See Everything” is deceiving
     score: 102
