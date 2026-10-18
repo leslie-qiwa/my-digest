@@ -1,10 +1,41 @@
 date: '2026-10-18'
-generated_at: 2026-10-18 14:01 UTC
+generated_at: 2026-10-18 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model
+    title: Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in
+      damages
+    score: 74
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=50141429
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/
+    title: Gen Z Is the First Generation Dumber Than Their Parents
+    score: 52
+    comment_cnt: 87
+    comment_url: https://news.ycombinator.com/item?id=50141053
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car
+    title: Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car
+    score: 46
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50141295
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/vercel-labs/tsc-ts
     title: 'Tsc-ts: TypeScript written in TypeScript'
     score: 49
