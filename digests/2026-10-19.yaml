@@ -1,10 +1,40 @@
 date: '2026-10-19'
-generated_at: 2026-10-19 14:02 UTC
+generated_at: 2026-10-19 16:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://mistral.ai/news/timestral/
+    title: 'Timestral: Mistral release time-series foundation models'
+    score: 310
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50150434
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/IsuruMaduranga/harness-engineering-101
+    title: 'Harness Engineering 101: The LLM is the brain, the harness is the body'
+    score: 125
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50151390
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://100toolkit.com/blog/deslop-model/
+    title: 'Show HN: Qwen3-4B with the AI writing tics trained out'
+    score: 98
+    comment_cnt: 78
+    comment_url: https://news.ycombinator.com/item?id=50151928
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816
     title: 'Documents: Police officer gave her Flock login to her ICE agent husband'
     score: 396
