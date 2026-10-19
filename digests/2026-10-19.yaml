@@ -1,10 +1,30 @@
 date: '2026-10-19'
-generated_at: 2026-10-19 18:04 UTC
+generated_at: 2026-10-19 20:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.minimax.io/blog/minimax-m31f
+    title: MiniMax M3.1 Flash
+    score: 228
+    comment_cnt: 85
+    comment_url: https://news.ycombinator.com/item?id=50154540
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.inceptionlabs.ai/blog/introducing-mercury-3
+    title: 'Mercury 3: Diffusion at scale'
+    score: 153
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=50155245
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://marc.info/?l=openbsd-ports&m=179236125692175
     title: Wine Ported to OpenBSD
     score: 317
