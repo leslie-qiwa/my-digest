@@ -1,10 +1,71 @@
 date: '2026-10-19'
-generated_at: 2026-10-19 20:03 UTC
+generated_at: 2026-10-19 22:06 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/
+    title: CERN and Mistral sign a statement of intent to establish a strategic partnership
+    score: 283
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50153630
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/kksimp/Mac.apk
+    title: Android apps running native on macOS
+    score: 204
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=50154624
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=50151036
+    title: 'Ask HN: How to deal with shipping AI-written code you don''t understand?'
+    score: 154
+    comment_cnt: 266
+    comment_url: https://news.ycombinator.com/item?id=50151036
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html
+    title: Plex vulnerabilities being exploited in the wild to drop a cryptominer
+    score: 119
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50152321
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/
+    title: Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name
+      ideas
+    score: 72
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=50147462
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310
+    title: Ukraine claims first drone evacuation of wounded soldier
+    score: 35
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50153664
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.minimax.io/blog/minimax-m31f
     title: MiniMax M3.1 Flash
     score: 228
