@@ -1,10 +1,30 @@
 date: '2026-10-19'
-generated_at: 2026-10-19 10:01 UTC
+generated_at: 2026-10-19 12:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017
+    title: DeepSeek V4.1 Flash 1017 (Max)
+    score: 161
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50148452
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/
+    title: Footage of the Flock search that a judge ruled was uncosntitutional
+    score: 119
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50147455
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://colo.to/cyberspace.html
     title: William Gibson and the trademarking of cyberspace
     score: 183
