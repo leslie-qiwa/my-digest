@@ -1,10 +1,50 @@
 date: '2026-10-19'
-generated_at: 2026-10-19 12:02 UTC
+generated_at: 2026-10-19 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816
+    title: 'Documents: Police officer gave her Flock login to her ICE agent husband'
+    score: 396
+    comment_cnt: 195
+    comment_url: https://news.ycombinator.com/item?id=50150750
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://contextfirst.blog/superlite-hand-an-agent-a-spec/
+    title: 'Superlite: A Faster Alternatie to Superpowers'
+    score: 117
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50147492
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://crystl.dev/guides/tmux-for-ai-agents/
+    title: 'Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling'
+    score: 91
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50148855
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://oro.gay/posts/flatpak-an-insecurity-nightmare/
+    title: Flatpak – An Insecurity Nightmare
+    score: 61
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50148601
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017
     title: DeepSeek V4.1 Flash 1017 (Max)
     score: 161
