@@ -1,10 +1,40 @@
 date: '2026-10-20'
-generated_at: 2026-10-20 12:04 UTC
+generated_at: 2026-10-20 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/golang/go/issues/82345
+    title: Go will reject certificate chains containing eight distrusted SPKIs
+    score: 125
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=50160877
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/cxdd8mm6qy4mo
+    title: Revolut down as users report app not working
+    score: 88
+    comment_cnt: 76
+    comment_url: https://news.ycombinator.com/item?id=50163625
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://dri.es/state-of-drupal-presentation-september-2026
+    title: Drupal is now light-years ahead of its reputation
+    score: 33
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50158408
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/deepseek-ai/DeepInfer
     title: DeepSeek just open-sourced its inference engine
     score: 581
