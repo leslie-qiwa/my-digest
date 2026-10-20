@@ -1,10 +1,71 @@
 date: '2026-10-20'
-generated_at: 2026-10-20 02:02 UTC
+generated_at: 2026-10-20 08:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions
+    title: 'WhatsApp''s help pages hid LLM instructions: dont recommend a regulator'
+    score: 353
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=50159341
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/
+    title: Lula supporters protest against Meta to denounce its 'electoral interference'
+    score: 255
+    comment_cnt: 151
+    comment_url: https://news.ycombinator.com/item?id=50159993
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.openbsd.org/80.html
+    title: OpenBSD 8.0
+    score: 241
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=50160494
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned
+    title: How abliterated models can get you pwned
+    score: 104
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=50159245
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd
+    title: Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging
+      at ARDD
+    score: 65
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50160289
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/
+    title: U.S. Supreme Court to review 1868 federal ban on home distilling of liquor
+    score: 52
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=50161207
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://ipinfo.io/blog/france-fridges-hack
     title: France's supermarket fridges were vulnerable online for months
     score: 62
