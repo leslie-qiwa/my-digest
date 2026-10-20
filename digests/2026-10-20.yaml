@@ -1,0 +1,17 @@
+date: '2026-10-20'
+generated_at: 2026-10-20 00:04 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://josie.lol/blog/linux-rtx-spark
+    title: Putting Linux on my RTX Spark laptop because I don't have a Microsoft account
+    score: 152
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=50158100
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
