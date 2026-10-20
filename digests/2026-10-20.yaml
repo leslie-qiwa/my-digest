@@ -1,10 +1,51 @@
 date: '2026-10-20'
-generated_at: 2026-10-20 10:03 UTC
+generated_at: 2026-10-20 12:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/deepseek-ai/DeepInfer
+    title: DeepSeek just open-sourced its inference engine
+    score: 581
+    comment_cnt: 203
+    comment_url: https://news.ycombinator.com/item?id=50163277
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/
+    title: 'AfD Leak: What 421,179 Hacked Emails Show about the German Far Right'
+    score: 272
+    comment_cnt: 287
+    comment_url: https://news.ycombinator.com/item?id=50163502
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://deathplanswitch.com/
+    title: 'Show HN: Death Plan Switch, a self-hosted dead man''s switch for solo
+      devs'
+    score: 75
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50161408
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules
+    title: UK Defence Startups Are Being Denied Banking Services Under ESG Rules
+    score: 64
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50163462
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://cretezy.com/2026/ad-free-android-tv
     title: An ad-free Android TV
     score: 215
