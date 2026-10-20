@@ -1,10 +1,70 @@
 date: '2026-10-20'
-generated_at: 2026-10-20 16:02 UTC
+generated_at: 2026-10-20 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://emudhra.we-have-a-problem.com/
+    title: EMudhra Intermediate CA Compromise
+    score: 263
+    comment_cnt: 120
+    comment_url: https://news.ycombinator.com/item?id=50166579
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://mistral.ai/news/voxtral-3/
+    title: Voxtral 3
+    score: 197
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50168396
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://kaba.cx/posts/20261020_Tor/
+    title: How I got over 300 Tor exit nodes removed
+    score: 183
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50166257
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/
+    title: Ofcom Concedes Defeat in the 4chan Case
+    score: 141
+    comment_cnt: 77
+    comment_url: https://news.ycombinator.com/item?id=50167028
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop
+    title: Steam Users Beg for "No AI" Filter as Vibecoders Flood Next Fest
+    score: 84
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50168190
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://sjhannah.com/blog/2026/05/30/getting-banned-from-r-java/
+    title: Getting Banned from r/java
+    score: 21
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50167524
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/
     title: Apple broke an essential presentation feature of iPads
     score: 225
