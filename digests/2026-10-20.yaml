@@ -1,10 +1,30 @@
 date: '2026-10-20'
-generated_at: 2026-10-20 18:02 UTC
+generated_at: 2026-10-20 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://stevekrouse.com/ends
+    title: What shall I teach my son?
+    score: 65
+    comment_cnt: 82
+    comment_url: https://news.ycombinator.com/item?id=50169707
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://emilkowal.ski/ui/developing-taste
+    title: Developing Taste
+    score: 52
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50160135
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://emudhra.we-have-a-problem.com/
     title: EMudhra Intermediate CA Compromise
     score: 263
