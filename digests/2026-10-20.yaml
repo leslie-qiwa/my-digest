@@ -1,10 +1,20 @@
 date: '2026-10-20'
-generated_at: 2026-10-20 00:04 UTC
+generated_at: 2026-10-20 02:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://ipinfo.io/blog/france-fridges-hack
+    title: France's supermarket fridges were vulnerable online for months
+    score: 62
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50159616
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://josie.lol/blog/linux-rtx-spark
     title: Putting Linux on my RTX Spark laptop because I don't have a Microsoft account
     score: 152
