@@ -1,10 +1,40 @@
 date: '2026-10-21'
-generated_at: 2026-10-21 14:02 UTC
+generated_at: 2026-10-21 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.wiz.io/blog/php2shell-php-rce
+    title: 'PHP2Shell: AI uncovers critical RCE in PHP'
+    score: 300
+    comment_cnt: 87
+    comment_url: https://news.ycombinator.com/item?id=50180836
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.php.net/index.php
+    title: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out
+    score: 270
+    comment_cnt: 117
+    comment_url: https://news.ycombinator.com/item?id=50180943
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/
+    title: Most advice is right for the person giving it
+    score: 103
+    comment_cnt: 80
+    comment_url: https://news.ycombinator.com/item?id=50180444
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/zion-sati/NetWasm
     title: C# now beats Rust on WASM size
     score: 129
