@@ -1,10 +1,60 @@
 date: '2026-10-21'
-generated_at: 2026-10-21 20:01 UTC
+generated_at: 2026-10-21 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://mistral.ai/news/mistral-large-4/
+    title: Mistral Large 4
+    score: 312
+    comment_cnt: 91
+    comment_url: https://news.ycombinator.com/item?id=50186129
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html
+    title: Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case
+    score: 224
+    comment_cnt: 132
+    comment_url: https://news.ycombinator.com/item?id=50184820
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://google.github.io/styleguide/rustguide.html
+    title: Google's Rust Style Guide
+    score: 110
+    comment_cnt: 80
+    comment_url: https://news.ycombinator.com/item?id=50186010
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5
+    title: Plex laid off the whole player team
+    score: 98
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=50186318
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://every.to/thesis-statements/julian-weisser
+    title: 'After automation: Solo founding will be the default'
+    score: 41
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50186518
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware
     title: EA is shutting down BioWare
     score: 281
