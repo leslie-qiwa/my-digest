@@ -1,10 +1,50 @@
 date: '2026-10-21'
-generated_at: 2026-10-21 12:02 UTC
+generated_at: 2026-10-21 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/zion-sati/NetWasm
+    title: C# now beats Rust on WASM size
+    score: 129
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=50175510
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.hirundo.io/blog/qwen3-coder-vulnerabilities
+    title: Qwen3-Coder writes less secure code when told it's for a US persona
+    score: 117
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50179706
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes
+    title: Whatever Happened to Fire Escapes
+    score: 95
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50178455
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.anthropic.com/research/attack-surface-reduction
+    title: Using Claude to reduce the attack surface of code
+    score: 94
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50175779
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/
     title: Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds
     score: 239
