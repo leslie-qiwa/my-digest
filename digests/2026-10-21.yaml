@@ -1,10 +1,40 @@
 date: '2026-10-21'
-generated_at: 2026-10-21 18:02 UTC
+generated_at: 2026-10-21 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware
+    title: EA is shutting down BioWare
+    score: 281
+    comment_cnt: 164
+    comment_url: https://news.ycombinator.com/item?id=50184586
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://claude.com/product/claude-duet
+    title: Claude Duet
+    score: 91
+    comment_cnt: 104
+    comment_url: https://news.ycombinator.com/item?id=50186037
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/
+    title: The compiler was supposed to end programming too
+    score: 77
+    comment_cnt: 108
+    comment_url: https://news.ycombinator.com/item?id=50185045
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.php.net/archive/2026.php#2026-10-21-5
     title: 'Security advisory: Critical remote code execution vulnerabilities, update
       now'
