@@ -1,0 +1,37 @@
+date: '2026-10-21'
+generated_at: 2026-10-21 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://github.com/google-pytorch/torch_tpu
+    title: Google open-sources TorchTPU, a native PyTorch back end for TPUs
+    score: 242
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50169053
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design
+    title: Claude designed protein binders against scorpion neurotoxins
+    score: 87
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50170021
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bolkunov.com/p/on-ai-writing
+    title: On AI writing
+    score: 77
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50171771
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
