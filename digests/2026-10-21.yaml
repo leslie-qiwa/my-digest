@@ -1,10 +1,40 @@
 date: '2026-10-21'
-generated_at: 2026-10-21 08:02 UTC
+generated_at: 2026-10-21 10:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/
+    title: Muse exposes users' personal and business secrets when they share conversations
+    score: 177
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=50174687
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/
+    title: The 1.5°C goal of the Paris Agreement is no longer viable
+    score: 105
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=50177911
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/
+    title: In Hilbert space, all things are quantumly possible
+    score: 97
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50175185
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://jackalsyn.com/posts/php-up-2026.html
     title: PHP session.upload_progress heap UAF (CVE-2026-109618 / -109619)
     score: 169
