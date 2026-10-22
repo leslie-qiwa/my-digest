@@ -1,10 +1,31 @@
 date: '2026-10-22'
-generated_at: 2026-10-22 10:02 UTC
+generated_at: 2026-10-22 12:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs
+    title: 'New plastic pollution discovered: ''Plasticorals'' coral rubble fused
+      with plastic'
+    score: 116
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50183512
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://buford.bg/
+    title: I told people I'm a convicted felon after 20 years of hiding it
+    score: 75
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50182960
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://simedw.com/2026/10/21/world-model-terminal/
     title: 'WorldTUI: I trained a 360M model to pretend to be a terminal'
     score: 208
