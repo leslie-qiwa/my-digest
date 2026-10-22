@@ -1,10 +1,30 @@
 date: '2026-10-22'
-generated_at: 2026-10-22 20:04 UTC
+generated_at: 2026-10-22 22:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.taler.net/en/news/2026-13.html
+    title: Getting ready to operate GNU Taler in Germany
+    score: 174
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=50197404
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://jamesyu.org/award-winning-ai-literature/
+    title: Award-winning AI literature
+    score: 47
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50199232
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/oosexgang/hackios-xnu-kernel
     title: 'Show HN: Run full iOS 16.5 firmware on Android Devices'
     score: 205
