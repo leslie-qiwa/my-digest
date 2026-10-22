@@ -1,10 +1,40 @@
 date: '2026-10-22'
-generated_at: 2026-10-22 12:02 UTC
+generated_at: 2026-10-22 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/
+    title: Jailbreaking the Switch 2
+    score: 299
+    comment_cnt: 104
+    comment_url: https://news.ycombinator.com/item?id=50192536
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/
+    title: Xbox wants you to pay 24 to 40 cents per hour to stream games you bought
+    score: 82
+    comment_cnt: 104
+    comment_url: https://news.ycombinator.com/item?id=50194009
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought
+    title: When Do We Become the Person We Ought to Be?
+    score: 37
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50189278
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs
     title: 'New plastic pollution discovered: ''Plasticorals'' coral rubble fused
       with plastic'
