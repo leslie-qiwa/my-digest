@@ -1,10 +1,41 @@
 date: '2026-10-22'
-generated_at: 2026-10-22 14:02 UTC
+generated_at: 2026-10-22 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business
+    title: eMudhra to Exit Global SSL/TLS Certificate Business
+    score: 378
+    comment_cnt: 262
+    comment_url: https://news.ycombinator.com/item?id=50195110
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities
+    title: Several Linux kernel vulnerabilities accidentally posted to public mailing
+      list
+    score: 187
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50193804
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://pwn.watch/
+    title: What's Getting Pwned
+    score: 111
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=50195543
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/
     title: Jailbreaking the Switch 2
     score: 299
