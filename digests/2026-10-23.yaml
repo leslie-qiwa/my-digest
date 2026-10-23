@@ -1,10 +1,61 @@
 date: '2026-10-23'
-generated_at: 2026-10-23 12:04 UTC
+generated_at: 2026-10-23 14:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet
+    title: Swedish government offices to ban ChatGPT and Claude
+    score: 169
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=50207405
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://keepandroidopen.org/?
+    title: 'Phone Is About to Stop Being Yours: 70 Days Until Lockdown'
+    score: 133
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50208558
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/
+    title: Is this the new cyber normal?
+    score: 105
+    comment_cnt: 120
+    comment_url: https://news.ycombinator.com/item?id=50207115
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/
+    title: Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every
+      Tier
+    score: 86
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=50205934
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm
+    title: The Rise and Fall of Jev
+    score: 74
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50206361
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://wilsoniumite.com/2026/10/23/france-needs-to-read-my-paper/
     title: France needs to read my paper
     score: 55
