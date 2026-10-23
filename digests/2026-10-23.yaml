@@ -1,10 +1,80 @@
 date: '2026-10-23'
-generated_at: 2026-10-23 14:04 UTC
+generated_at: 2026-10-23 16:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.kadoa.com/energy-prices/insights/investor-owned-utilities
+    title: Investor-owned utilities charge 23% more for electricity than public providers
+    score: 390
+    comment_cnt: 283
+    comment_url: https://news.ycombinator.com/item?id=50208837
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images
+    title: How does Fable 5.1 hide messages in images?
+    score: 169
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50201445
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/ClickHouse/ClickBench/pull/2165
+    title: 'Remove pgrust: the entry is cheating (per-query kernels and result caching)'
+    score: 146
+    comment_cnt: 78
+    comment_url: https://news.ycombinator.com/item?id=50205816
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/
+    title: No Need for Retirement When Utopia Is Around the Corner
+    score: 139
+    comment_cnt: 119
+    comment_url: https://news.ycombinator.com/item?id=50207050
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd
+    title: Hacker leaks 281 GB of data from Germany's far-right AfD party
+    score: 135
+    comment_cnt: 87
+    comment_url: https://news.ycombinator.com/item?id=50208258
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.awakin.org/v2/read/view.php?tid=468
+    title: This I Believe (1952)
+    score: 128
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50203759
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://codeberg.org/shitter/shitter
+    title: Shitter – A Nitter Fork
+    score: 124
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=50208343
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet
     title: Swedish government offices to ban ChatGPT and Claude
     score: 169
@@ -157,3 +227,77 @@ feeds:
     summary_zh: ''
     content_file: ''
     summary: ''
+- id: golang-weekly
+  label: Golang Weekly
+  provider: rss_newsletter
+  items:
+  - url: https://golangweekly.com/link/191929/rss
+    title: Interactive Refactoring in gopls
+    summary: LSP refactorings can't 'ask' you anything, so "Add struct tags" in gopls
+      just guessed json and camelCase. gopls can now pop up dialogs to collect your
+      input. It uses a stateless, form-like protocol extension the Go and Dart teams
+      have proposed as an LSP standard.
+    score: 0
+    tags: []
+    source: go.dev
+    domain: go.dev
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/191931/rss
+    title: Go Hardcodes a Block on Broken eMudhra Certs
+    summary: 🚫 — Eight intermediate CA certificates had trivially recoverable private
+      keys, so Go 1.27.3 and 1.26.10 now refuse chains through them. It's hardcoded
+      because, as Filippo Valsorda notes, Linux trust stores have no way to pass revocations
+      on to apps.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/191945/rss
+    title: Better HTTP/1 Connection Reuse
+    summary: You can now (mostly) stop draining HTTP/1 response bodies in Go 1.27
+      as the client now drains the leftovers in the background, within limits, making
+      io.Copy(io.Discard, resp.Body) helpers largely redundant when you close the
+      body.
+    score: 0
+    tags: []
+    source: go.dev
+    domain: go.dev
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/191947/rss
+    title: 'SIMD and Go: How the New Packages Work Under the Hood'
+    summary: A heavily illustrated tour of Go's experimental SIMD support, covering
+      what vector instructions actually do, the operations offered by simd/archsimd
+      and the new portable simd package, and how the compiler turns them into machine
+      code.
+    score: 0
+    tags: []
+    source: internals-for-interns.com
+    domain: internals-for-interns.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/191956/rss
+    title: 'TinyGo 0.43: Go for Microcontrollers and WebAssembly'
+    summary: The Go compiler 'for small places' closes more gaps with regular Go,
+      adding testing/synctest, parallel tests, panic recovery on Wasm, and more. Much
+      of the work comes from Jake Bailey of TypeScript's Go port fame.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/191958/rss
+    title: 'coregex: A Faster Drop-In Replacement for regexp'
+    summary: Brings the multi-engine design of Rust's regex crate to Go, with lazy
+      DFA, PikeVM, one-pass matching and SIMD prefilters. The author claims 15–240x
+      speedups.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
