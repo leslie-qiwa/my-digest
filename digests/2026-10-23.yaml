@@ -1,10 +1,40 @@
 date: '2026-10-23'
-generated_at: 2026-10-23 02:04 UTC
+generated_at: 2026-10-23 04:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html
+    title: Woman faces six years in prison over Cash App account she never opened
+    score: 564
+    comment_cnt: 580
+    comment_url: https://news.ycombinator.com/item?id=50194833
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html
+    title: Google cleared 300 hectares of Finnish forest
+    score: 319
+    comment_cnt: 233
+    comment_url: https://news.ycombinator.com/item?id=50196837
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html
+    title: The foolishness of "natural language programming" (1978)
+    score: 64
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50203161
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations
     title: Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions
     score: 337
