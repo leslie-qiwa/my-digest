@@ -1,10 +1,20 @@
 date: '2026-10-23'
-generated_at: 2026-10-23 06:04 UTC
+generated_at: 2026-10-23 10:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://berget.ai/en/blog/per-request-co2-press-release
+    title: The same AI request emits 8.5 times more CO2 in Texas than in Sweden
+    score: 118
+    comment_cnt: 121
+    comment_url: https://news.ycombinator.com/item?id=50205229
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085
     title: Most Americans Say AI Is Bad for Society, Oppose More Data Centers
     score: 75
