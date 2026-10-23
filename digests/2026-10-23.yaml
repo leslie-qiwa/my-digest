@@ -1,10 +1,20 @@
 date: '2026-10-23'
-generated_at: 2026-10-23 04:04 UTC
+generated_at: 2026-10-23 06:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085
+    title: Most Americans Say AI Is Bad for Society, Oppose More Data Centers
+    score: 75
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50200843
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html
     title: Woman faces six years in prison over Cash App account she never opened
     score: 564
