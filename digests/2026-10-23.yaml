@@ -1,10 +1,40 @@
 date: '2026-10-23'
-generated_at: 2026-10-23 18:02 UTC
+generated_at: 2026-10-23 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/openssl/openssl/releases/tag/openssl-4.1.0
+    title: OpenSSL 4.1.0
+    score: 170
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50208099
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill
+    title: Canadians are running out of time to oppose Bill C-22
+    score: 168
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=50202114
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.thisandthat.chat/enron/
+    title: 'Show HN: We had AI write a wiki from 45k Enron emails, every fact cited'
+    score: 53
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50207620
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.kimi.ai/blog/kimi-k3-1-pro
     title: Kimi K3.1 Pro and K3.1 Pro Highspeed
     score: 190
