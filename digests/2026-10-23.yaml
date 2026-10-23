@@ -1,0 +1,48 @@
+date: '2026-10-23'
+generated_at: 2026-10-23 02:04 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations
+    title: Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions
+    score: 337
+    comment_cnt: 143
+    comment_url: https://news.ycombinator.com/item?id=50201259
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://codeandcake.dev/posts/2026-10-22-docker-is-weird
+    title: Docker is weird
+    score: 127
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50202681
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.anthropic.com/research/formal-verification
+    title: LLMs are making formal software verification feasible at a much larger
+      scale
+    score: 120
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=50202217
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arxiv.org/abs/2610.27251
+    title: AI and the Enclosure of the Scientific Commons
+    score: 114
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=50199230
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
