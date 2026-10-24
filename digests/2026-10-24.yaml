@@ -1,10 +1,31 @@
 date: '2026-10-24'
-generated_at: 2026-10-24 16:02 UTC
+generated_at: 2026-10-24 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://rtfeldman.com/fp-vs-c
+    title: How close can pure functional programming get to C?
+    score: 216
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50218195
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://gizmodo.com/sam-altman-i-no-longer-think-were-gonna-be-able-to-just-patch-all-the-bugs-2000829947
+    title: 'Sam Altman: ''I No Longer Think We''re Gonna Be Able to Just Patch All
+      the Bugs'''
+    score: 46
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=50222976
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/
     title: Google illegally cut down 250K trees in Finland for data center
     score: 226
