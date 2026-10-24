@@ -1,10 +1,50 @@
 date: '2026-10-24'
-generated_at: 2026-10-24 20:02 UTC
+generated_at: 2026-10-24 22:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector
+    title: No Signs of AI Payoff Outside the Tech Sector
+    score: 328
+    comment_cnt: 292
+    comment_url: https://news.ycombinator.com/item?id=50224463
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/Zagitta/gpu-unlock
+    title: 'GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000''s cards'
+    score: 148
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50219700
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://aardappel.github.io/goose/
+    title: The Goose Programming Language
+    score: 146
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50224300
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://dreamlabs.ai/research/dream-1/
+    title: Dream-1
+    score: 125
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50223785
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://philipotoole.com/twelve-years-of-distributed-sqlite/
     title: Twelve years of distributed SQLite
     score: 345
