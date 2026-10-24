@@ -1,10 +1,31 @@
 date: '2026-10-24'
-generated_at: 2026-10-24 14:02 UTC
+generated_at: 2026-10-24 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/
+    title: Google illegally cut down 250K trees in Finland for data center
+    score: 226
+    comment_cnt: 132
+    comment_url: https://news.ycombinator.com/item?id=50221676
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497
+    title: Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and
+      apps
+    score: 143
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=50219177
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/
     title: Elon Musk Just Gave Europe a Reason to Replace American Technology
     score: 140
