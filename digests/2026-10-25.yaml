@@ -1,10 +1,31 @@
 date: '2026-10-25'
-generated_at: 2026-10-25 20:02 UTC
+generated_at: 2026-10-25 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/
+    title: Oregon Police Are Charging a Local News Outlet $2.5M for Records About
+      One Cop
+    score: 275
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=50234232
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/JetBrains/thinkrail
+    title: JetBrains Thinkrail
+    score: 124
+    comment_cnt: 86
+    comment_url: https://news.ycombinator.com/item?id=50233294
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://lynchlab.net/llm-skin-cancer
     title: A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis
     score: 231
