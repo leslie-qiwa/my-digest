@@ -1,10 +1,20 @@
 date: '2026-10-25'
-generated_at: 2026-10-25 08:05 UTC
+generated_at: 2026-10-25 10:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras
+    title: Cerebras Deploys Trillion-Parameter AI Models
+    score: 164
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50227356
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report
     title: 'Meta employees say Lula’s accounts restricted in Brazil election: Report'
     score: 144
