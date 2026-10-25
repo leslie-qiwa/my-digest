@@ -1,10 +1,31 @@
 date: '2026-10-25'
-generated_at: 2026-10-25 02:05 UTC
+generated_at: 2026-10-25 06:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/
+    title: AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't
+      Exist
+    score: 96
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50220204
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.makeuseof.com/google-nest-thermostats-unsupported/
+    title: Google has officially turned these Nest thermostats back into dumb thermostats
+    score: 60
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50226434
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://danluu.com/ambitious/
     title: We should be more ambitious with the software we build
     score: 168
