@@ -1,10 +1,40 @@
 date: '2026-10-25'
-generated_at: 2026-10-25 14:04 UTC
+generated_at: 2026-10-25 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://loeffelholz-codex.org/en/
+    title: Tool book of a Nuremberg knight from 1505
+    score: 121
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50230917
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.alxgsv.com/challenge-is-gone/
+    title: Challenge Is Gone
+    score: 60
+    comment_cnt: 96
+    comment_url: https://news.ycombinator.com/item?id=50230965
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://theconversation.com/us-inequality-is-getting-worse-in-ways-you-might-not-expect-294075
+    title: US inequality is getting worse in ways you might not expect
+    score: 43
+    comment_cnt: 93
+    comment_url: https://news.ycombinator.com/item?id=50231310
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt
     title: Why Gopher in 2026?
     score: 100
