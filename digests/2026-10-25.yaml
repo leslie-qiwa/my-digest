@@ -1,10 +1,20 @@
 date: '2026-10-25'
-generated_at: 2026-10-25 06:05 UTC
+generated_at: 2026-10-25 08:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report
+    title: 'Meta employees say Lula’s accounts restricted in Brazil election: Report'
+    score: 144
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=50227639
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/
     title: AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't
       Exist
