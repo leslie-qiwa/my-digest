@@ -1,10 +1,40 @@
 date: '2026-10-26'
-generated_at: 2026-10-26 06:02 UTC
+generated_at: 2026-10-26 08:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category
+    title: Removing Next.js Got My Blog to 100 on Every Lighthouse Category
+    score: 114
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=50237712
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://hypnotize.works/gdx-3ds/postmortem/index.html
+    title: F-Zero X on Nintendo 3DS
+    score: 106
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50237078
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://contraptions.venkateshrao.com/p/cognitive-mercantilism
+    title: 'Cognitive Mercantilism: AI panic resembles fears of early capitalism'
+    score: 59
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50239027
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640
     title: IBM CEO says open weight models are now good and cheap on-prem
     score: 128
