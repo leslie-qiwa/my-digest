@@ -1,10 +1,51 @@
 date: '2026-10-26'
-generated_at: 2026-10-26 14:04 UTC
+generated_at: 2026-10-26 16:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.apple.com/shop/buy-ipad/ipad-mini
+    title: OLED iPad Mini
+    score: 123
+    comment_cnt: 159
+    comment_url: https://news.ycombinator.com/item?id=50243646
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/
+    title: The new iPad mini
+    score: 90
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=50243061
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.brown.edu/news/2026-10-26/ai-data-workers
+    title: Brown student maps the hidden global labor powering AI
+    score: 70
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50242843
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear
+    title: '''It''s offensively cheap'': Solar power is quietly becoming bigger than
+      nuclear'
+    score: 57
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50245385
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html
     title: The State of Context Engineering
     score: 219
