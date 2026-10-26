@@ -1,10 +1,60 @@
 date: '2026-10-26'
-generated_at: 2026-10-26 12:04 UTC
+generated_at: 2026-10-26 14:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html
+    title: The State of Context Engineering
+    score: 219
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50235780
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arxiv.org/abs/2512.19428
+    title: Attention Is Not What You Need (2025)
+    score: 149
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50237224
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://iosiflazaridis.github.io/battles-of-the-romans/
+    title: Where the Romans Fought (interactive map)
+    score: 133
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50234879
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://brennenputh.me/blog/printable-websites/
+    title: Websites Should Be Printable
+    score: 101
+    comment_cnt: 94
+    comment_url: https://news.ycombinator.com/item?id=50241664
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://english.elpais.com/technology/2026-10-25/peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.html
+    title: Peter Thiel, the tech oligarch who believes in the Antichrist
+    score: 97
+    comment_cnt: 77
+    comment_url: https://news.ycombinator.com/item?id=50242734
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blocks.manifold3d.ch/
     title: Switzerland. Block by block. At 1:1 scale
     score: 199
