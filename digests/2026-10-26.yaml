@@ -1,10 +1,50 @@
 date: '2026-10-26'
-generated_at: 2026-10-26 16:04 UTC
+generated_at: 2026-10-26 18:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/
+    title: Microsoft offers mass buyouts for roughly a quarter of its workforce
+    score: 340
+    comment_cnt: 286
+    comment_url: https://news.ycombinator.com/item?id=50245524
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://freedom.press/the-classifieds/doj-says-presidents-should-be-able-to-sell-secrets-on-ebay/
+    title: DOJ says presidents should be able to sell secrets on eBay
+    score: 128
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=50243762
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm
+    title: Fixing Tool-Call Accuracy in vLLM
+    score: 116
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=50242870
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://electrek.co/2026/10/23/tesla-cancels-cybertruck-australia-new-zealand/
+    title: Tesla cancels Cybertruck in Australia and NZ after 7 years of deposits
+    score: 83
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50239430
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.apple.com/shop/buy-ipad/ipad-mini
     title: OLED iPad Mini
     score: 123
