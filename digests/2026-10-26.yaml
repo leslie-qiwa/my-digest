@@ -1,10 +1,60 @@
 date: '2026-10-26'
-generated_at: 2026-10-26 18:04 UTC
+generated_at: 2026-10-26 20:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://magazine.sebastianraschka.com/p/building-reasoning-models
+    title: Sebastian Raschka's from-scratch video course on building reasoning models
+    score: 398
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50245138
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.panamericandispatch.org/p/meta-employees-denounce-interference
+    title: Meta Employees Denounce Interference in Brazilian Elections
+    score: 266
+    comment_cnt: 109
+    comment_url: https://news.ycombinator.com/item?id=50248061
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://css-tricks.com/css-tricks-has-a-new-owner/
+    title: CSS-Tricks has a new owner
+    score: 262
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=50245831
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model
+    title: Concerning behavior from a popular open-weight AI model
+    score: 160
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50246658
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/HeyPuter/everything
+    title: Everything
+    score: 56
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50244735
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/
     title: Microsoft offers mass buyouts for roughly a quarter of its workforce
     score: 340
