@@ -1,10 +1,20 @@
 date: '2026-10-26'
-generated_at: 2026-10-26 00:02 UTC
+generated_at: 2026-10-26 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.alfie.wtf/programming/why-i-am-a-programmer.html
+    title: Why I Am a Programmer
+    score: 162
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50235017
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://minimaxir.com/2026/10/cheap-llms/
     title: OpenAI and Anthropic cut their LLM prices by up to 80% within a few months.
       Why?
