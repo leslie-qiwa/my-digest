@@ -1,10 +1,90 @@
 date: '2026-10-26'
-generated_at: 2026-10-26 20:03 UTC
+generated_at: 2026-10-26 22:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://pharo.org/news/2026-10-26-Pharo14Release.html
+    title: Pharo 14
+    score: 221
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50241925
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/
+    title: In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real
+    score: 206
+    comment_cnt: 110
+    comment_url: https://news.ycombinator.com/item?id=50248005
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/
+    title: Oldest GUI application that still runs on Windows 11
+    score: 191
+    comment_cnt: 111
+    comment_url: https://news.ycombinator.com/item?id=50248055
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/
+    title: ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems
+    score: 189
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=50247630
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/KillaBoi/StealMyBitcoin-PoC
+    title: Steal My Bitcoin CTF PoC
+    score: 162
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50237379
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md
+    title: Type Server Protocol
+    score: 154
+    comment_cnt: 115
+    comment_url: https://news.ycombinator.com/item?id=50248371
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://shraiwi.com/blog/simd-fast-esp32s3/
+    title: SIMD-accelerated computer vision on a $2 microcontroller
+    score: 148
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50236681
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://notes.npilk.com/stop-the-spam-texts
+    title: Somebody please stop the spam texts
+    score: 106
+    comment_cnt: 114
+    comment_url: https://news.ycombinator.com/item?id=50250016
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://magazine.sebastianraschka.com/p/building-reasoning-models
     title: Sebastian Raschka's from-scratch video course on building reasoning models
     score: 398
