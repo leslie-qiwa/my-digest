@@ -1,10 +1,20 @@
 date: '2026-10-27'
-generated_at: 2026-10-27 04:02 UTC
+generated_at: 2026-10-27 06:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/DilawarShafiq/nietzschian-debugger
+    title: Nietzschian Debugger
+    score: 153
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50247493
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://typemill.net/knowledge-hub/tasks-as-code
     title: 'Tasks as Code: Move Your Tickets into the Repository'
     score: 46
