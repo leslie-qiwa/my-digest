@@ -1,10 +1,90 @@
 date: '2026-10-27'
-generated_at: 2026-10-27 12:02 UTC
+generated_at: 2026-10-27 14:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://oioannou.com/blog/ai-promised-less-work/
+    title: AI promised less work. I've never worked more
+    score: 223
+    comment_cnt: 204
+    comment_url: https://news.ycombinator.com/item?id=50257325
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lists.debian.org/debian-devel/2026/10/msg00263.html
+    title: I will no longer upload to NEW
+    score: 181
+    comment_cnt: 89
+    comment_url: https://news.ycombinator.com/item?id=50256738
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.cloudflare.com/kv-cache-exposure-remediation/
+    title: Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)
+    score: 155
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50252159
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/
+    title: Software may be getting worse, but it used to be horrible
+    score: 137
+    comment_cnt: 107
+    comment_url: https://news.ycombinator.com/item?id=50257548
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/
+    title: Python's experimental JIT to be removed
+    score: 129
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50257419
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup
+    title: Wikipedia's Cleanup of AI-Generated Content
+    score: 122
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=50257326
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/
+    title: Apple introduces the new 14-inch MacBook Pro with M6
+    score: 75
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=50258521
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe
+    title: UK to charge universities $1,200 per international student
+    score: 49
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50254935
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/
     title: Roblox downloaded 145GB models from us (including adult content) without
       asking
