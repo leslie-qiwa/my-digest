@@ -1,10 +1,20 @@
 date: '2026-10-27'
-generated_at: 2026-10-27 02:04 UTC
+generated_at: 2026-10-27 04:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://typemill.net/knowledge-hub/tasks-as-code
+    title: 'Tasks as Code: Move Your Tickets into the Repository'
+    score: 46
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50241924
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf
     title: The Exponential Time Hypothesis Is False [pdf]
     score: 291
