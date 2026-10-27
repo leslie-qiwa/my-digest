@@ -1,10 +1,51 @@
 date: '2026-10-27'
-generated_at: 2026-10-27 18:03 UTC
+generated_at: 2026-10-27 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://ghostty.org/docs/install/release-notes/1-4-0
+    title: Ghostty 1.4.0
+    score: 371
+    comment_cnt: 119
+    comment_url: https://news.ycombinator.com/item?id=50261998
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220
+    title: Police are using AI to pull over drivers for 'suspicious' behavior
+    score: 258
+    comment_cnt: 187
+    comment_url: https://news.ycombinator.com/item?id=50261819
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/
+    title: A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working
+      There
+    score: 157
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=50261784
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://kevinreuning.com/blog/polling_virality.html
+    title: Viral Polls Are Not Representative Polls
+    score: 37
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=50260242
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/
     title: The US government is hiding secret court ruling about how it spies on Americans
     score: 423
