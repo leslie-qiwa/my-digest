@@ -1,10 +1,60 @@
 date: '2026-10-27'
-generated_at: 2026-10-27 16:02 UTC
+generated_at: 2026-10-27 18:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/
+    title: The US government is hiding secret court ruling about how it spies on Americans
+    score: 423
+    comment_cnt: 139
+    comment_url: https://news.ycombinator.com/item?id=50259604
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/
+    title: Genie 4
+    score: 280
+    comment_cnt: 154
+    comment_url: https://news.ycombinator.com/item?id=50261319
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.wiz.io/blog/php2shell-exploitation-so-far
+    title: 'PHP2Shell: Exploitation attempts and remediation trends'
+    score: 157
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50259343
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/
+    title: Anthropic trained Claude on illegally obtained Stanford professors' books
+    score: 131
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=50260814
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/
+    title: Apple introduces the new 14‑inch MacBook Pro with M6
+    score: 75
+    comment_cnt: 78
+    comment_url: https://news.ycombinator.com/item?id=50261352
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.apple.com/imac/
     title: New iMac with M6
     score: 117
