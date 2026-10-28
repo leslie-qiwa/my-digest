@@ -1,10 +1,60 @@
 date: '2026-10-28'
-generated_at: 2026-10-28 16:01 UTC
+generated_at: 2026-10-28 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/
+    title: Gemini 4 Carbon
+    score: 265
+    comment_cnt: 206
+    comment_url: https://news.ycombinator.com/item?id=50276792
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.apple.com/macbook-pro/proled-xdr-display/
+    title: MacBook Pro with PROLED XDR Display and Touch
+    score: 158
+    comment_cnt: 239
+    comment_url: https://news.ycombinator.com/item?id=50276940
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://support.apple.com/en-us/149555
+    title: About the compromised eMudhra intermediate CAs
+    score: 132
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=50271685
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/
+    title: Tesla Semi catches fire on I-880
+    score: 79
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=50274706
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://cursor.com/blog/agent-sdk
+    title: The Agent SDK
+    score: 44
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50273731
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones
     title: Valve Responds to Developers Fearing AI Slop and Clones
     score: 49
