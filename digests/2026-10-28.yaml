@@ -1,10 +1,40 @@
 date: '2026-10-28'
-generated_at: 2026-10-28 06:02 UTC
+generated_at: 2026-10-28 10:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/
+    title: Code-execution flaw in UEFI firmware threatens most servers on planet Earth
+    score: 140
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=50265393
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://hex.tech/blog/hex-new-era/
+    title: Hex Raises $100M
+    score: 67
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50265413
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5
+    title: Artificial Analysis Intelligence Index v5
+    score: 55
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=50268868
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://lexifina.com/blog/git-for-the-us-code
     title: Git for the US Code
     score: 157
