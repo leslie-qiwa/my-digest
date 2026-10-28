@@ -1,10 +1,30 @@
 date: '2026-10-28'
-generated_at: 2026-10-28 20:02 UTC
+generated_at: 2026-10-28 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://nullpt.rs/fingerprinting-bioweapons
+    title: Why is this fingerprinting script creating bioweapons?
+    score: 510
+    comment_cnt: 115
+    comment_url: https://news.ycombinator.com/item?id=50276998
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.wsoctv.com/news/local/forced-out-hoa-fees-rise-7500-month/XCW2HIHUKNBMTNWVQSYXQZJCY4/
+    title: '''Forced out'': HOA fees to rise to $2,500 a month'
+    score: 25
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50267890
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://carmelitegothic.com/cnc-stone-carving/
     title: CNC Stone Carving
     score: 298
