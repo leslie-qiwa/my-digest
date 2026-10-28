@@ -1,0 +1,17 @@
+date: '2026-10-28'
+generated_at: 2026-10-28 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://www.anthropic.com/research/early-progress-drug-development
+    title: Early progress on accelerating drug development with Claude
+    score: 89
+    comment_cnt: 82
+    comment_url: https://news.ycombinator.com/item?id=50265609
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
