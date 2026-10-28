@@ -1,10 +1,40 @@
 date: '2026-10-28'
-generated_at: 2026-10-28 12:02 UTC
+generated_at: 2026-10-28 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://emudhra.we-have-a-problem.com/apple.html
+    title: Ten days later, Git on macOS still trusts the compromised eMudhra certificates
+    score: 342
+    comment_cnt: 139
+    comment_url: https://news.ycombinator.com/item?id=50271640
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/
+    title: ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History
+    score: 278
+    comment_cnt: 88
+    comment_url: https://news.ycombinator.com/item?id=50272749
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://theconversation.com/barcelona-unrest-how-to-fabricate-a-protest-in-the-age-of-tiktok-295263
+    title: 'Barcelona unrest: how to fabricate a protest in the age of TikTok'
+    score: 63
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50271457
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/
     title: 'Hunger beats tenure: Advice for junior engineers'
     score: 88
