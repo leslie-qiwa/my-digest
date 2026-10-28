@@ -1,10 +1,30 @@
 date: '2026-10-28'
-generated_at: 2026-10-28 00:02 UTC
+generated_at: 2026-10-28 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.liquid.ai/blog/lfm3
+    title: 'Introducing LFM3: Every Modality for Specialized Intelligence'
+    score: 123
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50262229
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bettascore.ai/research/reliability-reviewers-vs-owners
+    title: Reviewers rarely talk about reliability. Owners bring it up twice as often
+    score: 58
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=50266780
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.anthropic.com/research/early-progress-drug-development
     title: Early progress on accelerating drug development with Claude
     score: 89
