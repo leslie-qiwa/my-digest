@@ -1,10 +1,60 @@
 date: '2026-10-29'
-generated_at: 2026-10-29 16:02 UTC
+generated_at: 2026-10-29 18:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://text.npr.org/nx-s1-6021497
+    title: Hackers expose the identities of more than 40k DHS employees
+    score: 233
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50287898
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.kadoa.com/companies/insights/google-search-below-half
+    title: For the first time ever, Google Search is less than 50% of Alphabet's revenue
+    score: 199
+    comment_cnt: 136
+    comment_url: https://news.ycombinator.com/item?id=50291945
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://sidbala.com/h-264-is-magic/
+    title: H.264 Is Magic (2016)
+    score: 128
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50291054
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://yle.fi/a/74-20254086
+    title: Finland investigate Google over destruction of 250k trees
+    score: 107
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=50290170
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://martinfowler.com/rachels-ramblings/good-devs-wary.html
+    title: Why are good developers so wary of agentic development?
+    score: 66
+    comment_cnt: 97
+    comment_url: https://news.ycombinator.com/item?id=50289162
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://mistral.ai/news/mistral-large-4-oss/
     title: Mistral Large 4 (Le Chonk) is now Open Weight
     score: 410
