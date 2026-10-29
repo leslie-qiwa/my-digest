@@ -1,10 +1,71 @@
 date: '2026-10-29'
-generated_at: 2026-10-29 14:02 UTC
+generated_at: 2026-10-29 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://mistral.ai/news/mistral-large-4-oss/
+    title: Mistral Large 4 (Le Chonk) is now Open Weight
+    score: 410
+    comment_cnt: 97
+    comment_url: https://news.ycombinator.com/item?id=50289418
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://furbo.org/2026/10/28/a-health-update/
+    title: A Health Update
+    score: 331
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50280974
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter
+    title: Read the letter the FBI sent MLK to try to convince him to kill himself
+      (2014)
+    score: 312
+    comment_cnt: 197
+    comment_url: https://news.ycombinator.com/item?id=50288867
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers
+    title: Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers
+    score: 116
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50286987
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://about.doordash.com/en-us/news/doordash-to-acquire-instacart
+    title: DoorDash is acquiring Instacart for $17B
+    score: 104
+    comment_cnt: 76
+    comment_url: https://news.ycombinator.com/item?id=50289859
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series
+    title: The Milwaukee Brewers win the first World Series title in franchise history
+    score: 87
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50284329
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/
     title: The US added a record 20.2 GWh of battery storage in just 3 months
     score: 133
