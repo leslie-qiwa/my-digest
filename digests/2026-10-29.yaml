@@ -1,10 +1,51 @@
 date: '2026-10-29'
-generated_at: 2026-10-29 12:02 UTC
+generated_at: 2026-10-29 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/
+    title: The US added a record 20.2 GWh of battery storage in just 3 months
+    score: 133
+    comment_cnt: 95
+    comment_url: https://news.ycombinator.com/item?id=50287001
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1
+    title: 'Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence
+      Index v5'
+    score: 112
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=50288019
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://sonidoselva.com/perspectiva-kogui
+    title: An Urgent Message on Artificial Intelligence from the Kogui People
+    score: 107
+    comment_cnt: 90
+    comment_url: https://news.ycombinator.com/item?id=50287359
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html
+    title: Google determines the names for bodies of water in Google Earth (2008)
+    score: 85
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=50287448
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://smsofdeath.com/
     title: Zero click, silent, remote Android DoS
     score: 135
