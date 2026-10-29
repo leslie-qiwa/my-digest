@@ -1,10 +1,30 @@
 date: '2026-10-29'
-generated_at: 2026-10-29 06:02 UTC
+generated_at: 2026-10-29 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce
+    title: Claude Code regularly sends each background agent’s transcript to its model
+    score: 304
+    comment_cnt: 92
+    comment_url: https://news.ycombinator.com/item?id=50284255
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.google/products-and-platforms/platforms/android/xreal-aura/
+    title: The first wired XR glasses powered by Android XR
+    score: 63
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50282538
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://divagr.com/blog/qwenputer
     title: 'Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5'
     score: 271
