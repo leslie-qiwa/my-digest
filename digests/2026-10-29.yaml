@@ -1,10 +1,20 @@
 date: '2026-10-29'
-generated_at: 2026-10-29 00:02 UTC
+generated_at: 2026-10-29 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md
+    title: MicroZig to Adopt Strict No LLM / No AI Policy
+    score: 49
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=50282865
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/
     title: Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE
       Agents
