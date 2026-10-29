@@ -1,10 +1,40 @@
 date: '2026-10-29'
-generated_at: 2026-10-29 20:04 UTC
+generated_at: 2026-10-29 22:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/
+    title: Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang
+    score: 214
+    comment_cnt: 141
+    comment_url: https://news.ycombinator.com/item?id=50293047
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lumi.codeberg.page/blog/software-community.html
+    title: The importance of communities around software
+    score: 70
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=50294507
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/johncassil/dontallow
+    title: 'Show HN: Auto Dismiss Mac OS "Allow <app> to find devices on local networks?"'
+    score: 58
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50294506
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://martinfowler.com/bliki/LLM-Voice.html
     title: LLM Voice
     score: 211
