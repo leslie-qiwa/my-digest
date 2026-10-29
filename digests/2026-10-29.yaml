@@ -1,10 +1,40 @@
 date: '2026-10-29'
-generated_at: 2026-10-29 18:04 UTC
+generated_at: 2026-10-29 20:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://martinfowler.com/bliki/LLM-Voice.html
+    title: LLM Voice
+    score: 211
+    comment_cnt: 123
+    comment_url: https://news.ycombinator.com/item?id=50290177
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://trakkr.ai/trakkr-research/zombie-stats
+    title: 'Zombie stats: Where the numbers AI quotes come from'
+    score: 105
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50290283
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing
+    title: Richest 0.1% (8M) produce more carbon pollution than 3.5B
+    score: 98
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50284089
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://text.npr.org/nx-s1-6021497
     title: Hackers expose the identities of more than 40k DHS employees
     score: 233
