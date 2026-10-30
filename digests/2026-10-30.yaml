@@ -1,10 +1,50 @@
 date: '2026-10-30'
-generated_at: 2026-10-30 16:04 UTC
+generated_at: 2026-10-30 18:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling
+    title: AI isn't replacing SREs, it's deskilling them
+    score: 256
+    comment_cnt: 194
+    comment_url: https://news.ycombinator.com/item?id=50305693
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo
+    title: US tech stocks see sharp falls over AI cost fears
+    score: 131
+    comment_cnt: 86
+    comment_url: https://news.ycombinator.com/item?id=50306008
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/cm78pxxe55v0o
+    title: I didn't know I was lacking in Vitamin D until I collapsed at work
+    score: 63
+    comment_cnt: 80
+    comment_url: https://news.ycombinator.com/item?id=50305436
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/dbreunig/nesformer
+    title: A Working Nintendo in ~1GB of Qwen Weights
+    score: 61
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50306442
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://phorion.io/blog/offical-claude-code-vsx-compromise/
     title: Backdoor in Claude Code for VS Code extension on the Cursor Marketplace
     score: 270
