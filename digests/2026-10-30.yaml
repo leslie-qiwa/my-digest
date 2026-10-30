@@ -1,10 +1,20 @@
 date: '2026-10-30'
-generated_at: 2026-10-30 20:02 UTC
+generated_at: 2026-10-30 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://lucaskostka.com/posts/ai-challenges-more-than-devs
+    title: Product Managers aren't safe either
+    score: 48
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=50309534
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/
     title: Proton's CEO Cancels AI 'Re-Interviews'
     score: 205
