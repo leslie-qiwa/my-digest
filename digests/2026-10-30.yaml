@@ -1,10 +1,50 @@
 date: '2026-10-30'
-generated_at: 2026-10-30 00:04 UTC
+generated_at: 2026-10-30 02:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html
+    title: Patrick Stewart has died
+    score: 2432
+    comment_cnt: 502
+    comment_url: https://news.ycombinator.com/item?id=50294702
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://labs.ycombinator.com/projects/games/index.html
+    title: We ran AI agent swarms in Minecraft and Mindustry
+    score: 162
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=50296486
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/
+    title: 'Manifestos, Fear, and ''Loser Thinking'': Inside Proton''s AI Reckoning'
+    score: 141
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50289692
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://nedbatchelder.com/blog/201711/toxic_experts
+    title: Toxic experts (2017)
+    score: 69
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50291927
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://fig.blue/posts/duet-is-the-future/
     title: Claude Duet is the first personal-assistant-type harness that feels useful
     score: 90
