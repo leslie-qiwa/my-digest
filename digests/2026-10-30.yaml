@@ -1,10 +1,70 @@
 date: '2026-10-30'
-generated_at: 2026-10-30 18:03 UTC
+generated_at: 2026-10-30 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/
+    title: Proton's CEO Cancels AI 'Re-Interviews'
+    score: 205
+    comment_cnt: 174
+    comment_url: https://news.ycombinator.com/item?id=50307183
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance
+    title: Blockchain intelligence firms link North Korea to $6.3B hack on Binance
+    score: 142
+    comment_cnt: 87
+    comment_url: https://news.ycombinator.com/item?id=50305480
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://tangled.org/blog/forge/
+    title: The federated code forge
+    score: 142
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50305573
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/
+    title: How do you take a picture of a black hole?
+    score: 65
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50301717
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-nouvelle-taxe-n264035.html
+    title: French national assembly votes 0.055€/GB internet tax
+    score: 55
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50308240
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://frvr.com/blog/news/openai-ceo-sam-altman-says-its-terrible-to-have-everybody-have-a-bunch-of-the-worlds-limited-supply-of-dram-instead-of-shoving-it-all-in-datacentres/
+    title: Sam Altman Thinks You're Wasting DRAM
+    score: 41
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=50305797
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling
     title: AI isn't replacing SREs, it's deskilling them
     score: 256
