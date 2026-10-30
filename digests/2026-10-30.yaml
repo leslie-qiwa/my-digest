@@ -1,10 +1,21 @@
 date: '2026-10-30'
-generated_at: 2026-10-30 12:04 UTC
+generated_at: 2026-10-30 14:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead
+    title: US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big
+      Tech
+    score: 150
+    comment_cnt: 77
+    comment_url: https://news.ycombinator.com/item?id=50302814
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://news.ycombinator.com/item?id=50301479
     title: 'Ask HN: Are you tired too in this AI era?'
     score: 100
