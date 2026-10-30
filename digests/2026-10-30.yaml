@@ -1,10 +1,40 @@
 date: '2026-10-30'
-generated_at: 2026-10-30 06:04 UTC
+generated_at: 2026-10-30 12:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://news.ycombinator.com/item?id=50301479
+    title: 'Ask HN: Are you tired too in this AI era?'
+    score: 100
+    comment_cnt: 96
+    comment_url: https://news.ycombinator.com/item?id=50301479
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates
+    title: '''Elite North Korean hackers'' blamed for $6.3B Binance hack'
+    score: 63
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=50300853
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://codakuma.com/i-returned-my-duo/
+    title: I Returned My iPhone Duo
+    score: 38
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=50301373
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574
     title: El Niño is flooding California's coasts with the highest tides to come
     score: 118
