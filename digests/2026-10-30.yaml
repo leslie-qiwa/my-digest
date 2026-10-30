@@ -1,10 +1,30 @@
 date: '2026-10-30'
-generated_at: 2026-10-30 02:04 UTC
+generated_at: 2026-10-30 06:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574
+    title: El Niño is flooding California's coasts with the highest tides to come
+    score: 118
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50296585
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/herdrdev/herdr-app
+    title: Herdr has released native app
+    score: 105
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=50298436
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html
     title: Patrick Stewart has died
     score: 2432
