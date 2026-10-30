@@ -1,10 +1,51 @@
 date: '2026-10-30'
-generated_at: 2026-10-30 14:03 UTC
+generated_at: 2026-10-30 16:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://phorion.io/blog/offical-claude-code-vsx-compromise/
+    title: Backdoor in Claude Code for VS Code extension on the Cursor Marketplace
+    score: 270
+    comment_cnt: 333
+    comment_url: https://news.ycombinator.com/item?id=50300683
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/
+    title: The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes
+    score: 141
+    comment_cnt: 101
+    comment_url: https://news.ycombinator.com/item?id=50303172
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts
+    title: Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's
+      code
+    score: 40
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50304122
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://bryanalexander.org/horizon-scanning/american-views-of-higher-ed-decline-once-again/
+    title: American views of higher ed decline, once again
+    score: 34
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=50302925
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead
     title: US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big
       Tech
@@ -116,3 +157,76 @@ feeds:
     summary_zh: ''
     content_file: ''
     summary: ''
+- id: golang-weekly
+  label: Golang Weekly
+  provider: rss_newsletter
+  items:
+  - url: https://golangweekly.com/link/192257/rss
+    title: How Go Shipped Its First URGENT Track Security Release
+    summary: As featured last week, Go hardcoded a block on eMudhra's broken intermediate
+      certs. Now the Go security team explains why the notes were vague, how the fix
+      shipped hours after they were alerted, and its plan for revocation checking
+      on Linux.
+    score: 0
+    tags: []
+    source: go.dev
+    domain: go.dev
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/192264/rss
+    title: Go Concurrency Distilled
+    summary: A handy interactive refresher where Anton boils Go's numerous concurrency
+      concepts and mechanisms down into a single page, covering everything from channels
+      and select to context, synctest and the scheduler, with examples you can edit
+      and run in place.
+    score: 0
+    tags: []
+    source: antonz.org
+    domain: antonz.org
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/192269/rss
+    title: Measuring Go 1.28's HTTP/2 'Parking' Memory Savings
+    summary: 📊 — Thanks to a change by Brad Fitzpatrick, an idle HTTP/2 server connection
+      in Go 1.28 can let its serve goroutine exit. With 5,000 idle connections, a
+      dev build ran 5,000 fewer goroutines and used about 40% less RSS.
+    score: 0
+    tags: []
+    source: abdolirad.me
+    domain: abdolirad.me
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/192271/rss
+    title: 'Proposal: Let go test Run Your Project''s Own Analyzers'
+    summary: //go:analyze directives would add custom analyzers to go test, and libraries
+      could ship checks that run on packages that import them, like vet checks Printf
+      calls. It's still early but being actively discussed.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/192279/rss
+    title: 'TinyGo 0.44: Smaller, Faster, Better'
+    summary: The Go compiler for microcontrollers and WebAssembly now does more init
+      work at compile time for smaller binaries that start faster, drops needless
+      slice bounds checks, and adds multicore goroutines on the ESP32-S3. Support
+      for the Arduino Uno R4 also brings TinyGo's first Renesas CPU support.
+    score: 0
+    tags: []
+    source: tinygo.org
+    domain: tinygo.org
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/192281/rss
+    title: 'noalloc: Keep Your Hot Paths Allocation-Free'
+    summary: Mark a function with //noalloc:root and this CLI checks its call tree
+      for heap allocations, flagging offending lines. It's a days-old, AI-written
+      experiment that borrows an idea from OxCaml's zero_alloc.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
