@@ -1,10 +1,30 @@
 date: '2026-10-31'
-generated_at: 2026-10-31 04:01 UTC
+generated_at: 2026-10-31 06:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.persistent.info/2026/10/infinite-mac-beos.html
+    title: 'Infinite Mac: BeOS'
+    score: 135
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50309029
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921
+    title: The oldest ice disappears and the Stone Age emerges from it
+    score: 123
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50309266
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://psychotechnology.substack.com/p/5-meo-dmt-sometimes-cancels-the-ebbinghaus
     title: 5-MeO-DMT sometimes cancels the Ebbinghaus illusion
     score: 38
