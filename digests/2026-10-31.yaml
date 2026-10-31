@@ -1,10 +1,50 @@
 date: '2026-10-31'
-generated_at: 2026-10-31 20:01 UTC
+generated_at: 2026-10-31 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf
+    title: 'TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8'
+    score: 173
+    comment_cnt: 85
+    comment_url: https://news.ycombinator.com/item?id=50319143
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://jepsen.io/analyses/particledb-1.1.4
+    title: 'Jepsen: ParticleDB 1.1.4'
+    score: 142
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=50316100
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ryanmadden.net/gpt-56-beats-factorio/
+    title: GPT-5.6 Sol can beat Factorio on peaceful mode
+    score: 130
+    comment_cnt: 134
+    comment_url: https://news.ycombinator.com/item?id=50318871
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cairoreport.org/p/egypt-brazil-iraq-billboard-hack
+    title: Hackers hijack Egypt highway billboard and Malaysian screens to show porn
+    score: 51
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50318182
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy
     title: UK Green party drops longstanding opposition to nuclear power
     score: 170
