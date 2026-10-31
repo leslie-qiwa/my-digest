@@ -1,10 +1,20 @@
 date: '2026-10-31'
-generated_at: 2026-10-31 08:02 UTC
+generated_at: 2026-10-31 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html
+    title: Digital Minimalism
+    score: 82
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50313661
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://news.ycombinator.com/item?id=50312756
     title: 'Tell HN: Scribd Breached'
     score: 169
