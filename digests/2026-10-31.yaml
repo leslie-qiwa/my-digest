@@ -1,10 +1,30 @@
 date: '2026-10-31'
-generated_at: 2026-10-31 16:03 UTC
+generated_at: 2026-10-31 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/
+    title: Malware uses LLMs to rank victims by how much they're worth
+    score: 161
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=50316531
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/
+    title: Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'
+    score: 81
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=50316760
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.parameter.ai/labs/we-found-a-gap-at-openai
     title: We Took over ChatGPT Accounts
     score: 175
