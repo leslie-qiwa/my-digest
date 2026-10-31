@@ -1,0 +1,58 @@
+date: '2026-10-31'
+generated_at: 2026-10-31 00:04 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/
+    title: My favourite PowerMac is a Nintendo Wii
+    score: 216
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50307190
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/
+    title: Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure
+      of a man
+    score: 157
+    comment_cnt: 86
+    comment_url: https://news.ycombinator.com/item?id=50309647
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://status.linode.com/incidents/nt58zhx3pmgm
+    title: Linode Security Incident
+    score: 115
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=50310687
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/
+    title: Cisco gives engineer unlimited AI tokens to rewrite legacy code
+    score: 78
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=50304122
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/
+    title: France is getting download tax for content providers (€0.055/GB)
+    score: 74
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=50310796
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
