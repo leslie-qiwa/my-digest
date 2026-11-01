@@ -1,10 +1,31 @@
 date: '2026-11-01'
-generated_at: 2026-11-01 00:00 UTC
+generated_at: 2026-11-01 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve
+    title: 'Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench
+      Hard'
+    score: 121
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=50320995
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://learnfromx.com/research/anime-word-coverage-vs-lines-understood
+    title: With 86% of the words, you might understand only 38% of an anime's lines
+    score: 75
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50320028
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering
     title: Anthropic takes steps to block Claude from reverse-engineering video games
     score: 88
