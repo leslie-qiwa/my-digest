@@ -1,0 +1,17 @@
+date: '2026-11-01'
+generated_at: 2026-11-01 00:00 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering
+    title: Anthropic takes steps to block Claude from reverse-engineering video games
+    score: 88
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=50320255
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
