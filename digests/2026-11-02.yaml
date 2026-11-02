@@ -1,10 +1,80 @@
 date: '2026-11-02'
-generated_at: 2026-11-02 18:04 UTC
+generated_at: 2026-11-02 20:06 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://rikiyat.github.io/blog/weight-space-programming/
+    title: Astra can read and write weights to improve Qwen
+    score: 612
+    comment_cnt: 178
+    comment_url: https://news.ycombinator.com/item?id=50341174
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=50340088
+    title: 'Show HN: Subvocal – Talk to your computer without making noise'
+    score: 294
+    comment_cnt: 202
+    comment_url: https://news.ycombinator.com/item?id=50340088
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/
+    title: If you love a website, back it up
+    score: 222
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50336518
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://posthog.com/blog/moving-off-duckdb
+    title: Moving our warehouse off DuckDB
+    score: 118
+    comment_cnt: 91
+    comment_url: https://news.ycombinator.com/item?id=50338747
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=50338728
+    title: 'Ask HN: Who is hiring? (November 2026)'
+    score: 117
+    comment_cnt: 94
+    comment_url: https://news.ycombinator.com/item?id=50338728
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.jsbarretto.com/post/laptop
+    title: My Favourite Laptop
+    score: 90
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=50339815
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://momentic.ai/
+    title: 'Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app'
+    score: 72
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50339913
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html
     title: Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1
     score: 194
