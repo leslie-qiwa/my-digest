@@ -1,0 +1,17 @@
+date: '2026-11-02'
+generated_at: 2026-11-02 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://asymco.com/2026/11/01/the-last-consumer-company/
+    title: Apple captures 50% of consumer revenue of the top half of the S&P 500
+    score: 65
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50330005
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
