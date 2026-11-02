@@ -1,10 +1,32 @@
 date: '2026-11-02'
-generated_at: 2026-11-02 14:04 UTC
+generated_at: 2026-11-02 16:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/
+    title: 'BioWare co-founder: game execs "have never made a game" and don''t get
+      it'
+    score: 104
+    comment_cnt: 113
+    comment_url: https://news.ycombinator.com/item?id=50334372
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://gizmodo.com/sam-altman-all-the-ram-should-belong-to-me-so-i-can-charge-people-to-use-it-2000833412
+    title: 'Sam Altman: All the RAM Should Belong to Me, So I Can Charge People to
+      Use It'
+    score: 85
+    comment_cnt: 89
+    comment_url: https://news.ycombinator.com/item?id=50336791
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/
     title: 'China''s First Frontier AI Export Controls: Mofcom Announcement No. 48'
     score: 97
