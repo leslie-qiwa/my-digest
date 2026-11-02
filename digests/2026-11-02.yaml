@@ -1,10 +1,40 @@
 date: '2026-11-02'
-generated_at: 2026-11-02 20:06 UTC
+generated_at: 2026-11-02 22:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.alxgsv.com/let-me-check/
+    title: Let Me Ch...
+    score: 172
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=50340369
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html
+    title: Oracle files to sell $20B in new stock, bonds to finance AI buildout
+    score: 101
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50342284
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/
+    title: Egoless Mathematics in the AI Era
+    score: 72
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50341736
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://rikiyat.github.io/blog/weight-space-programming/
     title: Astra can read and write weights to improve Qwen
     score: 612
