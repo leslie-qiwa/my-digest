@@ -1,10 +1,20 @@
 date: '2026-11-02'
-generated_at: 2026-11-02 08:02 UTC
+generated_at: 2026-11-02 10:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml
+    title: Seoul Viosys begins production of rare-earth-free white light emitter
+    score: 180
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50327058
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/ivankovic/omnidiff
     title: 'Show HN: OmniDiff – Opensource, super fast, content aware Git difftool,
       in Rust'
