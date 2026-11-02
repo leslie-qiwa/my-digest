@@ -1,10 +1,30 @@
 date: '2026-11-02'
-generated_at: 2026-11-02 16:04 UTC
+generated_at: 2026-11-02 18:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html
+    title: Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1
+    score: 194
+    comment_cnt: 205
+    comment_url: https://news.ycombinator.com/item?id=50337439
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://en.wikipedia.org/wiki/Never_complain,_never_explain
+    title: Never Complain, Never Explain
+    score: 128
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50335659
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/
     title: 'BioWare co-founder: game execs "have never made a game" and don''t get
       it'
