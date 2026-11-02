@@ -1,10 +1,40 @@
 date: '2026-11-02'
-generated_at: 2026-11-02 02:02 UTC
+generated_at: 2026-11-02 04:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://occupysaas.com/
+    title: OccupySaaS
+    score: 117
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=50331402
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html
+    title: Novellas with Groff
+    score: 115
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50325694
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.americansentiment.com/datacenters
+    title: 'America on Data Centers: listen to 10,000+ city council comments'
+    score: 29
+    comment_cnt: 88
+    comment_url: https://news.ycombinator.com/item?id=50331404
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/
     title: U.S. workers took home their smallest share of capital since at least 1947
     score: 206
