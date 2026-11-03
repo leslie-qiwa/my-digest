@@ -1,10 +1,51 @@
 date: '2026-11-03'
-generated_at: 2026-11-03 18:02 UTC
+generated_at: 2026-11-03 20:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/postmanlabs/postman-app-support/issues/14370
+    title: Postman silently auto-installs AI plugins and attempts to share all API
+      data
+    score: 626
+    comment_cnt: 202
+    comment_url: https://news.ycombinator.com/item?id=50354960
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/
+    title: Qwen 3.8 27B on my laptop can interpret model weights, too
+    score: 267
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=50355251
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/
+    title: Bear turns 10, and it still feels like day one
+    score: 81
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50353383
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://homosabiens.substack.com/p/no-brother-of-mine-will-play-the
+    title: No brother of mine will play the flute
+    score: 27
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50353360
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/
     title: Kalshi and its co-founders face felony charges for violating Utah gambling
       laws
