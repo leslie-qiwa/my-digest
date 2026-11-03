@@ -1,10 +1,51 @@
 date: '2026-11-03'
-generated_at: 2026-11-03 16:04 UTC
+generated_at: 2026-11-03 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/
+    title: Kalshi and its co-founders face felony charges for violating Utah gambling
+      laws
+    score: 148
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=50353229
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://namespace.so/blog/mac-at-any-scale
+    title: Mac at Any Scale
+    score: 141
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=50352758
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975
+    title: Study estimates 75% of NFL players who died over 15-year span had CTE
+    score: 99
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50353335
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/
+    title: Charles Tandy, the mastermind behind Radio Shack
+    score: 85
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=50351319
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://honnibal.dev/blog/astra-read-write-misleading
     title: The 'Astra can read and write weights to improve Qwen' post is misleading
     score: 539
