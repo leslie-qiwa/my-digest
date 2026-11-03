@@ -1,10 +1,20 @@
 date: '2026-11-03'
-generated_at: 2026-11-03 08:04 UTC
+generated_at: 2026-11-03 12:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio
+    title: 'DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs'
+    score: 253
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50346849
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you
     title: Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You
     score: 198
