@@ -1,10 +1,40 @@
 date: '2026-11-03'
-generated_at: 2026-11-03 02:05 UTC
+generated_at: 2026-11-03 04:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.cloudflare.com/dns-targeted-zone-builds/
+    title: We halved DNS build delay and cut memory use by 85%
+    score: 163
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=50337558
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html
+    title: Intel stock collapse worsens as $3.5T chip rout spreads
+    score: 126
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=50346153
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/
+    title: The U.S. Census Bureau and "Super Intelligence"
+    score: 103
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50336840
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://syscall.sh/
     title: 'Show HN: I''ve updated my Linux System Call website and API'
     score: 208
