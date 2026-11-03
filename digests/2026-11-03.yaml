@@ -1,10 +1,90 @@
 date: '2026-11-03'
-generated_at: 2026-11-03 12:04 UTC
+generated_at: 2026-11-03 16:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://honnibal.dev/blog/astra-read-write-misleading
+    title: The 'Astra can read and write weights to improve Qwen' post is misleading
+    score: 539
+    comment_cnt: 119
+    comment_url: https://news.ycombinator.com/item?id=50351111
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/NVIDIA/auto-ontology
+    title: Nvidia – open-source auto-ontology
+    score: 227
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=50348962
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html
+    title: Could a modern chess engine on a Pentium have defeated Kasparov in 1996?
+    score: 221
+    comment_cnt: 109
+    comment_url: https://news.ycombinator.com/item?id=50349276
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://polyend.com/whats-up/tracker-the-biggest-update-yet/
+    title: Polyend releases the Tracker firmware source code
+    score: 150
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=50340159
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/
+    title: Sneaking into the auditorium for the Windows 2000 launch rehearsal
+    score: 146
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50341028
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/
+    title: Just a little AI resistance, as a treat
+    score: 138
+    comment_cnt: 82
+    comment_url: https://news.ycombinator.com/item?id=50352257
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.techdirt.com/2026/11/02/sam-altmans-case-against-your-ram-is-efficient-thats-the-problem/
+    title: Sam Altman's Case Against Your RAM Is Efficient. That's the Problem
+    score: 27
+    comment_cnt: 76
+    comment_url: https://news.ycombinator.com/item?id=50350693
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://epyhia.com/anthropic-s-ipo-filing-warns-it-may-be-imminently-close-to-recursive
+    title: Anthropic's IPO Filing Warns It May Be 'Imminently' Close to RSI
+    score: 27
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=50351712
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio
     title: 'DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs'
     score: 253
