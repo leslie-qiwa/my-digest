@@ -1,10 +1,30 @@
 date: '2026-11-03'
-generated_at: 2026-11-03 04:05 UTC
+generated_at: 2026-11-03 06:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.keepingup.com/benchmarks/net-worth/age-30-33
+    title: Net worth for people aged 30–33 in the U.S.
+    score: 182
+    comment_cnt: 82
+    comment_url: https://news.ycombinator.com/item?id=50347683
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise
+    title: 'The Ford Privacy Promise: You''re in Control of Your Data'
+    score: 42
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50344158
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.cloudflare.com/dns-targeted-zone-builds/
     title: We halved DNS build delay and cut memory use by 85%
     score: 163
