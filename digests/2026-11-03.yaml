@@ -1,10 +1,30 @@
 date: '2026-11-03'
-generated_at: 2026-11-03 00:05 UTC
+generated_at: 2026-11-03 02:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://syscall.sh/
+    title: 'Show HN: I''ve updated my Linux System Call website and API'
+    score: 208
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50334704
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms
+    title: Ballot Rejections Have Soared in Rural Counties as USPS Reduces Mail Service
+    score: 81
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50341616
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/
     title: BYD sold more EVs last month than the US did all quarter
     score: 221
