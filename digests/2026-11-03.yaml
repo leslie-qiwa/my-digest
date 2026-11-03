@@ -1,0 +1,78 @@
+date: '2026-11-03'
+generated_at: 2026-11-03 00:05 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/
+    title: BYD sold more EVs last month than the US did all quarter
+    score: 221
+    comment_cnt: 218
+    comment_url: https://news.ycombinator.com/item?id=50344181
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.regenerator1.com/p/anthropics-growth-just-flattened
+    title: Anthropic's growth just flattened
+    score: 110
+    comment_cnt: 121
+    comment_url: https://news.ycombinator.com/item?id=50344958
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/
+    title: The SEC Should Block Anthropic's IPO to Protect the Public
+    score: 98
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50344919
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/
+    title: Apple reports fourth quarter results
+    score: 63
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50344670
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/soml-lang/soml
+    title: SOML – A Config Format for Humans
+    score: 56
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50341502
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://momandpop.network/2026/11/02/cant-fish-ethernet-use-invisible-fiber-instead/
+    title: Can’t fish Ethernet? Use “invisible” fiber instead
+    score: 45
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50344222
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.gamesradar.com/games/valve-played-capitalism-so-well-they-broke-it-and-now-steam-can-never-be-replaced-former-epic-dev-says-i-dont-think-this-is-fixable/
+    title: Valve "played capitalism so well they broke it" and now Steam can't be
+      replaced
+    score: 41
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=50343418
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
