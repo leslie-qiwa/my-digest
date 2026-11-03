@@ -1,10 +1,30 @@
 date: '2026-11-03'
-generated_at: 2026-11-03 20:04 UTC
+generated_at: 2026-11-03 22:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://neufangled.com/
+    title: Stringman, an $800 open-source room scale gripper robot
+    score: 228
+    comment_cnt: 95
+    comment_url: https://news.ycombinator.com/item?id=50354358
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://helgesver.re/articles/macos-vulgar-word-flags
+    title: I dumped Apple’s word list
+    score: 112
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50357782
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/postmanlabs/postman-app-support/issues/14370
     title: Postman silently auto-installs AI plugins and attempts to share all API
       data
