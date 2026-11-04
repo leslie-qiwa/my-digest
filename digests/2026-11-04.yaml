@@ -1,10 +1,60 @@
 date: '2026-11-04'
-generated_at: 2026-11-04 08:04 UTC
+generated_at: 2026-11-04 12:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://sw.kovidgoyal.net/kitty/changelog/#
+    title: Kitty 0.50
+    score: 179
+    comment_cnt: 98
+    comment_url: https://news.ycombinator.com/item?id=50362980
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397
+    title: Democrats win control of the House of Representatives
+    score: 149
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=50361247
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop
+    title: Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux
+    score: 137
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=50362905
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html
+    title: AI stocks slide as Texas governor result raises data center risks
+    score: 42
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50362274
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb
+    title: RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb
+    score: 28
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50363861
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://arxiv.org/abs/2605.29713
     title: 'The Little Book of Generative AI Foundations: An Intuitive Mathematical
       Primer'
