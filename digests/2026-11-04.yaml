@@ -1,10 +1,73 @@
 date: '2026-11-04'
-generated_at: 2026-11-04 16:04 UTC
+generated_at: 2026-11-04 18:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections
+    title: AMD expects to outsell Intel in Q4 for the first time in history
+    score: 174
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50367125
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/
+    title: 'Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent
+      (2016)'
+    score: 133
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=50366522
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients
+    title: Distinct cellular and genetic differences in colorectal cancer in young
+      patients
+    score: 116
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50361154
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=50366117
+    title: 'Ask HN: What''s your current AI agentic setup?'
+    score: 56
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=50366117
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham
+    title: '''It''s just vape, nail, charity shops'': Can anything save UK high street?'
+    score: 47
+    comment_cnt: 95
+    comment_url: https://news.ycombinator.com/item?id=50367653
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/
+    title: YC's Garry Tan uses AI agents so much, he spends up to $200K a year on
+      tokens
+    score: 45
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=50366971
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398
     title: North Korean fake job interview led to $6.3B Binance heist
     score: 177
