@@ -1,10 +1,60 @@
 date: '2026-11-04'
-generated_at: 2026-11-04 20:02 UTC
+generated_at: 2026-11-04 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://layer3intel.com/blog/residential-proxies-white-house-network
+    title: Residential proxies detected on White House network
+    score: 244
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=50371246
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://go.dev/blog/jsonv2
+    title: A new Go API for JSON
+    score: 156
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=50369106
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.ricursive.com/ripple
+    title: 'Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding'
+    score: 143
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50369925
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.kagi.com/education-should-not-be-held-for-ransom
+    title: Education shouldn't be held for ransom
+    score: 104
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=50369657
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/
+    title: Insects don't swarm at LED lights
+    score: 93
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50370610
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://huggingface.co/moonshotai/Kimi-K3.1-Pro
     title: Kimi K3.1 Pro model weights are out
     score: 225
