@@ -1,10 +1,20 @@
 date: '2026-11-04'
-generated_at: 2026-11-04 04:04 UTC
+generated_at: 2026-11-04 06:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/
+    title: C++26 Disapproved
+    score: 190
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=50360164
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/
     title: Microsoft fixes a Windows 11 annoyance as PC revenue declines
     score: 26
