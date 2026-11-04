@@ -1,10 +1,21 @@
 date: '2026-11-04'
-generated_at: 2026-11-04 06:04 UTC
+generated_at: 2026-11-04 08:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://arxiv.org/abs/2605.29713
+    title: 'The Little Book of Generative AI Foundations: An Intuitive Mathematical
+      Primer'
+    score: 325
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50358582
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/
     title: C++26 Disapproved
     score: 190
