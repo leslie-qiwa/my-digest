@@ -1,10 +1,20 @@
 date: '2026-11-04'
-generated_at: 2026-11-04 00:04 UTC
+generated_at: 2026-11-04 02:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/
+    title: macOS 27 does not support CoreStorage volumes
+    score: 113
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=50356944
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://webkit.org/blog/18541/introducing-adaptive-dark-mode/
     title: Safari introduces Adaptive Dark Mode in 27.3
     score: 209
