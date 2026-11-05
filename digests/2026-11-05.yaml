@@ -1,10 +1,40 @@
 date: '2026-11-05'
-generated_at: 2026-11-05 12:02 UTC
+generated_at: 2026-11-05 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://sshhole.com
+    title: Sshole
+    score: 459
+    comment_cnt: 109
+    comment_url: https://news.ycombinator.com/item?id=50378228
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ernie.baidu.com/release/ernie-5-5-flash-base/
+    title: Baidu released ERNIE 5.5 Flash Base
+    score: 104
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=50377078
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/
+    title: Awesome repositories are no longer awesome
+    score: 102
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50377821
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.karthihegde.dev/posts/dns_tampering
     title: So my ISP was hijacking my DNS
     score: 98
