@@ -1,0 +1,37 @@
+date: '2026-11-05'
+generated_at: 2026-11-05 02:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://longreads.com/2026/11/03/murder-friendship-doubt/
+    title: Have I befriended a murderer?
+    score: 112
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50369754
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump
+    title: Democrats Rout GOP
+    score: 81
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50362418
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.argmin.net/p/less-popular-than-coal
+    title: Less Popular Than Coal
+    score: 40
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=50372360
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
