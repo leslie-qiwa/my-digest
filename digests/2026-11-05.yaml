@@ -1,10 +1,20 @@
 date: '2026-11-05'
-generated_at: 2026-11-05 02:02 UTC
+generated_at: 2026-11-05 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/
+    title: You'll need nerves of steel to work with AI agents
+    score: 41
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50373149
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://longreads.com/2026/11/03/murder-friendship-doubt/
     title: Have I befriended a murderer?
     score: 112
