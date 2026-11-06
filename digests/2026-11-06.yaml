@@ -1,10 +1,40 @@
 date: '2026-11-06'
-generated_at: 2026-11-06 16:03 UTC
+generated_at: 2026-11-06 18:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817
+    title: Tesla to wind down Cybertruck production
+    score: 311
+    comment_cnt: 915
+    comment_url: https://news.ycombinator.com/item?id=50391456
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.filfre.net/2026/11/deus-ex/
+    title: Deus Ex
+    score: 208
+    comment_cnt: 95
+    comment_url: https://news.ycombinator.com/item?id=50393758
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=50389501
+    title: 'Ask HN: What are you working on? (November 2026)'
+    score: 23
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50389501
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://apps.metaebene.me/en/kugelblitz
     title: Kugelblitz – Mac-Native Google Earth Alternative
     score: 177
@@ -217,3 +247,87 @@ feeds:
     summary_zh: ''
     content_file: ''
     summary: ''
+- id: golang-weekly
+  label: Golang Weekly
+  provider: rss_newsletter
+  items:
+  - url: https://golangweekly.com/link/192602/rss
+    title: The Official Guide to encoding/json/v2 (and Migrating to It)
+    summary: Now that encoding/json/v2 and jsontext are stable, the Go team has a
+      refreshed introduction to how they work, including how v1 and v2 interoperate.
+      There's also a new migration guide which shows off jsonsplit for running v1
+      and v2 side by side in production and logging any differences.
+    score: 0
+    tags: []
+    source: go.dev
+    domain: go.dev
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/192605/rss
+    title: 'How //go:embed Works: From Source Files to Binary'
+    summary: A guided tour of how an embedded file travels through the toolchain,
+      with links to the Go source for each step. Along the way, we learn why import
+      _ "embed" is needed, even when you never reference the package.
+    score: 0
+    tags: []
+    source: internals-for-interns.com
+    domain: internals-for-interns.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/192640/rss
+    title: Go's Generic Collections Proposal Has Been Accepted
+    summary: We covered the initial plan in July but now the umbrella proposal is
+      accepted, along with set.Set and hash-based Map and Set types. They'll land
+      in golang.org/x/exp/collection first.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/192619/rss
+    title: Go's GC Can Hit a Wall on 192 Cores
+    summary: I doubt many of us work with such mammoth systems, but on 192-core amd64
+      hosts, heap-triggered GC cycles can take 3-4x longer as idle cores pile onto
+      a shared lock-free stack. arm64 already has mitigations for this, and fixes
+      are in review.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/192625/rss
+    title: 'GoLand 2026.3: Coding Agents Move Into the Go IDE'
+    summary: JetBrains Air is a system for running existing terminal coding agents
+      (like Claude or Codex) within IDEs, and it's now included in JetBrains' Go IDE.
+      A redesigned Home window and Git worktree improvements round out the release.
+    score: 0
+    tags: []
+    source: blog.jetbrains.com
+    domain: blog.jetbrains.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/192626/rss
+    title: 'go-yaml v4: The First Stable Release Under the YAML Org'
+    summary: The archived gopkg.in/yaml.v3 now has a stable successor, adding Load
+      and Dump functions that take options, a plugin system, and a debugging CLI.
+      Dump's formatting defaults differ from Marshal's, and v2 and v3 now get security
+      fixes only.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/192643/rss
+    title: 'Betterleaks: A Secrets Scanner from the Creator of Gitleaks'
+    summary: 🔎 — The creator of Gitleaks no longer controls that project, so this
+      is its successor, written in Go. It scans Git history, GitHub/GitLab orgs, S3
+      and container images, and can check whether found keys are still active.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
