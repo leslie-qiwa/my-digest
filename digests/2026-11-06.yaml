@@ -1,0 +1,58 @@
+date: '2026-11-06'
+generated_at: 2026-11-06 02:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://kagi.com/changelog#11820
+    title: Search for everyone
+    score: 521
+    comment_cnt: 259
+    comment_url: https://news.ycombinator.com/item?id=50383740
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/anthropics/claude-code/issues/107757
+    title: Claude Code sends your email address to websites
+    score: 518
+    comment_cnt: 177
+    comment_url: https://news.ycombinator.com/item?id=50385272
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/
+    title: The Hackintosh Reborn
+    score: 204
+    comment_cnt: 95
+    comment_url: https://news.ycombinator.com/item?id=50383057
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks
+    title: $2.5T has been wiped from US stocks
+    score: 125
+    comment_cnt: 116
+    comment_url: https://news.ycombinator.com/item?id=50384822
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/cqrkyyd2j8mvo
+    title: California Gov Newsom commutes death sentences for all 548 people on death
+      row
+    score: 82
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=50384133
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
