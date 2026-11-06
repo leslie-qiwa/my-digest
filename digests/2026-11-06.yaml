@@ -1,10 +1,40 @@
 date: '2026-11-06'
-generated_at: 2026-11-06 18:04 UTC
+generated_at: 2026-11-06 22:06 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/
+    title: We know 15k websites are infected. how do we tell them?
+    score: 120
+    comment_cnt: 96
+    comment_url: https://news.ycombinator.com/item?id=50396064
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://pwn.ai/blog/firecracker-escape
+    title: 'Firecracker VM Escape: PwnEscape Part 2'
+    score: 101
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50397219
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.norvig.com/chomsky.html
+    title: Chomsky and the two cultures of statistical learning (2011)
+    score: 79
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=50389570
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817
     title: Tesla to wind down Cybertruck production
     score: 311
