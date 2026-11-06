@@ -1,10 +1,30 @@
 date: '2026-11-06'
-generated_at: 2026-11-06 08:02 UTC
+generated_at: 2026-11-06 10:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/ppmpreetham/BUI
+    title: 'Blender''s UI and Runtime: Much Faster Than GPUI'
+    score: 144
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50389333
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://techlaws.pages.dev/tesla-and-spacex-lose-over-420b-in-combined-market-cap-in-the-two-days/
+    title: Tesla and SpaceX lose over $420B in combined market cap in the two days
+    score: 76
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50387406
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed
     title: 'Hungary: Communist-era files released, up to 60k former agents revealed'
     score: 202
