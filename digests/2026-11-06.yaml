@@ -1,10 +1,21 @@
 date: '2026-11-06'
-generated_at: 2026-11-06 02:02 UTC
+generated_at: 2026-11-06 04:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html
+    title: 'Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud
+      revenue'
+    score: 170
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=50385870
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://kagi.com/changelog#11820
     title: Search for everyone
     score: 521
