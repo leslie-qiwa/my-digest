@@ -1,0 +1,47 @@
+date: '2026-11-07'
+generated_at: 2026-11-07 00:07 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://pwn.college/
+    title: Pwn.college
+    score: 300
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50387796
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://hightouch.com/blog/llm-judges-identity-resolution
+    title: A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost
+    score: 281
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=50397429
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai
+    title: AI is dramatically accelerating AI research
+    score: 162
+    comment_cnt: 119
+    comment_url: https://news.ycombinator.com/item?id=50397994
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://quirksmode.org/quirksblog/2026/1106-valley-bubble.html
+    title: The Valley Bubble Breaks
+    score: 57
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=50398212
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
