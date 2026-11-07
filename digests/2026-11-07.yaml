@@ -1,10 +1,40 @@
 date: '2026-11-07'
-generated_at: 2026-11-07 00:07 UTC
+generated_at: 2026-11-07 02:06 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/
+    title: Sodium-ion batteries approach cost parity with LFP
+    score: 122
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50399657
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://devvm.dev/
+    title: 'Devvm.dev: One VM for every project'
+    score: 117
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50395450
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work
+    title: Perplexity launches AI agents for work
+    score: 59
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50395866
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://pwn.college/
     title: Pwn.college
     score: 300
