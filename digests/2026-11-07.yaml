@@ -1,10 +1,30 @@
 date: '2026-11-07'
-generated_at: 2026-11-07 04:06 UTC
+generated_at: 2026-11-07 06:06 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://josef.cn/blog/unitree
+    title: I toured Unitree's factory. I'm more bullish on the West
+    score: 87
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50400597
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://developers.openai.com/api/docs/guides/voice-sip
+    title: Outbound SIP calling is now available to all organizations
+    score: 62
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50399695
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://mitchellh.com/writing/libghostty-1-0
     title: Libghostty 1.0
     score: 340
