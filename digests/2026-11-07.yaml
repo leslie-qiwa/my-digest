@@ -1,10 +1,40 @@
 date: '2026-11-07'
-generated_at: 2026-11-07 14:06 UTC
+generated_at: 2026-11-07 16:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/
+    title: GitHub's new Git storage architecture
+    score: 184
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50397099
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update
+    title: Google has acquired Crusoe's data center site in southeast Wyoming
+    score: 99
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=50397711
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.anthropic.com/research/components-of-agent-memory
+    title: The Components of Agent Memory
+    score: 97
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50402212
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph
     title: Every Mac comes with an (undocumented) family member classifier
     score: 237
