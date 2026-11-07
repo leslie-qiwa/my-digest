@@ -1,10 +1,40 @@
 date: '2026-11-07'
-generated_at: 2026-11-07 16:04 UTC
+generated_at: 2026-11-07 18:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/
+    title: Running a law firm on Free software
+    score: 145
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=50403066
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html
+    title: The $8 Linux Computer (2022)
+    score: 121
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50404599
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://kevinboone.me/tpwin.html
+    title: 'They don''t make ''em like that any more: Borland Turbo Pascal 7'
+    score: 84
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50405678
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/
     title: GitHub's new Git storage architecture
     score: 184
