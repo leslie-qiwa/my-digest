@@ -1,10 +1,51 @@
 date: '2026-11-07'
-generated_at: 2026-11-07 08:06 UTC
+generated_at: 2026-11-07 14:06 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph
+    title: Every Mac comes with an (undocumented) family member classifier
+    score: 237
+    comment_cnt: 118
+    comment_url: https://news.ycombinator.com/item?id=50403097
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://nfsu2.xyz/
+    title: Need for Speed Underground 2 online in the browser
+    score: 196
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50403052
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://maccus.fr/en/ozempic-drugs-trials-beyond-diabetes/
+    title: Ozempic-style drugs now in trials for heart failure, addiction and even
+      aging
+    score: 84
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=50393458
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/
+    title: Every Windows 11 app should kill Electron, and Discord just showed why
+    score: 59
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50403507
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/
     title: RealPage rent-pricing case wraps with nearly $360M to renters
     score: 109
