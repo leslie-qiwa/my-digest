@@ -1,10 +1,41 @@
 date: '2026-11-07'
-generated_at: 2026-11-07 18:04 UTC
+generated_at: 2026-11-07 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://hunch.net/?p=13764006
+    title: The end of Microsoft Research's AI Frontiers group
+    score: 149
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=50406563
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you
+    title: 'Apple’s grey list: Words and phrases your iPhone won’t help you spell'
+    score: 119
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=50406111
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=50405250
+    title: 'Ask HN: How did you convince family and friends to join your XMPP/Matrix
+      server?'
+    score: 61
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50405250
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/
     title: Running a law firm on Free software
     score: 145
