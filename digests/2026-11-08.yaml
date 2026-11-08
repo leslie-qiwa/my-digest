@@ -1,10 +1,40 @@
 date: '2026-11-08'
-generated_at: 2026-11-08 08:01 UTC
+generated_at: 2026-11-08 12:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/torvalds/linux
+    title: GitHub Down Again?
+    score: 93
+    comment_cnt: 86
+    comment_url: https://news.ycombinator.com/item?id=50411818
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/crmne/zapfast
+    title: 'ZapFast: A fast, native WhatsApp client in Rust and egui'
+    score: 86
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50409855
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.lorekit.io/blog/open-agent-memory-format
+    title: Agent memory needs its OpenTelemetry moment
+    score: 59
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50411467
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/hedgerow-dev/coldframe
     title: 'Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller'
     score: 223
