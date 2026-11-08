@@ -1,10 +1,41 @@
 date: '2026-11-08'
-generated_at: 2026-11-08 16:01 UTC
+generated_at: 2026-11-08 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/synchopate/llama-modchip
+    title: 'Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU'
+    score: 222
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=50411961
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/
+    title: Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped
+      Down
+    score: 172
+    comment_cnt: 175
+    comment_url: https://news.ycombinator.com/item?id=50414427
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/
+    title: OpenAI raises $11B at a $1.25T valuation
+    score: 144
+    comment_cnt: 150
+    comment_url: https://news.ycombinator.com/item?id=50413822
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://aworkinglibrary.com/writing/petered
     title: Petered
     score: 99
