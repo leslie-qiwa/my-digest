@@ -1,10 +1,20 @@
 date: '2026-11-08'
-generated_at: 2026-11-08 00:02 UTC
+generated_at: 2026-11-08 02:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://prog21.dadgum.com/19.html
+    title: Five memorable books about programming (2008)
+    score: 83
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50406319
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.bosscher.ch/posts/openstick/
     title: What I run on my $10 USD OpenStick homelab
     score: 281
