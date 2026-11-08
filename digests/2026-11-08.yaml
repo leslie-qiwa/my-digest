@@ -1,10 +1,30 @@
 date: '2026-11-08'
-generated_at: 2026-11-08 04:01 UTC
+generated_at: 2026-11-08 08:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/hedgerow-dev/coldframe
+    title: 'Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller'
+    score: 223
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50406292
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://caleb.software/posts/claude-to-pi.html
+    title: Goodbye Claude, Hello Pi
+    score: 199
+    comment_cnt: 115
+    comment_url: https://news.ycombinator.com/item?id=50410107
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/
     title: GitHub New pull request overview page in public preview
     score: 87
