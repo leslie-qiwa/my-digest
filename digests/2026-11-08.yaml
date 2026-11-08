@@ -1,10 +1,51 @@
 date: '2026-11-08'
-generated_at: 2026-11-08 20:01 UTC
+generated_at: 2026-11-08 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/
+    title: 'RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in
+      Your PC'
+    score: 191
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=50415172
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc
+    title: Outlook.com Is Quietly Rejecting Email from Domains Without DMARC
+    score: 125
+    comment_cnt: 102
+    comment_url: https://news.ycombinator.com/item?id=50416158
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/dmunozv04/isponsorblocktv
+    title: 'ISponsorBlockTV: SponsorBlock client for all YouTube TV clients'
+    score: 116
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50410249
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://sergeykuhne.com/blog/fighting-ai-brain-fry
+    title: How I Fight AI Brain Fry
+    score: 92
+    comment_cnt: 80
+    comment_url: https://news.ycombinator.com/item?id=50416363
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers
     title: Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders
     score: 220
