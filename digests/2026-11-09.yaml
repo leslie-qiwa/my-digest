@@ -1,10 +1,40 @@
 date: '2026-11-09'
-generated_at: 2026-11-09 00:02 UTC
+generated_at: 2026-11-09 04:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://ketchup3d.github.io/app/
+    title: KetchUp – Open-source SketchUp alternative built with Rust and WebGPU
+    score: 292
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=50418176
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ftrain.com/aboard-the-web-is-more-than-enough
+    title: The Web Is More Than Enough, by Paul Ford
+    score: 98
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50416456
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists
+    title: I'm Not Convinced the AI Bubble Exists
+    score: 73
+    comment_cnt: 109
+    comment_url: https://news.ycombinator.com/item?id=50418975
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://news.ycombinator.com/item?id=50417407
     title: 'Ask HN: What are you working on? (November 2026)'
     score: 85
