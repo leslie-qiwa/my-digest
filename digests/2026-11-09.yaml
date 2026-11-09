@@ -1,10 +1,20 @@
 date: '2026-11-09'
-generated_at: 2026-11-09 08:02 UTC
+generated_at: 2026-11-09 10:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.zortax.de/posts/a-critique-of-gpui
+    title: A Critique of GPUI
+    score: 100
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50420857
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://goldstein.lol/posts/deno-security/
     title: I'm not a fan of Deno's security model (2024)
     score: 97
