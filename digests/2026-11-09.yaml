@@ -1,10 +1,61 @@
 date: '2026-11-09'
-generated_at: 2026-11-09 16:02 UTC
+generated_at: 2026-11-09 18:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/
+    title: I saw your HN comment
+    score: 313
+    comment_cnt: 231
+    comment_url: https://news.ycombinator.com/item?id=50426582
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=50422628
+    title: ChatGPT Desktop forwards your SSH agent to remote machines
+    score: 180
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=50422628
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy
+    title: Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment
+      system
+    score: 171
+    comment_cnt: 101
+    comment_url: https://news.ycombinator.com/item?id=50427362
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing
+    title: The same H100 costs $2.69 or $12.29 an hour depending where you rent it
+    score: 104
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=50427085
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/
+    title: 'Cryptocurrency lawsuit: Ethereum Foundation required "suicide pledge"'
+    score: 77
+    comment_cnt: 78
+    comment_url: https://news.ycombinator.com/item?id=50426899
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.foldableflight.com
     title: Fold Epic Paper Airplanes
     score: 369
