@@ -1,10 +1,60 @@
 date: '2026-11-09'
-generated_at: 2026-11-09 20:03 UTC
+generated_at: 2026-11-09 22:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://benmandrew.com/articles/what-is-malloc-doing-anyway
+    title: What is malloc doing, anyway?
+    score: 193
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50424157
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://research.meta.ai/blog/muse-ember
+    title: 'Our Smallest, Most Efficient Model: Muse Ember'
+    score: 185
+    comment_cnt: 76
+    comment_url: https://news.ycombinator.com/item?id=50429024
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://artificialanalysis.ai/models/claude-fable-5-2
+    title: Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far
+    score: 115
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=50431144
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges
+    title: Iran was behind cyber-attack on French supermarket freezers, Paris says
+    score: 49
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=50430585
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://twitter.com/shaharglazner/status/2119796029256032278
+    title: On Being an Engineer in 2026
+    score: 41
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50426681
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.anthropic.com/claude-fable-and-mythos-5-2
     title: Claude Fable 5.2 and Mythos 5.2
     score: 419
