@@ -1,10 +1,70 @@
 date: '2026-11-09'
-generated_at: 2026-11-09 18:01 UTC
+generated_at: 2026-11-09 20:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.anthropic.com/claude-fable-and-mythos-5-2
+    title: Claude Fable 5.2 and Mythos 5.2
+    score: 419
+    comment_cnt: 172
+    comment_url: https://news.ycombinator.com/item?id=50429906
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds
+    title: Too many men suffering in silence, national health report finds (Canada)
+    score: 240
+    comment_cnt: 215
+    comment_url: https://news.ycombinator.com/item?id=50429475
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/front?day=2024-11-08
+    title: Going back two years on Hacker News is like entering another, better universe
+    score: 187
+    comment_cnt: 100
+    comment_url: https://news.ycombinator.com/item?id=50428724
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/
+    title: Magenta solar panels may be agrivoltaics' cleverest trick yet
+    score: 171
+    comment_cnt: 87
+    comment_url: https://news.ycombinator.com/item?id=50426175
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/
+    title: When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385
+    score: 167
+    comment_cnt: 139
+    comment_url: https://news.ycombinator.com/item?id=50428801
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget
+    title: Apple capped engineers at a $200 daily AI budget
+    score: 109
+    comment_cnt: 114
+    comment_url: https://news.ycombinator.com/item?id=50421426
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/
     title: I saw your HN comment
     score: 313
