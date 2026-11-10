@@ -1,0 +1,37 @@
+date: '2026-11-10'
+generated_at: 2026-11-10 02:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://github.com/thisisme6598/gemini_files/
+    title: Google Gemini routes personal Drive files and emails to human annotators
+    score: 417
+    comment_cnt: 103
+    comment_url: https://news.ycombinator.com/item?id=50429426
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game
+    title: Fable 5.2 one-shotted my nephew's dream game
+    score: 134
+    comment_cnt: 104
+    comment_url: https://news.ycombinator.com/item?id=50433659
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.infineon.com/press-release/2026/infpr202611-028
+    title: Infineon marks innovation milestone with 300mm power silicon carbide wafer
+    score: 102
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=50429430
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
