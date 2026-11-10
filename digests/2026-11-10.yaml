@@ -1,10 +1,71 @@
 date: '2026-11-10'
-generated_at: 2026-11-10 16:02 UTC
+generated_at: 2026-11-10 18:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/
+    title: Gemini 4 Carbon is now available
+    score: 210
+    comment_cnt: 107
+    comment_url: https://news.ycombinator.com/item?id=50442303
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor
+    title: Fireworks AI security breach impacts Notion and their customers
+    score: 145
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50437106
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime
+    title: What's new in the .NET 11 runtime
+    score: 128
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=50439284
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://docodethatmatters.com/home-automation-overnight-success/
+    title: Smart home devices should work without the internet
+    score: 128
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50441707
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://text.npr.org/nx-s1-6029641
+    title: Palantir hires a former Democratic senator as it faces scrutiny in new
+      Congress
+    score: 125
+    comment_cnt: 106
+    comment_url: https://news.ycombinator.com/item?id=50442202
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://broyojo.com/python-formalization/
+    title: Formalizing CPython
+    score: 118
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50435105
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/HolyArrs/HolyArrs
     title: 'Show HN: A 15 MB self-hosted Netflix and Spotify for your media server'
     score: 135
