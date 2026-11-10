@@ -1,10 +1,30 @@
 date: '2026-11-10'
-generated_at: 2026-11-10 10:01 UTC
+generated_at: 2026-11-10 12:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://e-means.github.io/
+    title: 'E-means: Outperforming k-means in one-tenth the epochs'
+    score: 418
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50429734
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://maurycyz.com/projects/badcert/
+    title: Horible public key tricks
+    score: 180
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=50434264
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/
     title: Amazon saves millions by replacing Sonnet 4.6 with Strands Decider
     score: 275
