@@ -1,10 +1,31 @@
 date: '2026-11-10'
-generated_at: 2026-11-10 14:02 UTC
+generated_at: 2026-11-10 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/HolyArrs/HolyArrs
+    title: 'Show HN: A 15 MB self-hosted Netflix and Spotify for your media server'
+    score: 135
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=50439000
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize
+    title: M John Harrison becomes first science fiction author to win the Booker
+      prize
+    score: 60
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50437242
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://deepmind.google/blog/introducing-alphaproof-code/
     title: AlphaProof Code
     score: 184
