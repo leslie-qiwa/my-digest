@@ -1,10 +1,20 @@
 date: '2026-11-10'
-generated_at: 2026-11-10 08:02 UTC
+generated_at: 2026-11-10 10:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/
+    title: Amazon saves millions by replacing Sonnet 4.6 with Strands Decider
+    score: 275
+    comment_cnt: 87
+    comment_url: https://news.ycombinator.com/item?id=50436640
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://simonwillison.net/2026/Nov/9/mysterious-beeps/
     title: Locating the source of a mysterious beep
     score: 137
