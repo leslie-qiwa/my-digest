@@ -1,10 +1,50 @@
 date: '2026-11-10'
-generated_at: 2026-11-10 12:01 UTC
+generated_at: 2026-11-10 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://deepmind.google/blog/introducing-alphaproof-code/
+    title: AlphaProof Code
+    score: 184
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=50439193
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/
+    title: AI usage generates a fragile codebase
+    score: 116
+    comment_cnt: 149
+    comment_url: https://news.ycombinator.com/item?id=50438318
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/
+    title: Fossil CO2 emissions decrease by 0.4% in 2026
+    score: 89
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=50437752
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.wired.com/story/meet-the-sad-wives-of-ai/
+    title: Meet the Sad Wives of AI
+    score: 63
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50438429
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://e-means.github.io/
     title: 'E-means: Outperforming k-means in one-tenth the epochs'
     score: 418
