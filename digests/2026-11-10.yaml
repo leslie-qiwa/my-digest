@@ -1,10 +1,40 @@
 date: '2026-11-10'
-generated_at: 2026-11-10 06:02 UTC
+generated_at: 2026-11-10 08:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://simonwillison.net/2026/Nov/9/mysterious-beeps/
+    title: Locating the source of a mysterious beep
+    score: 137
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=50434310
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html
+    title: CoreWeave bond yield tops 16% as AI credit stress rises
+    score: 121
+    comment_cnt: 76
+    comment_url: https://news.ycombinator.com/item?id=50435660
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/expo/exact
+    title: Exact – a new cross platform UI framework
+    score: 114
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=50433541
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://parkgraph.com/parking-app-fees
     title: Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)
     score: 69
