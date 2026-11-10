@@ -1,10 +1,60 @@
 date: '2026-11-10'
-generated_at: 2026-11-10 20:02 UTC
+generated_at: 2026-11-10 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.blender.org/download/releases/5-3/
+    title: Blender 5.3 released with Gaussian Splat support
+    score: 367
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50442426
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/
+    title: Synaptics patent claims stop work on DisplayLink drivers
+    score: 208
+    comment_cnt: 90
+    comment_url: https://news.ycombinator.com/item?id=50443824
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/GoogleChrome/modern-web-guidance
+    title: 'Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives'
+    score: 185
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50443812
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://claude.com/resources/articles/sheets-whiteboards-data
+    title: Claude Whiteboards, Claude Sheets, and Claude Data
+    score: 116
+    comment_cnt: 88
+    comment_url: https://news.ycombinator.com/item?id=50443716
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/
+    title: Toyota brand Scion is back and it's going to sell a kei truck in America
+    score: 70
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50445401
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://fakedos.com/
     title: '''C:\> FORMAT C:'' – relax, it''s just a screen saver'
     score: 60
