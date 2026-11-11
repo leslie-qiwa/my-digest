@@ -1,10 +1,50 @@
 date: '2026-11-11'
-generated_at: 2026-11-11 00:03 UTC
+generated_at: 2026-11-11 02:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.vulncheck.com/blog/anthropic-glasswing-november-update
+    title: After 7 months, Glasswing overwelms maintainers with underwhelming findings
+    score: 231
+    comment_cnt: 87
+    comment_url: https://news.ycombinator.com/item?id=50447074
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.ultorg.com/
+    title: 'Ultorg: The User Interface for Relational Databases'
+    score: 142
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50435898
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/
+    title: Apple has new Mac app coming to make running local AI models easy
+    score: 107
+    comment_cnt: 90
+    comment_url: https://news.ycombinator.com/item?id=50446520
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://rvpn.org/
+    title: rVPN – stealth VPN with end-to-end encryption
+    score: 64
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50446714
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast
     title: 'AMD''s Zen 6 Family: Feeding the Beast'
     score: 173
