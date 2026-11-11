@@ -1,10 +1,20 @@
 date: '2026-11-11'
-generated_at: 2026-11-11 10:02 UTC
+generated_at: 2026-11-11 12:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.archives.gov/milestone-documents/sherman-anti-trust-act
+    title: Sherman Anti-Trust Act (1890)
+    score: 84
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50446219
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://gatezh.com/posts/macos-secure-enclave-ssh-keys/
     title: Protecting SSH Keys with macOS Secure Enclave
     score: 193
