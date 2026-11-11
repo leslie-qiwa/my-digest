@@ -1,10 +1,20 @@
 date: '2026-11-11'
-generated_at: 2026-11-11 02:02 UTC
+generated_at: 2026-11-11 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://alexwang.ai/posts/reasoning-as-pathfinding/
+    title: What objective is reasoning solving?
+    score: 120
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50445013
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.vulncheck.com/blog/anthropic-glasswing-november-update
     title: After 7 months, Glasswing overwelms maintainers with underwhelming findings
     score: 231
