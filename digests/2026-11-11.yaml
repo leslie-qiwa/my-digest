@@ -1,10 +1,60 @@
 date: '2026-11-11'
-generated_at: 2026-11-11 20:02 UTC
+generated_at: 2026-11-11 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://pietromiotti.com/latest/maya-site
+    title: My AI agents found an unmapped Maya site
+    score: 883
+    comment_cnt: 318
+    comment_url: https://news.ycombinator.com/item?id=50452455
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028
+    title: Tim Peters has died
+    score: 657
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=50450488
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://wilsoniumite.com/2026/11/11/why-are-we-still-working-this-hard/
+    title: Why are we still working this hard?
+    score: 188
+    comment_cnt: 204
+    comment_url: https://news.ycombinator.com/item?id=50457939
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/
+    title: 'Open research, stronger privacy: Making Firefox users harder to fingerprint'
+    score: 159
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50452742
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/
+    title: Retirement Savings Are Fueling the AI Bubble
+    score: 116
+    comment_cnt: 119
+    comment_url: https://news.ycombinator.com/item?id=50457164
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/aws/aws-emulator
     title: AWS Finally Built Its Own AWS Emulator
     score: 291
