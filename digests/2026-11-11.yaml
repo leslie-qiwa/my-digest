@@ -1,10 +1,40 @@
 date: '2026-11-11'
-generated_at: 2026-11-11 14:02 UTC
+generated_at: 2026-11-11 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/
+    title: Using voltage glitching to unleash the A100 in my mining card
+    score: 134
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50451903
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theverge.com/tech/1012372/tv-privacy-acr-questions
+    title: I asked every TV manufacturer 17 questions about how they spy on you
+    score: 129
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=50453474
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://nuts.logical.li/
+    title: The Housing Market Is Nuts
+    score: 48
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=50451985
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://pietromiotti.com/latest/maya-site/?maya
     title: Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid
       in 72h
