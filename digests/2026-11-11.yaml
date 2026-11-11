@@ -1,10 +1,41 @@
 date: '2026-11-11'
-generated_at: 2026-11-11 12:02 UTC
+generated_at: 2026-11-11 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://pietromiotti.com/latest/maya-site/?maya
+    title: Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid
+      in 72h
+    score: 238
+    comment_cnt: 102
+    comment_url: https://news.ycombinator.com/item?id=50452455
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/gmkurtzer/ginux
+    title: Greg Kurtzer's Ginux is now a userspace kernel
+    score: 96
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50450007
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://bytecode.news/posts/2026/10/the-zig-project-is-going-nowhere
+    title: The Zig project is going nowhere
+    score: 50
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=50452074
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.archives.gov/milestone-documents/sherman-anti-trust-act
     title: Sherman Anti-Trust Act (1890)
     score: 84
