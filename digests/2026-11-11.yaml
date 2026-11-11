@@ -1,10 +1,60 @@
 date: '2026-11-11'
-generated_at: 2026-11-11 16:02 UTC
+generated_at: 2026-11-11 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html
+    title: A great old-timey game-programming hack (2013)
+    score: 240
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50448921
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/
+    title: A false smoke alarm almost drowned Jane Street's only NYC datacenter
+    score: 124
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=50455394
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/adrbn/bo2-mac
+    title: 'Show HN: Black Ops II statically recompiled to native ARM64 macOS'
+    score: 120
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50449891
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.experimental-history.com/p/we-need-more-goat-sacrifices
+    title: We need more goat sacrifices
+    score: 111
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=50452652
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.possibilityspace.org/blog/posts/in-defence-of-giving-a-shit/
+    title: In Defense of Giving a Shit
+    score: 90
+    comment_cnt: 92
+    comment_url: https://news.ycombinator.com/item?id=50452407
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/
     title: Using voltage glitching to unleash the A100 in my mining card
     score: 134
