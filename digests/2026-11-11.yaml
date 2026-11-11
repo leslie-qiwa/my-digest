@@ -1,10 +1,40 @@
 date: '2026-11-11'
-generated_at: 2026-11-11 18:02 UTC
+generated_at: 2026-11-11 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/aws/aws-emulator
+    title: AWS Finally Built Its Own AWS Emulator
+    score: 291
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=50456631
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.atuin.sh/threads-agent-sessions/
+    title: 'Atuin Threads: All your agent sessions on every machine'
+    score: 140
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50453637
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://jcarreras.es/posts/100x-developers/
+    title: 100x Developers
+    score: 46
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=50454395
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html
     title: A great old-timey game-programming hack (2013)
     score: 240
