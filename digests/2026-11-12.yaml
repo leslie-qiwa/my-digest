@@ -1,10 +1,30 @@
 date: '2026-11-12'
-generated_at: 2026-11-12 12:02 UTC
+generated_at: 2026-11-12 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://ipo.anthropic.com/us/
+    title: Anthropic IPO
+    score: 212
+    comment_cnt: 249
+    comment_url: https://news.ycombinator.com/item?id=50465829
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://pron.github.io/posts/correctness-and-complexity
+    title: Why Writing Correct Software Is Hard
+    score: 151
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=50465352
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://devonestes.com/bad-ideas-that-arent-bad-anymore
     title: Bad ideas that aren't bad anymore
     score: 72
