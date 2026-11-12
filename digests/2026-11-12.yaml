@@ -1,10 +1,20 @@
 date: '2026-11-12'
-generated_at: 2026-11-12 16:02 UTC
+generated_at: 2026-11-12 18:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/
+    title: Our software engineering interviews are changing (a little)
+    score: 88
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=50467297
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition
     title: NVIDIA Announces CEO Transition
     score: 1053
