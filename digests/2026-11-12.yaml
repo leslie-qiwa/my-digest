@@ -1,10 +1,30 @@
 date: '2026-11-12'
-generated_at: 2026-11-12 14:02 UTC
+generated_at: 2026-11-12 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition
+    title: NVIDIA Announces CEO Transition
+    score: 1053
+    comment_cnt: 895
+    comment_url: https://news.ycombinator.com/item?id=50467087
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/tylertms/Stela
+    title: A general purpose Apple Silicon layer for x86-64 PCs
+    score: 128
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50460154
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://ipo.anthropic.com/us/
     title: Anthropic IPO
     score: 212
