@@ -1,10 +1,20 @@
 date: '2026-11-12'
-generated_at: 2026-11-12 00:02 UTC
+generated_at: 2026-11-12 06:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/FrigadeHQ/yogurt
+    title: 'Show HN: Yogurt – Free, private, open-source alternative to Granola'
+    score: 213
+    comment_cnt: 91
+    comment_url: https://news.ycombinator.com/item?id=50454625
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/
     title: United Airlines bans AI agents from booking flights on behalf of travelers
     score: 278
