@@ -1,10 +1,102 @@
 date: '2026-11-12'
-generated_at: 2026-11-12 18:03 UTC
+generated_at: 2026-11-12 22:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/
+    title: Gemini 4 Hydrogen
+    score: 385
+    comment_cnt: 253
+    comment_url: https://news.ycombinator.com/item?id=50471431
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/hyperionaidev/smolmaxxing/
+    title: I'm making LLMs work on small and old devices
+    score: 230
+    comment_cnt: 80
+    comment_url: https://news.ycombinator.com/item?id=50468888
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep
+    title: Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep
+    score: 227
+    comment_cnt: 151
+    comment_url: https://news.ycombinator.com/item?id=50469994
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/simpsoka/zigzag
+    title: 'Show HN: My $300 embroidery machine needed a subscription, so I built
+      my own app'
+    score: 200
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=50470488
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/
+    title: Rust 1.100
+    score: 174
+    comment_cnt: 99
+    comment_url: https://news.ycombinator.com/item?id=50472038
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price
+    title: Data centers need power – lower income, rural residents pay the price
+    score: 117
+    comment_cnt: 107
+    comment_url: https://news.ycombinator.com/item?id=50473231
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/
+    title: Researchers discover rare star system that emits radio signals every 8
+      minutes
+    score: 111
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50465453
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://fable52.games
+    title: 'Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games'
+    score: 60
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50469007
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://spectrum.ieee.org/electric-ship-batteries
+    title: Electric ship batteries promise compact, cooler power
+    score: 56
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=50467305
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/
     title: Our software engineering interviews are changing (a little)
     score: 88
