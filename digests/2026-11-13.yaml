@@ -1,10 +1,41 @@
 date: '2026-11-13'
-generated_at: 2026-11-13 08:02 UTC
+generated_at: 2026-11-13 10:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://rightsforum.org/en/diplomatic-sources-the-netherlands-is-negotiating-the-dismantling-of-the-international-criminal-court/
+    title: The Netherlands Is Dismantling the International Criminal Court
+    score: 120
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50479876
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://brave.com/blog/search-api-agentic-payments/
+    title: Brave Search API now accepts agentic payments via the x402 protocol
+    score: 100
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=50477649
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high
+    title: 'The average cost for a new vehicle in the U.S. hits a record high: over
+      $51,000'
+    score: 46
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=50478622
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer
     title: 'Edge0-145B: Frontier AI Capabilities on Your Own Computer'
     score: 218
