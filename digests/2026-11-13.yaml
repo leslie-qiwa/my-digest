@@ -1,10 +1,40 @@
 date: '2026-11-13'
-generated_at: 2026-11-13 04:02 UTC
+generated_at: 2026-11-13 08:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer
+    title: 'Edge0-145B: Frontier AI Capabilities on Your Own Computer'
+    score: 218
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50475713
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ice-wm.org/
+    title: IceWM
+    score: 111
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50478515
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/
+    title: Scientists claim the universe is twice as old as believed
+    score: 57
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50478635
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://unemploymentlabs.com/checkpoint-forensics
     title: Chinese frontier AI models carry the fingerprint of export-controlled GPUs
     score: 208
