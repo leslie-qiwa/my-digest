@@ -1,10 +1,70 @@
 date: '2026-11-13'
-generated_at: 2026-11-13 16:03 UTC
+generated_at: 2026-11-13 18:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/
+    title: Reverse engineering my Coway air purifier to ditch the cloud
+    score: 420
+    comment_cnt: 121
+    comment_url: https://news.ycombinator.com/item?id=50474959
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/
+    title: Why Zig over C for Systems Programming
+    score: 166
+    comment_cnt: 119
+    comment_url: https://news.ycombinator.com/item?id=50483611
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=50484421
+    title: U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years
+    score: 151
+    comment_cnt: 146
+    comment_url: https://news.ycombinator.com/item?id=50484421
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts
+    title: US university students tell surveillance cameras to Flock off
+    score: 97
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50483759
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://text.npr.org/nx-s1-6029408
+    title: Why is Google cutting off Search from AI-free schools? Here are some theories
+    score: 85
+    comment_cnt: 78
+    comment_url: https://news.ycombinator.com/item?id=50484960
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/
+    title: The 42-Year Journey to Bring 'Neuromancer' to the Screen
+    score: 84
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=50484006
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest
     title: Eli Lilly CEO pushes back on Dario Amodei's medical claims
     score: 231
