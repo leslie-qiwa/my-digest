@@ -1,0 +1,37 @@
+date: '2026-11-13'
+generated_at: 2026-11-13 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/
+    title: Gemini 4 Hydrogen and Orchestrator
+    score: 249
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=50472260
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lowkey.party/running-web-sites-makes-me-not-want-to
+    title: Running web sites makes me not want to
+    score: 89
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50467869
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html
+    title: AI is turning Apple's app review process into a nightmare for synth developers
+    score: 55
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50474311
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
