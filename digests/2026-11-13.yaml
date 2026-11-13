@@ -1,10 +1,51 @@
 date: '2026-11-13'
-generated_at: 2026-11-13 14:02 UTC
+generated_at: 2026-11-13 16:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest
+    title: Eli Lilly CEO pushes back on Dario Amodei's medical claims
+    score: 231
+    comment_cnt: 288
+    comment_url: https://news.ycombinator.com/item?id=50483480
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/
+    title: Jensen Huang Admitted He Was Facing an "Avalanche" of Excess Wafers and
+      Memory
+    score: 65
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=50482992
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://coyotetracks.org/blog/right-amount-of-ai/
+    title: Is there a 'right amount' of AI?
+    score: 35
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=50480659
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.businessinsider.com/dario-amodei-anthropic-cancer-cure-ipo-roadshow-backlash-doctors-2026-11
+    title: Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical
+    score: 26
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50484110
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://motherduck.com/blog/the-data-intelligence-engineer/
     title: The Dawn of the Data Intelligence Engineer
     score: 77
@@ -146,3 +187,42 @@ feeds:
     summary_zh: ''
     content_file: ''
     summary: ''
+- id: golang-weekly
+  label: Golang Weekly
+  provider: rss_newsletter
+  items:
+  - url: https://golangweekly.com/link/192857/rss
+    title: 'Go Turns 17: An Update'
+    summary: A mini 'State of the Union' to celebrate Go's 17th birthday (first unveiled
+      in a quite understated post in 2009). Austin recaps a year of Go improvements,
+      but also looks ahead to 2027 with (a large subset of) SIMD graduating in 1.28,
+      cutting Go's memory footprint "amid the global RAM crunch", and a
+    score: 0
+    tags: []
+    source: go.dev
+    domain: go.dev
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/192859/rss
+    title: 'Inside PGO: What Go''s Compiler Does With Your Profile'
+    summary: An illustrated dive behind the scenes of how Go's profile guided optimization
+      feature operates. PGO is essentially a way to let the compiler optimize your
+      app based on how it runs by inlining hot calls, aligning hot loops, and more.
+    score: 0
+    tags: []
+    source: internals-for-interns.com
+    domain: internals-for-interns.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/192871/rss
+    title: Catch Go Bugs That Fuzzing Misses with Gemini and a Constraint Solver
+    summary: A delightfully technical post on Google's dev blog that highlights a
+      shortcoming in Go's fuzzer where slice overruns can be missed (though a simple
+      tweak can expose them), and experiments with a way to use Gemini and Z3 to find
+      them directly.
+    score: 0
+    tags: []
+    source: developers.googleblog.com
+    domain: developers.googleblog.com
+    summary_zh: ''
+    content_file: ''
