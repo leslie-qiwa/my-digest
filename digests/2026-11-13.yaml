@@ -1,10 +1,90 @@
 date: '2026-11-13'
-generated_at: 2026-11-13 20:02 UTC
+generated_at: 2026-11-13 22:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths
+    title: AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems
+    score: 260
+    comment_cnt: 76
+    comment_url: https://news.ycombinator.com/item?id=50486748
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas
+    title: $11.4M in Nvidia hardware vanishes during shipment from CA to TX
+    score: 178
+    comment_cnt: 100
+    comment_url: https://news.ycombinator.com/item?id=50487864
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.jsweeting.me/big-tech-is-here-to-let-us-down
+    title: Big tech is here to let us down
+    score: 132
+    comment_cnt: 106
+    comment_url: https://news.ycombinator.com/item?id=50489083
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.slopmanifesto.com/
+    title: 'No AI Slop: A Manifesto'
+    score: 117
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=50488769
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://open.m-vave.com/fm1-workbench
+    title: FM-1 Workbench
+    score: 114
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=50488325
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/
+    title: OpenAI disbands its robotics team as its general models start running robots
+    score: 114
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50487184
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.dwarkesh.com/p/rsi
+    title: The avalanche that hit math is coming for AI development
+    score: 56
+    comment_cnt: 94
+    comment_url: https://news.ycombinator.com/item?id=50487854
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cnn.com/2026/11/12/politics/alice-huang-us-intel-jensen-huang-nvidia
+    title: US Intel isn't sure if Alice Huang spied on Nvidia for China
+    score: 37
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50476257
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078
     title: A technical vision for the Haskell ecosystem
     score: 137
