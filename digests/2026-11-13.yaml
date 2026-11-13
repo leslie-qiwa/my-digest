@@ -1,10 +1,40 @@
 date: '2026-11-13'
-generated_at: 2026-11-13 18:03 UTC
+generated_at: 2026-11-13 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078
+    title: A technical vision for the Haskell ecosystem
+    score: 137
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50484235
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://myid.ie/business/eu-digital-wallet-tracker/
+    title: 'EU Digital Identity Wallet rollout: every EU state on one board'
+    score: 110
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=50484496
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord
+    title: Minnesota guitarist's "palmfrets" invention strikes a new chord
+    score: 69
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50484650
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/
     title: Reverse engineering my Coway air purifier to ditch the cloud
     score: 420
