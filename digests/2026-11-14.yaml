@@ -1,10 +1,20 @@
 date: '2026-11-14'
-generated_at: 2026-11-14 16:01 UTC
+generated_at: 2026-11-14 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again
+    title: Tech Companies Are Trying to Shift the Concept of Privacy (Again)
+    score: 249
+    comment_cnt: 96
+    comment_url: https://news.ycombinator.com/item?id=50496602
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html
     title: Nvidia director sold nearly $1B in stock weeks before the Jensen Huang
       scandal
