@@ -1,10 +1,31 @@
 date: '2026-11-14'
-generated_at: 2026-11-14 14:02 UTC
+generated_at: 2026-11-14 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html
+    title: Nvidia director sold nearly $1B in stock weeks before the Jensen Huang
+      scandal
+    score: 206
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50492993
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.netmeister.org/blog/claude-delusion.html
+    title: The Claude Delusion
+    score: 118
+    comment_cnt: 123
+    comment_url: https://news.ycombinator.com/item?id=50496921
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/ggml-org/ggml/releases/tag/v1.0.0
     title: Ggml v1.0.0
     score: 320
