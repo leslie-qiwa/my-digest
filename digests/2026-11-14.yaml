@@ -1,10 +1,60 @@
 date: '2026-11-14'
-generated_at: 2026-11-14 18:02 UTC
+generated_at: 2026-11-14 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.crissyfield.de/research/lovable-en/
+    title: Lovable apps expose passport details and more than 200K private messages
+    score: 273
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=50499017
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/
+    title: PyPI's redesigned project pages with clearer security signals are now live
+    score: 148
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50497892
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/
+    title: Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM
+    score: 107
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50497155
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lexifina.com/blog/formalizing-the-us-tax-code
+    title: Formalizing US Tax Code (Using Lean)
+    score: 101
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=50497900
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits
+    title: Claude asked to renumber pages deletes professor's syllabus, year of notes
+    score: 32
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50499114
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again
     title: Tech Companies Are Trying to Shift the Concept of Privacy (Again)
     score: 249
