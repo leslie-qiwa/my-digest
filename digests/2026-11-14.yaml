@@ -1,10 +1,40 @@
 date: '2026-11-14'
-generated_at: 2026-11-14 04:01 UTC
+generated_at: 2026-11-14 06:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.alphaxiv.org/abs/2611.weight-space-misfolding
+    title: Weight Space Misfolding
+    score: 138
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50487762
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://dfarq.homeip.net/what-happened-to-3com/
+    title: What Happened to 3Com?
+    score: 101
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50491830
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://claude.com/resources/articles/projects-redesigned
+    title: Anthropic upgrades Claude Code Projects to run parallel AI workers
+    score: 75
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=50492141
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.joshka.net/cell-borders/
     title: Terminal borders that don't cost a cell
     score: 129
