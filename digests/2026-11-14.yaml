@@ -1,10 +1,50 @@
 date: '2026-11-14'
-generated_at: 2026-11-14 20:02 UTC
+generated_at: 2026-11-14 22:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/
+    title: A Family Tree of Software Job Titles
+    score: 125
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50499038
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/IRS-Public/direct-file
+    title: US IRS free online tax filing open source repo (2025)
+    score: 121
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=50499083
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://davekeating.substack.com/p/the-europoors-rants-reflect-an-american
+    title: The 'europoors' rants reflect an American insecurity
+    score: 48
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=50499041
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.forethought.org/research/will-we-really-put-data-centers-in-space
+    title: Will we put data centers in space?
+    score: 37
+    comment_cnt: 107
+    comment_url: https://news.ycombinator.com/item?id=50498945
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.crissyfield.de/research/lovable-en/
     title: Lovable apps expose passport details and more than 200K private messages
     score: 273
