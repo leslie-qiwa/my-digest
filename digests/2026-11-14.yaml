@@ -1,10 +1,40 @@
 date: '2026-11-14'
-generated_at: 2026-11-14 12:03 UTC
+generated_at: 2026-11-14 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/ggml-org/ggml/releases/tag/v1.0.0
+    title: Ggml v1.0.0
+    score: 320
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50493062
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0
+    title: Lonewolf 0.3 – A standalone XMPP server written in Rust
+    score: 148
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50484007
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=50484426
+    title: 'Ask HN: Can anyone name anything new that AI has done?'
+    score: 30
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50484426
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://monkeyisland.pages.dev/
     title: 'Monkey Island: all 13 versions side by side'
     score: 186
