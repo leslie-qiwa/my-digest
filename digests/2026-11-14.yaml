@@ -1,0 +1,27 @@
+date: '2026-11-14'
+generated_at: 2026-11-14 02:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247
+    title: FAA issues national ground stop
+    score: 1330
+    comment_cnt: 819
+    comment_url: https://news.ycombinator.com/item?id=50489641
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://claude.com/resources/articles/claude-meetings
+    title: Claude Meetings
+    score: 73
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=50491097
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
