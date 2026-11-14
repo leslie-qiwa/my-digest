@@ -1,10 +1,31 @@
 date: '2026-11-14'
-generated_at: 2026-11-14 06:03 UTC
+generated_at: 2026-11-14 08:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026
+    title: Amtrak booking system experiencing major issues amid nationwide FAA ground
+      stop
+    score: 163
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50492315
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805
+    title: Microsoft outage gives customers a crash course in dependence on Redmond
+    score: 159
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50487688
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.alphaxiv.org/abs/2611.weight-space-misfolding
     title: Weight Space Misfolding
     score: 138
