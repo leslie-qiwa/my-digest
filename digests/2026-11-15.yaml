@@ -1,10 +1,20 @@
 date: '2026-11-15'
-generated_at: 2026-11-15 08:03 UTC
+generated_at: 2026-11-15 12:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal
+    title: Court denies motion to dismiss DRAM price fixing case
+    score: 214
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=50502988
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches
     title: We're Asking an Appeals Court to Require a Warrant for ALPR Searches
     score: 202
