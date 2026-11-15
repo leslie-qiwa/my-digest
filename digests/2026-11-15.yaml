@@ -1,10 +1,20 @@
 date: '2026-11-15'
-generated_at: 2026-11-15 04:03 UTC
+generated_at: 2026-11-15 08:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches
+    title: We're Asking an Appeals Court to Require a Warrant for ALPR Searches
+    score: 202
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50503255
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://projectzero.google/2026/11/disclosure-policy.html
     title: Project Zero will disclose vulnerabilities 90 days after reporting
     score: 196
