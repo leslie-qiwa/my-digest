@@ -1,10 +1,31 @@
 date: '2026-11-15'
-generated_at: 2026-11-15 12:03 UTC
+generated_at: 2026-11-15 16:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/
+    title: 'The MacBook Pro''s OLED PWM Problem: When a ''Better'' Display Becomes
+      Worse to Use'
+    score: 151
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=50506719
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://jakub.jankiewicz.org/blog/ai-code-open-source/
+    title: All AI-generated code should be Open Source
+    score: 132
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=50507303
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal
     title: Court denies motion to dismiss DRAM price fixing case
     score: 214
