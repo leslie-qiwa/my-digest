@@ -1,10 +1,30 @@
 date: '2026-11-15'
-generated_at: 2026-11-15 18:03 UTC
+generated_at: 2026-11-15 20:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://joshblais.com/blog/emacs-as-my-browser/
+    title: Emacs Is My Browser
+    score: 112
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=50507553
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/matheuzgomes/gawain
+    title: 'Show HN: Gawain – Require type hints on all Python variables'
+    score: 67
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50504072
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/
     title: Jensen Huang allegedly manufactured the GPU shortage
     score: 49
