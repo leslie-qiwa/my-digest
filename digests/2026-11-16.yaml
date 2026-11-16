@@ -1,10 +1,102 @@
 date: '2026-11-16'
-generated_at: 2026-11-16 16:05 UTC
+generated_at: 2026-11-16 20:06 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint
+    title: Whistleblower accuses Pentagon over Iran strike on US base that killed
+      6
+    score: 203
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=50517838
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/
+    title: Nvidia was in trouble before the Jensen Huang mess
+    score: 170
+    comment_cnt: 161
+    comment_url: https://news.ycombinator.com/item?id=50518567
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/
+    title: Software is breaking down at a systemic level
+    score: 132
+    comment_cnt: 95
+    comment_url: https://news.ycombinator.com/item?id=50520866
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains
+    title: Grazing sheep in fields with solar arrays
+    score: 117
+    comment_cnt: 101
+    comment_url: https://news.ycombinator.com/item?id=50520182
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://trmnl.com/blog/introducing-frame
+    title: Frame – 31.5" color ePaper display
+    score: 112
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=50519354
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://infisical.com/blog/active-directory-machine-identity
+    title: The Active Directory Era Is Finally Over
+    score: 88
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50517815
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026
+    title: Microsoft blames monster email outage on software defect introduced in
+      July fix
+    score: 70
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=50517321
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://petervandijck.com/post/pbrgs-ev0bc
+    title: Doing Show HN generates a ton of automated email pitches
+    score: 56
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50516232
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.gameworkers.co.uk/ai-manifesto/
+    title: Generative AI Usage in the Games Industry
+    score: 35
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=50519043
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://jack.cab/blog/siterate
     title: What is w2rt6byl5nf1opmc-a.com?
     score: 230
