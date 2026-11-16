@@ -1,10 +1,62 @@
 date: '2026-11-16'
-generated_at: 2026-11-16 14:05 UTC
+generated_at: 2026-11-16 16:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://jack.cab/blog/siterate
+    title: What is w2rt6byl5nf1opmc-a.com?
+    score: 230
+    comment_cnt: 88
+    comment_url: https://news.ycombinator.com/item?id=50517602
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/
+    title: Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings
+    score: 221
+    comment_cnt: 111
+    comment_url: https://news.ycombinator.com/item?id=50517488
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/
+    title: Interpreting claims that a theorem is correct because it was checked in
+      Lean
+    score: 162
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50515058
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/
+    title: The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life
+      (2007)
+    score: 146
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50516473
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://worksinprogress.co/issue/the-future-of-war/
+    title: How Should Armies Fight?
+    score: 33
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50515169
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101
     title: Debian Becomes Unresponsive after 6.1.0-55 Kernel Update
     score: 139
