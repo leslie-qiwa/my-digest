@@ -1,10 +1,20 @@
 date: '2026-11-16'
-generated_at: 2026-11-16 12:04 UTC
+generated_at: 2026-11-16 14:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101
+    title: Debian Becomes Unresponsive after 6.1.0-55 Kernel Update
+    score: 139
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=50514180
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/
     title: Stop Filming in Log
     score: 56
