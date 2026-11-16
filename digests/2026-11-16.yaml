@@ -1,10 +1,20 @@
 date: '2026-11-16'
-generated_at: 2026-11-16 06:05 UTC
+generated_at: 2026-11-16 12:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/
+    title: Stop Filming in Log
+    score: 56
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50514093
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://bruceroettgers.eu/blog/protomaps/
     title: 'Protomaps: Self-hosting map tiles has gotten cheap and easy'
     score: 257
