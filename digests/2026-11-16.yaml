@@ -1,10 +1,41 @@
 date: '2026-11-16'
-generated_at: 2026-11-16 20:06 UTC
+generated_at: 2026-11-16 22:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://burntsushi.net/jiff/
+    title: 'Jiff 1.0: A datetime library for Rust'
+    score: 250
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50519744
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/
+    title: Just 400 US Data Centers Use More Electricity Than Michigan
+    score: 83
+    comment_cnt: 77
+    comment_url: https://news.ycombinator.com/item?id=50520697
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/
+    title: US now "comfortable" with children dying of measles as death toll hits
+      10
+    score: 64
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50519924
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint
     title: Whistleblower accuses Pentagon over Iran strike on US base that killed
       6
