@@ -1,10 +1,62 @@
 date: '2026-11-16'
-generated_at: 2026-11-16 00:01 UTC
+generated_at: 2026-11-16 02:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://news.ycombinator.com/item?id=50510042
+    title: 'Ask HN: Stripe closed us after one $1,500 invoice and never asked for
+      evidence'
+    score: 163
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=50510042
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch
+    title: Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites
+      lost
+    score: 118
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=50510442
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ykiko.me/en/articles/2105384023094834022/
+    title: 'Clice v1.0 Released: Welcome to Modern C++'
+    score: 105
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=50508715
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/
+    title: Your Agent Will Pick the Hackable One
+    score: 72
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=50510799
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://steveblank.com/2026/11/15/whats-next-for-nvidia/
+    title: What's Next for Nvidia?
+    score: 61
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50512235
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/
     title: Old Bitly Links Are Being Hijacked
     score: 104
