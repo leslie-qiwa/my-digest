@@ -1,0 +1,27 @@
+date: '2026-11-16'
+generated_at: 2026-11-16 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/
+    title: Old Bitly Links Are Being Hijacked
+    score: 104
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50511395
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://suchanek.name/texts/atheism/
+    title: The Atheist Bible
+    score: 27
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50507989
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
