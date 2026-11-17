@@ -1,10 +1,30 @@
 date: '2026-11-17'
-generated_at: 2026-11-17 08:02 UTC
+generated_at: 2026-11-17 12:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://twitter.com/id_aa_carmack/status/2122478083319992513
+    title: Why 3dfx 1 cards had such a washed out color output?
+    score: 164
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50525575
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://copyrightlately.com/michael-mann-heat-copyright-termination/
+    title: Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself
+    score: 100
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50520518
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs
     title: My Quest to push native Three.js quality match AAA Game Engines
     score: 133
