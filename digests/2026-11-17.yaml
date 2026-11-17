@@ -1,10 +1,50 @@
 date: '2026-11-17'
-generated_at: 2026-11-17 04:01 UTC
+generated_at: 2026-11-17 08:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs
+    title: My Quest to push native Three.js quality match AAA Game Engines
+    score: 133
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50523291
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.antonio.cx/running-agents-with-lend
+    title: Running coding agents without handing them my credentials
+    score: 100
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50526152
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://support.apple.com/en-us/149699
+    title: If an App Asks for Full Disk Access or System and App Protection Override
+    score: 98
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50526560
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://get.mem.ai/blog/mem-is-shutting-down
+    title: Mem Is Shutting Down
+    score: 49
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=50526537
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry
     title: Chemistry is Actually Geometry
     score: 144
