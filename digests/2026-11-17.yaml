@@ -1,10 +1,61 @@
 date: '2026-11-17'
-generated_at: 2026-11-17 00:07 UTC
+generated_at: 2026-11-17 02:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://xusheng.dev/posts/windows-coding-agent-telemetry/
+    title: Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools
+      You Use
+    score: 238
+    comment_cnt: 114
+    comment_url: https://news.ycombinator.com/item?id=50524736
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/
+    title: Optimizely Compromised, Served Malware on Zoom, GitLab
+    score: 108
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=50524767
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.harmonic.fun/news/aristotle-rust-verification/
+    title: Aristotle Expands into Rust
+    score: 103
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50520270
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.spamhaus.org/sender-guidelines/
+    title: Spamhaus new email sender requirements in November
+    score: 72
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=50523784
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.newsweek.com/us-expected-to-block-killer-robot-treaty-talks-12722369
+    title: US will say "no" to global ban on killer robots
+    score: 69
+    comment_cnt: 84
+    comment_url: https://news.ycombinator.com/item?id=50524728
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.startifact.com/posts/how-rust-changed-me/
     title: Rust changed me as a developer
     score: 157
