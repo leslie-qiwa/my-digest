@@ -1,10 +1,30 @@
 date: '2026-11-17'
-generated_at: 2026-11-17 18:03 UTC
+generated_at: 2026-11-17 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/
+    title: MAI Code 2 and Code 2 Flash
+    score: 205
+    comment_cnt: 101
+    comment_url: https://news.ycombinator.com/item?id=50535885
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/
+    title: Purism Launches Librem 5 v2, a RISC-V Phone to Empower People
+    score: 82
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=50536031
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://jordankrueger.com/blog/better-open-source-not-more-apps/
     title: We don't need more apps. We need better open source
     score: 278
