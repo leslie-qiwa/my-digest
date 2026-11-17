@@ -1,10 +1,20 @@
 date: '2026-11-17'
-generated_at: 2026-11-17 12:03 UTC
+generated_at: 2026-11-17 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/
+    title: How the Claude Code team thinks about verification
+    score: 80
+    comment_cnt: 95
+    comment_url: https://news.ycombinator.com/item?id=50529612
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://twitter.com/id_aa_carmack/status/2122478083319992513
     title: Why 3dfx 1 cards had such a washed out color output?
     score: 164
