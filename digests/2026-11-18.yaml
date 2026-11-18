@@ -1,10 +1,30 @@
 date: '2026-11-18'
-generated_at: 2026-11-18 18:03 UTC
+generated_at: 2026-11-18 20:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html
+    title: Poland says it thwarted false flag operation near border with Kaliningrad
+    score: 275
+    comment_cnt: 96
+    comment_url: https://news.ycombinator.com/item?id=50547344
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/
+    title: AI agents ask better questions than KPMG accountants in audit trial
+    score: 159
+    comment_cnt: 82
+    comment_url: https://news.ycombinator.com/item?id=50547777
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities
     title: Pre-auth RCE in Nginx HTTP/2 handling
     score: 383
