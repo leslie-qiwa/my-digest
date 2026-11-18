@@ -1,10 +1,40 @@
 date: '2026-11-18'
-generated_at: 2026-11-18 20:04 UTC
+generated_at: 2026-11-18 22:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/
+    title: Genie 4 is now available
+    score: 142
+    comment_cnt: 118
+    comment_url: https://news.ycombinator.com/item?id=50550415
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+    title: Gemini 4 Neon
+    score: 134
+    comment_cnt: 93
+    comment_url: https://news.ycombinator.com/item?id=50552424
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages
+    title: Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages
+    score: 95
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50540836
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html
     title: Poland says it thwarted false flag operation near border with Kaliningrad
     score: 275
