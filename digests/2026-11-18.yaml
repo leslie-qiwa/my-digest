@@ -1,10 +1,41 @@
 date: '2026-11-18'
-generated_at: 2026-11-18 12:03 UTC
+generated_at: 2026-11-18 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://techstackups.com/articles/quad9-leaves-france-dns-blocking/
+    title: 'Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight
+      Piracy'
+    score: 272
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=50545958
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/
+    title: Claude was trained on protein sequences at scale
+    score: 129
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=50541619
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.siderolabs.com/talos-linux
+    title: Talos Linux
+    score: 95
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50543343
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://techforpalestine.org/wikipedia-report
     title: Israel vs. Wikipedia
     score: 199
