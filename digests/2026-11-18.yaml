@@ -1,0 +1,37 @@
+date: '2026-11-18'
+generated_at: 2026-11-18 00:01 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://calif.io/java4shell/
+    title: 'Java4Shell: RCE in OpenJDK when processing Base64'
+    score: 392
+    comment_cnt: 101
+    comment_url: https://news.ycombinator.com/item?id=50538240
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969
+    title: 350 years ago, Ole Rømer discovered that light has a finite speed
+    score: 222
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=50536813
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.solidjs.com/blog/solid-2-0-the-long-hold/
+    title: Solid 2.0
+    score: 198
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50536387
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
