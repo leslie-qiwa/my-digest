@@ -1,10 +1,20 @@
 date: '2026-11-18'
-generated_at: 2026-11-18 04:02 UTC
+generated_at: 2026-11-18 06:00 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://newsletter.posthog.com/p/decision-models
+    title: Not Everything Needs an LLM
+    score: 138
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50535740
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in
     title: ID.me terms required for IRS sign-in
     score: 181
