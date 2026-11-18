@@ -1,10 +1,50 @@
 date: '2026-11-18'
-generated_at: 2026-11-18 02:03 UTC
+generated_at: 2026-11-18 04:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in
+    title: ID.me terms required for IRS sign-in
+    score: 181
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=50540437
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://revscope.co/blog/search-seo-geo-2026/
+    title: Google's AI answers reducing search traffic by 40%
+    score: 169
+    comment_cnt: 114
+    comment_url: https://news.ycombinator.com/item?id=50540178
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arxiv.org/abs/2611.09827
+    title: Effects of a Nuclear Detonation in Low Earth Orbit
+    score: 87
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=50537120
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.human-md.ai/
+    title: Human.md
+    score: 79
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50537962
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.cloudflare.com/quad9-withdrawal-from-france/
     title: 'Quad9''s withdrawal from France: A canary in the coal mine'
     score: 299
