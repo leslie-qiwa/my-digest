@@ -1,10 +1,51 @@
 date: '2026-11-18'
-generated_at: 2026-11-18 16:02 UTC
+generated_at: 2026-11-18 18:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities
+    title: Pre-auth RCE in Nginx HTTP/2 handling
+    score: 383
+    comment_cnt: 125
+    comment_url: https://news.ycombinator.com/item?id=50547374
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.sciencedaily.com/releases/2026/11/261110042543.htm
+    title: Energy drinks linked to 11 times more reports of cardiac arrest
+    score: 165
+    comment_cnt: 136
+    comment_url: https://news.ycombinator.com/item?id=50546465
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://microsoft.ai/news/microsoft-ignite-2026/
+    title: 'Microsoft AI: Seven new world-class models at scalable price-performance'
+    score: 145
+    comment_cnt: 96
+    comment_url: https://news.ycombinator.com/item?id=50548021
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://yougov.com/en-us/articles/55583-younger-adults-are-more-likely-than-older-ones-to-say-its-acceptable-to-wear-t-shirts-and-sweatpants-to-work
+    title: Younger adults more likely to say acceptable to wear T-shirts&sweatpants
+      to work
+    score: 21
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50547249
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://techstackups.com/articles/quad9-leaves-france-dns-blocking/
     title: 'Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight
       Piracy'
