@@ -1,10 +1,70 @@
 date: '2026-11-19'
-generated_at: 2026-11-19 12:04 UTC
+generated_at: 2026-11-19 14:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/
+    title: How the European Commission rolled out Matrix to more than 40k staff
+    score: 262
+    comment_cnt: 111
+    comment_url: https://news.ycombinator.com/item?id=50558533
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.php.net/releases/8.6/en.php
+    title: What's New in PHP 8.6
+    score: 151
+    comment_cnt: 74
+    comment_url: https://news.ycombinator.com/item?id=50557870
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.gdmunion.co.uk
+    title: DeepMind Employees Are Unionising
+    score: 91
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=50557885
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://spectrum.ieee.org/ai-superintelligence-debate
+    title: The AI Superintelligence Debate Has Serious Flaws
+    score: 69
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=50559140
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://curiousbits.nl/blog/do-not-buy-ram-compress/
+    title: Do not buy RAM, compress
+    score: 59
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50557661
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=50549188
+    title: 'Launch HN: Maritime (YC F26) – A managed cloud for production AI agents'
+    score: 56
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50549188
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://verialabs.com/ruby2shell/
     title: 'Ruby2ßhell: Pre-authentication RCE on stock Rails'
     score: 178
