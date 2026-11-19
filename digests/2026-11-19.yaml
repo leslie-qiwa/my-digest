@@ -1,10 +1,60 @@
 date: '2026-11-19'
-generated_at: 2026-11-19 16:03 UTC
+generated_at: 2026-11-19 18:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://lastbook.org/
+    title: Everything you need to survive and rebuild society
+    score: 213
+    comment_cnt: 113
+    comment_url: https://news.ycombinator.com/item?id=50560822
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://zerodha.tech/blog/high-performance-distributed-blob-storage/
+    title: Distributed, high-performance blob storage on SQLite
+    score: 194
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50557537
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://thedataexchange.media/pete-warden-moonshine/
+    title: Pete warden on local AI, open models, voice interfaces, the future of hardware
+    score: 124
+    comment_cnt: 103
+    comment_url: https://news.ycombinator.com/item?id=50561508
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/
+    title: UK Government Forced to Admit It Issued Apple a Secret Encryption Order
+    score: 105
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50562113
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://maccus.fr/en/cooling-overtaking-heating/
+    title: Cooling buildings is overtaking heating them as an energy need, IEA says
+    score: 95
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=50560955
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://eleanorwiesler.com/blog/robotic-stone-carving/
     title: We taught robots to carve marble sculptures
     score: 85
