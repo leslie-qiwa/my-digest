@@ -1,10 +1,50 @@
 date: '2026-11-19'
-generated_at: 2026-11-19 00:05 UTC
+generated_at: 2026-11-19 02:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/
+    title: We need smart people who give a shit
+    score: 216
+    comment_cnt: 111
+    comment_url: https://news.ycombinator.com/item?id=50554045
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lateblt.livejournal.com/526188.html
+    title: Software companies are trying to kill home computing?
+    score: 110
+    comment_cnt: 73
+    comment_url: https://news.ycombinator.com/item?id=50554010
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://crosspointreader.com
+    title: CrossPoint Reader
+    score: 105
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50548991
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://foss.life/notes/2026/free-software-isnt-free-enough/
+    title: When Free Software Isn't Free Enough
+    score: 49
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50550264
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://energy-based-reasoners.github.io/
     title: 'Energy-Based Reasoners: 385x more efficient inference'
     score: 297
