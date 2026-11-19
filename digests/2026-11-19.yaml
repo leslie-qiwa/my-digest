@@ -1,10 +1,50 @@
 date: '2026-11-19'
-generated_at: 2026-11-19 04:03 UTC
+generated_at: 2026-11-19 06:06 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.radixark.com/blog/daisyrose-27b
+    title: DaisyRose-27B
+    score: 174
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50551046
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/
+    title: Multiple vulnerabilities in Regexp and String case conversion
+    score: 172
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50554038
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://pikuma.com/blog/history-of-x86-4004-to-486
+    title: 'The x86 CPU: From 4004 to 486'
+    score: 162
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50546967
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://colossus.com/article/ai-will-not-make-you-rich/
+    title: AI will not make you rich (2025)
+    score: 85
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50555093
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://claudia.gallery/fable/
     title: 'Fable: Written, painted and directed by Claude Fable 5.2'
     score: 51
