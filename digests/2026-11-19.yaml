@@ -1,10 +1,30 @@
 date: '2026-11-19'
-generated_at: 2026-11-19 06:06 UTC
+generated_at: 2026-11-19 10:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering
+    title: LLM assisted reverse engineering
+    score: 209
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50553225
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/
+    title: Black high school students sue after AI mistakes Doritos bag for gun
+    score: 89
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50554641
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.radixark.com/blog/daisyrose-27b
     title: DaisyRose-27B
     score: 174
