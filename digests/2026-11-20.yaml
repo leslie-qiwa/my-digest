@@ -1,0 +1,27 @@
+date: '2026-11-20'
+generated_at: 2026-11-20 00:03 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/
+    title: Pancreatic cancer halted by virus injection in three patients
+    score: 471
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=50563066
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://restofworld.org/2026/ai-jobs-skills-gig-work/
+    title: AI isn't replacing your job. It's turning it into low-paid gig work
+    score: 102
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50562500
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
