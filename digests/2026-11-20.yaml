@@ -1,10 +1,70 @@
 date: '2026-11-20'
-generated_at: 2026-11-20 16:02 UTC
+generated_at: 2026-11-20 18:05 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/
+    title: I'll never buy Framework hardware again
+    score: 460
+    comment_cnt: 295
+    comment_url: https://news.ycombinator.com/item?id=50576855
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/
+    title: If you stop writing code, you also get worse at reviewing it
+    score: 215
+    comment_cnt: 111
+    comment_url: https://news.ycombinator.com/item?id=50573886
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/
+    title: Why there are still no non-WebKit browsers on iOS
+    score: 176
+    comment_cnt: 87
+    comment_url: https://news.ycombinator.com/item?id=50575644
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://jeanmicheljarre.com/aaa/the-making-of-oxygene
+    title: The Making of Oxygene
+    score: 148
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=50572822
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://startups.novumsignals.com/
+    title: What people are building, discovered through new domains
+    score: 126
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50572448
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://spectrum.ieee.org/epic-games-unreal-engine-ai
+    title: Epic Games Turns to AI Coding for the Unreal Engine
+    score: 49
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50573681
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://signal.org/blog/protecting-your-privacy/
     title: Signal Is Serious About Protecting Your Privacy
     score: 164
@@ -178,3 +238,97 @@ feeds:
     summary_zh: ''
     content_file: ''
     summary: ''
+- id: golang-weekly
+  label: Golang Weekly
+  provider: rss_newsletter
+  items:
+  - url: https://golangweekly.com/link/193241/rss
+    title: Probabilistic Data Structures in Go
+    summary: A diagram-driven tour of five probabilistic data structures (Bloom filters,
+      count-min sketch, HyperLogLog, t-digest, top-k) that can use significantly less
+      memory if approximate answers are sufficient (e.g. counting a million distinct
+      strings in just 16KB of memory).
+    score: 0
+    tags: []
+    source: antonz.org
+    domain: antonz.org
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/193243/rss
+    title: SIMD Support Looks Set to Graduate from Experimental Status
+    summary: Last week we mentioned a proposal to graduate a large subset of Go's
+      SIMD operations from experimental status. It's now marked 'likely accept'. The
+      API design notes show what simd & simd/archsimd support on different platforms.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/193252/rss
+    title: How Resend Migrated Its Email API from Node to Go
+    summary: Resend's team got tired of big JSON payloads blocking Node's event loop,
+      so they rebuilt their API in Go and ran both versions while comparing responses
+      until they matched. Huge CPU and memory wins also came from the move.
+    score: 0
+    tags: []
+    source: resend.com
+    domain: resend.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/193253/rss
+    title: Go 1.28 Will Let You Write return {}, err
+    summary: It's taken eleven years, but Go 1.28 is set to let you drop the type
+      from a composite literal when it can be inferred by the compiler, so return
+      {}, err will Just Work™. Redowan looks at where it does and doesn't apply, and
+      addresses some worries over readability.
+    score: 0
+    tags: []
+    source: rednafi.com
+    domain: rednafi.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/193254/rss
+    title: Making Games with the Entity Component System Pattern
+    summary: Miłosz has been building small games with Ebitengine and the Donburi
+      ECS library, and this is what he's learned about structuring them, including
+      when ECS gets in the way. Playable in-browser demos make it a fun read.
+    score: 0
+    tags: []
+    source: threedots.tech
+    domain: threedots.tech
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/193278/rss
+    title: Build, Review, and Profile Go Code with Agents in GoLand
+    summary: A hands-on look at Air, GoLand's new default AI workspace. Dominika builds
+      a webhook receiver with Codex, Claude Code and Junie working in parallel worktrees,
+      then lets an agent drive the profiler with a new skill.
+    score: 0
+    tags: []
+    source: blog.jetbrains.com
+    domain: blog.jetbrains.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/193261/rss
+    title: 'Comparing Go GUI Frameworks: One GUI App, Built Five Ways'
+    summary: Justin was struggling to pick a GUI toolkit from the Go ecosystem's increasing
+      number of options, so he built the same app with Fyne, Cogent Core, Wails, templ+htmx
+      and Qt, and compared the results against one another.
+    score: 0
+    tags: []
+    source: justinfx.com
+    domain: justinfx.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/193262/rss
+    title: Preconfigured Agents with Microsoft Agent Framework for Go
+    summary: 🤖 — Microsoft Agent Framework for Go, currently in public preview, now
+      includes an agent/harness package that wires up numerous things agents can benefit
+      from (like to-do lists, skills, tool approvals, etc.).
+    score: 0
+    tags: []
+    source: devblogs.microsoft.com
+    domain: devblogs.microsoft.com
+    summary_zh: ''
+    content_file: ''
