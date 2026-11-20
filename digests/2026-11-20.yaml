@@ -1,10 +1,40 @@
 date: '2026-11-20'
-generated_at: 2026-11-20 20:02 UTC
+generated_at: 2026-11-20 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/
+    title: Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis
+    score: 242
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=50578358
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://manidoraisamy.com/developer-to-architect.html
+    title: We promoted developers into architects without informing them
+    score: 183
+    comment_cnt: 107
+    comment_url: https://news.ycombinator.com/item?id=50579331
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://scottaaronson.blog/?p=10344
+    title: The stochastic parrots have apparently proved the Riemann Hypothesis
+    score: 103
+    comment_cnt: 66
+    comment_url: https://news.ycombinator.com/item?id=50581084
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://arxiv.org/abs/2611.21885
     title: Language Models Can Rewrite Their Own Weights
     score: 234
