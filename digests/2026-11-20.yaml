@@ -1,10 +1,41 @@
 date: '2026-11-20'
-generated_at: 2026-11-20 12:02 UTC
+generated_at: 2026-11-20 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it
+    title: If you can't explain something in simple terms, you don't understand it
+      (2017)
+    score: 177
+    comment_cnt: 116
+    comment_url: https://news.ycombinator.com/item?id=50572355
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o
+    title: UK fridges secured from hackers
+    score: 79
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=50572430
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://geoffralston.substack.com/p/stop
+    title: 'Former YC President: "Stop!”'
+    score: 46
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50570984
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://architectlabs.com/blog/frostbite
     title: 'Frostbite: A new CPU architecture discovered, designed and verified by
       AI'
