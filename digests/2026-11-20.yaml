@@ -1,10 +1,40 @@
 date: '2026-11-20'
-generated_at: 2026-11-20 14:02 UTC
+generated_at: 2026-11-20 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://signal.org/blog/protecting-your-privacy/
+    title: Signal Is Serious About Protecting Your Privacy
+    score: 164
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=50572348
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off
+    title: Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off
+    score: 102
+    comment_cnt: 78
+    comment_url: https://news.ycombinator.com/item?id=50574383
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://anihil.com/the-market-is-down
+    title: The Market Is Down
+    score: 70
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50573288
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it
     title: If you can't explain something in simple terms, you don't understand it
       (2017)
