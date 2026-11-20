@@ -1,10 +1,42 @@
 date: '2026-11-20'
-generated_at: 2026-11-20 10:02 UTC
+generated_at: 2026-11-20 12:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://architectlabs.com/blog/frostbite
+    title: 'Frostbite: A new CPU architecture discovered, designed and verified by
+      AI'
+    score: 137
+    comment_cnt: 93
+    comment_url: https://news.ycombinator.com/item?id=50572503
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://seremot.com/p/vint-cerf-on-why-tcpip-was-never
+    title: Vint Cerf on why TCP/IP was never patented
+    score: 118
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50568861
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ecohustler.com/article/one-corporation-to-pollute-them-all/
+    title: Carnival Cruises emits ten times more sulphur oxide than all of Europe's
+      cars
+    score: 110
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=50572116
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://ethanlowman.com/posts/jj-primer/
     title: Jujutsu Primer
     score: 114
