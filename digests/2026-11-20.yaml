@@ -1,10 +1,20 @@
 date: '2026-11-20'
-generated_at: 2026-11-20 06:02 UTC
+generated_at: 2026-11-20 08:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.gimp.org/news/2026/11/16/gimp-ui-tests/
+    title: GIMP now has UI tests
+    score: 96
+    comment_cnt: 83
+    comment_url: https://news.ycombinator.com/item?id=50569985
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/openssl/openssl/pull/33652
     title: 'OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)'
     score: 106
