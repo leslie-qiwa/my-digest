@@ -1,10 +1,20 @@
 date: '2026-11-20'
-generated_at: 2026-11-20 02:03 UTC
+generated_at: 2026-11-20 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://git-aarvin.github.io/mei/
+    title: 'Gemini 4 Neon is the new #1 on the Models Engineering Index'
+    score: 239
+    comment_cnt: 141
+    comment_url: https://news.ycombinator.com/item?id=50568130
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html
     title: AI Came for the Coders. Understanding Why Tells Us Who's Next
     score: 42
