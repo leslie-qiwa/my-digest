@@ -1,10 +1,40 @@
 date: '2026-11-21'
-generated_at: 2026-11-21 04:01 UTC
+generated_at: 2026-11-21 06:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://ninlive.com/
+    title: 'NINLIVE: The Nine Inch Nails live archive'
+    score: 195
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50583274
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ankitg.me/blog/vibecoding-inference-chip/
+    title: Vibecoding an inference chip
+    score: 132
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50579297
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://nate.mecca1.net/posts/2026-11-20_help/
+    title: Help github just deleted me
+    score: 53
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50583911
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://signoregalilei.com/2026/11/20/and-yet-it-moves/
     title: And yet, it moves
     score: 115
