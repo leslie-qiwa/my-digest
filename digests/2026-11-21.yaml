@@ -1,10 +1,20 @@
 date: '2026-11-21'
-generated_at: 2026-11-21 12:02 UTC
+generated_at: 2026-11-21 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/
+    title: Clojure will affect the way you think about programming (2017)
+    score: 134
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50585376
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://slopstrap.mikelacher.com/
     title: Slopstrap – Make your site look hastily vibecoded
     score: 308
