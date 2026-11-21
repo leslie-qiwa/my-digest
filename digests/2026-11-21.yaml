@@ -1,10 +1,41 @@
 date: '2026-11-21'
-generated_at: 2026-11-21 06:03 UTC
+generated_at: 2026-11-21 08:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.masteringemacs.org/article/announcing-dreamcoder
+    title: 'DreamCoder: Coding harness and IDE from the author of Mastering Emacs'
+    score: 188
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50581110
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.backblaze.com/company/policy/privacy
+    title: Backblaze Notice at Collection and Privacy Policy
+    score: 168
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50585593
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=50583761
+    title: 'Ask HN: I have been unemployed for 2y. 15 years of experience, US. What
+      to do?'
+    score: 116
+    comment_cnt: 115
+    comment_url: https://news.ycombinator.com/item?id=50583761
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://ninlive.com/
     title: 'NINLIVE: The Nine Inch Nails live archive'
     score: 195
