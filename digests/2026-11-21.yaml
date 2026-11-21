@@ -1,10 +1,30 @@
 date: '2026-11-21'
-generated_at: 2026-11-21 14:01 UTC
+generated_at: 2026-11-21 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.tymscar.com/posts/studiodisplayethernet/
+    title: My Monitor Was Cutting My Download Speed by 75%
+    score: 189
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=50587875
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/
+    title: Lean Verification of the Riemann Hypothesis - Joint statement by...
+    score: 124
+    comment_cnt: 86
+    comment_url: https://news.ycombinator.com/item?id=50589618
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/
     title: Clojure will affect the way you think about programming (2017)
     score: 134
