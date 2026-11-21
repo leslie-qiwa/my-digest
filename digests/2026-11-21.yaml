@@ -1,10 +1,20 @@
 date: '2026-11-21'
-generated_at: 2026-11-21 20:02 UTC
+generated_at: 2026-11-21 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/ShinMegamiBoson/lookatmyquant
+    title: Inkling-2-Mini in 5.4 GB Memory
+    score: 264
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50591853
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://onurgumus.github.io/zero-csharp/index.html
     title: 'Show HN: Zero C# – C# without a runtime or GC'
     score: 69
