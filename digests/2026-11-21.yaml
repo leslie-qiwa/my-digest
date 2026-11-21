@@ -1,10 +1,20 @@
 date: '2026-11-21'
-generated_at: 2026-11-21 08:02 UTC
+generated_at: 2026-11-21 12:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://slopstrap.mikelacher.com/
+    title: Slopstrap – Make your site look hastily vibecoded
+    score: 308
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50576012
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.masteringemacs.org/article/announcing-dreamcoder
     title: 'DreamCoder: Coding harness and IDE from the author of Mastering Emacs'
     score: 188
