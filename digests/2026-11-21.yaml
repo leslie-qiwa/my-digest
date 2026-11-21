@@ -1,10 +1,30 @@
 date: '2026-11-21'
-generated_at: 2026-11-21 16:01 UTC
+generated_at: 2026-11-21 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html
+    title: RCE in Gnupg
+    score: 172
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50587208
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.bbc.com/news/articles/cvze7de86pk3o
+    title: FBI reportedly investigating apparent hack of its criminal database
+    score: 136
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=50587859
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.tymscar.com/posts/studiodisplayethernet/
     title: My Monitor Was Cutting My Download Speed by 75%
     score: 189
