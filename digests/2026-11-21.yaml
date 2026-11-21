@@ -1,0 +1,37 @@
+date: '2026-11-21'
+generated_at: 2026-11-21 02:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://thinkingmachines.ai/news/inkling-2-mini/
+    title: Inkling 2 Mini
+    score: 687
+    comment_cnt: 111
+    comment_url: https://news.ycombinator.com/item?id=50581260
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html
+    title: Nasdaq erases all 2026 gains
+    score: 121
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50583254
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://borretti.me/article/re-riemann
+    title: 'Re: Riemann'
+    score: 117
+    comment_cnt: 100
+    comment_url: https://news.ycombinator.com/item?id=50583982
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
