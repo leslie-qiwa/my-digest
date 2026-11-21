@@ -1,10 +1,30 @@
 date: '2026-11-21'
-generated_at: 2026-11-21 02:02 UTC
+generated_at: 2026-11-21 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://signoregalilei.com/2026/11/20/and-yet-it-moves/
+    title: And yet, it moves
+    score: 115
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50581177
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://openai.com/index/combatting-adversarial-distillation/
+    title: Combatting Adversarial Distillation
+    score: 34
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50581242
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://thinkingmachines.ai/news/inkling-2-mini/
     title: Inkling 2 Mini
     score: 687
