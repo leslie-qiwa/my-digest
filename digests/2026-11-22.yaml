@@ -1,10 +1,50 @@
 date: '2026-11-22'
-generated_at: 2026-11-22 08:02 UTC
+generated_at: 2026-11-22 10:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://linebender.org/blog/next-100-guis/
+    title: Advice for the next 100 Rust GUIs
+    score: 161
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=50593737
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/
+    title: Data Processing Incidents on Inference Providers
+    score: 144
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50595554
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again
+    title: The Engineering Manager's role is under attack (again)
+    score: 40
+    comment_cnt: 59
+    comment_url: https://news.ycombinator.com/item?id=50597014
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.iseecars.com/most-popular-car-colors-study
+    title: The Most Popular Car Colors in America
+    score: 24
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50595725
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://pwn.ai/upload2shell
     title: Upload2Shell (CVE-2026-125396)
     score: 111
