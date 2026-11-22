@@ -1,10 +1,30 @@
 date: '2026-11-22'
-generated_at: 2026-11-22 06:02 UTC
+generated_at: 2026-11-22 08:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://pwn.ai/upload2shell
+    title: Upload2Shell (CVE-2026-125396)
+    score: 111
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50592097
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.noemamag.com/the-mythology-of-conscious-ai/
+    title: The Mythology of Conscious AI
+    score: 46
+    comment_cnt: 81
+    comment_url: https://news.ycombinator.com/item?id=50595537
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/
     title: Toyota, Nissan, and Honda to standardize parts to lower costs
     score: 173
