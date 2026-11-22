@@ -1,10 +1,40 @@
 date: '2026-11-22'
-generated_at: 2026-11-22 20:01 UTC
+generated_at: 2026-11-22 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/gulivan/worker755
+    title: 'Show HN: I built a game where you are an LLM''s subagent'
+    score: 242
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50599762
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.oreilly.com/radar/what-happened-to-silicon-valley/
+    title: What Happened to Silicon Valley?
+    score: 228
+    comment_cnt: 86
+    comment_url: https://news.ycombinator.com/item?id=50602947
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife
+    title: 'The Birds of GTA 6: A Field Guide to Vice City and Leonida''s Wildlife'
+    score: 193
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50602843
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://openai.com/index/perplexity-and-intelligence/
     title: Perplexity and Intelligence
     score: 266
