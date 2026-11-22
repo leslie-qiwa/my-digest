@@ -1,10 +1,30 @@
 date: '2026-11-22'
-generated_at: 2026-11-22 14:01 UTC
+generated_at: 2026-11-22 16:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/tamnd/riemann-handbook
+    title: 'Show HN: The Riemann Proof Handbook'
+    score: 79
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50596664
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/
+    title: Prisons get OK to jam contraband phones
+    score: 31
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50599313
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://arxiv.org/abs/2606.14068
     title: Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in
       Conflicts
