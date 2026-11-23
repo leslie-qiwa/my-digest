@@ -1,10 +1,30 @@
 date: '2026-11-23'
-generated_at: 2026-11-23 14:02 UTC
+generated_at: 2026-11-23 16:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director
+    title: Jensen Huang Reinstated as Nvidia CEO
+    score: 1502
+    comment_cnt: 1281
+    comment_url: https://news.ycombinator.com/item?id=50611588
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/
+    title: The next circle of security hell
+    score: 118
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=50610334
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/
     title: 'The struggle for freedom: How BSD escaped AT&T licensing'
     score: 138
