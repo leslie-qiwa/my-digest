@@ -1,10 +1,30 @@
 date: '2026-11-23'
-generated_at: 2026-11-23 10:01 UTC
+generated_at: 2026-11-23 12:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://huijzer.xyz/posts/174/gta-6-building-personal-behavioral-profile-for-eve
+    title: GTA 6 building personal behavioral profile for every player
+    score: 100
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=50609079
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/
+    title: Will the first approved psychedelic become a blockbuster?
+    score: 39
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50603962
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the
     title: AI is becoming a disaster for the climate
     score: 123
