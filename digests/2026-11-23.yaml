@@ -1,10 +1,40 @@
 date: '2026-11-23'
-generated_at: 2026-11-23 18:02 UTC
+generated_at: 2026-11-23 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://blog.kagi.com/kagi-mail-public-beta
+    title: Kagi Mail (public beta)
+    score: 185
+    comment_cnt: 140
+    comment_url: https://news.ycombinator.com/item?id=50615481
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://jola.dev/posts/you-cant-afford-ssh-keys-disk
+    title: Don't keep your SSH keys on disk
+    score: 96
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=50609579
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/
+    title: Buckle Up the AI Bubble Is Popping
+    score: 25
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50614037
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html
     title: Nvidia Reinstates Jensen Huang as CEO
     score: 860
