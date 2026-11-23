@@ -1,10 +1,50 @@
 date: '2026-11-23'
-generated_at: 2026-11-23 16:02 UTC
+generated_at: 2026-11-23 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html
+    title: Nvidia Reinstates Jensen Huang as CEO
+    score: 860
+    comment_cnt: 1994
+    comment_url: https://news.ycombinator.com/item?id=50611576
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/os6/nospeaker
+    title: Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor
+    score: 162
+    comment_cnt: 82
+    comment_url: https://news.ycombinator.com/item?id=50610318
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/mikuta0407/win4wine
+    title: Win4wine – Run Windows Shell as the Linux Desktop on Wine
+    score: 136
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=50610743
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings
+    title: One Man's Quest to End Daylight Savings
+    score: 37
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50613465
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director
     title: Jensen Huang Reinstated as Nvidia CEO
     score: 1502
