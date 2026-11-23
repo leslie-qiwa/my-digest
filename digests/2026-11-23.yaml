@@ -1,10 +1,20 @@
 date: '2026-11-23'
-generated_at: 2026-11-23 20:02 UTC
+generated_at: 2026-11-23 22:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/glushchenko/fsnotes/discussions/2056
+    title: Apple removed my open-source app from EU App Stores after 9 years
+    score: 378
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=50616933
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://blog.kagi.com/kagi-mail-public-beta
     title: Kagi Mail (public beta)
     score: 185
