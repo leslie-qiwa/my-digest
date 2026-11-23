@@ -1,10 +1,30 @@
 date: '2026-11-23'
-generated_at: 2026-11-23 12:02 UTC
+generated_at: 2026-11-23 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/
+    title: 'The struggle for freedom: How BSD escaped AT&T licensing'
+    score: 138
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50604123
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://pengowray.github.io/riemann-zeta-proof-visualizer/
+    title: Treemap of the Riemann Hypothesis Lean Proof
+    score: 125
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50606499
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://huijzer.xyz/posts/174/gta-6-building-personal-behavioral-profile-for-eve
     title: GTA 6 building personal behavioral profile for every player
     score: 100
