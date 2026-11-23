@@ -1,10 +1,31 @@
 date: '2026-11-23'
-generated_at: 2026-11-23 04:02 UTC
+generated_at: 2026-11-23 06:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/
+    title: Masullo on the Riemann Hypothesis
+    score: 152
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=50598441
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://finance.yahoo.com/economy/policy/articles/greed-zohran-mamdani-blasts-amazon-121000124.html
+    title: '''It''s greed'': Zohran Mamdani blasts Amazon over new $5 fee hike in
+      NYC'
+    score: 45
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50605699
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20
     title: GL.iNet Security Notice 2026-11-20
     score: 124
