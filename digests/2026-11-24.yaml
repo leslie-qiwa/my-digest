@@ -1,0 +1,58 @@
+date: '2026-11-24'
+generated_at: 2026-11-24 02:03 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://stalw.art/blog/microsoft-exchange-replacement/
+    title: Stalwart is now a drop-in replacement for Microsoft Exchange
+    score: 200
+    comment_cnt: 113
+    comment_url: https://news.ycombinator.com/item?id=50620349
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/
+    title: Huang's Return Is the Biggest National Security Scandal in U.S. History
+    score: 171
+    comment_cnt: 124
+    comment_url: https://news.ycombinator.com/item?id=50620822
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://twitter.com/__alpoge__/status/2124987173439209561
+    title: Levent Alpöge comments on his Riemann Hypothesis proof
+    score: 86
+    comment_cnt: 80
+    comment_url: https://news.ycombinator.com/item?id=50620250
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html
+    title: 'Congress shreds Nvidia''s ''outrageous'' return of Huang: ''Failure of
+      character'''
+    score: 63
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50618490
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist
+    title: The horse made the state
+    score: 57
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50619186
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
