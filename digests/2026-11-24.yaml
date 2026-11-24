@@ -1,10 +1,70 @@
 date: '2026-11-24'
-generated_at: 2026-11-24 18:02 UTC
+generated_at: 2026-11-24 20:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign
+    title: Active Intrusion Campaign Against Check Point Security Management Servers
+    score: 205
+    comment_cnt: 71
+    comment_url: https://news.ycombinator.com/item?id=50630594
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: http://hypercritical.co/2026/11/23/jetty-pro
+    title: Jetty Pro
+    score: 182
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=50630462
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/
+    title: Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark
+    score: 170
+    comment_cnt: 92
+    comment_url: https://news.ycombinator.com/item?id=50631210
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.worksinprogress.news/p/how-to-make-a-lovable-city
+    title: Camillo Sitte made the blueprint for beautiful cities
+    score: 90
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=50630423
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.frankchiarulli.com/blog/splitting-usb-c/
+    title: 'Splitting USB-C: USB 3 and USB 2 on one port'
+    score: 75
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=50629106
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/
+    title: “Pervert glasses" named word of the year by Macquarie Dictionary
+    score: 63
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50632214
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/
     title: Tidal bans AI-generated music
     score: 229
