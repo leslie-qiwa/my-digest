@@ -1,10 +1,30 @@
 date: '2026-11-24'
-generated_at: 2026-11-24 16:02 UTC
+generated_at: 2026-11-24 18:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/
+    title: Tidal bans AI-generated music
+    score: 229
+    comment_cnt: 188
+    comment_url: https://news.ycombinator.com/item?id=50630309
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://quad9.net/news/blog/quad9-service-deactivation-in-france/
+    title: Quad9 pulled their DNS service from France
+    score: 204
+    comment_cnt: 108
+    comment_url: https://news.ycombinator.com/item?id=50625384
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/
     title: LLM agents work for their parent companies, not for you
     score: 483
