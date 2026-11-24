@@ -1,10 +1,30 @@
 date: '2026-11-24'
-generated_at: 2026-11-24 20:03 UTC
+generated_at: 2026-11-24 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://prismml.com/news/bonsai-2-5-27b
+    title: Ternary Bonsai 2.5 27B
+    score: 163
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50633922
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/
+    title: Cloudflare hides shortcomings of the underlying infrastructure
+    score: 122
+    comment_cnt: 80
+    comment_url: https://news.ycombinator.com/item?id=50632883
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign
     title: Active Intrusion Campaign Against Check Point Security Management Servers
     score: 205
