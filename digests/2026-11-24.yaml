@@ -1,10 +1,30 @@
 date: '2026-11-24'
-generated_at: 2026-11-24 04:01 UTC
+generated_at: 2026-11-24 06:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription
+    title: New York Bans Subscription and Post-Purchase Fees on Cars
+    score: 147
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50622774
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://wgna.com/car-bill-extra-fees/
+    title: New York Bans Subscription and Post-Purchase Fees on Cars
+    score: 132
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50622769
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.rockpapershotgun.com/theyre-more-complicated-and-more-expensive-than-lcd-screens-but-your-next-gaming-monitor-should-still-be-an-oled
     title: Next gaming monitor should still be an OLED
     score: 31
