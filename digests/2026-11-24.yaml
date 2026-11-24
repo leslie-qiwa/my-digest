@@ -1,10 +1,20 @@
 date: '2026-11-24'
-generated_at: 2026-11-24 02:03 UTC
+generated_at: 2026-11-24 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.rockpapershotgun.com/theyre-more-complicated-and-more-expensive-than-lcd-screens-but-your-next-gaming-monitor-should-still-be-an-oled
+    title: Next gaming monitor should still be an OLED
+    score: 31
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50618798
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://stalw.art/blog/microsoft-exchange-replacement/
     title: Stalwart is now a drop-in replacement for Microsoft Exchange
     score: 200
