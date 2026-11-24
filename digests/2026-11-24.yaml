@@ -1,10 +1,21 @@
 date: '2026-11-24'
-generated_at: 2026-11-24 12:02 UTC
+generated_at: 2026-11-24 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/
+    title: Investigation of Polymarket Insider Trading on the Reinstatement of Jensen
+      Huang
+    score: 369
+    comment_cnt: 213
+    comment_url: https://news.ycombinator.com/item?id=50626578
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://fzakaria.com/2026/11/23/2035-came-early
     title: 2035 Came Early
     score: 337
