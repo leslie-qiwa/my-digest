@@ -1,10 +1,30 @@
 date: '2026-11-24'
-generated_at: 2026-11-24 06:01 UTC
+generated_at: 2026-11-24 12:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://fzakaria.com/2026/11/23/2035-came-early
+    title: 2035 Came Early
+    score: 337
+    comment_cnt: 111
+    comment_url: https://news.ycombinator.com/item?id=50624497
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.coryd.dev/posts/2026/im-not-excited-about-tech-anymore
+    title: I'm not excited about tech anymore
+    score: 64
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=50625004
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription
     title: New York Bans Subscription and Post-Purchase Fees on Cars
     score: 147
