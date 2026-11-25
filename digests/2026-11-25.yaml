@@ -1,10 +1,40 @@
 date: '2026-11-25'
-generated_at: 2026-11-25 20:02 UTC
+generated_at: 2026-11-25 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://s.conao3.com/blog/2026/e4f733
+    title: I checked Clojure's core with Lean and found unreported bugs
+    score: 152
+    comment_cnt: 53
+    comment_url: https://news.ycombinator.com/item?id=50642939
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.proofatlas.ai/open-problems/
+    title: Top open problems in mathematics ranked by LLM-assessed importance
+    score: 99
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50637871
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://danprice.ai/blog/opus-symphony
+    title: Spending 35B Opus 5.5 Tokens to Write a Symphony
+    score: 44
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50646662
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://1password.com/blog/update-on-nov-2026-security-incident
     title: 1Password Security Incident
     score: 559
