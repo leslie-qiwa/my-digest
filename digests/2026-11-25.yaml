@@ -1,10 +1,30 @@
 date: '2026-11-25'
-generated_at: 2026-11-25 02:03 UTC
+generated_at: 2026-11-25 04:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf
+    title: Matrix Multiplication is Θ(n^2.25) [pdf]
+    score: 249
+    comment_cnt: 101
+    comment_url: https://news.ycombinator.com/item?id=50637220
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/
+    title: GPT-6 models demonstrate intrinsic protein-design capabilities
+    score: 203
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50634658
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/sous-labs/songe
     title: A training engine for your local model, using your idle compute
     score: 181
