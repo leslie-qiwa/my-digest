@@ -1,10 +1,50 @@
 date: '2026-11-25'
-generated_at: 2026-11-25 18:03 UTC
+generated_at: 2026-11-25 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://1password.com/blog/update-on-nov-2026-security-incident
+    title: 1Password Security Incident
+    score: 559
+    comment_cnt: 241
+    comment_url: https://news.ycombinator.com/item?id=50644817
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://scottaaronson.blog/?p=10379
+    title: Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]
+    score: 141
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=50646108
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://citrons.xyz/journal/2025-07-23
+    title: Lua for data representation (2025)
+    score: 96
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50637888
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html
+    title: SpaceX wins FCC approval to deploy 1M orbital data center satellites
+    score: 43
+    comment_cnt: 60
+    comment_url: https://news.ycombinator.com/item?id=50645978
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts
     title: A few questions for the guy who went snorkeling in a Home Depot retention
       pond
