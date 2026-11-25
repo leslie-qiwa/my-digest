@@ -1,10 +1,60 @@
 date: '2026-11-25'
-generated_at: 2026-11-25 00:01 UTC
+generated_at: 2026-11-25 02:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/sous-labs/songe
+    title: A training engine for your local model, using your idle compute
+    score: 181
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=50629231
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance
+    title: Heart attack and stroke risk detectable decades in advance
+    score: 144
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50635271
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.justafewbugs.xyz/
+    title: Just a Few Bugs
+    score: 140
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50625953
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://news.ycombinator.com/item?id=50634426
+    title: 'Launch HN: Versine (YC F26) – MCP to send and receive money'
+    score: 69
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50634426
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9
+    title: Get in, friends, the Atmosphere is happening
+    score: 49
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50636286
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/
     title: Making a dumb TV just smart enough
     score: 167
