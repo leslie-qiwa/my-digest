@@ -1,10 +1,61 @@
 date: '2026-11-25'
-generated_at: 2026-11-25 14:01 UTC
+generated_at: 2026-11-25 18:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts
+    title: A few questions for the guy who went snorkeling in a Home Depot retention
+      pond
+    score: 260
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=50643129
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.githubstatus.com/incidents/qn8mfv6q5hlx
+    title: Investigating degraded experiences across GitHub products
+    score: 130
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=50643720
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://dbushell.com/2026/11/25/web-industry/
+    title: The year the web industry gave up
+    score: 73
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=50642832
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/
+    title: In C++, = default and {} are not the same constructor
+    score: 41
+    comment_cnt: 75
+    comment_url: https://news.ycombinator.com/item?id=50643199
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://gpu-demo-gallery.pages.dev/
+    title: 'Show HN: Old Nvidia and ATI tech demos, running again in the browser'
+    score: 256
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50638503
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://greydanus.github.io/2026/11/12/pengpt/
     title: 'PenGPT: A Generative Transformer for Handwriting and Sketches'
     score: 310
