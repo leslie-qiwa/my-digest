@@ -1,10 +1,50 @@
 date: '2026-11-25'
-generated_at: 2026-11-25 12:03 UTC
+generated_at: 2026-11-25 14:01 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://greydanus.github.io/2026/11/12/pengpt/
+    title: 'PenGPT: A Generative Transformer for Handwriting and Sketches'
+    score: 310
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50637056
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/xoxorwr/pw-loudness-eq
+    title: Windows Loudness Equalization, reverse-engineered and ported to PipeWire
+    score: 120
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=50641171
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://basilhalperin.com/essays/macrohistory.html
+    title: Macrohistory in Six Facts
+    score: 103
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50637891
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools
+    title: Smart People Who Give a Shit Use Tools
+    score: 74
+    comment_cnt: 57
+    comment_url: https://news.ycombinator.com/item?id=50639698
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.marginalia.nu/log/a_141_marginalia_update/
     title: Marginalia Search, Money, C++, Rust, AI, Stuff
     score: 142
