@@ -1,10 +1,30 @@
 date: '2026-11-26'
-generated_at: 2026-11-26 20:02 UTC
+generated_at: 2026-11-26 22:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/
+    title: CTO of 'RansomwareHelp' Indicted for Wire Fraud
+    score: 157
+    comment_cnt: 64
+    comment_url: https://news.ycombinator.com/item?id=50657645
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://reclaimthenet.org/usaid-files
+    title: The USAID Files
+    score: 96
+    comment_cnt: 98
+    comment_url: https://news.ycombinator.com/item?id=50649040
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/
     title: 'Lions'' Commentary on Unix: Why It Was Secretly Copied for 20 Years'
     score: 241
