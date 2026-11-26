@@ -1,10 +1,40 @@
 date: '2026-11-26'
-generated_at: 2026-11-26 16:02 UTC
+generated_at: 2026-11-26 18:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os
+    title: Bare Metal Qwen
+    score: 221
+    comment_cnt: 54
+    comment_url: https://news.ycombinator.com/item?id=50648365
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831
+    title: 45°C inlets just killed the chiller. Most people haven't noticed yet
+    score: 161
+    comment_cnt: 77
+    comment_url: https://news.ycombinator.com/item?id=50655278
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/samueleverett01/bss-permanent-separations
+    title: NP_R ≠ PAR_R
+    score: 73
+    comment_cnt: 56
+    comment_url: https://news.ycombinator.com/item?id=50657059
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://aresluna.org/ui-style-guides/
     title: Collection of preserved UI style guides
     score: 319
