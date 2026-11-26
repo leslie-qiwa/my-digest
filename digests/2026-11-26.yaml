@@ -1,10 +1,40 @@
 date: '2026-11-26'
-generated_at: 2026-11-26 18:03 UTC
+generated_at: 2026-11-26 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/
+    title: 'Lions'' Commentary on Unix: Why It Was Secretly Copied for 20 Years'
+    score: 241
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50651719
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://arxiv.org/abs/2611.34924
+    title: An algebraic quantization of gravity from the null cone
+    score: 163
+    comment_cnt: 52
+    comment_url: https://news.ycombinator.com/item?id=50651863
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/antonpictures/youtube-punisher
+    title: YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays
+    score: 72
+    comment_cnt: 109
+    comment_url: https://news.ycombinator.com/item?id=50657530
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os
     title: Bare Metal Qwen
     score: 221
