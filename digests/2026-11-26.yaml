@@ -1,0 +1,28 @@
+date: '2026-11-26'
+generated_at: 2026-11-26 02:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features
+    title: The New York Times warns photographers not to update Photoshop over AI
+      features
+    score: 200
+    comment_cnt: 154
+    comment_url: https://news.ycombinator.com/item?id=50647673
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/
+    title: 72-hour fasting can reset your immune system, USC study shows
+    score: 167
+    comment_cnt: 123
+    comment_url: https://news.ycombinator.com/item?id=50647158
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
