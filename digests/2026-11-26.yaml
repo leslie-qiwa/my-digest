@@ -1,10 +1,20 @@
 date: '2026-11-26'
-generated_at: 2026-11-26 02:02 UTC
+generated_at: 2026-11-26 08:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://dalewen.substack.com/p/why-are-climate-activists-so-against
+    title: Why are climate activists so against nuclear?
+    score: 27
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=50647389
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features
     title: The New York Times warns photographers not to update Photoshop over AI
       features
