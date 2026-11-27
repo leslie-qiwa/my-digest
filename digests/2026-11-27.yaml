@@ -1,10 +1,21 @@
 date: '2026-11-27'
-generated_at: 2026-11-27 10:03 UTC
+generated_at: 2026-11-27 14:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/
+    title: European Commission Declares Browser Competition a Digital Markets Act
+      Priority
+    score: 138
+    comment_cnt: 99
+    comment_url: https://news.ycombinator.com/item?id=50664191
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://github.com/gary23w/f-ck_data_brokers
     title: 'Show HN: Fuck_data_brokers.py'
     score: 235
