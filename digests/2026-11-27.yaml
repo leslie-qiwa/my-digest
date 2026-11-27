@@ -1,10 +1,30 @@
 date: '2026-11-27'
-generated_at: 2026-11-27 14:02 UTC
+generated_at: 2026-11-27 16:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.buynothingday.co.uk/
+    title: Buy Nothing Day – Friday November 27th 2026
+    score: 249
+    comment_cnt: 79
+    comment_url: https://news.ycombinator.com/item?id=50663261
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year
+    title: New York and California age gating rules go into effect in the new year
+    score: 82
+    comment_cnt: 85
+    comment_url: https://news.ycombinator.com/item?id=50666279
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/
     title: European Commission Declares Browser Competition a Digital Markets Act
       Priority
@@ -148,3 +168,87 @@ feeds:
     summary_zh: ''
     content_file: ''
     summary: ''
+- id: golang-weekly
+  label: Golang Weekly
+  provider: rss_newsletter
+  items:
+  - url: https://golangweekly.com/link/193520/rss
+    title: An Overview of Go's Tooling, Updated for 2026
+    summary: Alex's 2019 tour of Go tooling was one of our most popular links ever,
+      but now he's back with an all-new 2026 edition. He covers numerous areas in
+      detail from testing and code quality to benchmarking, refactoring, integrating
+      with AI coding assistants, and more. An epic post!
+    score: 0
+    tags: []
+    source: www.alexedwards.net
+    domain: www.alexedwards.net
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/193522/rss
+    title: 'Yaegi v2: ''The Most Complete Go Interpreter'''
+    summary: Traefik's embeddable Go interpreter has been rewritten from scratch and
+      in a simpler, more logical way with go/types and Go's SSA package doing the
+      heavy lifting. It also passes 1044 of 1066 programs in Go's test suite (up from
+      641 previously).
+    score: 0
+    tags: []
+    source: traefik.io
+    domain: traefik.io
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/193528/rss
+    title: How encoding/json/v2 Works Internally
+    summary: The Go team's explained how the new JSON API works, but Jesús goes a
+      bit deeper and follows a JSON document through the new stack, pointing out what's
+      going on along the way.
+    score: 0
+    tags: []
+    source: internals-for-interns.com
+    domain: internals-for-interns.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/193535/rss
+    title: 'gopgext: Write Postgres Extensions in Go'
+    summary: It's amazing what you can do with TinyGo and Jesús Espino has been experimenting
+      a lot recently! gopgext uses a custom TinyGo target to turn plain Go (with marked
+      functions becoming SQL functions) into Postgres extensions.
+    score: 0
+    tags: []
+    source: jespino.github.io
+    domain: jespino.github.io
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/193538/rss
+    title: 'Ekuma: A Pure Go JavaScript Engine'
+    summary: From Ebitengine's creator comes a new, cgo-free JavaScript engine covering
+      nearly all of ES2026 (the latest JavaScript language standard). It passes 99.99%
+      of the test262 suite, and benchmarks ~8x faster than the more established goja.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/193540/rss
+    title: 'errortype: Find Inconsistent Uses of Error Types'
+    summary: A linter that checks error types are used consistently as either a value
+      or a pointer, as a mismatch can trip up errors.As. v0.0.12 can rename errors
+      to Go's ErrX/XError conventions, and flags code that go vet will report if your
+      go.mod uses 1.27+.
+    score: 0
+    tags: []
+    source: github.com
+    domain: github.com
+    summary_zh: ''
+    content_file: ''
+  - url: https://golangweekly.com/link/193542/rss
+    title: 'tabc: Running Containers in Browser Tabs'
+    summary: A Go-built OCI runtime that runs containers on a WASM-compiled Linux
+      kernel inside a headless Chromium instance making it possible to run images
+      on a Mac, say, without needing a typical Linux VM. GitHub repo.
+    score: 0
+    tags: []
+    source: fzakaria.com
+    domain: fzakaria.com
+    summary_zh: ''
+    content_file: ''
