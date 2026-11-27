@@ -1,10 +1,30 @@
 date: '2026-11-27'
-generated_at: 2026-11-27 04:02 UTC
+generated_at: 2026-11-27 08:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://support.google.com/googleplay/android-developer/answer/17594752?hl=en
+    title: Google will show solo Android developers' phone numbers and addresses
+    score: 129
+    comment_cnt: 69
+    comment_url: https://news.ycombinator.com/item?id=50662322
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blainehansen.me/post/mainstream-verifiable-language/
+    title: The need for a formally verifiable mainstream programming language
+    score: 100
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=50663089
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/
     title: 'Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible
       abroad'
