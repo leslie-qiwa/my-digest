@@ -1,0 +1,28 @@
+date: '2026-11-27'
+generated_at: 2026-11-27 00:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://janlukas.blog/posts/ai-self-hosting
+    title: AI made self-hosting fun again
+    score: 179
+    comment_cnt: 104
+    comment_url: https://news.ycombinator.com/item?id=50660180
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr
+    title: IBM gives H-1B, green card holders 3 weeks to relocate from US or leave
+      company
+    score: 114
+    comment_cnt: 79
+    comment_url: https://news.ycombinator.com/item?id=50658170
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
