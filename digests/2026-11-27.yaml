@@ -1,10 +1,30 @@
 date: '2026-11-27'
-generated_at: 2026-11-27 18:02 UTC
+generated_at: 2026-11-27 20:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical
+    title: GPT 6.2 Astra solves a historical mystery
+    score: 163
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=50667744
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://cr.yp.to/proofs/falseccp.html
+    title: False computer-checked proofs
+    score: 118
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50667989
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer
     title: Credit card skimming scripts using WebRTC found on popular shopping sites
     score: 111
