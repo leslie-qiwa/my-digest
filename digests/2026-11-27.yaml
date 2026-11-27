@@ -1,10 +1,41 @@
 date: '2026-11-27'
-generated_at: 2026-11-27 00:02 UTC
+generated_at: 2026-11-27 04:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/
+    title: 'Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible
+      abroad'
+    score: 284
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=50659841
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/
+    title: Company Culture = Slack Emoji ÷ √Headcount
+    score: 167
+    comment_cnt: 67
+    comment_url: https://news.ycombinator.com/item?id=50659640
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/
+    title: Hard Drive pricing has gotten bad
+    score: 121
+    comment_cnt: 63
+    comment_url: https://news.ycombinator.com/item?id=50661646
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://janlukas.blog/posts/ai-self-hosting
     title: AI made self-hosting fun again
     score: 179
