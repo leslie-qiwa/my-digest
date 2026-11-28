@@ -1,10 +1,51 @@
 date: '2026-11-28'
-generated_at: 2026-11-28 18:04 UTC
+generated_at: 2026-11-28 20:06 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.engadget.com/2329389/google-will-soon-share-android-developers-addresses-publicly/
+    title: Google will soon share Android developers' addresses publicly
+    score: 110
+    comment_cnt: 70
+    comment_url: https://news.ycombinator.com/item?id=50678026
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.lesswrong.com/posts/Lf49dFMfhWqj33zAJ/patrick-collison-you-are-wrong-about-street-furniture
+    title: Patrick Collison you are WRONG about street furniture!!!
+    score: 82
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=50680129
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ben3d.ca/blog/gta-6-graphics-rendering-what-we-know-so-far
+    title: 'GTA 6 Graphics Rendering: What We Know So Far'
+    score: 62
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=50679288
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://github.com/RiccardoSottini/AffrescoUI
+    title: Why stop at Emacs? Native apps you or an AI reprogram in Clojure while
+      they run
+    score: 62
+    comment_cnt: 58
+    comment_url: https://news.ycombinator.com/item?id=50677861
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://www.filfre.net/2026/11/diablo-ii/
     title: Diablo II
     score: 156
