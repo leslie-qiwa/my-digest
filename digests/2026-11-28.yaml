@@ -1,0 +1,48 @@
+date: '2026-11-28'
+generated_at: 2026-11-28 02:02 UTC
+feeds:
+- id: hackernews-top
+  label: Hacker News Hot Discussions
+  provider: hn_algolia
+  items:
+  - url: https://neuralnetworksanddeeplearning.com/
+    title: Michael Nielsen took down his book on neural nets
+    score: 389
+    comment_cnt: 257
+    comment_url: https://news.ycombinator.com/item?id=50670757
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours
+    title: 'I am scared: Careless People – Sarah Wynn-Williams on living under a gag
+      order'
+    score: 159
+    comment_cnt: 72
+    comment_url: https://news.ycombinator.com/item?id=50671301
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html
+    title: Citroën Hydraulic System
+    score: 135
+    comment_cnt: 50
+    comment_url: https://news.ycombinator.com/item?id=50662313
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html
+    title: Why drivers want cheap, dumb cars again
+    score: 62
+    comment_cnt: 106
+    comment_url: https://news.ycombinator.com/item?id=50672762
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
