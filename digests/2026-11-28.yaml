@@ -1,10 +1,51 @@
 date: '2026-11-28'
-generated_at: 2026-11-28 02:02 UTC
+generated_at: 2026-11-28 04:02 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://research.google/blog/supercharging-transformer-residual-connections/
+    title: Google's DeepCrossAttention achieves comparable model quality up to 3x
+      faster
+    score: 195
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=50672565
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai
+    title: Woman evicted after landlord's AI assistant told her she could delay rent
+    score: 90
+    comment_cnt: 68
+    comment_url: https://news.ycombinator.com/item?id=50673521
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://frantic.im/git/
+    title: Source Control from Hell
+    score: 74
+    comment_cnt: 55
+    comment_url: https://news.ycombinator.com/item?id=50672142
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://ssg.dev/passkey-blues/
+    title: Passkey blues
+    score: 64
+    comment_cnt: 65
+    comment_url: https://news.ycombinator.com/item?id=50672835
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://neuralnetworksanddeeplearning.com/
     title: Michael Nielsen took down his book on neural nets
     score: 389
