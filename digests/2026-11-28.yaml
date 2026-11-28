@@ -1,10 +1,50 @@
 date: '2026-11-28'
-generated_at: 2026-11-28 16:03 UTC
+generated_at: 2026-11-28 18:04 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://www.filfre.net/2026/11/diablo-ii/
+    title: Diablo II
+    score: 156
+    comment_cnt: 61
+    comment_url: https://news.ycombinator.com/item?id=50676199
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://malspark.com/blog/malicious-gguf-models-hugging-face/
+    title: GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims
+    score: 150
+    comment_cnt: 51
+    comment_url: https://news.ycombinator.com/item?id=50676752
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://www.verysane.ai/p/ai-isnt-that-dangerous
+    title: AI Isn't That Dangerous
+    score: 53
+    comment_cnt: 62
+    comment_url: https://news.ycombinator.com/item?id=50678186
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://coryalthoff.com/essays/if-ai-takes-every-job-who-will-buy-things
+    title: If AI takes every job who will buy things?
+    score: 37
+    comment_cnt: 113
+    comment_url: https://news.ycombinator.com/item?id=50679023
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://xinyadu.github.io/blog/claude-code-sabotage.html
     title: 'Claude Code sabotage: preliminary benchmarking'
     score: 344
