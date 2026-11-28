@@ -1,10 +1,30 @@
 date: '2026-11-28'
-generated_at: 2026-11-28 14:01 UTC
+generated_at: 2026-11-28 16:03 UTC
 feeds:
 - id: hackernews-top
   label: Hacker News Hot Discussions
   provider: hn_algolia
   items:
+  - url: https://xinyadu.github.io/blog/claude-code-sabotage.html
+    title: 'Claude Code sabotage: preliminary benchmarking'
+    score: 344
+    comment_cnt: 126
+    comment_url: https://news.ycombinator.com/item?id=50676390
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
+  - url: https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks
+    title: Audible removes download option for purchased audiobooks
+    score: 276
+    comment_cnt: 125
+    comment_url: https://news.ycombinator.com/item?id=50676723
+    source: Hacker News Hot Discussions
+    tags: []
+    summary_zh: ''
+    content_file: ''
+    summary: ''
   - url: https://tabernet.es/
     title: 'Tabernetes: A Kubernetes cluster whose nodes are browser tabs'
     score: 170
